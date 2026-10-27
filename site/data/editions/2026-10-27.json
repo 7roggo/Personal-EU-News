@@ -1,6 +1,6 @@
 {
   "date": "2026-10-27",
-  "generatedAt": "2026-10-27T02:40:00Z",
+  "generatedAt": "2026-10-27T05:39:33Z",
   "topline": "Four stories today: a student movement takes power in an EU candidate country, Lula's win keeps the Mercosur deal alive, Brussels unveils new deportation powers for Frontex, and Marine Le Pen opens her 2027 campaign.",
   "stories": [
     {
@@ -199,6 +199,19 @@
   "mode": "written",
   "oneSided": {
     "left": [],
-    "right": []
+    "right": [
+      {
+        "title": "EU says it will 'raise concerns' over Syrian schoolbooks glorifying jihad and anti-Semitism",
+        "outlet": "Brussels Signal",
+        "lean": "Right",
+        "url": "https://brusselssignal.eu/2026/10/eu-says-it-will-raise-concerns-over-syrian-schoolbooks-glorifying-jihad-and-anti-semitism/"
+      },
+      {
+        "title": "Leading property group stops investing in Germany over left-wing expropriation plans",
+        "outlet": "Brussels Signal",
+        "lean": "Right",
+        "url": "https://brusselssignal.eu/2026/10/leading-property-group-stops-investing-in-germany-over-left-wing-expropriation-plans/"
+      }
+    ]
   }
 }
