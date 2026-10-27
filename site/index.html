@@ -1,0 +1,73 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Hemicycle Brief</title>
+<meta name="description" content="The day's main EU stories in plain facts, then how left-leaning and right-leaning outlets are telling them.">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Cpath d='M3 26a13 13 0 0 1 13-13v13z' fill='%23b03645'/%3E%3Cpath d='M16 13a13 13 0 0 1 13 13H16z' fill='%231e4f8f'/%3E%3C/svg%3E">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,600;1,6..72,400&family=Public+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+
+<header class="masthead">
+  <div class="wrap">
+    <div>
+      <div class="label">EU news · two lenses · every morning</div>
+      <h1>Hemicycle Brief</h1>
+      <p class="dek">The day's main EU stories in plain facts, then how left-leaning and right-leaning outlets are telling them.</p>
+      <div class="edition-row">
+        <label for="edition-picker"><span class="label">Edition</span>
+          <select id="edition-picker" aria-label="Choose an edition" disabled>
+            <option>Loading…</option>
+          </select>
+        </label>
+        <span class="mono updated" id="updated"></span>
+      </div>
+    </div>
+    <figure class="chamber" aria-hidden="true">
+      <svg id="chamber-svg" viewBox="0 0 232 124"></svg>
+      <div class="chamber-key"><span class="k-left">Left</span><span class="k-mid">Centre</span><span class="k-right">Right</span></div>
+    </figure>
+  </div>
+</header>
+
+<section class="topline" id="topline-section" hidden>
+  <div class="wrap"><p id="topline"></p></div>
+</section>
+
+<main>
+  <div class="wrap" id="stories">
+    <div class="state">
+      <h2>Fetching the latest edition</h2>
+      <p>The morning bot's brief appears here in a moment.</p>
+    </div>
+  </div>
+</main>
+
+<section class="onesided" id="onesided" hidden>
+  <div class="wrap">
+    <h2>Only one side is covering</h2>
+    <p class="section-dek">Stories that turned up in left-leaning or right-leaning outlets but not in the other camp's feeds today.</p>
+    <div class="onesided-grid">
+      <div class="os-col os-left"><h3>Left-leaning only</h3><ul id="only-left"></ul></div>
+      <div class="os-col os-right"><h3>Right-leaning only</h3><ul id="only-right"></ul></div>
+    </div>
+  </div>
+</section>
+
+<section class="method">
+  <div class="wrap">
+    <h2>How outlets are sorted</h2>
+    <p>Leanings follow widely used media-bias ratings and each paper's own stated editorial line. They are approximate and describe an outlet's usual stance, not every article. Straight-news outlets are used for the neutral facts. Summaries are written fresh each morning; follow the links to read the originals.</p>
+    <div class="shelf" id="shelf"></div>
+    <p class="mono feedstatus" id="feedstatus"></p>
+  </div>
+</section>
+
+<script src="assets/app.js"></script>
+</body>
+</html>

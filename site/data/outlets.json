@@ -1,0 +1,118 @@
+{
+  "left": [
+    {
+      "name": "The Guardian",
+      "lean": "Centre-left",
+      "country": "UK"
+    },
+    {
+      "name": "Le Monde",
+      "lean": "Centre-left",
+      "country": "FR"
+    },
+    {
+      "name": "Libération",
+      "lean": "Left",
+      "country": "FR"
+    },
+    {
+      "name": "El País",
+      "lean": "Centre-left",
+      "country": "ES"
+    },
+    {
+      "name": "elDiario.es",
+      "lean": "Left",
+      "country": "ES"
+    },
+    {
+      "name": "Der Spiegel",
+      "lean": "Centre-left",
+      "country": "DE"
+    },
+    {
+      "name": "EUobserver",
+      "lean": "Centre-left",
+      "country": "EU"
+    },
+    {
+      "name": "Al Jazeera",
+      "lean": "Lean left",
+      "country": "INTL"
+    }
+  ],
+  "centre": [
+    {
+      "name": "Politico Europe",
+      "lean": "Centre",
+      "country": "EU"
+    },
+    {
+      "name": "Euractiv",
+      "lean": "Centre",
+      "country": "EU"
+    },
+    {
+      "name": "Euronews",
+      "lean": "Centre",
+      "country": "EU"
+    },
+    {
+      "name": "DW",
+      "lean": "Centre",
+      "country": "DE"
+    },
+    {
+      "name": "BBC News",
+      "lean": "Centre",
+      "country": "UK"
+    }
+  ],
+  "right": [
+    {
+      "name": "The Telegraph",
+      "lean": "Centre-right",
+      "country": "UK"
+    },
+    {
+      "name": "The Spectator",
+      "lean": "Right",
+      "country": "UK"
+    },
+    {
+      "name": "GB News",
+      "lean": "Right",
+      "country": "UK"
+    },
+    {
+      "name": "Le Figaro",
+      "lean": "Centre-right",
+      "country": "FR"
+    },
+    {
+      "name": "El Mundo",
+      "lean": "Centre-right",
+      "country": "ES"
+    },
+    {
+      "name": "Die Welt",
+      "lean": "Centre-right",
+      "country": "DE"
+    },
+    {
+      "name": "Brussels Signal",
+      "lean": "Right",
+      "country": "EU"
+    },
+    {
+      "name": "The European Conservative",
+      "lean": "Right",
+      "country": "EU"
+    },
+    {
+      "name": "Hungarian Conservative",
+      "lean": "Right",
+      "country": "HU"
+    }
+  ]
+}

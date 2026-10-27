@@ -1,0 +1,30 @@
+{
+  "_help": "Each outlet the bot reads. side: left | right | centre. scope: 'eu' and 'europe' feeds are kept whole; 'world' and 'general' feeds are filtered to EU-related stories. Add, remove or relabel outlets here; the website's outlet list updates on the next run.",
+  "feeds": [
+    { "id": "guardian-europe", "name": "The Guardian", "lean": "Centre-left", "side": "left", "country": "UK", "scope": "europe", "url": "https://www.theguardian.com/world/europe-news/rss" },
+    { "id": "guardian-eu", "name": "The Guardian", "lean": "Centre-left", "side": "left", "country": "UK", "scope": "eu", "url": "https://www.theguardian.com/world/eu/rss" },
+    { "id": "lemonde-en", "name": "Le Monde", "lean": "Centre-left", "side": "left", "country": "FR", "scope": "world", "url": "https://www.lemonde.fr/en/rss/une.xml" },
+    { "id": "liberation", "name": "Libération", "lean": "Left", "side": "left", "country": "FR", "scope": "general", "url": "https://www.liberation.fr/arc/outboundfeeds/rss-all/?outputType=xml" },
+    { "id": "elpais-en", "name": "El País", "lean": "Centre-left", "side": "left", "country": "ES", "scope": "world", "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/english.elpais.com/portada" },
+    { "id": "eldiario", "name": "elDiario.es", "lean": "Left", "side": "left", "country": "ES", "scope": "general", "url": "https://www.eldiario.es/rss/" },
+    { "id": "spiegel-intl", "name": "Der Spiegel", "lean": "Centre-left", "side": "left", "country": "DE", "scope": "world", "url": "https://www.spiegel.de/international/index.rss" },
+    { "id": "euobserver", "name": "EUobserver", "lean": "Centre-left", "side": "left", "country": "EU", "scope": "eu", "url": "https://euobserver.com/rss.xml" },
+    { "id": "aljazeera", "name": "Al Jazeera", "lean": "Lean left", "side": "left", "country": "INTL", "scope": "world", "url": "https://www.aljazeera.com/xml/rss/all.xml" },
+
+    { "id": "telegraph-world", "name": "The Telegraph", "lean": "Centre-right", "side": "right", "country": "UK", "scope": "world", "url": "https://www.telegraph.co.uk/world-news/rss.xml" },
+    { "id": "spectator", "name": "The Spectator", "lean": "Right", "side": "right", "country": "UK", "scope": "general", "url": "https://www.spectator.co.uk/feed" },
+    { "id": "gbnews", "name": "GB News", "lean": "Right", "side": "right", "country": "UK", "scope": "general", "url": "https://www.gbnews.com/feeds/news.rss" },
+    { "id": "figaro-intl", "name": "Le Figaro", "lean": "Centre-right", "side": "right", "country": "FR", "scope": "world", "url": "https://www.lefigaro.fr/rss/figaro_international.xml" },
+    { "id": "elmundo-intl", "name": "El Mundo", "lean": "Centre-right", "side": "right", "country": "ES", "scope": "world", "url": "https://e00-elmundo.uecdn.es/elmundo/rss/internacional.xml" },
+    { "id": "welt-ausland", "name": "Die Welt", "lean": "Centre-right", "side": "right", "country": "DE", "scope": "world", "url": "https://www.welt.de/feeds/section/politik/ausland.rss" },
+    { "id": "brussels-signal", "name": "Brussels Signal", "lean": "Right", "side": "right", "country": "EU", "scope": "eu", "url": "https://brusselssignal.eu/feed/" },
+    { "id": "european-conservative", "name": "The European Conservative", "lean": "Right", "side": "right", "country": "EU", "scope": "eu", "url": "https://europeanconservative.com/feed/" },
+    { "id": "hungarian-conservative", "name": "Hungarian Conservative", "lean": "Right", "side": "right", "country": "HU", "scope": "europe", "url": "https://www.hungarianconservative.com/feed/" },
+
+    { "id": "politico-eu", "name": "Politico Europe", "lean": "Centre", "side": "centre", "country": "EU", "scope": "eu", "url": "https://www.politico.eu/feed/" },
+    { "id": "euractiv", "name": "Euractiv", "lean": "Centre", "side": "centre", "country": "EU", "scope": "eu", "url": "https://www.euractiv.com/feed/" },
+    { "id": "euronews-myeurope", "name": "Euronews", "lean": "Centre", "side": "centre", "country": "EU", "scope": "eu", "url": "https://www.euronews.com/rss?level=vertical&name=my-europe" },
+    { "id": "dw-europe", "name": "DW", "lean": "Centre", "side": "centre", "country": "DE", "scope": "europe", "url": "https://rss.dw.com/rdf/rss-en-eu" },
+    { "id": "bbc-europe", "name": "BBC News", "lean": "Centre", "side": "centre", "country": "UK", "scope": "europe", "url": "https://feeds.bbci.co.uk/news/world/europe/rss.xml" }
+  ]
+}
