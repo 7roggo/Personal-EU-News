@@ -1,0 +1,216 @@
+{
+  "date": "2026-10-28",
+  "generatedAt": "2026-10-28T05:49:02Z",
+  "mode": "written",
+  "topline": "Four stories today: Finland and Norway's direct call with Putin splits the Nordics, EU capitals push back on 'associate membership' for Canada before the Montreal summit, gas prices hit a four-year high as storage runs low, and Washington reportedly floats Viktor Orbán for UN secretary-general.",
+  "stories": [
+    {
+      "topic": "Ukraine · Diplomacy with Russia",
+      "title": "Finland and Norway phone Putin, and Denmark and Sweden object",
+      "summary": "Finnish President Alexander Stubb and Norwegian Prime Minister Jonas Gahr Støre held a joint phone call with Vladimir Putin on 27 October, a rare direct contact between European leaders and the Kremlin. They urged an end to the invasion and a restart of negotiations, then briefed Volodymyr Zelensky, whose office says Kyiv was consulted beforehand. The call followed talks in Oslo on 20 October with Ukrainian and US representatives, ahead of proposed US–Ukraine–Russia talks in Abu Dhabi. Danish Prime Minister Mette Frederiksen said the move was not coordinated with other Europeans, and Sweden's Ulf Kristersson warned it could split Europe's common position. The Kremlin's account repeated Putin's accusation that NATO and Europe pursue a 'policy of confrontation'.",
+      "why": "It tests whether Europe can open its own channel to Moscow without breaking ranks, at a moment when the US is driving peace talks and Europe fears being sidelined.",
+      "left": {
+        "angle": "Left-leaning coverage found today treats the call mainly as a diplomatic first: it stresses how unusual direct contact with Putin has become and frames it within the wider push for talks. It gives the Danish and Swedish objections as reaction rather than as the lead.",
+        "outlets": [
+          {
+            "name": "The Guardian",
+            "lean": "Centre-left",
+            "url": "https://www.theguardian.com/world/live/2026/oct/27/russia-ukraine-oleshky-serbia-france-europe-latest-news-updates",
+            "note": "Europe live blog headlines the 'rare' call and its 'frank and substantive' tone."
+          }
+        ]
+      },
+      "right": {
+        "angle": "Right-leaning outlets reported the call in largely factual terms, centring Putin and the planned US-mediated talks. Le Figaro leads on the candour of the exchange; Die Welt frames it as Putin's call with two Nordic leaders within the US peace track. Neither piece found pushes a strong editorial line.",
+        "outlets": [
+          {
+            "name": "Le Figaro",
+            "lean": "Centre-right",
+            "url": "https://www.lefigaro.fr/international/guerre-en-ukraine-echange-franc-et-substantiel-entre-poutine-et-les-dirigeants-norvegien-et-finlandais-20261027",
+            "note": "Treats it as a diplomatic exchange, foregrounding the 'frank and substantial' wording."
+          },
+          {
+            "name": "Die Welt",
+            "lean": "Centre-right",
+            "url": "https://www.welt.de/politik/ausland/article6ae078eb41a652332eb6d587/ukraine-krieg-putin-telefoniert-mit-finnlands-praesidenten-und-norwegens-regierungschef.html",
+            "note": "Putin-centred report tying the call to upcoming US-mediated talks."
+          }
+        ]
+      },
+      "differ": "The coverage differs less by lean than usual: both sides mostly report the call straight. The left stresses the novelty of the contact; the right stays closer to Putin's message and the US-led process.",
+      "sources": [
+        {
+          "name": "Euronews",
+          "url": "https://www.euronews.com/2026/10/27/putin-call-pits-finland-and-norway-against-denmark-and-sweden"
+        },
+        {
+          "name": "Euronews",
+          "url": "https://www.euronews.com/2026/10/27/finnish-and-norwegian-leaders-call-putin-urge-restart-of-peace-talks"
+        },
+        {
+          "name": "NordiskPost",
+          "url": "https://www.nordiskpost.com/2026/10/27/frederiksen-stubb-store-putin-call/"
+        },
+        {
+          "name": "Government of Norway",
+          "url": "https://www.regjeringen.no/en/whats-new/prime-minister-store-spoke-with-president-putin/id2906482"
+        }
+      ]
+    },
+    {
+      "topic": "External relations · EU–Canada",
+      "title": "EU capitals push back on 'associate membership' for Canada ahead of Montreal summit",
+      "summary": "Germany, Italy and Greece objected, and France voiced scepticism, to a joint EU–Canada declaration that referred to Ursula von der Leyen's idea of making Canada the EU's first 'associate member', according to EU diplomats cited by Euronews and Politico Europe. A new draft circulated on Monday says the concept was 'put forward by the European Commission', distancing member states from it. Diplomats say the term has no basis in the treaties and could raise expectations among other third countries, and Berlin wants the substance defined first. Ambassadors were due to discuss a revised text on Wednesday before the summit in Montreal on Thursday and Friday. Mark Carney says the summit will open a year of formal negotiations, and that labels matter less than substance.",
+      "why": "The row shows member states guarding their control over the EU's external relations and over what any form of 'membership' means, which also matters for Ukraine and other candidates.",
+      "left": {
+        "angle": "No left-leaning take on this week's pushback by member states turned up in today's searches. Earlier left-leaning coverage, from September, presented the offer as part of Canada's search for allies beyond Trump's America.",
+        "outlets": [
+          {
+            "name": "CNN",
+            "lean": "Lean left",
+            "url": "https://www.cnn.com/2026/09/15/americas/canada-mark-carney-eu-trump-hnk",
+            "note": "Earlier coverage (15 Sept): Canada's 'unique alliance' with the EU as US ties stay fraught."
+          },
+          {
+            "name": "Al Jazeera",
+            "lean": "Lean left",
+            "url": "https://www.aljazeera.com/news/2026/9/16/eu-chief-von-der-leyen-proposes-associate-member-status-for-canada",
+            "note": "Earlier coverage (16 Sept): reports von der Leyen's proposal in the context of the trade war."
+          }
+        ]
+      },
+      "right": {
+        "angle": "No right-leaning take on this week's dispute was found either. Earlier right-leaning coverage was sceptical of the concept itself: it stressed that nobody could say what 'associate membership' means and questioned von der Leyen floating it without member states.",
+        "outlets": [
+          {
+            "name": "The Spectator",
+            "lean": "Right",
+            "url": "https://spectator.com/article/the-mystery-of-canadas-associate-membership-of-the-eu/",
+            "note": "Earlier column (18 Sept): wry doubts about an undefined status, CETA ratification gaps and sovereignty costs."
+          },
+          {
+            "name": "Brussels Signal",
+            "lean": "Right",
+            "url": "https://brusselssignal.eu/2026/09/brussels-admits-canadas-associate-member-status-has-yet-to-be-defined/",
+            "note": "Earlier coverage (Sept): leads on the Commission conceding the status is still undefined."
+          }
+        ]
+      },
+      "differ": "Both sides' earlier coverage set the tone: the left framed the offer as a geopolitical hedge against Trump, the right as a vague idea from a Commission acting beyond its mandate.",
+      "sources": [
+        {
+          "name": "Euronews",
+          "url": "https://www.euronews.com/2026/10/27/von-der-leyens-canada-associate-membership-spurs-battle-of-words-with-eu-capitals"
+        },
+        {
+          "name": "Anadolu Agency",
+          "url": "https://aa.com.tr/en/europe/eu-divided-over-associate-membership-for-canada-ahead-of-montreal-summit-report/4103029"
+        },
+        {
+          "name": "CP24 / The Canadian Press",
+          "url": "https://www.cp24.com/news/canada/2026/10/27/canada-eu-summit-to-kick-off-formal-talks-with-europe-on-closer-ties-carney/"
+        }
+      ]
+    },
+    {
+      "topic": "Energy · Gas supply",
+      "title": "European gas hits a four-year high as storage sits at a record low for the season",
+      "summary": "The Dutch TTF benchmark rose to around €96 per megawatt-hour this week, briefly touching €97.64, its highest level since December 2022 and more than triple its January level of about €28. EU storage was 74.6% full on 24 October, compared with 82.9% a year earlier; IEEFA says that is the lowest for the time of year since records began in 2011. Analysts link the squeeze to the Iran war and the closure of the Strait of Hormuz, which has stopped Qatari LNG deliveries since May. Wood Mackenzie expects stocks to fall to about 17–20% by the end of March in a normal winter. The EU's full ban on Russian LNG takes effect in January 2027.",
+      "why": "High gas prices feed straight into household bills, industrial costs and inflation, and they put pressure on the EU's plan to phase out Russian energy.",
+      "left": {
+        "angle": "Centre-left coverage leads with the market move and the Middle East supply shock, describing it as a matter of geopolitics and low storage. It points to Europe's exposure to imported gas and notes, briefly, that renewables are held back by grid bottlenecks; the impact on household bills comes later in the piece.",
+        "outlets": [
+          {
+            "name": "The Guardian",
+            "lean": "Centre-left",
+            "url": "https://www.aol.co.uk/articles/european-gas-prices-soar-four-103524000.html",
+            "note": "Guardian report (republished on AOL) ties the spike to Iran war fears, thin stocks and slower Qatari exports."
+          }
+        ]
+      },
+      "right": {
+        "angle": "Centre-right coverage puts household bills first, especially forecasts of a sharp rise in the UK price cap from January. Right-wing commentary goes further and blames EU climate policy, arguing that bans on domestic gas production leave Europe dependent on imports.",
+        "outlets": [
+          {
+            "name": "The Times",
+            "lean": "Centre-right",
+            "url": "https://www.thetimes.com/business/energy/article/energy-bills-gas-prices-ofgem-cap-vv2t68xqn",
+            "note": "Leads on a forecast 27% jump in household bills as wholesale gas climbs."
+          },
+          {
+            "name": "Brussels Signal",
+            "lean": "Right",
+            "url": "https://brusselssignal.eu/2026/10/european-energy-autonomy-or-net-zero-pick-one/",
+            "note": "Earlier opinion (7 Oct): argues net zero rules and fracking bans undermine energy autonomy."
+          }
+        ]
+      },
+      "differ": "The left explains the spike mainly through war and supply disruption; the right focuses on what it costs consumers and, in commentary, on Europe's own energy policy choices.",
+      "sources": [
+        {
+          "name": "Euronews",
+          "url": "https://www.euronews.com/2026/10/27/european-natural-gas-prices-soar-what-it-means-for-your-winter-bills"
+        },
+        {
+          "name": "Bloomberg",
+          "url": "https://www.bloomberg.com/news/newsletters/2026-10-26/surging-natural-gas-price-tests-europe-s-appetite-for-action"
+        }
+      ]
+    },
+    {
+      "topic": "Hungary · United Nations",
+      "title": "Trump officials reportedly back Viktor Orbán for UN secretary-general",
+      "summary": "The Wall Street Journal reported on 25–26 October that Trump administration officials are backing former Hungarian prime minister Viktor Orbán to succeed António Guterres, whose term ends on 31 December, possibly as a candidate supported by the US, Russia and China. No decision has been announced, and the report says Orbán would run only if he were sure to win. A candidate needs nine of the 15 Security Council votes and no veto from a permanent member, so the UK and France could block him. Orbán lost Hungary's April election to Péter Magyar's Tisza party, and Hungarian authorities are now investigating former members of his government. Poland's foreign minister Radosław Sikorski said Warsaw does not expect to back him, and Ukraine's foreign minister criticised his record of blocking EU decisions.",
+      "why": "A former EU leader who repeatedly blocked EU Ukraine policy, possibly heading the UN with Moscow and Beijing's support, would put Paris and the EU in an awkward position at the Security Council.",
+      "left": {
+        "angle": "Left-leaning outlets frame the idea as an authoritarian alliance in action, stressing Orbán's record on corruption, the media and the rule of law, and his closeness to Putin. The tone ranges from sardonic to alarmed, and the plan is described as far-fetched.",
+        "outlets": [
+          {
+            "name": "taz",
+            "lean": "Left",
+            "url": "https://taz.de/Vereinte-Nationen/!6225038/",
+            "note": "Sardonic analysis casting the bid as a pact of those who scorn a rules-based world order."
+          },
+          {
+            "name": "Truthout",
+            "lean": "Left",
+            "url": "https://truthout.org/articles/report-trump-admin-backing-far-right-viktor-orban-for-un-secretary-general/",
+            "note": "Frames it as part of a wider effort to weaken the UN's human-rights role."
+          }
+        ]
+      },
+      "right": {
+        "angle": "Right-leaning outlets present the report mainly as great-power arithmetic: who has the votes, and whether London and Paris would use a veto. They are broadly sympathetic to Orbán and say little about the investigations in Hungary or about critics of his candidacy.",
+        "outlets": [
+          {
+            "name": "Hungarian Conservative",
+            "lean": "Right",
+            "url": "https://www.hungarianconservative.com/articles/current/orban-un-secretary-general-trump-us-russia-china/",
+            "note": "Stresses US, Russian and Chinese backing and Security Council vote counts."
+          },
+          {
+            "name": "Tichys Einblick",
+            "lean": "Right",
+            "url": "https://www.tichyseinblick.de/kolumnen/aus-aller-welt/trumps-mann-fuer-un-orban/",
+            "note": "Column relaying the WSJ report, foregrounding his migration stance and the MAGA 'dream candidate' line."
+          }
+        ]
+      },
+      "differ": "The left treats Orbán's record as the story; the right treats the Security Council vote count as the story and leaves his record largely aside.",
+      "sources": [
+        {
+          "name": "Euronews",
+          "url": "https://www.euronews.com/2026/10/26/trump-officials-back-orban-bid-for-un-secretary-general-wsj-reports"
+        },
+        {
+          "name": "Anadolu Agency",
+          "url": "https://aa.com.tr/en/americas/trump-administration-floats-former-hungarian-prime-minister-for-un-secretary-general-report/4100538"
+        }
+      ]
+    }
+  ],
+  "oneSided": {
+    "left": [],
+    "right": []
+  }
+}
