@@ -1,0 +1,265 @@
+{
+  "date": "2026-10-29",
+  "generatedAt": "2026-10-29T05:54:37Z",
+  "mode": "written",
+  "topline": "Four stories today: a high-speed train collision near Toledo kills at least 68 weeks before Spain votes, Brussels proposes turning Frontex into a 30,000-strong returns agency, European gas tops €100 as the Commission rules out a Nord Stream revival, and EU governments start drafting tougher safeguards for future members, starting with Montenegro.",
+  "stories": [
+    {
+      "topic": "Spain · Rail safety",
+      "title": "Toledo high-speed collision kills at least 68, Spain's second major rail disaster this year",
+      "summary": "On 28 October a Renfe AVE travelling from Madrid to Seville ran into the back of a stationary Iryo train near Urda, in Toledo province, derailing two carriages; officials put the toll at at least 68 dead, with dozens more in hospital. The trains carried 397 and 147 passengers respectively. Transport Minister Óscar Puente said a computer fault had knocked out the LZB train-protection system and that the Adif control centre then authorised the AVE to resume normal running while the Iryo was still stopped ahead, a decision he called inexplicable; he ruled out resigning. Prime Minister Pedro Sánchez declared three days of mourning from 29 to 31 October and promised that any negligence would be uncovered, while PP leader Alberto Núñez Feijóo said grief would not keep his party silent. The crash comes after January's Adamuz collision, which killed 46, and a day before a planned strike by the SEMAF drivers' union over safety.",
+      "why": "It puts rail safety and infrastructure maintenance at the centre of Spain's campaign ahead of a general election next month, and the operators involved are a symbol of the EU-driven opening of Spanish high-speed rail to competition. Ursula von der Leyen said Europe mourns with the victims.",
+      "left": {
+        "angle": "Left-leaning coverage leads with the human toll and the rescue effort, and with workers' voices: unions that say safety promises made after Adamuz were never kept. Further-left outlets tie the crash to long-term underfunding of maintenance across governments rather than to one minister, and they note the far right's rush to call the government criminal.",
+        "outlets": [
+          {
+            "name": "Público",
+            "lean": "Left",
+            "url": "https://www.publico.es/sociedad/ultima-hora-accidente-trenes-toledo-directo.html",
+            "note": "Live coverage on victims and rescue; reports ministry sources weighing human error by an Adif operator and highlights Vox's attacks on the government."
+          },
+          {
+            "name": "CNN",
+            "lean": "Lean left",
+            "url": "https://www.cnn.com/2026/10/28/world/live-news/spain-train-crash-collision-intl",
+            "note": "Live blog built around witness accounts of the scene and the rising death toll."
+          },
+          {
+            "name": "World Socialist Web Site",
+            "lean": "Far left",
+            "url": "https://www.wsws.org/en/articles/2026/10/29/ntpz-o29.html",
+            "note": "Links the crash to the drivers' strike and blames systemic infrastructure underfunding, including by the PSOE-Sumar coalition."
+          }
+        ]
+      },
+      "right": {
+        "angle": "Right-leaning coverage stresses that this is the second deadly crash on the same corridor in a year and questions the government's insistence that the network is safe. It points to money flowing elsewhere, such as Spanish credit for foreign rail projects, and to rail investment still well below its 2009 peak, and it gives prominence to the death of former PP minister Fátima Báñez.",
+        "outlets": [
+          {
+            "name": "Brussels Signal",
+            "lean": "Right",
+            "url": "https://brusselssignal.eu/2026/10/spain-funds-foreign-railways-as-its-own-network-suffers-a-second-fatal-crash/",
+            "note": "Contrasts over €1.5bn in cheap Spanish loans for rail in Morocco, Egypt and Uzbekistan with decline at home."
+          },
+          {
+            "name": "Brussels Signal",
+            "lean": "Right",
+            "url": "https://brusselssignal.eu/2026/10/former-spanish-employment-minister-dies-in-high-speed-rail-disaster/",
+            "note": "Profiles Fátima Báñez, Rajoy-era labour minister, reported killed in the Iryo's last carriage, and notes the 29 November election."
+          },
+          {
+            "name": "Fox News",
+            "lean": "Right",
+            "url": "https://www.foxnews.com/world/spain-high-speed-railway-crash-kills-train-stopped-tracks",
+            "note": "Largely wire-based account focused on passengers and Americans among the injured; notes the same two operators were involved in January."
+          }
+        ]
+      },
+      "differ": "The left frames the disaster as a failure of chronic underinvestment and unheeded worker warnings; the right frames it as a government that misplaced its priorities and is now dodging accountability before an election.",
+      "sources": [
+        {
+          "name": "Spain in English",
+          "url": "https://www.spainenglish.com/2026/10/28/sanchez-pledges-firm-action-over-toledo-train-disaster-as-feijoo-demands-answers/"
+        },
+        {
+          "name": "CNBC",
+          "url": "https://www.cnbc.com/2026/10/28/spain-high-speed-train-crash.html"
+        },
+        {
+          "name": "Euronews",
+          "url": "https://www.euronews.com/video/2026/10/28/spain-first-footage-reveals-wreckage-of-deadly-high-speed-train-crash"
+        },
+        {
+          "name": "SBS News",
+          "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008820463"
+        }
+      ]
+    },
+    {
+      "topic": "Migration · Frontex",
+      "title": "Commission proposes turning Frontex into the EU's central deportation agency",
+      "summary": "The European Commission on 27 October proposed a new mandate for Frontex that would gradually grow its standing corps to 30,000 officers and add a European border and return reserve of 17,000 officers available to member states. A new Return Coordination Centre would steer deportations EU-wide, Frontex could help non-EU countries return migrants, a quick reaction force could deploy within 24 hours, and an online monitoring centre would track border-related activity on social media. Migration Commissioner Magnus Brunner said Frontex should become the central EU actor on returns; the plan is pitched as a response to the arrival of more than 72,000 people in Ceuta this summer. The internal rights watchdog would have a narrower role, with complaints referred to national authorities, though Commission Vice-President Henna Virkkunen said the agency's rights framework would stay among the strongest of any EU body. Parliament and Council must now negotiate the text.",
+      "why": "It would be the biggest shift yet in the EU's border agency, from supporting national guards to running the bloc's deportation machinery, and it will test whether Parliament's majority now leans towards enforcement over oversight.",
+      "left": {
+        "angle": "Left-leaning and civil-liberties coverage leads with what it calls a downgrade of human-rights monitoring and with the gap between commissioners' reassurances and the 275-page text released only after their press conference. It amplifies critics such as Green MEP Tineke Strik, who accused the Commission of pandering to the far right, and digital-rights concerns about social-media surveillance.",
+        "outlets": [
+          {
+            "name": "EUobserver",
+            "lean": "Centre-left",
+            "url": "https://euobserver.com/245436/frontex-gets-17000-extra-officers-for-deportations-while-human-rights-monitoring-suffers-downgrade/",
+            "note": "Pairs the 17,000 extra deportation officers with weaker powers to halt operations over rights abuses."
+          },
+          {
+            "name": "netzpolitik.org",
+            "lean": "Civil-liberties watchdog",
+            "url": "https://netzpolitik.org/2026/eu-kommission-frontex-soll-zur-abschiebeagentur-werden/",
+            "note": "Frames the plan as Frontex becoming a 'deportation agency', with attention to new monitoring tools."
+          }
+        ]
+      },
+      "right": {
+        "angle": "Right-leaning coverage presents the overhaul as a belated but necessary hardening of the EU's response, tying it directly to the Ceuta rush. It leads with the scale, tripling personnel and centralising returns, and treats rights safeguards as a secondary issue.",
+        "outlets": [
+          {
+            "name": "Brussels Signal",
+            "lean": "Right",
+            "url": "https://brusselssignal.eu/2026/10/brussels-unveils-plan-to-transform-frontex-into-central-deportation-hub-with-30000-strong-corps/",
+            "note": "Headlines the 30,000-strong corps and Frontex as a central deportation hub."
+          },
+          {
+            "name": "Die Welt",
+            "lean": "Centre-right",
+            "url": "https://www.welt.de/politik/ausland/article6ae091d4f74d161423bdffd7/nach-ceuta-eu-kommission-will-frontex-personal-verdreifachen-und-inhalte-auf-social-media-ueberwachen.html",
+            "note": "Casts the plan as the post-Ceuta answer: triple the staff and watch social-media content."
+          }
+        ]
+      },
+      "differ": "Both sides agree the proposal is about deportations; the left treats that as the problem and focuses on lost accountability, while the right treats it as the point and focuses on capacity.",
+      "sources": [
+        {
+          "name": "European Commission",
+          "url": "https://commission.europa.eu/news-and-media/news/reinforcing-frontex-stronger-protection-eus-external-borders-2026-10-27_en"
+        },
+        {
+          "name": "Reuters (via Arab News)",
+          "url": "https://www.arabnews.com/world/eu-commission-proposes-expanding-powers-of-border-police-force-3008581"
+        },
+        {
+          "name": "Euronews",
+          "url": "https://www.euronews.com/2026/10/26/exclusive-eu-to-give-frontex-new-powers-to-deport-migrants-from-outside-europe"
+        },
+        {
+          "name": "Eunews",
+          "url": "https://www.eunews.it/en/2026/10/27/with-return-as-the-watchword-the-commission-wants-to-give-frontex-more-power-over-repatriations/"
+        }
+      ]
+    },
+    {
+      "topic": "Energy · Gas and Russia",
+      "title": "European gas tops €100 as Brussels rules out reopening Nord Stream",
+      "summary": "The Dutch TTF benchmark traded at about €100.37 per megawatt hour on 28 October, the first time above €100 since December 2022 and roughly triple its level before the Iran war began in February. Energy Commissioner Dan Jørgensen warned that Europe faces another energy crisis and a hard winter; storage stood at 75% on 21 October against a usual 90% target, and almost no Qatari LNG reached the EU over the summer, leaving the US supplying around 30% of EU gas. The same day the Commission said Nord Stream would not bring Russian gas back after the war, pushing back on reported US-Russia talks about reviving the pipeline; von der Leyen said energy sanctions stay until Russia stops the war, and EU law phases out Russian gas imports by the end of 2027. EU energy ministers meet on Thursday, and an EU-Canada summit is exploring a long-term LNG deal.",
+      "why": "High prices revive pressure from industry and some parties, such as Germany's AfD, to reopen Russian supplies, which would collide with the EU's phase-out law and its Ukraine policy.",
+      "left": {
+        "angle": "We found no distinct left-leaning take on the €100 milestone or the Nord Stream statement in the last 24–36 hours. Earlier left-leaning coverage of the gas squeeze framed it around the Iran war's supply shock and the case for faster storage-building, not a return to Russian gas.",
+        "outlets": [
+          {
+            "name": "Al Jazeera",
+            "lean": "Lean left",
+            "url": "https://www.aljazeera.com/news/2026/3/21/eu-urges-members-to-start-storing-winter-gas-as-iran-war-causes-price-surge",
+            "note": "Earlier coverage (March 2026): the EU urging early storage as the Iran war lifted prices."
+          }
+        ]
+      },
+      "right": {
+        "angle": "Centre-right business coverage leads with the milestone and Europe's thin reserves, emphasising the hit to energy-intensive industry first and households later. Right-leaning outlets have more broadly framed the squeeze as a policy failure, with Brussels asking capitals to cut consumption, but we found no fresh right-leaning take on the Nord Stream statement itself.",
+        "outlets": [
+          {
+            "name": "El Español",
+            "lean": "Centre-right",
+            "url": "https://www.elespanol.com/invertia/empresas/energia/20261028/precio-gas-europa-alcanza-euros-primera-vez-crisis-energetica/1003744438915_0.html",
+            "note": "Stresses storage near record lows and the immediate cost to heavy industry."
+          },
+          {
+            "name": "Brussels Signal",
+            "lean": "Right",
+            "url": "https://brusselssignal.eu/2026/09/brussels-asks-capitals-to-curb-gas-and-electricity-use-as-storage-runs-low/",
+            "note": "Earlier coverage (September 2026): Brussels asking capitals to curb gas and power use."
+          }
+        ]
+      },
+      "differ": "Partisan coverage is thin today; what exists on the right centres on costs to industry, while earlier left-leaning reporting put the emphasis on supply security without Russian gas.",
+      "sources": [
+        {
+          "name": "Euronews",
+          "url": "https://www.euronews.com/2026/10/28/european-gas-price-crosses-100-for-first-time-since-2022-as-eu-warns-of-new-crisis"
+        },
+        {
+          "name": "Euronews",
+          "url": "https://www.euronews.com/2026/10/28/nord-stream-pipeline-wont-reopen-after-the-war-brussels-tells-the-us-and-russia"
+        },
+        {
+          "name": "Bloomberg",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-28/european-gas-hits-100-for-first-time-since-2022-energy-crisis"
+        },
+        {
+          "name": "RTÉ",
+          "url": "https://www.rte.ie/news/business/2026/1028/1597116-european-gas-price/"
+        }
+      ]
+    },
+    {
+      "topic": "Enlargement · Montenegro",
+      "title": "EU governments begin drafting tougher safeguards for new members, with Montenegro first",
+      "summary": "EU ambassadors held their first discussion on 28 October of draft provisions that would give the Union stronger tools against future members, to be written first into Montenegro's accession treaty. The core clause would let the EU act against a new member that seriously breaches EU values or sincere cooperation, up to suspending its voting rights, with a Commission proposal adopted within two weeks unless a qualified majority blocks it; the Commission suggested the regime last 15 years, a point on which capitals are split. The draft also foresees pre-accession monitoring, a possible postponement of accession by qualified majority, a pledge not to veto enlargement over bilateral disputes, and extra Schengen conditions. Italy, Austria and other 'Friends of the Western Balkans' warned against rules so strict they stall enlargement, while the Netherlands and France pushed for stronger rule-of-law guarantees; talks continue in November.",
+      "why": "The safeguards would create a probationary class of membership for the first time and shape the terms on which Ukraine, Moldova and the Western Balkans could eventually join.",
+      "left": {
+        "angle": "We found no left-leaning coverage of this week's ambassadors' talks. The debate has mostly been carried by straight-news and specialist outlets so far.",
+        "outlets": []
+      },
+      "right": {
+        "angle": "We found no right-leaning coverage of this week's talks either. Earlier right-leaning reporting on Montenegro focused on bilateral grievances, such as Croatia's wartime claims, as a threat to its accession timetable.",
+        "outlets": [
+          {
+            "name": "Brussels Signal",
+            "lean": "Right",
+            "url": "https://brusselssignal.eu/2026/09/croatias-wartime-grievances-threaten-montenegros-eu-accession-timetable/",
+            "note": "Earlier coverage (September 2026): Croatia's grievances as a risk to Montenegro's timetable."
+          }
+        ]
+      },
+      "differ": "No partisan split is visible yet; the live divide is between member states, with enlargement supporters fearing over-strict rules and rule-of-law hawks wanting more.",
+      "sources": [
+        {
+          "name": "Euronews",
+          "url": "https://www.euronews.com/2026/10/28/eu-begins-talks-on-tougher-safeguards-for-newcomers-with-montenegro-first-in-line"
+        },
+        {
+          "name": "European Policy Centre",
+          "url": "https://www.epc.eu/publication/the-eus-fifteen-year-question/"
+        }
+      ]
+    }
+  ],
+  "oneSided": {
+    "left": [
+      {
+        "title": "Digital panopticon: 'When you work faster, you have to work even faster' Amazon workers tell MEPs on AI work surveillance",
+        "outlet": "EUobserver",
+        "lean": "Centre-left",
+        "url": "https://euobserver.com/245543/digital-panopticon-when-you-work-faster-you-have-to-work-even-faster-amazon-workers-tell-meps-on-ai-work-surveillance/"
+      },
+      {
+        "title": "Revealed: New data shows Big Tech lobbying pushing EU towards sweeping data-protection rollback",
+        "outlet": "EUobserver",
+        "lean": "Centre-left",
+        "url": "https://euobserver.com/245206/revealed-new-data-shows-big-tech-lobbying-pushing-eu-towards-sweeping-data-protection-rollback/"
+      },
+      {
+        "title": "Caretaker PM Netanyahu expected to escalate violence, as EU sanctions talk on hold until new Israeli government formed",
+        "outlet": "EUobserver",
+        "lean": "Centre-left",
+        "url": "https://euobserver.com/245602/caretaker-pm-netanyahu-expected-to-escalate-violence-as-eu-sanctions-talk-on-hold-until-new-israeli-government-formed/"
+      }
+    ],
+    "right": [
+      {
+        "title": "German billion-euro online retailer warns EU is regulating itself out of competitiveness",
+        "outlet": "Brussels Signal",
+        "lean": "Right",
+        "url": "https://brusselssignal.eu/2026/10/german-billion-euro-online-retailer-warns-eu-is-regulating-itself-out-of-competitiveness/"
+      },
+      {
+        "title": "Almost 30 per cent of machines in Belgian factories sit idle amid industrial malaise",
+        "outlet": "Brussels Signal",
+        "lean": "Right",
+        "url": "https://brusselssignal.eu/2026/10/almost-30-per-cent-of-machines-in-belgian-factories-sit-idle-amid-industrial-malaise/"
+      },
+      {
+        "title": "US chooses Poland over Germans and Dutch to host Patriot servicing hub",
+        "outlet": "Brussels Signal",
+        "lean": "Right",
+        "url": "https://brusselssignal.eu/2026/10/us-chooses-poland-over-germans-and-dutch-to-host-patriot-servicing-hub/"
+      }
+    ]
+  }
+}
