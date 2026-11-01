@@ -1,0 +1,194 @@
+{
+  "date": "2026-11-01",
+  "generatedAt": "2026-11-01T06:05:00Z",
+  "mode": "written",
+  "topline": "Three stories today: Poland's tribunal crisis escalates after a night-time scuffle involving the president and Brussels presses him to seat the new judges, a weekend of youth and cost-of-living protests spreads from France to Germany and Italy, and Washington clears a Europe-funded sale of 500 Patriot interceptors to Ukraine.",
+  "stories": [
+    {
+      "topic": "Rule of law · Poland",
+      "title": "Poland's tribunal stand-off deepens as Nawrocki confronts judges overnight and Tusk boycotts crisis talks",
+      "summary": "After parliament-chosen judges suspended Constitutional Tribunal chief Bogdan Święczkowski on Friday and installed Anna Korwin-Piotrowska as acting head, President Karol Nawrocki turned his plane back from a trip to Senegal and entered the court building around 1 a.m. on Saturday. Videos show him pushing past Korwin-Piotrowska and telling the judges they are not tribunal judges; his office said the judges had breached the head of state's inviolability. Nawrocki called it a forcible takeover of a constitutional body and convened talks with party leaders on Saturday, which Tusk's Civic Coalition boycotted while coalition partners PSL and Poland 2050 attended. Tusk said removing Święczkowski was painful but needed to restore the rule of law, and accused the nationalist opposition of wanting to destroy democracy. The European Commission urged Nawrocki to accept the new judges, AFP reported; the US ambassador called for calm.",
+      "why": "The fight over who controls Poland's top court goes to the heart of the rule-of-law dispute that froze EU funds under the previous PiS government, and a split between president and government now hampers one of the EU's largest and most strategically important member states.",
+      "left": {
+        "angle": "Centre-left and liberal outlets focus on the president's physical entry into the court, treating it as intimidation and an escalation, and present the suspension of Święczkowski as a contested but legally argued step to undo PiS-era appointments. They foreground the five parliament-elected judges Nawrocki refuses to swear in.",
+        "outlets": [
+          {
+            "name": "OKO.press",
+            "lean": "Left",
+            "url": "https://oko.press/sila-prezydenta-to-nie-jest-prawo-to-jest-przemoc-siedlecka",
+            "note": "Legal column casts Nawrocki's entry as force rather than law, while conceding the tribunal's new leadership is legally contestable."
+          },
+          {
+            "name": "OKO.press",
+            "lean": "Left",
+            "url": "https://oko.press/prezydent-wdarl-sie-do-tk-szarpnal-za-ramie-sedzie-korwin-piotrowska",
+            "note": "Leads with the president barging in and grabbing the judge's arm."
+          },
+          {
+            "name": "Polityka",
+            "lean": "Centre-left",
+            "url": "https://www.polityka.pl/tygodnikpolityka/kraj/2362599,1,nawrocki-noca-w-tk-zwoluje-konsultacje-z-partiami-pis-mowi-o-zamachu-zurek-o-stabilizacji.read",
+            "note": "Running account setting PiS's 'coup' charge against the justice minister's talk of stabilising the court."
+          },
+          {
+            "name": "CNN",
+            "lean": "Lean left",
+            "url": "https://www.cnn.com/2026/10/31/europe/poland-protests-president-nawrocki-latam-intl",
+            "note": "Frames it as a head-to-head between prime minister and president, with protests outside the court."
+          }
+        ]
+      },
+      "right": {
+        "angle": "Right-leaning Polish media and the PiS camp call the events a coup or 'assault' on the tribunal, leading with riot police at the court and the ousting of a chief justice they regard as lawful. They stress the president's constitutional role and give little space to the government's argument that PiS-era appointments were invalid.",
+        "outlets": [
+          {
+            "name": "Do Rzeczy",
+            "lean": "Right",
+            "url": "https://dorzeczy.pl/opinie/964731/kaczynski-zamach-na-trybunal-konstytucyjny.html",
+            "note": "Carries Kaczyński's verdict of an assault on the Constitutional Tribunal."
+          },
+          {
+            "name": "Do Rzeczy",
+            "lean": "Right",
+            "url": "https://dorzeczy.pl/opinie/964842/ostre-oswiadczenie-prawnikow-ws-wydarzen-w-tk.html",
+            "note": "Highlights a lawyers' statement calling the takeover unprecedented."
+          },
+          {
+            "name": "Brussels Signal",
+            "lean": "Right",
+            "url": "https://brusselssignal.eu/2026/10/tusk-moves-to-take-over-constitutional-court-by-force/",
+            "note": "Earlier coverage (15 Oct): casts Tusk's moves on the court as a seizure by force."
+          }
+        ]
+      },
+      "differ": "The left sees a president using his body to block a lawful repair of a captured court; the right sees a government using police to seize a court it could not win over legally.",
+      "sources": [
+        {
+          "name": "Al Jazeera (AFP)",
+          "url": "https://www.aljazeera.com/news/2026/11/1/polish-president-holds-crisis-talks-in-court-standoff"
+        },
+        {
+          "name": "Notes from Poland",
+          "url": "https://notesfrompoland.com/2026/10/31/polish-president-in-physical-confrontation-with-judges-amid-power-struggle-at-constitutional-court/"
+        },
+        {
+          "name": "Euronews",
+          "url": "https://www.euronews.com/2026/10/31/poland-political-crisis-constitutional-court-in-chaos-as-nawrocki-accuses-government-of-st"
+        },
+        {
+          "name": "Euronews",
+          "url": "https://www.euronews.com/2026/10/31/polands-constitutional-tribunal-crisis-explained-a-decade-long-dispute-over-legitimacy-of-"
+        }
+      ]
+    },
+    {
+      "topic": "Society · Youth protests",
+      "title": "Youth and cost-of-living protests spread from France to Germany and Italy over the weekend",
+      "summary": "France held a third straight weekend of protests on Saturday: authorities counted about 320,000 marchers, including 70,000 in Paris, against organisers' claim of nearly half a million, down from more than 500,000 on 17 October. Around 70,000 police were deployed, tear gas was used in Paris and Lyon, and the interior ministry reported hundreds of arrests, with later tallies passing 500. In Germany the 'Gen Z regelt' movement held rallies in more than 30 cities, with about 5,000 at Berlin's Brandenburg Gate by police count; Cologne police used water cannon and some shops were looted. In Italy, a general strike on 30 October brought marches in dozens of cities against living costs and rising defence spending, with clashes near Rome's Colosseum and eight people detained.",
+      "why": "The protests target cost of living, school funding and rearmament at the same time as EU governments are raising defence budgets and facing deficit pressure; Fitch moved France's outlook to negative on 30 October.",
+      "left": {
+        "angle": "Left-leaning coverage leads with the protesters' grievances: underfunded schools, housing, prices and conscription, presenting the movement as a generation that feels unheard. Violence is reported but framed as a minority, and heavy-handed policing and austerity are treated as part of the cause.",
+        "outlets": [
+          {
+            "name": "Al Jazeera",
+            "lean": "Lean left",
+            "url": "https://www.aljazeera.com/news/2026/10/31/tension-and-clashes-as-hundreds-of-thousands-protest-again-in-france",
+            "note": "Opens on turnout and living-cost and school grievances; notes most marchers condemned violence."
+          },
+          {
+            "name": "Al Jazeera",
+            "lean": "Lean left",
+            "url": "https://www.aljazeera.com/opinions/2026/10/23/why-is-gen-z-revolting",
+            "note": "Earlier opinion (23 Oct): blames austerity and inequality, and says repression inflames the movement."
+          },
+          {
+            "name": "CNN",
+            "lean": "Lean left",
+            "url": "https://www.cnn.com/2026/10/31/europe/protests-europe-germany-halloween-intl",
+            "note": "Frames the day as the movement spreading to Germany while France marches again."
+          }
+        ]
+      },
+      "right": {
+        "angle": "Right-leaning outlets lead with looting, attacks on police and the role of far-left groups, and question the movement's organisers. They tie opposition politicians to the violence and give less room to the economic demands.",
+        "outlets": [
+          {
+            "name": "GB News",
+            "lean": "Right",
+            "url": "https://www.gbnews.com/news/world/germany-riots-left-wing-extremist-loot-stores-gen-z-protest-europe",
+            "note": "Headlines 'left-wing extremist' rioters looting German shops."
+          },
+          {
+            "name": "Il Giornale",
+            "lean": "Right",
+            "url": "https://www.ilgiornale.it/news/interni/avs-e-grillini-in-piazza-con-gli-antagonisti-a-roma-scontri-con-la-polizia-e-sassaiol/",
+            "note": "Puts left-wing and Five Star politicians in the same marches as radical groups who clashed with police."
+          }
+        ]
+      },
+      "differ": "The left treats the unrest as a generational verdict on austerity and rearmament; the right treats it mainly as a public-order problem exploited by the far left.",
+      "sources": [
+        {
+          "name": "Euronews",
+          "url": "https://www.euronews.com/2026/10/31/frances-third-weekend-of-social-protests-sees-lower-turnout-and-early-clashes-in-major-cit"
+        },
+        {
+          "name": "Euronews",
+          "url": "https://www.euronews.com/2026/10/31/berlin-student-protests-youth-demands-meet-extremist-mobilisation"
+        },
+        {
+          "name": "France 24",
+          "url": "https://www.france24.com/en/europe/20261031-german-police-protesters-clash-after-gen-z-demos"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/10/30/italy-tightens-security-as-students-unions-launch-nationwide-protests"
+        },
+        {
+          "name": "Fitch outlook (Yahoo Finance)",
+          "url": "https://finance.yahoo.com/economy/policy/articles/fitch-cuts-france-outlook-negative-220454290.html"
+        }
+      ]
+    },
+    {
+      "topic": "Ukraine · Air defence",
+      "title": "US clears $2.1bn sale of 500 Patriot interceptors to Ukraine, paid for by European allies and the EU loan",
+      "summary": "The US State Department approved a possible $2.1 billion sale of 500 PAC-3 MSE interceptors to Ukraine on 30 October. Canada, Germany and Norway will fund it through the JUMPSTART programme, with extra costs covered by Ukrainian funds backed by the EU's Ukraine Support Loan; no US money is involved. Congress generally has 30 days to review, and no delivery date was given. Zelensky welcomed the deal but warned deliveries might start only in a few years, and asked partners to send interceptors from existing stocks now. NATO's top commander said deliveries paid for by Europeans had not been delayed.",
+      "why": "It shows the EU's €90bn loan being used to buy US weapons for Ukraine, a choice some member states have resisted in favour of European industry, and highlights how scarce air defence remains before winter.",
+      "left": {
+        "angle": "Lean-left US coverage presents the approval as a win for Kyiv undercut by timing, linking the wait to US munitions shortages from the Iran war and to strained ties with the Trump administration. It stresses that Europe, not Washington, is paying.",
+        "outlets": [
+          {
+            "name": "CNN",
+            "lean": "Lean left",
+            "url": "https://www.cnn.com/2026/10/30/politics/us-approves-potential-patriot-missile-sale-ukraine",
+            "note": "Calls the missiles 'scarce' and puts the delivery gap down to US stockpile strain."
+          }
+        ]
+      },
+      "right": {
+        "angle": "No distinct right-leaning take on this sale turned up in our searches; coverage seen was mostly straight wire reporting.",
+        "outlets": []
+      },
+      "differ": "Only one partisan framing was found: a sceptical focus on US shortages and Trump-era friction; right-leaning outlets largely did not editorialise.",
+      "sources": [
+        {
+          "name": "Kyiv Independent",
+          "url": "https://kyivindependent.com/us-approves-2-1-billion-patriot-missile-sale-to-ukraine-as-nato-commander-dismisses-delivery-concerns/"
+        },
+        {
+          "name": "US News (Reuters)",
+          "url": "https://www.usnews.com/news/world/articles/2026-10-30/us-approves-2-1-billion-patriot-missile-sale-to-ukraine"
+        },
+        {
+          "name": "Euronews",
+          "url": "https://www.euronews.com/2026/10/31/zelenskyy-thanks-us-over-deal-for-500-patriot-missiles-but-warns-delivery-could-take-years"
+        }
+      ]
+    }
+  ],
+  "oneSided": {
+    "left": [],
+    "right": []
+  }
+}

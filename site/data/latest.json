@@ -1,213 +1,194 @@
 {
-  "date": "2026-10-31",
-  "generatedAt": "2026-10-31T05:53:23Z",
+  "date": "2026-11-01",
+  "generatedAt": "2026-11-01T06:05:00Z",
   "mode": "written",
-  "topline": "Four stories today: Poland's fight over its constitutional court turns into a street-level stand-off, Brussels tables the last €45bn of Ukraine's loan for 2027, Canada and the EU pledge an 'ever closer association' after the associate-member label is dropped, and a new €2 EU fee on cheap non-EU parcels starts on Sunday.",
+  "topline": "Three stories today: Poland's tribunal crisis escalates after a night-time scuffle involving the president and Brussels presses him to seat the new judges, a weekend of youth and cost-of-living protests spreads from France to Germany and Italy, and Washington clears a Europe-funded sale of 500 Patriot interceptors to Ukraine.",
   "stories": [
     {
       "topic": "Rule of law · Poland",
-      "title": "Poland's constitutional court chief suspended as riot police guard the tribunal and the president flies home",
-      "summary": "On Friday a judge elected by parliament but never sworn in by President Karol Nawrocki announced the suspension of Constitutional Tribunal president Bogdan Święczkowski and his deputy, and seven newly elected judges entered the court building escorted by state protection officers. Justice Minister Waldemar Żurek said he had asked for both men's immunity to be lifted, while the tribunal's own account called the move a coup d'état and said the judge who signed the order was not a member of the court. Nawrocki turned his plane back from a state visit to Senegal, riot police were deployed outside the tribunal, and police said protesters from the opposition Law and Justice (PiS) camp threw objects at officers. Prime Minister Donald Tusk said restoring the rule of law was the government's duty, even if the process is painful; PiS leader Jarosław Kaczyński said Poland had become a police state.",
-      "why": "The tribunal, filled with PiS appointees between 2015 and 2023, was at the heart of Poland's long rule-of-law clash with Brussels and once ruled that Polish law outranks EU law. How Warsaw unpicks that legacy, and whether the method itself is lawful, is now a test case for the whole EU.",
+      "title": "Poland's tribunal stand-off deepens as Nawrocki confronts judges overnight and Tusk boycotts crisis talks",
+      "summary": "After parliament-chosen judges suspended Constitutional Tribunal chief Bogdan Święczkowski on Friday and installed Anna Korwin-Piotrowska as acting head, President Karol Nawrocki turned his plane back from a trip to Senegal and entered the court building around 1 a.m. on Saturday. Videos show him pushing past Korwin-Piotrowska and telling the judges they are not tribunal judges; his office said the judges had breached the head of state's inviolability. Nawrocki called it a forcible takeover of a constitutional body and convened talks with party leaders on Saturday, which Tusk's Civic Coalition boycotted while coalition partners PSL and Poland 2050 attended. Tusk said removing Święczkowski was painful but needed to restore the rule of law, and accused the nationalist opposition of wanting to destroy democracy. The European Commission urged Nawrocki to accept the new judges, AFP reported; the US ambassador called for calm.",
+      "why": "The fight over who controls Poland's top court goes to the heart of the rule-of-law dispute that froze EU funds under the previous PiS government, and a split between president and government now hampers one of the EU's largest and most strategically important member states.",
       "left": {
-        "angle": "Centre-left and lean-left coverage frames the day as an institutional crisis rooted in the PiS era's capture of the court. It tends to attribute the word 'coup' to the opposition or the tribunal rather than using it, and gives more room to the background: unrecognised judges, rulings the government ignores, and a European Court of Human Rights order to seat the new judges.",
+        "angle": "Centre-left and liberal outlets focus on the president's physical entry into the court, treating it as intimidation and an escalation, and present the suspension of Święczkowski as a contested but legally argued step to undo PiS-era appointments. They foreground the five parliament-elected judges Nawrocki refuses to swear in.",
         "outlets": [
           {
-            "name": "El País",
+            "name": "OKO.press",
+            "lean": "Left",
+            "url": "https://oko.press/sila-prezydenta-to-nie-jest-prawo-to-jest-przemoc-siedlecka",
+            "note": "Legal column casts Nawrocki's entry as force rather than law, while conceding the tribunal's new leadership is legally contestable."
+          },
+          {
+            "name": "OKO.press",
+            "lean": "Left",
+            "url": "https://oko.press/prezydent-wdarl-sie-do-tk-szarpnal-za-ramie-sedzie-korwin-piotrowska",
+            "note": "Leads with the president barging in and grabbing the judge's arm."
+          },
+          {
+            "name": "Polityka",
             "lean": "Centre-left",
-            "url": "https://elpais.com/internacional/2026-10-30/el-presidente-de-polonia-regresa-a-su-pais-en-pleno-vuelo-a-senegal-por-una-crisis-en-el-tribunal-constitucional.html",
-            "note": "Presents the suspension as setting off an institutional crisis; does not adopt the 'coup' label."
+            "url": "https://www.polityka.pl/tygodnikpolityka/kraj/2362599,1,nawrocki-noca-w-tk-zwoluje-konsultacje-z-partiami-pis-mowi-o-zamachu-zurek-o-stabilizacji.read",
+            "note": "Running account setting PiS's 'coup' charge against the justice minister's talk of stabilising the court."
+          },
+          {
+            "name": "CNN",
+            "lean": "Lean left",
+            "url": "https://www.cnn.com/2026/10/31/europe/poland-protests-president-nawrocki-latam-intl",
+            "note": "Frames it as a head-to-head between prime minister and president, with protests outside the court."
+          }
+        ]
+      },
+      "right": {
+        "angle": "Right-leaning Polish media and the PiS camp call the events a coup or 'assault' on the tribunal, leading with riot police at the court and the ousting of a chief justice they regard as lawful. They stress the president's constitutional role and give little space to the government's argument that PiS-era appointments were invalid.",
+        "outlets": [
+          {
+            "name": "Do Rzeczy",
+            "lean": "Right",
+            "url": "https://dorzeczy.pl/opinie/964731/kaczynski-zamach-na-trybunal-konstytucyjny.html",
+            "note": "Carries Kaczyński's verdict of an assault on the Constitutional Tribunal."
+          },
+          {
+            "name": "Do Rzeczy",
+            "lean": "Right",
+            "url": "https://dorzeczy.pl/opinie/964842/ostre-oswiadczenie-prawnikow-ws-wydarzen-w-tk.html",
+            "note": "Highlights a lawyers' statement calling the takeover unprecedented."
+          },
+          {
+            "name": "Brussels Signal",
+            "lean": "Right",
+            "url": "https://brusselssignal.eu/2026/10/tusk-moves-to-take-over-constitutional-court-by-force/",
+            "note": "Earlier coverage (15 Oct): casts Tusk's moves on the court as a seizure by force."
+          }
+        ]
+      },
+      "differ": "The left sees a president using his body to block a lawful repair of a captured court; the right sees a government using police to seize a court it could not win over legally.",
+      "sources": [
+        {
+          "name": "Al Jazeera (AFP)",
+          "url": "https://www.aljazeera.com/news/2026/11/1/polish-president-holds-crisis-talks-in-court-standoff"
+        },
+        {
+          "name": "Notes from Poland",
+          "url": "https://notesfrompoland.com/2026/10/31/polish-president-in-physical-confrontation-with-judges-amid-power-struggle-at-constitutional-court/"
+        },
+        {
+          "name": "Euronews",
+          "url": "https://www.euronews.com/2026/10/31/poland-political-crisis-constitutional-court-in-chaos-as-nawrocki-accuses-government-of-st"
+        },
+        {
+          "name": "Euronews",
+          "url": "https://www.euronews.com/2026/10/31/polands-constitutional-tribunal-crisis-explained-a-decade-long-dispute-over-legitimacy-of-"
+        }
+      ]
+    },
+    {
+      "topic": "Society · Youth protests",
+      "title": "Youth and cost-of-living protests spread from France to Germany and Italy over the weekend",
+      "summary": "France held a third straight weekend of protests on Saturday: authorities counted about 320,000 marchers, including 70,000 in Paris, against organisers' claim of nearly half a million, down from more than 500,000 on 17 October. Around 70,000 police were deployed, tear gas was used in Paris and Lyon, and the interior ministry reported hundreds of arrests, with later tallies passing 500. In Germany the 'Gen Z regelt' movement held rallies in more than 30 cities, with about 5,000 at Berlin's Brandenburg Gate by police count; Cologne police used water cannon and some shops were looted. In Italy, a general strike on 30 October brought marches in dozens of cities against living costs and rising defence spending, with clashes near Rome's Colosseum and eight people detained.",
+      "why": "The protests target cost of living, school funding and rearmament at the same time as EU governments are raising defence budgets and facing deficit pressure; Fitch moved France's outlook to negative on 30 October.",
+      "left": {
+        "angle": "Left-leaning coverage leads with the protesters' grievances: underfunded schools, housing, prices and conscription, presenting the movement as a generation that feels unheard. Violence is reported but framed as a minority, and heavy-handed policing and austerity are treated as part of the cause.",
+        "outlets": [
+          {
+            "name": "Al Jazeera",
+            "lean": "Lean left",
+            "url": "https://www.aljazeera.com/news/2026/10/31/tension-and-clashes-as-hundreds-of-thousands-protest-again-in-france",
+            "note": "Opens on turnout and living-cost and school grievances; notes most marchers condemned violence."
           },
           {
             "name": "Al Jazeera",
             "lean": "Lean left",
-            "url": "https://www.aljazeera.net/news/2026/10/30/%D8%A7%D9%84%D9%85%D8%B9%D8%A7%D8%B1%D8%B6%D8%A9-%D8%AA%D8%B5%D9%81%D9%87-%D8%A8%D9%80%D8%A7%D9%84%D8%A7%D9%86%D9%82%D9%84%D8%A7%D8%A8-%D8%AA%D8%B9%D9%84%D9%8A%D9%82-%D9%85%D9%87%D8%A7%D9%85",
-            "note": "Arabic-language report that explicitly attributes the 'coup' description to the opposition."
+            "url": "https://www.aljazeera.com/opinions/2026/10/23/why-is-gen-z-revolting",
+            "note": "Earlier opinion (23 Oct): blames austerity and inequality, and says repression inflames the movement."
+          },
+          {
+            "name": "CNN",
+            "lean": "Lean left",
+            "url": "https://www.cnn.com/2026/10/31/europe/protests-europe-germany-halloween-intl",
+            "note": "Frames the day as the movement spreading to Germany while France marches again."
           }
         ]
       },
       "right": {
-        "angle": "Right-leaning coverage leads with the drama: riot police at a court, a president turning his plane around, and the 'coup' charge made by the tribunal and PiS figures. It amplifies opposition voices such as Zbigniew Ziobro and, in the UK, Nigel Farage, while the government's legal case gets comparatively little space; the more measured pieces still note PiS's own record of fines from Brussels.",
+        "angle": "Right-leaning outlets lead with looting, attacks on police and the role of far-left groups, and question the movement's organisers. They tie opposition politicians to the violence and give less room to the economic demands.",
         "outlets": [
           {
             "name": "GB News",
             "lean": "Right",
-            "url": "https://www.gbnews.com/news/poland-court-coup-riot-police-donald-tusk",
-            "note": "Headlines the court's 'coup d'état' claim and Nigel Farage calling the protests very serious."
+            "url": "https://www.gbnews.com/news/world/germany-riots-left-wing-extremist-loot-stores-gen-z-protest-europe",
+            "note": "Headlines 'left-wing extremist' rioters looting German shops."
           },
-          {
-            "name": "Fox News",
-            "lean": "Right",
-            "url": "https://www.foxnews.com/world/polish-president-turns-plane-around-after-coup-at-nations-top-court",
-            "note": "Puts 'coup' in the headline; quotes Ziobro urging resistance and Morawiecki on a 'forceful takeover', with Tusk's one-line defence."
-          }
-        ]
-      },
-      "differ": "The left asks whether the government's method fixes a captured court; the right asks whether the government just seized one. The same events are labelled an 'institutional crisis' on one side and a 'coup' on the other.",
-      "sources": [
-        {
-          "name": "Euronews",
-          "url": "https://www.euronews.com/2026/10/30/polish-president-turns-back-mid-flight-amid-coup-detat-allegations"
-        },
-        {
-          "name": "Notes from Poland",
-          "url": "https://notesfrompoland.com/2026/10/30/chaos-at-polands-constitutional-court-as-government-backed-judges-seek-to-oust-chief-justice/"
-        },
-        {
-          "name": "BBC",
-          "url": "https://www.bbc.com/news/articles/crz9824d5e88o"
-        },
-        {
-          "name": "RTÉ (Reuters)",
-          "url": "https://www.rte.ie/news/world/2026/1030/1597434-poland-police-court/"
-        }
-      ]
-    },
-    {
-      "topic": "Ukraine · Financing",
-      "title": "Commission proposes final €45bn of Ukraine's EU loan for 2027 as a wider funding gap looms",
-      "summary": "The European Commission on Friday proposed releasing the second half of the €90bn Ukraine Support Loan: €45bn for 2027, of which up to €31.7bn would go to Ukraine's defence industry and up to €13.3bn to budget support. The proposal follows a positive assessment of Kyiv's 2027 financing strategy and now needs Council approval, with payments expected early next year. Of this year's €45bn, €19.8bn has been paid out so far, and budget support stays tied to rule-of-law and anti-corruption conditions. Ursula von der Leyen said the money gives Ukraine predictability; the EU's total support since 2022 now stands at €231.6bn. Even so, Ukraine's needs for 2027 exceed what the loan covers by roughly €70bn, which Brussels wants allies such as the UK, Canada and Japan to help fill.",
-      "why": "With US support uncertain, EU money is now the backbone of Ukraine's state budget and arms purchases. How the remaining 2027 gap is filled, through partners, more joint debt or Russian assets, is due to come up at the EU leaders' summit in late November.",
-      "left": {
-        "angle": "Centre-left coverage treats the loan as necessary but insufficient, and frames the real story as burden-sharing: Europe already provides most external aid, so the UK, Canada, Japan and others are being pushed to step up. It relies heavily on EU officials and Kyiv's own figures. This is earlier coverage of the funding gap; we did not find a fresh left-leaning take on Friday's proposal itself.",
-        "outlets": [
-          {
-            "name": "EUobserver",
-            "lean": "Centre-left",
-            "url": "https://euobserver.com/244118/eu-looks-to-uk-canada-and-japan-to-plug-e70bn-hole-in-funding-for-ukraines-2027-war-effort/",
-            "note": "Earlier (21 Oct): EU looks to allies to plug a €70bn hole for 2027, stressing Europe already carries 80% of external aid."
-          }
-        ]
-      },
-      "right": {
-        "angle": "We found no right-leaning take on Friday's €45bn proposal. Earlier conservative coverage of the €90bn loan focused on the politics around it, especially Hungary's past blocking and the new government in Budapest, and on joint EU borrowing rather than on Ukraine's needs.",
-        "outlets": [
-          {
-            "name": "Hungarian Conservative",
-            "lean": "Right",
-            "url": "https://www.hungarianconservative.com/articles/current/eu-loan-ukraine-russia-sanctions-energy-crisis/",
-            "note": "Earlier (23 Apr): covered the loan's unblocking after Orbán's exit, with scepticism over Ukraine's pipeline claims."
-          }
-        ]
-      },
-      "differ": "Left-leaning outlets ask how Europe can get others to pay a fair share; conservative outlets have mostly asked what the borrowing costs Europe and who decided it, though neither side had much to say about Friday's proposal itself.",
-      "sources": [
-        {
-          "name": "European Commission",
-          "url": "https://enlargement.ec.europa.eu/news/commission-takes-key-step-forward-2027-financial-support-ukraine-2026-10-30_en"
-        },
-        {
-          "name": "Euronews",
-          "url": "https://www.euronews.com/2026/10/30/eu-to-fast-track-45-billion-for-ukraine-amid-acute-financial-crunch"
-        },
-        {
-          "name": "Interfax-Ukraine",
-          "url": "https://en.interfax.com.ua/news/general/1228943.html"
-        }
-      ]
-    },
-    {
-      "topic": "External relations · Canada",
-      "title": "EU and Canada pledge 'ever closer association' after Germany blocks the associate-member label",
-      "summary": "At their summit in Montreal on Friday, the EU and Canada agreed to widen cooperation on digital trade, energy, critical raw materials, AI, supercomputing and satellites. Prime Minister Mark Carney said Canada aimed to become the EU's first 'associate member' and set June 2027 as the target to finish talks, but the joint declaration dropped that term after Germany objected and speaks instead of an 'ever closer association'. Ursula von der Leyen called the idea uncharted territory and pointed to Canada's full entry into Horizon and Erasmus and its part in the Ukraine loan. EU treaties reserve membership for European states, and what the status would mean in practice is still undefined.",
-      "why": "If it goes ahead, a new tier of association for a non-European democracy would be a first for the EU, and a template that others, including the UK or Ukraine, could be measured against. It also shows Brussels building alliances to hedge against Washington.",
-      "left": {
-        "angle": "Lean-left coverage presents the summit as Canada and Europe drawing closer under pressure from Donald Trump, citing his annexation talk and tariff threats. It treats German hesitation as procedural rather than fatal and keeps the spotlight on Carney's ambition. Scepticism comes mainly from analysts noting no market can replace the US.",
-        "outlets": [
-          {
-            "name": "TIME",
-            "lean": "Lean left",
-            "url": "https://time.com/article/2026/10/30/canada-eu-membership-associate-partnership-us-trade-war/",
-            "note": "Leads with Carney's June 2027 target and frames the deal as a response to the US trade war."
-          }
-        ]
-      },
-      "right": {
-        "angle": "Right-leaning coverage casts the dropped label as a rebuke to von der Leyen, who floated the idea without consulting capitals, and as evidence of Commission overreach. US conservative commentary also mocks the outcome as a humiliation for Carney, citing Canadian Conservatives who call it a distraction from the cost of living.",
-        "outlets": [
-          {
-            "name": "Hungarian Conservative",
-            "lean": "Right",
-            "url": "https://www.hungarianconservative.com/articles/current/eu-powers-kill-von-der-leyens-canada-membership-fantasy-before-key-summit",
-            "note": "Before the summit: big member states killed a Commission 'power grab' with no mandate."
-          },
-          {
-            "name": "Hot Air",
-            "lean": "Right",
-            "url": "https://hotair.com/tree-hugging-sister/2026/10/29/part-2-eu-drops-adopting-associate-orphan-syrupeans-n3820447",
-            "note": "Sarcastic take: Carney spent political capital and got only vague promises."
-          }
-        ]
-      },
-      "differ": "The left reads the summit as allies closing ranks against Trump; the right reads it as member states reining in an overreaching Commission and a Canadian leader coming home with less than he wanted.",
-      "sources": [
-        {
-          "name": "Euronews",
-          "url": "https://www.euronews.com/2026/10/30/canada-aims-to-become-eus-first-associate-member-by-june-2027-carney-says"
-        },
-        {
-          "name": "Council of the EU",
-          "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/10/30/joint-statement-eu-canada-summit-30-october-2026/"
-        },
-        {
-          "name": "CBC",
-          "url": "https://www.cbc.ca/news/politics/european-union-canada-associate-member-von-der-leyen-9.7401989"
-        }
-      ]
-    },
-    {
-      "topic": "Trade · E-commerce",
-      "title": "New €2 EU handling fee on non-EU parcels starts Sunday, on top of July's €3 duty",
-      "summary": "From 1 November, every parcel entering the EU from outside the bloc will carry a €2 handling fee per item category, regardless of value, in addition to the €3 duty on low-value packages introduced in July. Around 5.8 billion parcels worth under €150 entered the EU last year, up 26%, and the vast majority came from China via platforms such as Temu, Shein and AliExpress. A Commission document seen by Reuters estimates the fees could raise about €6bn a year for the EU budget from 2028, with roughly 90% going to Brussels. The EU says the charge targets sellers, but consumer groups warn platforms will pass it on at checkout, and AliExpress has warned of the impact on low-income households.",
-      "why": "The fees are Brussels' main answer to a flood of cheap, often undervalued imports that EU retailers call unfair competition, and they could become a new 'own resource' for the EU budget.",
-      "left": {
-        "angle": "Centre-left coverage largely carries wire reporting that frames the fee as a response to the surge of Chinese e-commerce and to customs that cannot cope, with less focus on the cost to shoppers. This is earlier coverage from the start of the week; we found no new left-leaning commentary on the fee taking effect.",
-        "outlets": [
-          {
-            "name": "Le Monde",
-            "lean": "Centre-left",
-            "url": "https://www.lemonde.fr/en/international/article/2026/10/26/eu-to-charge-two-euro-handling-fee-on-packages-from-outside-bloc_6764287_4.html",
-            "note": "Earlier (26 Oct): straight report on the €2 charge on packages from outside the bloc."
-          }
-        ]
-      },
-      "right": {
-        "angle": "Right-leaning coverage frames the charges as a 'double tax' piling on consumers and domestic logistics firms, adding up Italian and EU levies to around €7 a parcel and citing business groups who call them disproportionate. It points to France, where it says most parcels were rerouted after a national fee. This is earlier coverage from June; we found no fresh right-leaning piece on the fee taking effect.",
-        "outlets": [
           {
             "name": "Il Giornale",
             "lean": "Right",
-            "url": "https://www.ilgiornale.it/news/cittadini/occhio-questa-data-presto-si-pagher-doppia-tassa-i-pacchi-2682266.html",
-            "note": "Earlier (21 Jun): warns of a 'double tax' on Temu and Shein parcels and relays industry calls for a suspension."
+            "url": "https://www.ilgiornale.it/news/interni/avs-e-grillini-in-piazza-con-gli-antagonisti-a-roma-scontri-con-la-polizia-e-sassaiol/",
+            "note": "Puts left-wing and Five Star politicians in the same marches as radical groups who clashed with police."
           }
         ]
       },
-      "differ": "Left-leaning outlets frame the fee as policing a flood of cheap Chinese imports; the right frames it as another tax that shoppers and local businesses will end up paying.",
+      "differ": "The left treats the unrest as a generational verdict on austerity and rearmament; the right treats it mainly as a public-order problem exploited by the far left.",
       "sources": [
         {
-          "name": "RTÉ (Reuters)",
-          "url": "https://www.rte.ie/news/business/2026/1030/1597371-eu-fees-that-hit-cheap-shein-temu-parcels-may-raise-6bn/"
+          "name": "Euronews",
+          "url": "https://www.euronews.com/2026/10/31/frances-third-weekend-of-social-protests-sees-lower-turnout-and-early-clashes-in-major-cit"
         },
         {
           "name": "Euronews",
-          "url": "https://www.euronews.com/2026/10/30/eu-to-impose-2-fee-on-all-packages-entering-the-bloc-as-of-1-november"
+          "url": "https://www.euronews.com/2026/10/31/berlin-student-protests-youth-demands-meet-extremist-mobilisation"
         },
         {
           "name": "France 24",
-          "url": "https://www.france24.com/en/live-news/20261026-new-levy-on-non-eu-parcels-kicks-in-november-1"
+          "url": "https://www.france24.com/en/europe/20261031-german-police-protesters-clash-after-gen-z-demos"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/10/30/italy-tightens-security-as-students-unions-launch-nationwide-protests"
+        },
+        {
+          "name": "Fitch outlook (Yahoo Finance)",
+          "url": "https://finance.yahoo.com/economy/policy/articles/fitch-cuts-france-outlook-negative-220454290.html"
+        }
+      ]
+    },
+    {
+      "topic": "Ukraine · Air defence",
+      "title": "US clears $2.1bn sale of 500 Patriot interceptors to Ukraine, paid for by European allies and the EU loan",
+      "summary": "The US State Department approved a possible $2.1 billion sale of 500 PAC-3 MSE interceptors to Ukraine on 30 October. Canada, Germany and Norway will fund it through the JUMPSTART programme, with extra costs covered by Ukrainian funds backed by the EU's Ukraine Support Loan; no US money is involved. Congress generally has 30 days to review, and no delivery date was given. Zelensky welcomed the deal but warned deliveries might start only in a few years, and asked partners to send interceptors from existing stocks now. NATO's top commander said deliveries paid for by Europeans had not been delayed.",
+      "why": "It shows the EU's €90bn loan being used to buy US weapons for Ukraine, a choice some member states have resisted in favour of European industry, and highlights how scarce air defence remains before winter.",
+      "left": {
+        "angle": "Lean-left US coverage presents the approval as a win for Kyiv undercut by timing, linking the wait to US munitions shortages from the Iran war and to strained ties with the Trump administration. It stresses that Europe, not Washington, is paying.",
+        "outlets": [
+          {
+            "name": "CNN",
+            "lean": "Lean left",
+            "url": "https://www.cnn.com/2026/10/30/politics/us-approves-potential-patriot-missile-sale-ukraine",
+            "note": "Calls the missiles 'scarce' and puts the delivery gap down to US stockpile strain."
+          }
+        ]
+      },
+      "right": {
+        "angle": "No distinct right-leaning take on this sale turned up in our searches; coverage seen was mostly straight wire reporting.",
+        "outlets": []
+      },
+      "differ": "Only one partisan framing was found: a sceptical focus on US shortages and Trump-era friction; right-leaning outlets largely did not editorialise.",
+      "sources": [
+        {
+          "name": "Kyiv Independent",
+          "url": "https://kyivindependent.com/us-approves-2-1-billion-patriot-missile-sale-to-ukraine-as-nato-commander-dismisses-delivery-concerns/"
+        },
+        {
+          "name": "US News (Reuters)",
+          "url": "https://www.usnews.com/news/world/articles/2026-10-30/us-approves-2-1-billion-patriot-missile-sale-to-ukraine"
+        },
+        {
+          "name": "Euronews",
+          "url": "https://www.euronews.com/2026/10/31/zelenskyy-thanks-us-over-deal-for-500-patriot-missiles-but-warns-delivery-could-take-years"
         }
       ]
     }
   ],
   "oneSided": {
-    "left": [
-      {
-        "title": "Major anti-government protests sweep across Italy",
-        "outlet": "CNN",
-        "lean": "Lean left",
-        "url": "https://www.cnn.com/2026/10/30/europe/italy-protests-anti-government-meloni-intl"
-      }
-    ],
+    "left": [],
     "right": []
   }
 }
