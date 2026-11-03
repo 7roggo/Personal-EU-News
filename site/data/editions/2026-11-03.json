@@ -1,0 +1,206 @@
+{
+  "date": "2026-11-03",
+  "generatedAt": "2026-11-03T05:37:30Z",
+  "mode": "written",
+  "topline": "Four stories today: Belgian PM Bart De Wever offers his resignation over a €10bn budget gap, Gen Z protests in Germany turn violent amid a row over blaming migrants, Poland's constitutional court standoff deepens, and Kaja Kallas tempers talk of a UK return to the EU.",
+  "stories": [
+    {
+      "topic": "Member states · Belgium budget",
+      "title": "Belgian PM De Wever offers resignation after coalition fails to agree 2027 budget",
+      "summary": "Prime Minister Bart De Wever (N-VA) offered his resignation to King Philippe on 2 November after overnight talks in his five-party coalition ended without a deal on closing a gap of about €10 billion. The split is over taxes: Vooruit, CD&V and Les Engagés want the wealthiest to contribute more, while N-VA and MR reject what MR's David Clarinval called far too many taxes. The King held his decision back and began consultations with party leaders. Belgium's deficit, at 5.2% of GDP, is the highest in the eurozone and debt is above 110% of GDP; De Wever has ruled out a fallback of monthly 'provisional twelfths' spending.",
+      "why": "A government collapse in the EU's host country would leave Belgium without a budget while it is under EU deficit scrutiny, and could boost Vlaams Belang and the PTB in any snap election.",
+      "left": {
+        "angle": "We found no left-leaning outlet from our list with its own take on the resignation offer in the last day. Earlier left-leaning coverage focused on mass union protests against the coalition's austerity plans.",
+        "outlets": [
+          {
+            "name": "Al Jazeera",
+            "lean": "Lean left",
+            "url": "https://www.aljazeera.com/news/2025/10/14/tens-of-thousands-rally-in-brussels-to-protest-austerity-plans",
+            "note": "Earlier coverage (October 2025): tens of thousands march in Brussels against cuts."
+          }
+        ]
+      },
+      "right": {
+        "angle": "Right-leaning coverage frames the crisis around fiscal discipline and EU deficit rules, presenting De Wever as the leader pushing for savings. Tax proposals from Vooruit are cast as the main obstacle, and the rise of Vlaams Belang and the far-left PTB is flagged as the risk of early elections.",
+        "outlets": [
+          {
+            "name": "Hungarian Conservative",
+            "lean": "Right",
+            "url": "https://www.hungarianconservative.com/articles/current/belgium-pm-de-wever-offer-resignation",
+            "note": "Stresses deficit, market confidence and the tax dispute as the blockage."
+          },
+          {
+            "name": "Brussels Signal",
+            "lean": "Right",
+            "url": "https://brusselssignal.eu/2026/11/belgian-government-faces-collapse-as-budget-talks-break-down/",
+            "note": "Highlights the €3bn-plus in levies on the table and MR's complaints about overtaxation."
+          }
+        ]
+      },
+      "differ": "Right-leaning outlets treat new taxes as the problem and spending discipline as the goal; the left's earlier coverage centred on who bears the cost of austerity.",
+      "sources": [
+        {
+          "name": "VRT NWS",
+          "url": "https://www.vrt.be/vrtnws/en/2026/11/02/prime-minister-de-wever-offers-resignation-to-king-filip/"
+        },
+        {
+          "name": "The Brussels Times",
+          "url": "https://www.brusselstimes.com/belgium/2387762/belgian-pm-de-wever-to-offer-resignation-to-king-after-failed-budget-talks-tbtb"
+        },
+        {
+          "name": "La Libre",
+          "url": "https://www.lalibre.be/belgique/politique-belge/2026/11/02/budget-federal-le-kern-ne-parvient-pas-a-degager-un-accord-bart-de-wever-va-remettre-sa-demission-au-roi-RGR57E7BQNEDXMAZTANYJWRJNI/"
+        }
+      ]
+    },
+    {
+      "topic": "Member states · Youth protests",
+      "title": "Germany's 'Gen Z' protests turn violent in Frankfurt as interior minister blames migrants and far left",
+      "summary": "Tens of thousands joined 'Gen Z regelt' protests in more than 30 German cities on 1 November, demanding better-funded schools and lower living costs; most were peaceful, including about 5,000 in Berlin. In Frankfurt, hooded rioters damaged 17 shops and looted five, more than 100 police were reported injured and 54 people aged 13 to 29 were arrested. Hesse's interior minister said most troublemakers had a migrant background, though most of those arrested were German nationals, and federal interior minister Alexander Dobrindt blamed left-wing extremists and 'troublemakers from the migrant community'. The unrest follows weeks of youth protests in France, where some lycées were blockaded again as classes resumed on 2 November.",
+      "why": "Youth-led protests over austerity and living costs are spreading across several EU states, and governments' responses are feeding into Europe's migration and security debates.",
+      "left": {
+        "angle": "Left-leaning coverage leads with the peaceful majority and the protesters' social grievances, and questions police tactics, especially in Cologne. It treats the focus on migrant background as scapegoating that distracts from underfunded schools and austerity.",
+        "outlets": [
+          {
+            "name": "taz",
+            "lean": "Left",
+            "url": "https://taz.de/Gen-Z-regelt-Protest/!6226457/",
+            "note": "Argues a scapegoat was found quickly and police escalation was played down."
+          },
+          {
+            "name": "CNN",
+            "lean": "Lean left",
+            "url": "https://www.cnn.com/2026/11/01/europe/germany-gen-z-protests-turn-violent-intl",
+            "note": "Frames it as the government blaming infiltrators for the violence."
+          }
+        ]
+      },
+      "right": {
+        "angle": "Right-leaning coverage leads with the injured police and the migrant-background estimate, and links Frankfurt to unrest in France and a wider European threat. Protesters' demands and the peaceful majority get little space.",
+        "outlets": [
+          {
+            "name": "Brussels Signal",
+            "lean": "Right",
+            "url": "https://brusselssignal.eu/2026/11/rioters-predominantly-from-migrant-background-injure-scores-of-police-in-frankfurt/",
+            "note": "Headlines the migrant-background claim and injured officers; notes German nationality only in passing."
+          },
+          {
+            "name": "Hungarian Conservative",
+            "lean": "Right",
+            "url": "https://www.hungarianconservative.com/articles/current/frankfurt-far-left-riot-migrant-background-looting-germany",
+            "note": "Presents the riots as driven by the far left and people of migrant background."
+          },
+          {
+            "name": "GB News",
+            "lean": "Right",
+            "url": "https://www.gbnews.com/news/world/germany-riots-gen-z-left-wing-extremists-immigrants",
+            "note": "Echoes Dobrindt's blame of immigrant troublemakers and left-wing extremists."
+          }
+        ]
+      },
+      "differ": "The left sees a peaceful social protest hijacked and then misrepresented; the right sees a public-order and immigration problem.",
+      "sources": [
+        {
+          "name": "ABC News (Reuters)",
+          "url": "https://www.abc.net.au/news/2026-11-02/protests-europe-germany-frankfurt/107334774"
+        },
+        {
+          "name": "The Local",
+          "url": "https://www.thelocal.de/20261102/fact-check-what-really-happened-at-germanys-gen-z-protests"
+        },
+        {
+          "name": "ZDFheute",
+          "url": "https://www.zdfheute.de/politik/deutschland/gen-z-proteste-pluenderungen-gewalt-100.html"
+        }
+      ]
+    },
+    {
+      "topic": "Rule of law · Poland",
+      "title": "Poland's constitutional court standoff deepens as Tusk urges Nawrocki to swear in new judges",
+      "summary": "Prime Minister Donald Tusk on 2 November urged President Karol Nawrocki to recognise judges elected by the Sejm to the Constitutional Tribunal, saying the conflict could be solved without changing the constitution and accusing him of choosing a forceful confrontation. The crisis escalated after the tribunal's PiS-era chief judge, Bogdan Święczkowski, was suspended and police were deployed around the court; Nawrocki cut short a trip to Senegal and entered the building on 30 October. His crisis talks with party leaders on 1 November, boycotted by Tusk's Civic Coalition, produced no breakthrough. The European Commission says the Sejm has the power to appoint the new members, and the US ambassador called for calm.",
+      "why": "The fight over Poland's top court is a test of how the EU's rule-of-law demands play out in a member state where government and president are at war, a year before national elections.",
+      "left": {
+        "angle": "Left-leaning coverage treats the crisis as the legacy of PiS's politicisation of the courts and an escalation by the right before the 2027 election. It gives weight to analysts who see PiS stoking an existential conflict to mobilise voters.",
+        "outlets": [
+          {
+            "name": "EUobserver",
+            "lean": "Centre-left",
+            "url": "https://euobserver.com/246342/explainer-polish-right-turns-court-dispute-into-election-battleground-dragging-in-the-eu/",
+            "note": "Explainer framing the dispute as the Polish right turning courts into an election battleground."
+          },
+          {
+            "name": "Al Jazeera",
+            "lean": "Lean left",
+            "url": "https://www.aljazeera.com/news/2026/11/1/polish-president-holds-crisis-talks-in-court-standoff",
+            "note": "Sets the standoff within years of fighting over PiS-era courts, mostly via attributed claims."
+          }
+        ]
+      },
+      "right": {
+        "angle": "Right-leaning coverage frames the police deployment as a government takeover of the court and foregrounds 'coup' accusations from PiS, judges and Ordo Iuris. It stresses that the Commission sided with Tusk and that Washington voiced concern.",
+        "outlets": [
+          {
+            "name": "Brussels Signal",
+            "lean": "Right",
+            "url": "https://brusselssignal.eu/2026/11/tusk-accused-of-staging-coup-after-police-storm-top-court/",
+            "note": "Leads with coup accusations and the chief justice being barred from his court."
+          }
+        ]
+      },
+      "differ": "The left sees Tusk undoing PiS's capture of the court; the right sees Tusk using police to seize it with Brussels' blessing.",
+      "sources": [
+        {
+          "name": "Euronews",
+          "url": "https://www.euronews.com/2026/11/02/donald-tusk-calls-on-polish-president-to-confirm-judges-as-constitutional-court-crisis-rum"
+        },
+        {
+          "name": "Notes from Poland",
+          "url": "https://notesfrompoland.com/2026/10/31/polish-president-in-physical-confrontation-with-judges-amid-power-struggle-at-constitutional-court/"
+        }
+      ]
+    },
+    {
+      "topic": "EU–UK · Defence and Brexit",
+      "title": "Kallas says Brussels is still 'traumatised' by Brexit and urges step-by-step UK ties",
+      "summary": "EU foreign policy chief Kaja Kallas said on 2 November that some in Brussels remain 'traumatised' by Brexit and that talks on any UK return would be difficult, urging the two sides to move step by step. She spoke alongside UK Defence Secretary Wes Streeting ahead of an EU–UK summit on 20 November, after new Prime Minister Andy Burnham opened a national debate that does not rule out rejoining. Streeting said leaving the EU had hurt the UK economy and sought British access to the EU's 'Made in Europe' defence procurement push; the UK pulled out of the €150bn SAFE loan scheme last year after talks on an entry fee stalled. Kallas suggested the UK first join existing EU defence frameworks.",
+      "why": "The summit will test whether Burnham's opening turns into concrete defence and trade deals, and how far the EU is willing to go with a former member.",
+      "left": {
+        "angle": "Centre-left commentary reads the joint appearance as a long-standing taboo on rejoining finally breaking. It presents defence cooperation as the first step in a process that could, eventually, end in membership.",
+        "outlets": [
+          {
+            "name": "EUobserver",
+            "lean": "Centre-left",
+            "url": "https://euobserver.com/246330/whisper-it-but-the-uks-path-back-to-the-eu-is-beginning-to-take-shape/",
+            "note": "Opinion: the UK's path back to the EU is beginning to take shape."
+          }
+        ]
+      },
+      "right": {
+        "angle": "Right-leaning coverage leads with the obstacles, using Kallas's 'traumatised' remark to show EU wariness toward Burnham's overtures. It focuses on the practical stakes for British defence firms if no procurement deal is reached.",
+        "outlets": [
+          {
+            "name": "The Telegraph",
+            "lean": "Centre-right",
+            "url": "https://www.yahoo.com/news/politics/articles/traumatised-eu-difficult-renegotiate-brexit-192129227.html",
+            "note": "Syndicated copy: a 'traumatised' EU will find renegotiating Brexit difficult."
+          }
+        ]
+      },
+      "differ": "Same press conference, opposite emphasis: the centre-left sees a door opening, the centre-right a door that will be hard to push.",
+      "sources": [
+        {
+          "name": "Euronews",
+          "url": "https://euronews.com/2026/11/02/brussels-still-traumatised-by-brexit-eu-foreign-policy-chief-warns"
+        },
+        {
+          "name": "The Copenhagen Post",
+          "url": "https://cphpost.dk/2026-11-02/global/eu-and-uk-seek-closer-defense-cooperation-ahead-of-november-summit/"
+        }
+      ]
+    }
+  ],
+  "oneSided": {
+    "left": [],
+    "right": []
+  }
+}
