@@ -1,248 +1,178 @@
 {
-  "date": "2026-11-04",
-  "generatedAt": "2026-11-04T05:44:58Z",
+  "date": "2026-11-05",
+  "generatedAt": "2026-11-05T05:42:37Z",
   "mode": "written",
-  "topline": "Four stories today: Spain's transport minister quits over the Urda rail disaster weeks before a snap election, hackers keep sabotaging supermarket freezers across Europe, candidate countries push back on the EU's probation plan as the enlargement package lands, and Europe rehearses a post-war Ukraine force as Brussels hosts security-guarantee talks.",
+  "topline": "Three stories today: Europe weighs what the Democrats' midterm sweep means for trade, Ukraine and its own politics; MEPs vote to soften the 2035 combustion-engine phase-out; and Czech public broadcasters strike as Babiš moves to end the licence fee.",
   "stories": [
     {
-      "topic": "Member states · Spain rail crisis",
-      "title": "Spain's transport minister Óscar Puente resigns over the Urda train crash that killed 69",
-      "summary": "Óscar Puente announced his resignation on 3 November before parliament's standing committee, a week after two high-speed trains collided near Urda on the Madrid–Seville line, killing 69 people. According to Puente, a signalling failure stopped several trains and Madrid controllers then cleared a Renfe train to proceed while an Iryo train stood on the track ahead. It was the second deadly crash on the line this year after January's Adamuz accident, which killed 46. Puente, who had earlier ruled out quitting, said no minister could stay on after two disasters of this scale; Pedro Sánchez praised his decision. The government announced reduced services, a 40 km/h limit after signal failures, doubled insurance payouts and faster rollout of the EU's ERTMS signalling system.",
-      "why": "The resignation lands less than four weeks before Spain's 29 November snap general election, with polls already showing the PP and Vox ahead. It also puts the delayed rollout of the EU-standard ERTMS rail-safety system at the centre of a national political crisis.",
+      "topic": "Transatlantic · US midterms",
+      "title": "Europe weighs the Democrats' midterm sweep, but expects little change on tariffs",
+      "summary": "Democrats won control of both chambers of the US Congress in Tuesday's midterms, passing the 218 seats needed in the House by Wednesday morning and taking Senate seats including Texas, Ohio, Kansas and Maine. Trump said he would accept the results but did not see them as a verdict on him, and signalled he would use his veto. European stock indices rose modestly while defence shares such as BAE and Rheinmetall fell. Spain's Pedro Sánchez hailed the result as a sign the far right is unravelling and predicted the same in Spain's 29 November election, while European Parliament vice-president Christel Schaldemose said she was cautiously optimistic for Ukraine support and the green transition. Analysts noted that trade policy largely remains with the president, so US tariffs on Europe are unlikely to disappear.",
+      "why": "A Democratic Congress can push back on Ukraine aid cuts and scrutinise the White House, but the tariffs and security pressure that most affect the EU stay in Trump's hands for two more years.",
       "left": {
-        "angle": "Left-leaning Spanish outlets present the resignation as a surprise act of political responsibility and dignity, and devote space to the government's safety and compensation measures. They also report that partners such as the Frente Amplio welcomed the move, while commentary pieces acknowledge that public trust in the railways remains damaged.",
+        "angle": "Left-leaning coverage frames the result as a broad rebuke of Trump, linking it to the Iran war and fuel prices and gathering hopeful reactions from leaders who have clashed with him. Several European commentators go further and talk about the beginning of the end of Trumpism.",
         "outlets": [
           {
-            "name": "elDiario.es",
-            "lean": "Left",
-            "url": "https://www.eldiario.es/politica/pp-carga-puente-dimision-frente-amplio-le-agradece-dignidad_1_13635770.html",
-            "note": "Contrasts Frente Amplio's thanks for Puente's 'dignity' with PP and Vox turning their fire on Sánchez."
-          },
-          {
-            "name": "elDiario.es",
-            "lean": "Left",
-            "url": "https://www.eldiario.es/opinion/zona-critica/puente-dimite-crisis-confianza-continua_129_13635674.html",
-            "note": "Opinion piece arguing the resignation does not by itself end the crisis of confidence in rail."
-          },
-          {
-            "name": "Público",
-            "lean": "Left",
-            "url": "https://www.publico.es/politica/ultima-hora-comparecencia-oscar-puente-accidente-urda-congreso-directo.html",
-            "note": "Live coverage built around Puente's own framing of the exit as coherence and empathy with victims."
+            "name": "Al Jazeera",
+            "lean": "Lean left",
+            "url": "https://www.aljazeera.com/news/2026/11/4/seismic-shift-world-reacts-to-us-midterm-election-results",
+            "note": "Global reactions roundup that ties the vote to the Iran war and petrol prices, with Sánchez and Schaldemose among the European voices."
           }
         ]
       },
       "right": {
-        "angle": "Right-leaning outlets treat the exit as overdue and as the end of a long run of controversies, from Puente's combative style on social media to earlier rail chaos. They shift the focus to Sánchez's responsibility and to the electoral calculation behind the timing.",
+        "angle": "Right-leaning outlets focus less on the result than on Europe's response to it, presenting Sánchez and other Trump critics as making sweeping claims and accusing European media of gloating. They highlight warnings that Trump still controls foreign policy.",
         "outlets": [
           {
-            "name": "The Objective",
+            "name": "Fox News",
             "lean": "Right",
-            "url": "https://theobjective.com/espana/politica/2026-11-03/oscar-puente-crisis-ferroviaria/",
-            "note": "Casts the resignation as the culmination of a months-long rail crisis and lists Puente's past gaffes."
+            "url": "https://www.foxnews.com/politics/gops-midterm-defeat-sparks-bold-claims-from-foreign-leaders-whove-clashed-trump",
+            "note": "Casts the European reactions, led by Sánchez's post, as bold claims from leaders already at odds with Trump."
           },
           {
-            "name": "COPE",
+            "name": "Legal Insurrection",
             "lean": "Right",
-            "url": "https://www.cope.es/programas/la-linterna/audios/julian-quiros-abc-sobre-dimision-oscar-puente-hoy-dia-moncloa-tenia-evaluar-dicen-encuestas-secretas-sobre-impacto-accidente-urda-elecciones-20261103_3467980.html",
-            "note": "ABC's director suggests the timing reflects Moncloa reading private polls on Urda's electoral damage."
+            "url": "https://legalinsurrection.com/2026/11/european-media-gloat-over-midterm-results-proclaiming-end-of-trump-era-and-maga-movement/",
+            "note": "Collects Guardian, Spiegel and Le Monde headlines as evidence of media Schadenfreude, quoting Ischinger's call for restraint."
           }
         ]
       },
-      "differ": "The left frames the resignation as a principled gesture and stresses the remedies; the right frames it as late, electorally driven and insufficient, aiming at Sánchez rather than Puente.",
+      "differ": "The left reads the vote as a turning point against Trumpism and a boost for Ukraine and climate policy; the right treats European enthusiasm itself as the story and stresses Trump's remaining power.",
       "sources": [
         {
           "name": "Euronews",
-          "url": "https://www.euronews.com/2026/11/03/spains-transport-minister-oscar-puente-resigns-over-urda-train-crash-that-killed-69"
-        },
-        {
-          "name": "AP (via ThePrint)",
-          "url": "https://theprint.in/world/spains-transport-minister-resigns-over-deadly-train-crash/3089831/"
+          "url": "https://www.euronews.com/2026/11/04/us-midterms-what-trumps-defeat-means-for-europe-and-global-markets"
         },
         {
           "name": "Euronews",
-          "url": "https://euronews.com/2026/10/29/deadly-train-crash-puts-sanchez-on-the-ropes-a-month-before-elections"
+          "url": "https://www.euronews.com/2026/11/04/lame-duck-or-mad-dog-why-trumps-defeat-could-spell-trouble-for-europe"
+        },
+        {
+          "name": "Axios",
+          "url": "https://www.axios.com/2026/11/04/2026-midterm-election-results-world-leaders-react"
         }
       ]
     },
     {
-      "topic": "Security · Hybrid threats",
-      "title": "Hackers overheat supermarket freezers in a second wave of attacks across Europe",
-      "summary": "Overnight into 2 November, internet-connected refrigeration units in supermarkets in at least nine countries, including Belgium, Luxembourg, Ireland, Sweden, Estonia, Finland, the Netherlands and Germany, were remotely switched to defrost or heated, in some cases reportedly to 50°C. Retailers including Delhaize, Carrefour, SuperValu, Coop and ICA reported spoiled stock; one German store owner put his losses above €360,000. The wave follows an October attack on hundreds of French supermarkets. No group has claimed responsibility; EU Agriculture Commissioner Christophe Hansen called it a deliberate attempt to disrupt the food chain but said food security is not at risk, Belgian prosecutors opened a criminal case and Italy held emergency talks. Equipment maker Danfoss said some customers had not applied a security update issued after the French incidents.",
-      "why": "The attacks hit a basic piece of civilian infrastructure in many member states at once and test the EU's new cyber-resilience rules for connected devices. They also feed an ongoing debate about hybrid pressure on Europe, though no attribution has been made.",
+      "topic": "Climate · Car CO2 rules",
+      "title": "MEPs on the environment committee vote to soften the 2035 combustion-engine phase-out",
+      "summary": "The European Parliament's environment committee backed a compromise on Wednesday, 48 votes to 30 with 2 abstentions, that drops the requirement for new cars to be fully zero-emission from 2035. Under the deal struck by the EPP, S&D and Renew, the fleet CO2 cut would be set at 87.5% compared with 2021, with credits such as using low-carbon EU-made steel able to raise it towards 95%; the target for vans falls to 80%. The Commission had proposed 90% last December, and France and Germany have backed 90% for the Council position. EPP rapporteur Massimiliano Salini said it would still be possible to register combustion-engine cars, while the Greens called it a bad deal. The full Parliament votes in December before talks with member states.",
+      "why": "It is one of the most visible rollbacks of the Green Deal and sets the Parliament's line for final negotiations on Europe's flagship car-climate law.",
       "left": {
-        "angle": "Left-leaning coverage keeps attribution open and leans towards the systemic explanation: exposed, unpatched connected devices and operators who failed to act after the French warning. Al Jazeera mentions Russian hybrid-war suspicions only as background, while taz does not raise Russia at all.",
+        "angle": "Left-leaning and green-leaning coverage presents the vote as another retreat from the Green Deal brought about by car-industry pressure, stressing the Greens' objections and the risk to Europe's EV transition. We found no fresh piece from the listed left-leaning outlets on Wednesday's vote; the elDiario.es link below is earlier coverage of the Commission's original proposal.",
         "outlets": [
           {
-            "name": "taz",
+            "name": "elDiario.es",
             "lean": "Left",
-            "url": "https://taz.de/Cyberattacken-auf-Kuehlgeraete/!6226959/",
-            "note": "Focuses on German losses, missed security updates and why fridges need to be online at all."
-          },
-          {
-            "name": "Al Jazeera",
-            "lean": "Lean left",
-            "url": "https://www.aljazeera.com/news/2026/11/3/very-cold-war-whos-attacking-europes-supermarket-freezers",
-            "note": "Explainer weighing motives, stressing weak passwords and old controllers; no actor named."
+            "url": "https://www.eldiario.es/economia/presion-industria-automovil-tuerce-brazo-comision-europea-permite-motores-combustion-2035_1_12848486.html",
+            "note": "Earlier coverage: describes the Commission's U-turn as carmakers twisting Brussels's arm."
           }
         ]
       },
       "right": {
-        "angle": "Right-leaning coverage leads with the possibility of hybrid warfare, putting pro-Russian hacker groups and state actors such as Russia and Iran front and centre while noting nothing is confirmed. It also stresses how unsophisticated the intrusions were and that official warnings went unheeded.",
+        "angle": "Right-leaning outlets frame the change as common sense catching up with reality, a lifeline for carmakers and jobs, and some argue it does not go far enough because the steel credits make the rules complicated in practice.",
         "outlets": [
           {
-            "name": "Apollo News",
+            "name": "El Español",
+            "lean": "Centre-right",
+            "url": "https://www.elespanol.com/motor/20261104/eurocamara-apoya-derogar-veto-coches-gasolina-diesel-pacto-ppe-socialistas-liberales/1003744446322_0.html",
+            "note": "Leads with the Parliament scrapping the petrol-and-diesel 'veto' through a cross-party pact."
+          },
+          {
+            "name": "Brussels Signal",
             "lean": "Right",
-            "url": "https://apollo-news.net/hybride-kriegsfhrung-hacker-sabotieren-khlanlagen-in-europas-supermrkten/",
-            "note": "Headlines the hybrid-war question and lists earlier pro-Russian attacks on cooling systems."
+            "url": "https://brusselssignal.eu/2026/10/european-parliament-strikes-deal-to-soften-2035-combustion-engine-phase-out/",
+            "note": "Earlier coverage (October) of the deal being struck, seen as a win for the industry."
           }
         ]
       },
-      "differ": "Left-leaning pieces treat this mainly as an IoT-security and corporate-negligence failure; the right-leaning piece foregrounds a geopolitical sabotage frame, while both admit the culprit is unknown.",
+      "differ": "The left sees a climate backslide driven by lobbying; the right sees a needed correction for industry, with some saying the compromise is still too strict.",
       "sources": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/2/freezers-in-sweden-belgium-overheat-following-possible-cyberattacks"
+          "name": "Euronews",
+          "url": "https://www.euronews.com/2026/11/04/meps-deal-another-blow-to-green-deal-with-softer-car-emissions-targets"
         },
         {
-          "name": "Euronews",
-          "url": "https://www.euronews.com/2026/11/03/italy-holds-emergency-talks-as-supermarket-fridge-attacks-spread-across-europe"
+          "name": "Eunews",
+          "url": "https://www.eunews.it/en/2026/11/04/parliament-gives-initial-approval-to-the-backtracking-on-the-ban-on-internal-combustion-engines-from-2035/"
         },
         {
           "name": "ZDFheute",
-          "url": "https://www.zdfheute.de/panorama/cyberangriffe-supermaerkte-belgien-schweden-irland-luxemburg-estland-finnland-niederlande-100.html"
-        },
-        {
-          "name": "The Register",
-          "url": "https://www.theregister.com/cyber-crime/2026/11/02/frozen-part-ii-hackers-remotely-defrost-produce-in-euro-supermarkets-again/5306924"
+          "url": "https://www.zdfheute.de/wirtschaft/eu-parlament-abstimmung-aufweichung-verbrenner-aus-100.html"
         }
       ]
     },
     {
-      "topic": "Enlargement · Candidates",
-      "title": "Candidate countries push back on 'probation' and farm curbs as the EU's enlargement package is unveiled",
-      "summary": "At a Euronews enlargement summit in Brussels on 3 November, the day before Commissioner Marta Kos presents the 2026 enlargement package, candidates questioned the terms on offer. Montenegro, aiming to join by 2028, said it did not want second-grade membership, a reference to the Commission's proposed 15-year probation in which new members could lose votes or funds for backsliding. Ukraine's prime minister rejected permanent limits on farm exports such as grain after accession, while Albania repeated its goal of closing talks by end-2027 and North Macedonia said Bulgaria was holding its bid hostage. Armenia said applying in 2027 or 2028 was realistic, whereas Georgia offered no route out of its stalled bid. Croatia's prime minister warned that France's coming elections could derail enlargement.",
-      "why": "The package sets the pace for the most serious EU expansion push in two decades, and the safeguards debate will decide what kind of membership newcomers get. Unanimity means a single sceptical capital can still stall the process.",
+      "topic": "Media freedom · Czech Republic",
+      "title": "Czech public broadcasters strike as Babiš government moves to end the licence fee",
+      "summary": "Staff at Czech Television and Czech Radio went on strike on Tuesday, and thousands rallied in Prague and other cities against the government's plan to scrap the household licence fee and fund public media directly from the state budget. Under the plan the broadcasters would get about 15% less money, which unions say could mean layoffs and cancelled programmes. Prime Minister Andrej Babiš said no one wants to control or nationalise public media. Press-freedom groups including the European Federation of Journalists and Reporters Without Borders warned that budget funding opens the door to political pressure, and organisers expect a much larger protest at Letná on 15 November.",
+      "why": "Public-media independence is a core rule-of-law test under the EU's Media Freedom Act, and critics compare the plan to changes in Slovakia and Hungary that drew scrutiny from Brussels.",
       "left": {
-        "angle": "No fresh left-leaning take on the summit was found in this run. Earlier centre-left coverage framed the probation plan as a lesson from the Orbán years, a way to protect EU values while keeping enlargement moving, and relied mainly on Commission voices.",
+        "angle": "Left-leaning coverage frames the strike as a historic stand for press freedom, placing it in a pattern of central European governments tightening their grip on public broadcasters.",
         "outlets": [
           {
-            "name": "The Guardian (via AOL, earlier — 6 Oct)",
+            "name": "EUobserver",
             "lean": "Centre-left",
-            "url": "https://www.aol.co.uk/articles/no-more-viktor-orb-n-143816000.html",
-            "note": "Earlier coverage: presents the 15-year probation as a 'No more Viktor Orbán' safeguard."
+            "url": "https://euobserver.com/246573/czech-public-broadcasters-hold-historic-strike-following-government-vote-to-abolish-license-fees/",
+            "note": "Calls the walkout historic and ties it to the government's vote to abolish the fees."
           }
         ]
       },
       "right": {
-        "angle": "No fresh right-leaning take on the summit was found in this run. Earlier centre-right/right coverage in The Spectator backed enlargement as a strategic necessity but noted critics would see probation as a de facto second tier and tied the debate to Britain's own relationship with the EU.",
+        "angle": "We found no fresh right-leaning take on this week's strike. Earlier conservative coverage welcomed ending the fee as relief for households and a check on broadcasters it sees as biased towards Brussels.",
         "outlets": [
           {
-            "name": "The Spectator (earlier — 10 Oct)",
+            "name": "The European Conservative",
             "lean": "Right",
-            "url": "https://spectator.com/article/can-europe-keep-up-momentum-on-enlargement/",
-            "note": "Earlier coverage: urges momentum but flags that safeguards could amount to second-class status."
+            "url": "https://europeanconservative.com/?p=70885",
+            "note": "Earlier coverage (June): hailed scrapping the fee as a blow to 'Brussels propaganda'."
           }
         ]
       },
-      "differ": "Both sides' earlier coverage accepts enlargement as strategic; the centre-left stresses rule-of-law protection, while the right-leaning piece dwells on whether the safeguards create unequal members.",
+      "differ": "The left sees an attack on independent journalism; the right, in earlier coverage, saw a fee cut and a correction of broadcaster bias.",
       "sources": [
         {
           "name": "Euronews",
-          "url": "https://www.euronews.com/2026/11/03/progress-and-pitfalls-on-the-path-to-a-bigger-eu-five-takeaways-from-the-euronews-enlargem"
-        },
-        {
-          "name": "Euronews",
-          "url": "https://www.euronews.com/2026/11/03/montenegro-rejects-second-class-eu-membership-as-it-eyes-2028-accession"
-        },
-        {
-          "name": "European Western Balkans",
-          "url": "https://europeanwesternbalkans.com/2026/10/30/marta-kos-to-present-2026-enlargement-package-on-4-november/"
-        },
-        {
-          "name": "Kyiv Independent",
-          "url": "https://kyivindependent.com/as-moldova-races-ahead-of-ukraine-on-reforms-eu-set-to-reveal-verdict-on-kyivs-progress/"
-        }
-      ]
-    },
-    {
-      "topic": "Ukraine · Security guarantees",
-      "title": "Europe rehearses a post-war Ukraine force as Brussels hosts security-guarantee talks with the US",
-      "summary": "Representatives of Ukraine, the US, France, Germany, the UK, NATO and the World Bank meet at the European Commission on 4 November to discuss security guarantees and reconstruction, ahead of US-mediated Ukraine–Russia talks in Abu Dhabi on 10–11 November. Separately, Britain announced that about 2,800 troops from 11 countries, including 1,100 French and 300 British soldiers, will hold 'Koalicja', the first exercise of the Multinational Force for Ukraine, in south-eastern Poland from 9 to 22 November. The force, created by the coalition of the willing, would deploy only after fighting ends and at Kyiv's request, and is separate from NATO with limited US involvement. Russia's foreign minister has rejected a temporary ceasefire, while Zelensky wants Article 5-style US guarantees approved by Congress.",
-      "why": "Europe is trying to show it can underwrite Ukraine's post-war security itself as Washington drives the peace track. What is agreed on guarantees will shape EU reconstruction spending and Europe's own defence posture.",
-      "left": {
-        "angle": "Left-leaning coverage of the peace track leads with the human toll of continuing Russian strikes, such as the bombing of an aid centre in Zaporizhzhia, and relays Kyiv's view that Moscow is not serious about de-escalation. The European force and the Brussels meeting barely feature.",
-        "outlets": [
-          {
-            "name": "Al Jazeera",
-            "lean": "Lean left",
-            "url": "https://www.aljazeera.com/news/2026/11/2/russian-bombing-of-ukrainian-aid-centre-kills-24-people-zelenskyy",
-            "note": "Pairs the deadly strike on an aid hub with the announcement of new US-mediated talks."
-          }
-        ]
-      },
-      "right": {
-        "angle": "Right-leaning British coverage centres on the role of UK troops in the exercise and on preparing for an eventual peace. A full right-leaning analysis of the risks or of the Brussels talks was not found in this run.",
-        "outlets": [
-          {
-            "name": "GB News",
-            "lean": "Right",
-            "url": "https://www.gbnews.com/news/british-major-multinational-wargame-peace-ukraine-russia",
-            "note": "Headline puts British troops at the front of the multinational wargame for peace (full text not reviewed)."
-          }
-        ]
-      },
-      "differ": "The left-leaning take stresses Russian violence and doubts about Moscow's intentions; the right-leaning take puts British military readiness and national contribution first.",
-      "sources": [
-        {
-          "name": "Kyiv Post",
-          "url": "https://www.kyivpost.com/post/89028"
-        },
-        {
-          "name": "AFP (via The Copenhagen Post)",
-          "url": "https://cphpost.dk/2026-11-03/global/european-allies-to-rehearse-deployment-of-multinational-force-to-postwar-ukraine/"
+          "url": "https://www.euronews.com/2026/11/04/thousands-join-czech-protest-against-public-media-financing-plan"
         },
         {
           "name": "France 24",
-          "url": "https://www.france24.com/en/europe/20261103-european-force-to-hold-first-ukraine-support-exercise-in-poland"
+          "url": "https://www.france24.com/en/live-news/20261103-thousands-join-czech-protest-against-public-media-financing-plan"
         },
         {
-          "name": "Euronews",
-          "url": "https://www.euronews.com/2026/11/03/thousands-of-troops-from-europe-to-rehearse-post-war-ukraine-deployment-in-poland"
-        },
-        {
-          "name": "LBC",
-          "url": "https://www.lbc.co.uk/article/british-troops-ukraine-russia-war-5HjdknT_2/"
+          "name": "Expats.cz",
+          "url": "https://www.expats.cz/czech-news/article/explained-why-czechia-s-public-media-funding-dispute-has-spilled-onto-the-streets"
         }
       ]
     }
   ],
   "oneSided": {
-    "left": [],
+    "left": [
+      {
+        "title": "La izquierda catalana se aferra al tsunami demócrata para contener a las derechas el 29N",
+        "outlet": "Público",
+        "lean": "Left",
+        "url": "https://www.publico.es/politica/izquierda-catalana-aferra-tsunami-democrata-contener-derechas-29n.html"
+      }
+    ],
     "right": [
       {
-        "title": "France's Socialists push through per-gigabyte internet tax by one vote",
+        "title": "Montenegro nears EU membership as Croatia's demands loom",
         "outlet": "Brussels Signal",
         "lean": "Right",
-        "url": "https://brusselssignal.eu/2026/11/frances-socialists-push-through-per-gigabyte-internet-tax-by-one-vote/"
+        "url": "https://brusselssignal.eu/2026/11/montenegro-nears-eu-membership-as-croatias-demands-loom/"
       },
       {
-        "title": "Hamburg freezes new major power grid connections as capacity runs out",
+        "title": "Ukraine's anti-graft detectives face armed standoff during raids on senior spy chiefs",
         "outlet": "Brussels Signal",
         "lean": "Right",
-        "url": "https://brusselssignal.eu/2026/11/hamburg-freezes-new-major-power-grid-connections-as-capacity-runs-out/"
+        "url": "https://brusselssignal.eu/2026/11/ukraines-anti-graft-detectives-face-armed-standoff-during-raids-on-senior-spy-chiefs/"
       },
       {
-        "title": "French protests lose momentum as prosecutors probe Molotov attack on gendarmes",
+        "title": "Ukraine bans Polish journalist Łukasz Warzecha for three years on 'security grounds'",
         "outlet": "Brussels Signal",
         "lean": "Right",
-        "url": "https://brusselssignal.eu/2026/11/french-protests-lose-momentum-as-prosecutors-probe-molotov-attack-on-gendarmes/"
-      },
-      {
-        "title": "Poland's UN envoy becomes third ambassador to quit over constitutional court 'coup'",
-        "outlet": "Brussels Signal",
-        "lean": "Right",
-        "url": "https://brusselssignal.eu/2026/11/polands-un-envoy-becomes-third-ambassador-to-quit-over-constitutional-court-coup/"
+        "url": "https://brusselssignal.eu/2026/11/ukraine-bans-polish-journalist-lukasz-warzecha-for-three-years-on-security-grounds/"
       }
     ]
   }
