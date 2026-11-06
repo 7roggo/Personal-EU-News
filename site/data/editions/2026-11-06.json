@@ -1,0 +1,153 @@
+{
+  "date": "2026-11-06",
+  "generatedAt": "2026-11-06T05:43:49Z",
+  "mode": "written",
+  "topline": "Three stories today: Meloni demands a single EU negotiator for Ukraine talks, France's unions bring up to 1.6 million into the streets against the 2027 budget, and a second wave of hoax bomb threats disrupts flights across Europe.",
+  "stories": [
+    {
+      "topic": "Ukraine · Peace talks",
+      "title": "Meloni asks Costa to name one EU negotiator for Ukraine talks by December",
+      "summary": "Italian Prime Minister Giorgia Meloni wrote to European Council President António Costa on 5 November asking EU leaders to decide who negotiates for the Union in Ukraine peace talks, and with what mandate. She wants the question on the agenda of the informal leaders' meeting in Dublin and a formal decision at the December European Council, after consulting the UK, Norway and other partners. She said she is not seeking a seat for Italy and warned of the risk of \"condemning Europe to irrelevance\". The letter lists a string of parallel formats — national security advisers meeting in Miami, a Stubb–Støre call with Putin, Brussels talks with the US and Ukraine — as US-brokered contacts with Moscow and Kyiv continue.",
+      "why": "Europe has struggled to get a defined role in US-led talks on ending the war; a single envoy would force leaders to agree a common mandate, something they have repeatedly put off.",
+      "left": {
+        "angle": "Left-leaning Italian coverage reads the letter mainly through domestic politics: as Meloni repositioning towards Brussels after Trump's midterm defeat, and as a reaction to Italy being left out of the France–Germany–UK-led talks on security guarantees. It gives space to opposition voices accusing her of seeking the spotlight rather than results.",
+        "outlets": [
+          {
+            "name": "Il Fatto Quotidiano",
+            "lean": "Left",
+            "url": "https://www.ilfattoquotidiano.it/2026/11/05/ucraina-dopo-la-sconfitta-di-trump-meloni-cerca-bruxelles-lettera-a-costa-chi-negozia-per-la-ue-e-con-che-mandato/8561759/",
+            "note": "Frames the letter as Meloni turning to Brussels after Trump's setback; quotes M5S criticism that she is isolating Italy."
+          }
+        ]
+      },
+      "right": {
+        "angle": "Right-leaning outlets present the letter as a principled call for order, reproducing much of Meloni's own text and stressing that she asks nothing for Italy. Coverage leads with her complaint about European chaos and lack of credibility rather than with Italy's exclusion from the leading group.",
+        "outlets": [
+          {
+            "name": "Libero",
+            "lean": "Right",
+            "url": "https://www.liberoquotidiano.it/news/politica/49534087/meloni-lettera-inviata-antonio-costa-metto-nero-su-bianco-non-mi-presto-questa-dinamica/",
+            "note": "Largely quotes the letter, highlighting her refusal to 'go along with this dynamic' and the timeline of meetings."
+          },
+          {
+            "name": "Die Welt",
+            "lean": "Centre-right",
+            "url": "https://www.welt.de/politik/ausland/article6aecbec6c7da7601aa4f9111/eu-vorgehen-all-das-laesst-uns-voellig-unglaubwuerdig-erscheinen-meloni-kritisiert-chaos-bei-ukraine-gespraechen.html",
+            "note": "Headlines Meloni's warning that the EU's approach makes it look untrustworthy."
+          }
+        ]
+      },
+      "differ": "The left asks why Meloni is speaking up now and what it says about her standing; the right takes her diagnosis of European disarray at face value.",
+      "sources": [
+        {
+          "name": "ANSA",
+          "url": "https://www.ansa.it/english/newswire/english_service/2026/11/05/eu-must-decide-its-envoy-for-ukraine-by-december-meloni-says-in-letter_ad850673-906a-4f1a-8283-3103180efa11.html"
+        },
+        {
+          "name": "AFP via Arab News",
+          "url": "https://www.arabnews.com/world/italys-meloni-blasts-europes-disarray-on-ukraine-talks-3010025"
+        },
+        {
+          "name": "Il Foglio",
+          "url": "https://www.ilfoglio.it/en/politics/2026/11/05/news/meloni-writes-to-antonio-costa-europe-must-speak-with-one-voice-on-ukraine--412774"
+        }
+      ]
+    },
+    {
+      "topic": "Member states · France budget",
+      "title": "French unions bring hundreds of thousands out against the 2027 budget; Lecornu calls a 'social conference'",
+      "summary": "A joint union front including the CFDT, CGT, FO, UNSA and FSU staged a nationwide strike and marches on 5 November over wages, pensions and public services as the government pushes a tight 2027 budget. The CGT claimed about 1.6 million participants; the interior ministry counted 575,000 in 193 marches, 65,000 of them in Paris. Police reported 448 arrests and 53 officers injured, with clashes in Lyon and Toulouse. That evening Prime Minister Sébastien Lecornu convened a 'social conference' with unions and employers at Matignon for Monday 9 November, focused on pay and purchasing power.",
+      "why": "France is under EU excessive-deficit procedure and pressure from markets to cut spending; mass protest makes it harder for Paris to pass a credible budget, which matters for eurozone fiscal rules and stability.",
+      "left": {
+        "angle": "Centre-left coverage leads with the scale of the turnout and the gap between union and police figures, and with Lecornu's concession of talks, treating the day as a show of strength by workers. We could not read a full left-leaning analysis after the march; the Le Monde item below is its live coverage.",
+        "outlets": [
+          {
+            "name": "Le Monde",
+            "lean": "Centre-left",
+            "url": "https://www.lemonde.fr/politique/live/2026/11/05/en-direct-greve-du-5-novembre-entre-575-000-et-1-6-million-de-manifestants-en-france-jeudi-une-conference-sociale-avec-les-syndicats-et-le-patronat-prevue-a-matignon-lundi_6806775_823448.html",
+            "note": "Live blog headlining the 575,000–1.6 million range and the Monday social conference."
+          }
+        ]
+      },
+      "right": {
+        "angle": "We found no right-leaning analysis published after the march. Earlier right-leaning coverage of the mobilisation focused on disruption, vandalism and the risk of escalation through the autumn rather than on union demands.",
+        "outlets": [
+          {
+            "name": "Sud Radio",
+            "lean": "Right",
+            "url": "https://www.sudradio.fr/sud-radio/halloween-social-greve-du-5-novembre-blocages-quels-sont-les-prochains-actes-a-venir",
+            "note": "Earlier (26 Oct) preview casting the autumn as a 'social Halloween', stressing blockades and damage to shops."
+          },
+          {
+            "name": "Le Figaro",
+            "lean": "Centre-right",
+            "url": "https://www.lefigaro.fr/social/greve-intersyndicale-du-5-novembre-transports-education-sante-quels-sont-les-secteurs-mobilises-20261025",
+            "note": "Earlier (25 Oct) practical guide to which sectors would strike."
+          }
+        ]
+      },
+      "differ": "Left-leaning coverage measures the day by turnout and the pressure it puts on the government; right-leaning coverage has focused on disruption and public order.",
+      "sources": [
+        {
+          "name": "AFP via Boursorama",
+          "url": "https://www.boursorama.com/actualite-economique/actualites/lecornu-convoque-une-conference-sociale-apres-une-journee-de-colere-sociale-68f8c3351ea9fcafb4a769ddb01c28f3"
+        },
+        {
+          "name": "Politique Matin",
+          "url": "https://www.politiquematin.fr/manifestations-5-novembre-2026-bilan-cgt-interpellations"
+        },
+        {
+          "name": "Euronews",
+          "url": "https://www.euronews.com/video/2026/11/05/france-workers-and-students-unite-in-nationwide-protests-over-living-costs"
+        }
+      ]
+    },
+    {
+      "topic": "Security · Aviation threats",
+      "title": "Second wave of hoax bomb threats diverts flights across Europe",
+      "summary": "About a dozen flights received bomb threats on 5 November, two days after a first wave hit around seven to ten flights. An Aer Lingus Dublin–Rome jet was diverted to the Évreux air base in France, a Finnair Helsinki–Rome flight was escorted by Italian fighter jets, Wizz Air Milan–Warsaw landed in Vienna, and Ryanair flights to Sofia and several to Prague were checked; a runway at Warsaw Chopin was briefly closed. No devices were found. EU transport commissioner Apostolos Tzitzikostas said it was too early to say whether the incidents were linked, while Italy's defence minister Guido Crosetto spoke of a strategy to generate chaos. An anonymous Italian-language email was reported behind two Rome threats; no attribution has been made.",
+      "why": "The threats come amid a run of suspected hybrid attacks on European infrastructure, testing how quickly the EU and its aviation safety agency can coordinate a response across member states.",
+      "left": {
+        "angle": "Lean-left coverage is cautious, leading with the diversions and passenger safety and stressing that there is no indication of who is behind the threats. It mentions earlier drone and cyber incidents only as background, explicitly noting there is no evidence linking them.",
+        "outlets": [
+          {
+            "name": "Al Jazeera",
+            "lean": "Lean left",
+            "url": "https://www.aljazeera.com/news/2026/11/5/bomb-threat-diverts-dublin-rome-flight-to-france",
+            "note": "Factual round-up led by the Évreux diversion; notes no one has claimed responsibility."
+          }
+        ]
+      },
+      "right": {
+        "angle": "Right-leaning coverage also reports the threats as unfounded but places them more directly in the context of European officials blaming Russia and Iran for hybrid attacks and sabotage, giving the story a geopolitical edge.",
+        "outlets": [
+          {
+            "name": "Fox News",
+            "lean": "Right",
+            "url": "https://www.foxnews.com/world/multiple-flights-europe-diverted-bomb-threats",
+            "note": "Lists the affected flights and recalls officials' accusations against Russia and Iran over hybrid attacks."
+          }
+        ]
+      },
+      "differ": "Both sides avoid naming a culprit, but the left emphasises the absence of evidence while the right foregrounds the hybrid-warfare suspicion.",
+      "sources": [
+        {
+          "name": "Euronews",
+          "url": "https://www.euronews.com/2026/11/05/airbus-plane-from-dublin-to-rome-diverted-to-france-after-bomb-alert"
+        },
+        {
+          "name": "Eunews",
+          "url": "https://www.eunews.it/en/2026/11/05/bomb-threats-on-more-than-20-flights-tzitzikostas-any-threat-to-civilians-is-unacceptable/"
+        },
+        {
+          "name": "AP via Global News",
+          "url": "https://globalnews.ca/news/12137827/europe-flights-bomb-threat/"
+        }
+      ]
+    }
+  ],
+  "oneSided": {
+    "left": [],
+    "right": []
+  }
+}

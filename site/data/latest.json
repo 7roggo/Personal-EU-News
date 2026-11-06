@@ -1,179 +1,153 @@
 {
-  "date": "2026-11-05",
-  "generatedAt": "2026-11-05T05:42:37Z",
+  "date": "2026-11-06",
+  "generatedAt": "2026-11-06T05:43:49Z",
   "mode": "written",
-  "topline": "Three stories today: Europe weighs what the Democrats' midterm sweep means for trade, Ukraine and its own politics; MEPs vote to soften the 2035 combustion-engine phase-out; and Czech public broadcasters strike as Babiš moves to end the licence fee.",
+  "topline": "Three stories today: Meloni demands a single EU negotiator for Ukraine talks, France's unions bring up to 1.6 million into the streets against the 2027 budget, and a second wave of hoax bomb threats disrupts flights across Europe.",
   "stories": [
     {
-      "topic": "Transatlantic · US midterms",
-      "title": "Europe weighs the Democrats' midterm sweep, but expects little change on tariffs",
-      "summary": "Democrats won control of both chambers of the US Congress in Tuesday's midterms, passing the 218 seats needed in the House by Wednesday morning and taking Senate seats including Texas, Ohio, Kansas and Maine. Trump said he would accept the results but did not see them as a verdict on him, and signalled he would use his veto. European stock indices rose modestly while defence shares such as BAE and Rheinmetall fell. Spain's Pedro Sánchez hailed the result as a sign the far right is unravelling and predicted the same in Spain's 29 November election, while European Parliament vice-president Christel Schaldemose said she was cautiously optimistic for Ukraine support and the green transition. Analysts noted that trade policy largely remains with the president, so US tariffs on Europe are unlikely to disappear.",
-      "why": "A Democratic Congress can push back on Ukraine aid cuts and scrutinise the White House, but the tariffs and security pressure that most affect the EU stay in Trump's hands for two more years.",
+      "topic": "Ukraine · Peace talks",
+      "title": "Meloni asks Costa to name one EU negotiator for Ukraine talks by December",
+      "summary": "Italian Prime Minister Giorgia Meloni wrote to European Council President António Costa on 5 November asking EU leaders to decide who negotiates for the Union in Ukraine peace talks, and with what mandate. She wants the question on the agenda of the informal leaders' meeting in Dublin and a formal decision at the December European Council, after consulting the UK, Norway and other partners. She said she is not seeking a seat for Italy and warned of the risk of \"condemning Europe to irrelevance\". The letter lists a string of parallel formats — national security advisers meeting in Miami, a Stubb–Støre call with Putin, Brussels talks with the US and Ukraine — as US-brokered contacts with Moscow and Kyiv continue.",
+      "why": "Europe has struggled to get a defined role in US-led talks on ending the war; a single envoy would force leaders to agree a common mandate, something they have repeatedly put off.",
       "left": {
-        "angle": "Left-leaning coverage frames the result as a broad rebuke of Trump, linking it to the Iran war and fuel prices and gathering hopeful reactions from leaders who have clashed with him. Several European commentators go further and talk about the beginning of the end of Trumpism.",
+        "angle": "Left-leaning Italian coverage reads the letter mainly through domestic politics: as Meloni repositioning towards Brussels after Trump's midterm defeat, and as a reaction to Italy being left out of the France–Germany–UK-led talks on security guarantees. It gives space to opposition voices accusing her of seeking the spotlight rather than results.",
+        "outlets": [
+          {
+            "name": "Il Fatto Quotidiano",
+            "lean": "Left",
+            "url": "https://www.ilfattoquotidiano.it/2026/11/05/ucraina-dopo-la-sconfitta-di-trump-meloni-cerca-bruxelles-lettera-a-costa-chi-negozia-per-la-ue-e-con-che-mandato/8561759/",
+            "note": "Frames the letter as Meloni turning to Brussels after Trump's setback; quotes M5S criticism that she is isolating Italy."
+          }
+        ]
+      },
+      "right": {
+        "angle": "Right-leaning outlets present the letter as a principled call for order, reproducing much of Meloni's own text and stressing that she asks nothing for Italy. Coverage leads with her complaint about European chaos and lack of credibility rather than with Italy's exclusion from the leading group.",
+        "outlets": [
+          {
+            "name": "Libero",
+            "lean": "Right",
+            "url": "https://www.liberoquotidiano.it/news/politica/49534087/meloni-lettera-inviata-antonio-costa-metto-nero-su-bianco-non-mi-presto-questa-dinamica/",
+            "note": "Largely quotes the letter, highlighting her refusal to 'go along with this dynamic' and the timeline of meetings."
+          },
+          {
+            "name": "Die Welt",
+            "lean": "Centre-right",
+            "url": "https://www.welt.de/politik/ausland/article6aecbec6c7da7601aa4f9111/eu-vorgehen-all-das-laesst-uns-voellig-unglaubwuerdig-erscheinen-meloni-kritisiert-chaos-bei-ukraine-gespraechen.html",
+            "note": "Headlines Meloni's warning that the EU's approach makes it look untrustworthy."
+          }
+        ]
+      },
+      "differ": "The left asks why Meloni is speaking up now and what it says about her standing; the right takes her diagnosis of European disarray at face value.",
+      "sources": [
+        {
+          "name": "ANSA",
+          "url": "https://www.ansa.it/english/newswire/english_service/2026/11/05/eu-must-decide-its-envoy-for-ukraine-by-december-meloni-says-in-letter_ad850673-906a-4f1a-8283-3103180efa11.html"
+        },
+        {
+          "name": "AFP via Arab News",
+          "url": "https://www.arabnews.com/world/italys-meloni-blasts-europes-disarray-on-ukraine-talks-3010025"
+        },
+        {
+          "name": "Il Foglio",
+          "url": "https://www.ilfoglio.it/en/politics/2026/11/05/news/meloni-writes-to-antonio-costa-europe-must-speak-with-one-voice-on-ukraine--412774"
+        }
+      ]
+    },
+    {
+      "topic": "Member states · France budget",
+      "title": "French unions bring hundreds of thousands out against the 2027 budget; Lecornu calls a 'social conference'",
+      "summary": "A joint union front including the CFDT, CGT, FO, UNSA and FSU staged a nationwide strike and marches on 5 November over wages, pensions and public services as the government pushes a tight 2027 budget. The CGT claimed about 1.6 million participants; the interior ministry counted 575,000 in 193 marches, 65,000 of them in Paris. Police reported 448 arrests and 53 officers injured, with clashes in Lyon and Toulouse. That evening Prime Minister Sébastien Lecornu convened a 'social conference' with unions and employers at Matignon for Monday 9 November, focused on pay and purchasing power.",
+      "why": "France is under EU excessive-deficit procedure and pressure from markets to cut spending; mass protest makes it harder for Paris to pass a credible budget, which matters for eurozone fiscal rules and stability.",
+      "left": {
+        "angle": "Centre-left coverage leads with the scale of the turnout and the gap between union and police figures, and with Lecornu's concession of talks, treating the day as a show of strength by workers. We could not read a full left-leaning analysis after the march; the Le Monde item below is its live coverage.",
+        "outlets": [
+          {
+            "name": "Le Monde",
+            "lean": "Centre-left",
+            "url": "https://www.lemonde.fr/politique/live/2026/11/05/en-direct-greve-du-5-novembre-entre-575-000-et-1-6-million-de-manifestants-en-france-jeudi-une-conference-sociale-avec-les-syndicats-et-le-patronat-prevue-a-matignon-lundi_6806775_823448.html",
+            "note": "Live blog headlining the 575,000–1.6 million range and the Monday social conference."
+          }
+        ]
+      },
+      "right": {
+        "angle": "We found no right-leaning analysis published after the march. Earlier right-leaning coverage of the mobilisation focused on disruption, vandalism and the risk of escalation through the autumn rather than on union demands.",
+        "outlets": [
+          {
+            "name": "Sud Radio",
+            "lean": "Right",
+            "url": "https://www.sudradio.fr/sud-radio/halloween-social-greve-du-5-novembre-blocages-quels-sont-les-prochains-actes-a-venir",
+            "note": "Earlier (26 Oct) preview casting the autumn as a 'social Halloween', stressing blockades and damage to shops."
+          },
+          {
+            "name": "Le Figaro",
+            "lean": "Centre-right",
+            "url": "https://www.lefigaro.fr/social/greve-intersyndicale-du-5-novembre-transports-education-sante-quels-sont-les-secteurs-mobilises-20261025",
+            "note": "Earlier (25 Oct) practical guide to which sectors would strike."
+          }
+        ]
+      },
+      "differ": "Left-leaning coverage measures the day by turnout and the pressure it puts on the government; right-leaning coverage has focused on disruption and public order.",
+      "sources": [
+        {
+          "name": "AFP via Boursorama",
+          "url": "https://www.boursorama.com/actualite-economique/actualites/lecornu-convoque-une-conference-sociale-apres-une-journee-de-colere-sociale-68f8c3351ea9fcafb4a769ddb01c28f3"
+        },
+        {
+          "name": "Politique Matin",
+          "url": "https://www.politiquematin.fr/manifestations-5-novembre-2026-bilan-cgt-interpellations"
+        },
+        {
+          "name": "Euronews",
+          "url": "https://www.euronews.com/video/2026/11/05/france-workers-and-students-unite-in-nationwide-protests-over-living-costs"
+        }
+      ]
+    },
+    {
+      "topic": "Security · Aviation threats",
+      "title": "Second wave of hoax bomb threats diverts flights across Europe",
+      "summary": "About a dozen flights received bomb threats on 5 November, two days after a first wave hit around seven to ten flights. An Aer Lingus Dublin–Rome jet was diverted to the Évreux air base in France, a Finnair Helsinki–Rome flight was escorted by Italian fighter jets, Wizz Air Milan–Warsaw landed in Vienna, and Ryanair flights to Sofia and several to Prague were checked; a runway at Warsaw Chopin was briefly closed. No devices were found. EU transport commissioner Apostolos Tzitzikostas said it was too early to say whether the incidents were linked, while Italy's defence minister Guido Crosetto spoke of a strategy to generate chaos. An anonymous Italian-language email was reported behind two Rome threats; no attribution has been made.",
+      "why": "The threats come amid a run of suspected hybrid attacks on European infrastructure, testing how quickly the EU and its aviation safety agency can coordinate a response across member states.",
+      "left": {
+        "angle": "Lean-left coverage is cautious, leading with the diversions and passenger safety and stressing that there is no indication of who is behind the threats. It mentions earlier drone and cyber incidents only as background, explicitly noting there is no evidence linking them.",
         "outlets": [
           {
             "name": "Al Jazeera",
             "lean": "Lean left",
-            "url": "https://www.aljazeera.com/news/2026/11/4/seismic-shift-world-reacts-to-us-midterm-election-results",
-            "note": "Global reactions roundup that ties the vote to the Iran war and petrol prices, with Sánchez and Schaldemose among the European voices."
+            "url": "https://www.aljazeera.com/news/2026/11/5/bomb-threat-diverts-dublin-rome-flight-to-france",
+            "note": "Factual round-up led by the Évreux diversion; notes no one has claimed responsibility."
           }
         ]
       },
       "right": {
-        "angle": "Right-leaning outlets focus less on the result than on Europe's response to it, presenting Sánchez and other Trump critics as making sweeping claims and accusing European media of gloating. They highlight warnings that Trump still controls foreign policy.",
+        "angle": "Right-leaning coverage also reports the threats as unfounded but places them more directly in the context of European officials blaming Russia and Iran for hybrid attacks and sabotage, giving the story a geopolitical edge.",
         "outlets": [
           {
             "name": "Fox News",
             "lean": "Right",
-            "url": "https://www.foxnews.com/politics/gops-midterm-defeat-sparks-bold-claims-from-foreign-leaders-whove-clashed-trump",
-            "note": "Casts the European reactions, led by Sánchez's post, as bold claims from leaders already at odds with Trump."
-          },
-          {
-            "name": "Legal Insurrection",
-            "lean": "Right",
-            "url": "https://legalinsurrection.com/2026/11/european-media-gloat-over-midterm-results-proclaiming-end-of-trump-era-and-maga-movement/",
-            "note": "Collects Guardian, Spiegel and Le Monde headlines as evidence of media Schadenfreude, quoting Ischinger's call for restraint."
+            "url": "https://www.foxnews.com/world/multiple-flights-europe-diverted-bomb-threats",
+            "note": "Lists the affected flights and recalls officials' accusations against Russia and Iran over hybrid attacks."
           }
         ]
       },
-      "differ": "The left reads the vote as a turning point against Trumpism and a boost for Ukraine and climate policy; the right treats European enthusiasm itself as the story and stresses Trump's remaining power.",
+      "differ": "Both sides avoid naming a culprit, but the left emphasises the absence of evidence while the right foregrounds the hybrid-warfare suspicion.",
       "sources": [
         {
           "name": "Euronews",
-          "url": "https://www.euronews.com/2026/11/04/us-midterms-what-trumps-defeat-means-for-europe-and-global-markets"
-        },
-        {
-          "name": "Euronews",
-          "url": "https://www.euronews.com/2026/11/04/lame-duck-or-mad-dog-why-trumps-defeat-could-spell-trouble-for-europe"
-        },
-        {
-          "name": "Axios",
-          "url": "https://www.axios.com/2026/11/04/2026-midterm-election-results-world-leaders-react"
-        }
-      ]
-    },
-    {
-      "topic": "Climate · Car CO2 rules",
-      "title": "MEPs on the environment committee vote to soften the 2035 combustion-engine phase-out",
-      "summary": "The European Parliament's environment committee backed a compromise on Wednesday, 48 votes to 30 with 2 abstentions, that drops the requirement for new cars to be fully zero-emission from 2035. Under the deal struck by the EPP, S&D and Renew, the fleet CO2 cut would be set at 87.5% compared with 2021, with credits such as using low-carbon EU-made steel able to raise it towards 95%; the target for vans falls to 80%. The Commission had proposed 90% last December, and France and Germany have backed 90% for the Council position. EPP rapporteur Massimiliano Salini said it would still be possible to register combustion-engine cars, while the Greens called it a bad deal. The full Parliament votes in December before talks with member states.",
-      "why": "It is one of the most visible rollbacks of the Green Deal and sets the Parliament's line for final negotiations on Europe's flagship car-climate law.",
-      "left": {
-        "angle": "Left-leaning and green-leaning coverage presents the vote as another retreat from the Green Deal brought about by car-industry pressure, stressing the Greens' objections and the risk to Europe's EV transition. We found no fresh piece from the listed left-leaning outlets on Wednesday's vote; the elDiario.es link below is earlier coverage of the Commission's original proposal.",
-        "outlets": [
-          {
-            "name": "elDiario.es",
-            "lean": "Left",
-            "url": "https://www.eldiario.es/economia/presion-industria-automovil-tuerce-brazo-comision-europea-permite-motores-combustion-2035_1_12848486.html",
-            "note": "Earlier coverage: describes the Commission's U-turn as carmakers twisting Brussels's arm."
-          }
-        ]
-      },
-      "right": {
-        "angle": "Right-leaning outlets frame the change as common sense catching up with reality, a lifeline for carmakers and jobs, and some argue it does not go far enough because the steel credits make the rules complicated in practice.",
-        "outlets": [
-          {
-            "name": "El Español",
-            "lean": "Centre-right",
-            "url": "https://www.elespanol.com/motor/20261104/eurocamara-apoya-derogar-veto-coches-gasolina-diesel-pacto-ppe-socialistas-liberales/1003744446322_0.html",
-            "note": "Leads with the Parliament scrapping the petrol-and-diesel 'veto' through a cross-party pact."
-          },
-          {
-            "name": "Brussels Signal",
-            "lean": "Right",
-            "url": "https://brusselssignal.eu/2026/10/european-parliament-strikes-deal-to-soften-2035-combustion-engine-phase-out/",
-            "note": "Earlier coverage (October) of the deal being struck, seen as a win for the industry."
-          }
-        ]
-      },
-      "differ": "The left sees a climate backslide driven by lobbying; the right sees a needed correction for industry, with some saying the compromise is still too strict.",
-      "sources": [
-        {
-          "name": "Euronews",
-          "url": "https://www.euronews.com/2026/11/04/meps-deal-another-blow-to-green-deal-with-softer-car-emissions-targets"
+          "url": "https://www.euronews.com/2026/11/05/airbus-plane-from-dublin-to-rome-diverted-to-france-after-bomb-alert"
         },
         {
           "name": "Eunews",
-          "url": "https://www.eunews.it/en/2026/11/04/parliament-gives-initial-approval-to-the-backtracking-on-the-ban-on-internal-combustion-engines-from-2035/"
+          "url": "https://www.eunews.it/en/2026/11/05/bomb-threats-on-more-than-20-flights-tzitzikostas-any-threat-to-civilians-is-unacceptable/"
         },
         {
-          "name": "ZDFheute",
-          "url": "https://www.zdfheute.de/wirtschaft/eu-parlament-abstimmung-aufweichung-verbrenner-aus-100.html"
-        }
-      ]
-    },
-    {
-      "topic": "Media freedom · Czech Republic",
-      "title": "Czech public broadcasters strike as Babiš government moves to end the licence fee",
-      "summary": "Staff at Czech Television and Czech Radio went on strike on Tuesday, and thousands rallied in Prague and other cities against the government's plan to scrap the household licence fee and fund public media directly from the state budget. Under the plan the broadcasters would get about 15% less money, which unions say could mean layoffs and cancelled programmes. Prime Minister Andrej Babiš said no one wants to control or nationalise public media. Press-freedom groups including the European Federation of Journalists and Reporters Without Borders warned that budget funding opens the door to political pressure, and organisers expect a much larger protest at Letná on 15 November.",
-      "why": "Public-media independence is a core rule-of-law test under the EU's Media Freedom Act, and critics compare the plan to changes in Slovakia and Hungary that drew scrutiny from Brussels.",
-      "left": {
-        "angle": "Left-leaning coverage frames the strike as a historic stand for press freedom, placing it in a pattern of central European governments tightening their grip on public broadcasters.",
-        "outlets": [
-          {
-            "name": "EUobserver",
-            "lean": "Centre-left",
-            "url": "https://euobserver.com/246573/czech-public-broadcasters-hold-historic-strike-following-government-vote-to-abolish-license-fees/",
-            "note": "Calls the walkout historic and ties it to the government's vote to abolish the fees."
-          }
-        ]
-      },
-      "right": {
-        "angle": "We found no fresh right-leaning take on this week's strike. Earlier conservative coverage welcomed ending the fee as relief for households and a check on broadcasters it sees as biased towards Brussels.",
-        "outlets": [
-          {
-            "name": "The European Conservative",
-            "lean": "Right",
-            "url": "https://europeanconservative.com/?p=70885",
-            "note": "Earlier coverage (June): hailed scrapping the fee as a blow to 'Brussels propaganda'."
-          }
-        ]
-      },
-      "differ": "The left sees an attack on independent journalism; the right, in earlier coverage, saw a fee cut and a correction of broadcaster bias.",
-      "sources": [
-        {
-          "name": "Euronews",
-          "url": "https://www.euronews.com/2026/11/04/thousands-join-czech-protest-against-public-media-financing-plan"
-        },
-        {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/live-news/20261103-thousands-join-czech-protest-against-public-media-financing-plan"
-        },
-        {
-          "name": "Expats.cz",
-          "url": "https://www.expats.cz/czech-news/article/explained-why-czechia-s-public-media-funding-dispute-has-spilled-onto-the-streets"
+          "name": "AP via Global News",
+          "url": "https://globalnews.ca/news/12137827/europe-flights-bomb-threat/"
         }
       ]
     }
   ],
   "oneSided": {
-    "left": [
-      {
-        "title": "La izquierda catalana se aferra al tsunami demócrata para contener a las derechas el 29N",
-        "outlet": "Público",
-        "lean": "Left",
-        "url": "https://www.publico.es/politica/izquierda-catalana-aferra-tsunami-democrata-contener-derechas-29n.html"
-      }
-    ],
-    "right": [
-      {
-        "title": "Montenegro nears EU membership as Croatia's demands loom",
-        "outlet": "Brussels Signal",
-        "lean": "Right",
-        "url": "https://brusselssignal.eu/2026/11/montenegro-nears-eu-membership-as-croatias-demands-loom/"
-      },
-      {
-        "title": "Ukraine's anti-graft detectives face armed standoff during raids on senior spy chiefs",
-        "outlet": "Brussels Signal",
-        "lean": "Right",
-        "url": "https://brusselssignal.eu/2026/11/ukraines-anti-graft-detectives-face-armed-standoff-during-raids-on-senior-spy-chiefs/"
-      },
-      {
-        "title": "Ukraine bans Polish journalist Łukasz Warzecha for three years on 'security grounds'",
-        "outlet": "Brussels Signal",
-        "lean": "Right",
-        "url": "https://brusselssignal.eu/2026/11/ukraine-bans-polish-journalist-lukasz-warzecha-for-three-years-on-security-grounds/"
-      }
-    ]
+    "left": [],
+    "right": []
   }
 }
