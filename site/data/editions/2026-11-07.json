@@ -1,0 +1,151 @@
+{
+  "date": "2026-11-07",
+  "generatedAt": "2026-11-07T05:37:27Z",
+  "mode": "written",
+  "topline": "Three stories today: Belgium's king refuses Bart De Wever's resignation and orders budget talks to resume, Brussels names four frontline states for 2027 asylum solidarity, and Poland's constitutional court stand-off turns to talk of EU mediation.",
+  "stories": [
+    {
+      "topic": "Member states · Belgium budget",
+      "title": "King Philippe refuses De Wever's resignation and gives the coalition until 16 November to agree a budget",
+      "summary": "King Philippe on Friday declined to accept the resignation Prime Minister Bart De Wever offered on 2 November after his five-party 'Arizona' coalition failed to agree the 2027 budget. After consulting the coalition party leaders during the week, the palace said all five had committed to concessions, and De Wever must report back on 16 November. The dispute centres on roughly €10bn in savings or new revenue: Vooruit, CD&V and Les Engagés want more tax on the wealthiest, while MR and De Wever's N-VA oppose new levies. Belgium's deficit, about 5.2% of GDP, is the highest in the eurozone and debt is around 110% of GDP.",
+      "why": "Belgium is under the EU's excessive deficit procedure and must bring its deficit below 3% by 2029; a failed budget would leave the EU's host country on provisional monthly spending into 2027.",
+      "left": {
+        "angle": "Left-leaning coverage treats the rejected resignation as a pause rather than a fix, stressing that the promised concessions remain undefined and that the real fight is over austerity and who pays. It foregrounds union threats of a general strike and further protests, and pairs the crisis with a contested new law allowing police home raids to find rejected asylum seekers.",
+        "outlets": [
+          {
+            "name": "taz",
+            "lean": "Left",
+            "url": "https://taz.de/Regierungskrise-in-Belgien/!6228207/",
+            "note": "Says the crisis 'continues to smoulder'; stresses unions' general-strike threat and links it to a contested deportation-raid law."
+          }
+        ]
+      },
+      "right": {
+        "angle": "Right-leaning outlets had framed the collapse earlier in the week as a humiliation for the government and a tax fight, with the liberals and N-VA cast as resisting levies and the risk of snap elections boosting Vlaams Belang and the far-left PTB. No right-leaning take on Friday's royal decision itself was found; the pieces below predate it.",
+        "outlets": [
+          {
+            "name": "Hungarian Conservative",
+            "lean": "Right",
+            "url": "https://www.hungarianconservative.com/articles/current/belgium-pm-de-wever-offer-resignation/",
+            "note": "Earlier (2 Nov): leads on taxation splitting the coalition and the electoral upside for Vlaams Belang and PTB."
+          },
+          {
+            "name": "Brussels Signal",
+            "lean": "Right",
+            "url": "https://brusselssignal.eu/2026/11/belgian-government-faces-collapse-as-budget-talks-break-down/",
+            "note": "Earlier (2 Nov): frames the breakdown as a political crisis, highlighting over €3bn in proposed levies and opposition criticism."
+          },
+          {
+            "name": "La Libre",
+            "lean": "Centre-right",
+            "url": "https://www.lalibre.be/belgique/politique-belge/2026/11/02/budget-federal-le-kern-ne-parvient-pas-a-degager-un-accord-bart-de-wever-va-remettre-sa-demission-au-roi-RGR57E7BQNEDXMAZTANYJWRJNI/",
+            "note": "Earlier (2 Nov) live blog: focuses on Vooruit–MR blockage and personal sparring inside the coalition."
+          }
+        ]
+      },
+      "differ": "The left reads the episode as an austerity battle with unions waiting in the wings; the right reads it as a tax revolt inside the coalition with an electoral threat from the flanks.",
+      "sources": [
+        {
+          "name": "Brussels Times",
+          "url": "https://www.brusselstimes.com/belgium/2394385/belgian-pm-to-meet-with-king-as-resignation-still-under-consideration-tbtb"
+        },
+        {
+          "name": "AP (via Yahoo News)",
+          "url": "https://www.yahoo.com/news/politics/articles/belgiums-king-rejects-prime-ministers-114048133.html"
+        },
+        {
+          "name": "L'Avenir",
+          "url": "https://www.lavenir.net/actu/belgique/politique/2026/11/06/le-roi-refuse-la-demission-de-bart-de-wever-les-negociations-budgetaires-vont-reprendre-O76ZXQA33JDXVBYGN3ZIJ6E4GQ/"
+        }
+      ]
+    },
+    {
+      "topic": "Migration · Asylum Pact",
+      "title": "Commission names Greece, Spain, Italy and Cyprus as states under migratory pressure for the 2027 solidarity pool",
+      "summary": "Launching the second annual migration management cycle under the new Pact on Migration and Asylum, Commissioner Magnus Brunner said irregular border crossings fell by more than a third in the first half of 2026 after halving in each of the two previous years. Greece, Spain, Cyprus and Italy were classed as under migratory pressure, giving them access to the 2027 solidarity pool, whose size and national shares the Council must now set; by law it must total at least 30,000 relocations and €600m. Fifteen states were rated at risk, and six (Bulgaria, Czechia, Estonia, Croatia, Austria and Poland) may seek full or partial deductions. Euronews reported that fewer than 9,000 asylum seekers were actually relocated in 2026 and that Hungary and Slovakia pledged nothing.",
+      "why": "It is the first full test of whether the Pact's mandatory-but-flexible solidarity can work, and it sets up another Council fight over who relocates, who pays and who is excused.",
+      "left": {
+        "angle": "Left-leaning Spanish coverage leads with Spain's government winning its case after Interior Minister Marlaska lobbied Brussels over the summer Ceuta crisis. It notes Brunner's condition that frontline states keep applying the Pact's responsibility rules, read as a nod to Spain's recent mass regularisation, and his warning that Italy must still improve.",
+        "outlets": [
+          {
+            "name": "elDiario.es",
+            "lean": "Left",
+            "url": "https://www.eldiario.es/desalambre/espana-mantenerse-estados-ue-presion-migratoria-crisis-ceuta_1_13643283.html",
+            "note": "Frames the listing as a diplomatic win for Madrid secured by Marlaska's letter to Brunner."
+          }
+        ]
+      },
+      "right": {
+        "angle": "Right-leaning Spanish coverage leads with the scale of the Ceuta crisis and the fact that the status lets Spain send migrants to other EU countries. It adds the week's surge of arrivals in the Canary Islands and gives no space to the report-period caveat or the Italy warning.",
+        "outlets": [
+          {
+            "name": "El Debate",
+            "lean": "Right",
+            "url": "https://www.eldebate.com/espana/20261106/bruselas-mantiene-espana-bajo-presion-migratoria-situacion-general-crisis-ceuta_478004.html",
+            "note": "Stresses Ceuta's mass entry and some 4,000 Canary arrivals in a week; emphasises the relocation option."
+          }
+        ]
+      },
+      "differ": "The left tells it as a government success with strings attached; the right tells it as proof of a migration emergency that others will now have to share.",
+      "sources": [
+        {
+          "name": "European Commission (DG HOME)",
+          "url": "https://home-affairs.ec.europa.eu/news/commission-launches-second-annual-migration-management-cycle-2026-11-05_en"
+        },
+        {
+          "name": "Euronews",
+          "url": "https://www.euronews.com/2026/11/06/spain-italy-greece-and-cyprus-to-benefit-from-eu-asylum-solidarity-scheme-in-2027"
+        }
+      ]
+    },
+    {
+      "topic": "Rule of law · Poland",
+      "title": "Tusk says the 'emotional part' of Poland's court crisis is closer to over as EU mediation is floated",
+      "summary": "A week after judges elected by the Sejm took control of Poland's Constitutional Tribunal and suspended its president Bogdan Święczkowski, Prime Minister Donald Tusk said on 5 November that, in his view, the legal problem is solved. Justice Minister Waldemar Żurek said Warsaw would be open to EU mediation, though none has been offered or requested. The Commission had earlier said appointing the judges lies within the Sejm's powers, while President Karol Nawrocki refuses to swear several of them in. The International Commission of Jurists criticised the takeover as breaching judicial-independence standards, while also faulting Nawrocki's refusal.",
+      "why": "Poland's restoration of rule-of-law standards is the basis on which Brussels unblocked EU funds; a contested court takeover tests whether the Commission applies the same standards to a friendly government.",
+      "left": {
+        "angle": "Centre-left coverage centres the government's account and its de-escalation, giving space to ministers' description of the old Tribunal as a PiS stronghold. Its opinion pages argue the move was not a coup and aimed to restore a lawful court, while conceding the method raises legitimate questions.",
+        "outlets": [
+          {
+            "name": "EUobserver",
+            "lean": "Centre-left",
+            "url": "https://euobserver.com/247055/polish-government-is-open-to-eu-mediation-on-court-crisis-justice-minister-says/",
+            "note": "Leads on Tusk's calming tone and Żurek's openness to mediation; most space to the government."
+          },
+          {
+            "name": "EUobserver (opinion)",
+            "lean": "Centre-left",
+            "url": "https://euobserver.com/246515/its-not-a-coup-tusk-is-right-to-reclaim-polands-constitutional-tribunal-but-wrong-in-how-he-does-it/",
+            "note": "Alemanno argues Tusk is right on substance but wrong on method."
+          }
+        ]
+      },
+      "right": {
+        "angle": "Right-leaning coverage stresses that Brussels sided with Tusk while staying silent on the suspension of the Tribunal's president and the police deployment at the court. It amplifies the legal doubts about the suspension and gives prominence to coup accusations from PiS and criticism from Le Pen and Janša.",
+        "outlets": [
+          {
+            "name": "Brussels Signal",
+            "lean": "Right",
+            "url": "https://brusselssignal.eu/2026/11/brussels-sides-with-polish-government-in-constitutional-court-stand-off/",
+            "note": "Earlier (2 Nov): leads on Commission silence over the suspension, framing it as double standards."
+          }
+        ]
+      },
+      "differ": "The left asks whether the method was right for a necessary repair; the right asks why Brussels tolerates from Tusk what it condemned under PiS.",
+      "sources": [
+        {
+          "name": "Notes from Poland",
+          "url": "https://notesfrompoland.com/2026/11/04/international-commission-of-jurists-criticises-takeover-of-polish-constitutional-court/"
+        },
+        {
+          "name": "Kyiv Independent",
+          "url": "https://kyivindependent.com/eu-commission-backs-poland-government-over-constitutional-court-crisis/"
+        }
+      ]
+    }
+  ],
+  "oneSided": {
+    "left": [],
+    "right": []
+  }
+}
