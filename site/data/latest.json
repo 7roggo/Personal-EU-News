@@ -1,145 +1,128 @@
 {
-  "date": "2026-11-07",
-  "generatedAt": "2026-11-07T05:37:27Z",
+  "date": "2026-11-08",
+  "generatedAt": "2026-11-08T05:41:40Z",
   "mode": "written",
-  "topline": "Three stories today: Belgium's king refuses Bart De Wever's resignation and orders budget talks to resume, Brussels names four frontline states for 2027 asylum solidarity, and Poland's constitutional court stand-off turns to talk of EU mediation.",
+  "topline": "Three stories today: a gunman kills six on Kraków's main square in what Polish officials call terrorism, EU prosecutors open a second fraud probe into funds for Spain's crash-hit Madrid–Seville rail line three weeks before a snap election, and France sees a fourth weekend of cost-of-living protests.",
   "stories": [
     {
-      "topic": "Member states · Belgium budget",
-      "title": "King Philippe refuses De Wever's resignation and gives the coalition until 16 November to agree a budget",
-      "summary": "King Philippe on Friday declined to accept the resignation Prime Minister Bart De Wever offered on 2 November after his five-party 'Arizona' coalition failed to agree the 2027 budget. After consulting the coalition party leaders during the week, the palace said all five had committed to concessions, and De Wever must report back on 16 November. The dispute centres on roughly €10bn in savings or new revenue: Vooruit, CD&V and Les Engagés want more tax on the wealthiest, while MR and De Wever's N-VA oppose new levies. Belgium's deficit, about 5.2% of GDP, is the highest in the eurozone and debt is around 110% of GDP.",
-      "why": "Belgium is under the EU's excessive deficit procedure and must bring its deficit below 3% by 2029; a failed budget would leave the EU's host country on provisional monthly spending into 2027.",
+      "topic": "Security · Poland",
+      "title": "Gunman kills six on Kraków's Main Market Square; Poland declares national mourning",
+      "summary": "A 24-year-old Polish man drove onto Kraków's Main Market Square on Saturday afternoon and fired a military-style rifle at passers-by, killing six people (four women and two men) and wounding around 15, including two police officers. Police shot and detained him; officials say he acted alone, and further firearms and ammunition were found in his car. Interior Minister Marcin Kierwiński said early indications were that the suspect was drawn to far-right ideas, though police had not formally established a motive. Prime Minister Donald Tusk praised the police response and urged against speculation, President Karol Nawrocki called for a full explanation and declared national mourning, and EU foreign-policy chief Kaja Kallas and German Chancellor Friedrich Merz sent condolences. Some reports say three more bodies were later found at the suspect's family home.",
+      "why": "It is one of the deadliest attacks in an EU member state this year and lands in a deeply polarised Poland, where government and president are already at odds; how the motive is framed will shape debates on gun licensing and political extremism across the bloc.",
       "left": {
-        "angle": "Left-leaning coverage treats the rejected resignation as a pause rather than a fix, stressing that the promised concessions remain undefined and that the real fight is over austerity and who pays. It foregrounds union threats of a general strike and further protests, and pairs the crisis with a contested new law allowing police home raids to find rejected asylum seekers.",
+        "angle": "Left-leaning and international outlets led with the death toll, the police response and the wave of solidarity from EU and foreign leaders, treating the motive as still unclear. They placed the attack in the context of rarely seen gun violence in Poland and earlier violent incidents, with little focus on domestic political fallout.",
         "outlets": [
+          {
+            "name": "Al Jazeera",
+            "lean": "Lean left",
+            "url": "https://www.aljazeera.com/news/2026/11/7/casualties-reported-after-shooting-in-polands-krakow",
+            "note": "Wire-based account stressing the toll, Tusk's praise for police and Kallas's condolences; no motive discussed."
+          },
           {
             "name": "taz",
             "lean": "Left",
-            "url": "https://taz.de/Regierungskrise-in-Belgien/!6228207/",
-            "note": "Says the crisis 'continues to smoulder'; stresses unions' general-strike threat and links it to a contested deportation-raid law."
+            "url": "https://taz.de/Mutmasslicher-Taeter-festgenommen/!6228323/",
+            "note": "Cautious on motive; focuses on eyewitnesses sheltering in shops and questions about police presence that day."
           }
         ]
       },
       "right": {
-        "angle": "Right-leaning outlets had framed the collapse earlier in the week as a humiliation for the government and a tax fight, with the liberals and N-VA cast as resisting levies and the risk of snap elections boosting Vlaams Belang and the far-left PTB. No right-leaning take on Friday's royal decision itself was found; the pieces below predate it.",
+        "angle": "Conservative coverage put the interior minister's 'far-right' remark in the headline but quickly stressed that police had not confirmed any ideology, and dug into the suspect's background, weapons licence and family. It gave more room to the terror label used by ministers and to Nawrocki's demand for a full investigation than to international reactions.",
         "outlets": [
           {
             "name": "Hungarian Conservative",
             "lean": "Right",
-            "url": "https://www.hungarianconservative.com/articles/current/belgium-pm-de-wever-offer-resignation/",
-            "note": "Earlier (2 Nov): leads on taxation splitting the coalition and the electoral upside for Vlaams Belang and PTB."
-          },
-          {
-            "name": "Brussels Signal",
-            "lean": "Right",
-            "url": "https://brusselssignal.eu/2026/11/belgian-government-faces-collapse-as-budget-talks-break-down/",
-            "note": "Earlier (2 Nov): frames the breakdown as a political crisis, highlighting over €3bn in proposed levies and opposition criticism."
-          },
-          {
-            "name": "La Libre",
-            "lean": "Centre-right",
-            "url": "https://www.lalibre.be/belgique/politique-belge/2026/11/02/budget-federal-le-kern-ne-parvient-pas-a-degager-un-accord-bart-de-wever-va-remettre-sa-demission-au-roi-RGR57E7BQNEDXMAZTANYJWRJNI/",
-            "note": "Earlier (2 Nov) live blog: focuses on Vooruit–MR blockage and personal sparring inside the coalition."
+            "url": "https://hungarianconservative.com/articles/current/krakow-mass-shooting-far-right-suspect-terror-attack",
+            "note": "Leads with the minister's claim, notes it is unconfirmed, and reports the bodies found at the family home and the father's gun collection."
           }
         ]
       },
-      "differ": "The left reads the episode as an austerity battle with unions waiting in the wings; the right reads it as a tax revolt inside the coalition with an electoral threat from the flanks.",
+      "differ": "Left-leaning reports emphasised grief, solidarity and caution about motive; the conservative piece focused on the suspect's profile and questioned how firmly the government could yet label him far-right.",
       "sources": [
         {
-          "name": "Brussels Times",
-          "url": "https://www.brusselstimes.com/belgium/2394385/belgian-pm-to-meet-with-king-as-resignation-still-under-consideration-tbtb"
+          "name": "Notes from Poland",
+          "url": "https://notesfrompoland.com/2026/11/07/fatalities-reported-in-shooting-on-historical-market-square-in-krakow/"
         },
         {
-          "name": "AP (via Yahoo News)",
-          "url": "https://www.yahoo.com/news/politics/articles/belgiums-king-rejects-prime-ministers-114048133.html"
+          "name": "The New Arab",
+          "url": "https://www.newarab.com/news/gunman-polands-krakow-shooting-fascinated-far-right"
         },
         {
-          "name": "L'Avenir",
-          "url": "https://www.lavenir.net/actu/belgique/politique/2026/11/06/le-roi-refuse-la-demission-de-bart-de-wever-les-negociations-budgetaires-vont-reprendre-O76ZXQA33JDXVBYGN3ZIJ6E4GQ/"
+          "name": "CBC News",
+          "url": "https://www.cbc.ca/news/world/krakow-poland-shooting-9.7413582"
         }
       ]
     },
     {
-      "topic": "Migration · Asylum Pact",
-      "title": "Commission names Greece, Spain, Italy and Cyprus as states under migratory pressure for the 2027 solidarity pool",
-      "summary": "Launching the second annual migration management cycle under the new Pact on Migration and Asylum, Commissioner Magnus Brunner said irregular border crossings fell by more than a third in the first half of 2026 after halving in each of the two previous years. Greece, Spain, Cyprus and Italy were classed as under migratory pressure, giving them access to the 2027 solidarity pool, whose size and national shares the Council must now set; by law it must total at least 30,000 relocations and €600m. Fifteen states were rated at risk, and six (Bulgaria, Czechia, Estonia, Croatia, Austria and Poland) may seek full or partial deductions. Euronews reported that fewer than 9,000 asylum seekers were actually relocated in 2026 and that Hungary and Slovakia pledged nothing.",
-      "why": "It is the first full test of whether the Pact's mandatory-but-flexible solidarity can work, and it sets up another Council fight over who relocates, who pays and who is excused.",
+      "topic": "Rule of law · EU funds",
+      "title": "EU prosecutors open a second fraud probe into funds for Spain's crash-hit Madrid–Seville rail line",
+      "summary": "The European Public Prosecutor's Office (EPPO) has opened, on its own initiative, an investigation into possible fraud involving EU money for renovating the Madrid–Seville high-speed line, where a crash near Urda on 28 October killed 69 people. The line received €111 million in EU regional development funding in 2024; the Guardia Civil's UCO unit collected documents from rail operator Adif, the state rail safety agency and the Court of Auditors on EPPO's behalf. It is the second EPPO probe on the line after a January crash at Adamuz killed 46. Transport Minister Óscar Puente resigned on 3 November, and the affair is unfolding ahead of Spain's snap general election on 29 November.",
+      "why": "It tests the EPPO's role in policing how member states spend EU recovery and cohesion money, and could sway a national election in one of the bloc's largest economies.",
       "left": {
-        "angle": "Left-leaning Spanish coverage leads with Spain's government winning its case after Interior Minister Marlaska lobbied Brussels over the summer Ceuta crisis. It notes Brunner's condition that frontline states keep applying the Pact's responsibility rules, read as a nod to Spain's recent mass regularisation, and his warning that Italy must still improve.",
+        "angle": "Left-leaning coverage treated the probe as a matter of infrastructure and EU oversight: what the EPPO is examining, how it relates to the earlier Adamuz case, and the Commission's own past warnings that the 1992 line was outdated. It kept the judicial track separate from the election campaign.",
         "outlets": [
           {
             "name": "elDiario.es",
             "lean": "Left",
-            "url": "https://www.eldiario.es/desalambre/espana-mantenerse-estados-ue-presion-migratoria-crisis-ceuta_1_13643283.html",
-            "note": "Frames the listing as a diplomatic win for Madrid secured by Marlaska's letter to Brunner."
+            "url": "https://www.eldiario.es/politica/fiscalia-europea-abre-investigacion-fraude-alta-velocidad-accidente-urda_1_13643016.html",
+            "note": "Brussels correspondent's report on the EPPO and UCO steps, stressing the line's age and the separate judicial inquiry into the crash."
           }
         ]
       },
       "right": {
-        "angle": "Right-leaning Spanish coverage leads with the scale of the Ceuta crisis and the fact that the status lets Spain send migrants to other EU countries. It adds the week's surge of arrivals in the Canary Islands and gives no space to the report-period caveat or the Italy warning.",
+        "angle": "Right-leaning coverage linked the probe to Adif's management and to the Sánchez government, highlighting a large signalling contract signed with EU recovery funds and audit-office concerns over who signed it. It framed the investigations as a blow to the Socialists' campaign, while one report itself noted the auditors did not find the signatures false.",
         "outlets": [
           {
-            "name": "El Debate",
+            "name": "The Objective",
             "lean": "Right",
-            "url": "https://www.eldebate.com/espana/20261106/bruselas-mantiene-espana-bajo-presion-migratoria-situacion-general-crisis-ceuta_478004.html",
-            "note": "Stresses Ceuta's mass entry and some 4,000 Canary arrivals in a week; emphasises the relocation option."
+            "url": "https://theobjective.com/espana/2026-11-07/bruselas-directivos-adif-urda-fondos-europeos/",
+            "note": "Focuses on a €77.5 million signalling contract and Court of Auditors doubts over the signatories' powers."
+          },
+          {
+            "name": "The Objective",
+            "lean": "Right",
+            "url": "https://theobjective.com/espana/politica/2026-11-08/investigacion-adif-campana-sanchez-elecciones/",
+            "note": "Argues the Adif probes are damaging Sánchez's 29 November campaign, citing anonymous Socialist figures."
           }
         ]
       },
-      "differ": "The left tells it as a government success with strings attached; the right tells it as proof of a migration emergency that others will now have to share.",
+      "differ": "The left treats the probe as an oversight question about ageing infrastructure and EU money; the right treats it as evidence of mismanagement under Sánchez with direct electoral consequences.",
       "sources": [
         {
-          "name": "European Commission (DG HOME)",
-          "url": "https://home-affairs.ec.europa.eu/news/commission-launches-second-annual-migration-management-cycle-2026-11-05_en"
+          "name": "Euronews",
+          "url": "https://www.euronews.com/2026/11/06/eu-prosecutors-probe-fraud-claims-over-funds-for-spanish-rail-line-hit-by-deadly-crash"
         },
         {
           "name": "Euronews",
-          "url": "https://www.euronews.com/2026/11/06/spain-italy-greece-and-cyprus-to-benefit-from-eu-asylum-solidarity-scheme-in-2027"
+          "url": "https://www.euronews.com/2026/11/03/spains-transport-minister-oscar-puente-resigns-over-urda-train-crash-that-killed-69"
         }
       ]
     },
     {
-      "topic": "Rule of law · Poland",
-      "title": "Tusk says the 'emotional part' of Poland's court crisis is closer to over as EU mediation is floated",
-      "summary": "A week after judges elected by the Sejm took control of Poland's Constitutional Tribunal and suspended its president Bogdan Święczkowski, Prime Minister Donald Tusk said on 5 November that, in his view, the legal problem is solved. Justice Minister Waldemar Żurek said Warsaw would be open to EU mediation, though none has been offered or requested. The Commission had earlier said appointing the judges lies within the Sejm's powers, while President Karol Nawrocki refuses to swear several of them in. The International Commission of Jurists criticised the takeover as breaching judicial-independence standards, while also faulting Nawrocki's refusal.",
-      "why": "Poland's restoration of rule-of-law standards is the basis on which Brussels unblocked EU funds; a contested court takeover tests whether the Commission applies the same standards to a friendly government.",
+      "topic": "Member states · France",
+      "title": "France holds a fourth weekend of cost-of-living protests as official turnout falls",
+      "summary": "Protests against the rising cost of living took place across France on Saturday for the fourth weekend running. The Interior Ministry counted about 146,000 demonstrators nationwide, 46,000 of them in Paris, while organisers claimed 250,000; official figures have fallen each week from about 550,000 in mid-October. Some 70,000 police and gendarmes were deployed, police used tear gas in Paris and Lyon, and early counts reported 18 arrests. The movement, which began with student protests over school conditions, now combines youth groups, union branches and a separate 'yellow vests' rally.",
+      "why": "Sustained unrest in the eurozone's second-largest economy feeds into France's budget choices and a presidential race due in April, in which polls show the National Rally ahead.",
       "left": {
-        "angle": "Centre-left coverage centres the government's account and its de-escalation, giving space to ministers' description of the old Tribunal as a PiS stronghold. Its opinion pages argue the move was not a coup and aimed to restore a lawful court, while conceding the method raises legitimate questions.",
+        "angle": "Left-leaning coverage stressed the size and breadth of the movement, the clashes and the interior minister's warning to rioters, and tied the protests to the coming presidential race. Its emphasis was on public anger rather than on falling numbers.",
         "outlets": [
           {
-            "name": "EUobserver",
-            "lean": "Centre-left",
-            "url": "https://euobserver.com/247055/polish-government-is-open-to-eu-mediation-on-court-crisis-justice-minister-says/",
-            "note": "Leads on Tusk's calming tone and Żurek's openness to mediation; most space to the government."
-          },
-          {
-            "name": "EUobserver (opinion)",
-            "lean": "Centre-left",
-            "url": "https://euobserver.com/246515/its-not-a-coup-tusk-is-right-to-reclaim-polands-constitutional-tribunal-but-wrong-in-how-he-does-it/",
-            "note": "Alemanno argues Tusk is right on substance but wrong on method."
+            "name": "Al Jazeera",
+            "lean": "Lean left",
+            "url": "https://www.aljazeera.com/news/2026/11/7/more-than-140000-rally-as-new-protests-against-rising-costs-sweep-france",
+            "note": "Leads with 140,000-plus marchers and tear gas, and notes Le Pen and Mélenchon leading the polls."
           }
         ]
       },
       "right": {
-        "angle": "Right-leaning coverage stresses that Brussels sided with Tusk while staying silent on the suspension of the Tribunal's president and the police deployment at the court. It amplifies the legal doubts about the suspension and gives prominence to coup accusations from PiS and criticism from Le Pen and Janša.",
-        "outlets": [
-          {
-            "name": "Brussels Signal",
-            "lean": "Right",
-            "url": "https://brusselssignal.eu/2026/11/brussels-sides-with-polish-government-in-constitutional-court-stand-off/",
-            "note": "Earlier (2 Nov): leads on Commission silence over the suspension, framing it as double standards."
-          }
-        ]
+        "angle": "We could not find a right-leaning outlet's take on Saturday's protests in time for this edition. Straight-news and business-oriented reports instead stressed the steady fall in official turnout and calmer marches.",
+        "outlets": []
       },
-      "differ": "The left asks whether the method was right for a necessary repair; the right asks why Brussels tolerates from Tusk what it condemned under PiS.",
+      "differ": "The available coverage splits between protests that remain large and angry and a movement that is losing steam; no right-leaning framing could be verified today.",
       "sources": [
         {
-          "name": "Notes from Poland",
-          "url": "https://notesfrompoland.com/2026/11/04/international-commission-of-jurists-criticises-takeover-of-polish-constitutional-court/"
-        },
-        {
-          "name": "Kyiv Independent",
-          "url": "https://kyivindependent.com/eu-commission-backs-poland-government-over-constitutional-court-crisis/"
+          "name": "The Rio Times",
+          "url": "https://www.riotimesonline.com/france-protest-turnout-falls-nov-7"
         }
       ]
     }
