@@ -1,0 +1,174 @@
+{
+  "date": "2026-11-09",
+  "generatedAt": "2026-11-09T05:44:41Z",
+  "mode": "written",
+  "topline": "Three stories today: France says Europeans will take part in this week's US-brokered Ukraine talks in Abu Dhabi, Pedro Sánchez pledges to write pension rises and abortion rights into Spain's constitution three weeks before the 29 November election, and more than 200,000 march in Amsterdam demanding tougher Dutch action on Israel.",
+  "stories": [
+    {
+      "topic": "Ukraine · Peace talks",
+      "title": "France says Europeans will join US-brokered Ukraine talks in Abu Dhabi on 10–11 November",
+      "summary": "French Foreign Minister Jean-Noël Barrot said on Sunday that Europeans, France included, will be represented at the US-mediated talks between Ukrainian and Russian delegations in Abu Dhabi on 10–11 November, though he would not attend himself and France's envoy has not been named. Until now the format was trilateral (US, Ukraine, Russia), and in late October a Kremlin aide said European countries would not be included. Barrot argued no deal touching Europe's security architecture can be settled without Europeans, after Donald Trump predicted a 'major agreement' that could cover all of Europe following a meeting with Kremlin envoy Kirill Dmitriev. Italy's Giorgia Meloni has asked for a single EU representative, and EU leaders are due to discuss the envoy's profile and mandate at an informal summit in Dublin on 13 November. G7 foreign ministers meet in Paris today with Ukraine and Iran on the agenda.",
+      "why": "Whether the EU gets a seat — and who fills it — will decide how much say Europe has over security guarantees and any settlement that redraws its eastern flank.",
+      "left": {
+        "angle": "Centre-left and lean-left coverage stresses European disarray: rival formats, unclear mandates and a scramble to name an envoy while Washington and Moscow set the pace. It foregrounds scepticism about Trump's promised 'big, beautiful' deal and recalls the Kremlin's earlier refusal to accept Europeans at the table.",
+        "outlets": [
+          {
+            "name": "EUobserver",
+            "lean": "Centre-left",
+            "url": "https://euobserver.com/247519/trump-vows-beautiful-russia-deal-as-eu-agonises-over-which-envoy-to-send-to-ukraine-peace-talks/",
+            "note": "Frames the EU as agonising over who speaks for it, with doubts that Russia wants a deal at all."
+          },
+          {
+            "name": "Al Jazeera",
+            "lean": "Lean left",
+            "url": "https://www.aljazeera.com/news/2026/10/28/kremlin-says-european-countries-not-included-in-next-ukraine-talks",
+            "note": "Earlier coverage (28 Oct): sets the Kremlin's exclusion of Europeans against Finland's and Kyiv's insistence they take part."
+          }
+        ]
+      },
+      "right": {
+        "angle": "Right-leaning coverage centres on Meloni's push for one EU voice, presenting Italy as seeking a fix to a chaotic process rather than a seat for itself. It stresses that national governments will not be bound by commitments made without their mandate, and plays down the Commission's claim to represent the bloc.",
+        "outlets": [
+          {
+            "name": "Brussels Signal",
+            "lean": "Right",
+            "url": "https://brusselssignal.eu/2026/11/italy-demands-single-eu-voice-in-ukraine-peace-talks/",
+            "note": "Leads with Meloni's letter to Costa; casts division as costing Europe credibility with Washington and Moscow."
+          }
+        ]
+      },
+      "differ": "The left reads the episode as evidence of EU weakness beside a US-Russia track it distrusts; the right treats it as a mandate problem that national capitals, led by Rome, must solve.",
+      "sources": [
+        {
+          "name": "Euronews",
+          "url": "https://www.euronews.com/2026/11/08/europeans-to-join-russia-ukraine-talks-in-abu-dhabi-says-french-fm-barrot"
+        },
+        {
+          "name": "Reuters (via Investing.com)",
+          "url": "https://www.investing.com/news/world-news/europeans-will-join-ukraine-talks-in-abu-dhabi-french-minister-says-5010393"
+        },
+        {
+          "name": "Kyiv Independent",
+          "url": "https://kyivindependent.com/europeans-will-participate-in-abu-dhabi-peace-talks-french-foreign-minister-says/"
+        },
+        {
+          "name": "France 24",
+          "url": "https://www.france24.com/en/live-news/20261109-g7-ministers-meet-on-efforts-to-end-ukraine-conflict-halt-new-iran-war"
+        }
+      ]
+    },
+    {
+      "topic": "Member states · Spain election",
+      "title": "Sánchez pledges to put pension rises and abortion rights in Spain's constitution as campaign moves to TV",
+      "summary": "At a rally in Bilbao on Sunday, Prime Minister Pedro Sánchez promised a constitutional reform to guarantee annual pension increases in line with inflation and the right to abortion, plus yearly minimum-wage rises, and urged a mass turnout on 29 November. No draft text or timetable was given; such a reform needs a three-fifths majority in both chambers, or two-thirds plus a referendum if fundamental rights are touched, so it would require the PP's votes. Sánchez accused Alberto Núñez Feijóo and Santiago Abascal of being unable to say no to Trump on 5% defence spending. Most private polls put the PP first at around 31%, PSOE near 27% and Vox near 19%, while the state CIS barometer has PSOE ahead. All three leaders give TV interviews today, and head-to-head debates are still being negotiated.",
+      "why": "Spain is the EU's fourth-largest economy and one of its few centre-left governments; a PP–Vox majority would shift the Council balance on migration, climate and defence spending.",
+      "left": {
+        "angle": "Progressive coverage treats the campaign as a contest over media access and accountability, spotlighting Feijóo's refusal of public broadcaster RTVE and the haggling over debates. It frames Sánchez's pledges as protecting social rights and puts the onus on the right to say whether it would back them.",
+        "outlets": [
+          {
+            "name": "El Plural",
+            "lean": "Centre-left",
+            "url": "https://www.elplural.com/politica/espana/campana-llega-tele-sanchez-feijoo-abascal-trasladan-pulso-electoral-platos_803625102",
+            "note": "Focuses on the TV battle and Feijóo avoiding RTVE; critical of Abascal's public-TV slot."
+          },
+          {
+            "name": "elDiario.es",
+            "lean": "Left",
+            "url": "https://www.eldiario.es/politica/ultima-hora-actualidad-politica-directo_6_13647552.html",
+            "note": "Sunday live blog following the parallel rallies of Sánchez, Feijóo and ERC."
+          }
+        ]
+      },
+      "right": {
+        "angle": "Right-leaning coverage leads with the polls, presenting the PP as clear favourite and Vox as surging, and frames the PSOE as in trouble. It largely sidesteps the constitutional pledge, treating the election as a question of how big a PP–Vox majority will be.",
+        "outlets": [
+          {
+            "name": "Periodista Digital",
+            "lean": "Right",
+            "url": "https://www.periodistadigital.com/periodismo/20261106/feijoo-pp-cabeza-abascal-vox-acelera-sanchez-psoe-hunde-dicen-encuestas-29-n-noticia-689405264292/",
+            "note": "Poll roundup headlined as the PSOE sinking, though its own figures show the Socialists gaining."
+          }
+        ]
+      },
+      "differ": "The left argues about rights and who dodges scrutiny; the right argues about the arithmetic of a change of government.",
+      "sources": [
+        {
+          "name": "EFE (via Infobae)",
+          "url": "https://www.infobae.com/espana/agencias/2026/11/08/sanchez-feijoo-no-es-mas-triste-porque-no-quiere-y-como-abascal-tragara-con-todo/"
+        },
+        {
+          "name": "Qué!",
+          "url": "https://www.que.es/2026/11/08/reforma-constitucion-pensiones-aborto/"
+        }
+      ]
+    },
+    {
+      "topic": "Member states · Netherlands & Israel",
+      "title": "More than 200,000 march in Amsterdam's fourth 'Red Line' protest demanding tougher Dutch action on Israel",
+      "summary": "Amnesty International's Dutch branch, a co-organiser with Oxfam Novib, PAX and around 150 other groups, said more than 200,000 people marched through Amsterdam on Sunday. Protesters called for an end to arms sales and tighter trade limits on Israel, and for the Netherlands to apply International Court of Justice rulings. Prime Minister Rob Jetten said his government was increasing political and diplomatic pressure on Israel, and Foreign Minister Tom Berendsen pointed to the September ban on imports from Israeli settlements. The previous Red Line march in October 2025 drew about 250,000.",
+      "why": "Dutch pressure feeds into the long-running EU split over restricting trade with Israel and suspending parts of the EU–Israel Association Agreement.",
+      "left": {
+        "angle": "Lean-left coverage leads with the crowd size and protesters' anger at what they see as Dutch inaction, setting the march against the Gaza death toll and the frequently broken ceasefire.",
+        "outlets": [
+          {
+            "name": "Al Jazeera",
+            "lean": "Lean left",
+            "url": "https://www.aljazeera.com/news/2026/11/8/hundreds-of-thousands-protesters-storm-amsterdam",
+            "note": "Puts the 200,000 figure and Gaza casualties up front; government response comes later."
+          }
+        ]
+      },
+      "right": {
+        "angle": "We found no right-leaning outlet's take on Sunday's march by publication time.",
+        "outlets": []
+      },
+      "differ": "Only one side's framing was available; straight-news reports balance the organisers' demands with the government's point that it has already banned settlement goods.",
+      "sources": [
+        {
+          "name": "NL Times",
+          "url": "https://nltimes.nl/2026/11/08/amsterdam-readies-fourth-red-line-protest-organizers-expect-tens-thousands"
+        },
+        {
+          "name": "AP (via Asharq Al-Awsat)",
+          "url": "https://english.aawsat.com/world/5338981-tens-thousands-march-amsterdam-pressing-dutch-govt-gaza-and-israel"
+        }
+      ]
+    }
+  ],
+  "oneSided": {
+    "left": [
+      {
+        "title": "Heart-breaking Kraków attack can make Poland stronger",
+        "outlet": "EUobserver",
+        "lean": "Centre-left",
+        "url": "https://euobserver.com/247697/heart-breaking-krakow-attack-can-make-poland-stronger"
+      },
+      {
+        "title": "Italy still obstructing asylum returns from other EU states amid simmering dispute that threatens Schengen",
+        "outlet": "EUobserver",
+        "lean": "Centre-left",
+        "url": "https://euobserver.com/247568/italy-still-obstructing-asylum-returns-from-other-eu-states-amid-simmering-dispute-that-threatens-schengen/"
+      },
+      {
+        "title": "EU states back one-year methane delay, but leave door open for more",
+        "outlet": "EUobserver",
+        "lean": "Centre-left",
+        "url": "https://euobserver.com/247446/eu-states-back-one-year-methane-delay-but-leave-door-open-for-more/"
+      }
+    ],
+    "right": [
+      {
+        "title": "Brussels sidelines most auditors' fixes for next EU budget",
+        "outlet": "Brussels Signal",
+        "lean": "Right",
+        "url": "https://brusselssignal.eu/2026/11/brussels-sidelines-most-auditors-fixes-for-next-eu-budget/"
+      },
+      {
+        "title": "Confidence in Macron drops to 13 per cent, lowest rating ever measured",
+        "outlet": "Brussels Signal",
+        "lean": "Right",
+        "url": "https://brusselssignal.eu/2026/11/confidence-in-macron-drops-to-13-per-cent-lowest-rating-ever-measured/"
+      }
+    ]
+  }
+}

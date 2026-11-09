@@ -1,134 +1,174 @@
 {
-  "date": "2026-11-08",
-  "generatedAt": "2026-11-08T05:41:40Z",
+  "date": "2026-11-09",
+  "generatedAt": "2026-11-09T05:44:41Z",
   "mode": "written",
-  "topline": "Three stories today: a gunman kills six on Kraków's main square in what Polish officials call terrorism, EU prosecutors open a second fraud probe into funds for Spain's crash-hit Madrid–Seville rail line three weeks before a snap election, and France sees a fourth weekend of cost-of-living protests.",
+  "topline": "Three stories today: France says Europeans will take part in this week's US-brokered Ukraine talks in Abu Dhabi, Pedro Sánchez pledges to write pension rises and abortion rights into Spain's constitution three weeks before the 29 November election, and more than 200,000 march in Amsterdam demanding tougher Dutch action on Israel.",
   "stories": [
     {
-      "topic": "Security · Poland",
-      "title": "Gunman kills six on Kraków's Main Market Square; Poland declares national mourning",
-      "summary": "A 24-year-old Polish man drove onto Kraków's Main Market Square on Saturday afternoon and fired a military-style rifle at passers-by, killing six people (four women and two men) and wounding around 15, including two police officers. Police shot and detained him; officials say he acted alone, and further firearms and ammunition were found in his car. Interior Minister Marcin Kierwiński said early indications were that the suspect was drawn to far-right ideas, though police had not formally established a motive. Prime Minister Donald Tusk praised the police response and urged against speculation, President Karol Nawrocki called for a full explanation and declared national mourning, and EU foreign-policy chief Kaja Kallas and German Chancellor Friedrich Merz sent condolences. Some reports say three more bodies were later found at the suspect's family home.",
-      "why": "It is one of the deadliest attacks in an EU member state this year and lands in a deeply polarised Poland, where government and president are already at odds; how the motive is framed will shape debates on gun licensing and political extremism across the bloc.",
+      "topic": "Ukraine · Peace talks",
+      "title": "France says Europeans will join US-brokered Ukraine talks in Abu Dhabi on 10–11 November",
+      "summary": "French Foreign Minister Jean-Noël Barrot said on Sunday that Europeans, France included, will be represented at the US-mediated talks between Ukrainian and Russian delegations in Abu Dhabi on 10–11 November, though he would not attend himself and France's envoy has not been named. Until now the format was trilateral (US, Ukraine, Russia), and in late October a Kremlin aide said European countries would not be included. Barrot argued no deal touching Europe's security architecture can be settled without Europeans, after Donald Trump predicted a 'major agreement' that could cover all of Europe following a meeting with Kremlin envoy Kirill Dmitriev. Italy's Giorgia Meloni has asked for a single EU representative, and EU leaders are due to discuss the envoy's profile and mandate at an informal summit in Dublin on 13 November. G7 foreign ministers meet in Paris today with Ukraine and Iran on the agenda.",
+      "why": "Whether the EU gets a seat — and who fills it — will decide how much say Europe has over security guarantees and any settlement that redraws its eastern flank.",
       "left": {
-        "angle": "Left-leaning and international outlets led with the death toll, the police response and the wave of solidarity from EU and foreign leaders, treating the motive as still unclear. They placed the attack in the context of rarely seen gun violence in Poland and earlier violent incidents, with little focus on domestic political fallout.",
+        "angle": "Centre-left and lean-left coverage stresses European disarray: rival formats, unclear mandates and a scramble to name an envoy while Washington and Moscow set the pace. It foregrounds scepticism about Trump's promised 'big, beautiful' deal and recalls the Kremlin's earlier refusal to accept Europeans at the table.",
         "outlets": [
+          {
+            "name": "EUobserver",
+            "lean": "Centre-left",
+            "url": "https://euobserver.com/247519/trump-vows-beautiful-russia-deal-as-eu-agonises-over-which-envoy-to-send-to-ukraine-peace-talks/",
+            "note": "Frames the EU as agonising over who speaks for it, with doubts that Russia wants a deal at all."
+          },
           {
             "name": "Al Jazeera",
             "lean": "Lean left",
-            "url": "https://www.aljazeera.com/news/2026/11/7/casualties-reported-after-shooting-in-polands-krakow",
-            "note": "Wire-based account stressing the toll, Tusk's praise for police and Kallas's condolences; no motive discussed."
-          },
-          {
-            "name": "taz",
-            "lean": "Left",
-            "url": "https://taz.de/Mutmasslicher-Taeter-festgenommen/!6228323/",
-            "note": "Cautious on motive; focuses on eyewitnesses sheltering in shops and questions about police presence that day."
+            "url": "https://www.aljazeera.com/news/2026/10/28/kremlin-says-european-countries-not-included-in-next-ukraine-talks",
+            "note": "Earlier coverage (28 Oct): sets the Kremlin's exclusion of Europeans against Finland's and Kyiv's insistence they take part."
           }
         ]
       },
       "right": {
-        "angle": "Conservative coverage put the interior minister's 'far-right' remark in the headline but quickly stressed that police had not confirmed any ideology, and dug into the suspect's background, weapons licence and family. It gave more room to the terror label used by ministers and to Nawrocki's demand for a full investigation than to international reactions.",
+        "angle": "Right-leaning coverage centres on Meloni's push for one EU voice, presenting Italy as seeking a fix to a chaotic process rather than a seat for itself. It stresses that national governments will not be bound by commitments made without their mandate, and plays down the Commission's claim to represent the bloc.",
         "outlets": [
           {
-            "name": "Hungarian Conservative",
+            "name": "Brussels Signal",
             "lean": "Right",
-            "url": "https://hungarianconservative.com/articles/current/krakow-mass-shooting-far-right-suspect-terror-attack",
-            "note": "Leads with the minister's claim, notes it is unconfirmed, and reports the bodies found at the family home and the father's gun collection."
+            "url": "https://brusselssignal.eu/2026/11/italy-demands-single-eu-voice-in-ukraine-peace-talks/",
+            "note": "Leads with Meloni's letter to Costa; casts division as costing Europe credibility with Washington and Moscow."
           }
         ]
       },
-      "differ": "Left-leaning reports emphasised grief, solidarity and caution about motive; the conservative piece focused on the suspect's profile and questioned how firmly the government could yet label him far-right.",
+      "differ": "The left reads the episode as evidence of EU weakness beside a US-Russia track it distrusts; the right treats it as a mandate problem that national capitals, led by Rome, must solve.",
       "sources": [
         {
-          "name": "Notes from Poland",
-          "url": "https://notesfrompoland.com/2026/11/07/fatalities-reported-in-shooting-on-historical-market-square-in-krakow/"
+          "name": "Euronews",
+          "url": "https://www.euronews.com/2026/11/08/europeans-to-join-russia-ukraine-talks-in-abu-dhabi-says-french-fm-barrot"
         },
         {
-          "name": "The New Arab",
-          "url": "https://www.newarab.com/news/gunman-polands-krakow-shooting-fascinated-far-right"
+          "name": "Reuters (via Investing.com)",
+          "url": "https://www.investing.com/news/world-news/europeans-will-join-ukraine-talks-in-abu-dhabi-french-minister-says-5010393"
         },
         {
-          "name": "CBC News",
-          "url": "https://www.cbc.ca/news/world/krakow-poland-shooting-9.7413582"
+          "name": "Kyiv Independent",
+          "url": "https://kyivindependent.com/europeans-will-participate-in-abu-dhabi-peace-talks-french-foreign-minister-says/"
+        },
+        {
+          "name": "France 24",
+          "url": "https://www.france24.com/en/live-news/20261109-g7-ministers-meet-on-efforts-to-end-ukraine-conflict-halt-new-iran-war"
         }
       ]
     },
     {
-      "topic": "Rule of law · EU funds",
-      "title": "EU prosecutors open a second fraud probe into funds for Spain's crash-hit Madrid–Seville rail line",
-      "summary": "The European Public Prosecutor's Office (EPPO) has opened, on its own initiative, an investigation into possible fraud involving EU money for renovating the Madrid–Seville high-speed line, where a crash near Urda on 28 October killed 69 people. The line received €111 million in EU regional development funding in 2024; the Guardia Civil's UCO unit collected documents from rail operator Adif, the state rail safety agency and the Court of Auditors on EPPO's behalf. It is the second EPPO probe on the line after a January crash at Adamuz killed 46. Transport Minister Óscar Puente resigned on 3 November, and the affair is unfolding ahead of Spain's snap general election on 29 November.",
-      "why": "It tests the EPPO's role in policing how member states spend EU recovery and cohesion money, and could sway a national election in one of the bloc's largest economies.",
+      "topic": "Member states · Spain election",
+      "title": "Sánchez pledges to put pension rises and abortion rights in Spain's constitution as campaign moves to TV",
+      "summary": "At a rally in Bilbao on Sunday, Prime Minister Pedro Sánchez promised a constitutional reform to guarantee annual pension increases in line with inflation and the right to abortion, plus yearly minimum-wage rises, and urged a mass turnout on 29 November. No draft text or timetable was given; such a reform needs a three-fifths majority in both chambers, or two-thirds plus a referendum if fundamental rights are touched, so it would require the PP's votes. Sánchez accused Alberto Núñez Feijóo and Santiago Abascal of being unable to say no to Trump on 5% defence spending. Most private polls put the PP first at around 31%, PSOE near 27% and Vox near 19%, while the state CIS barometer has PSOE ahead. All three leaders give TV interviews today, and head-to-head debates are still being negotiated.",
+      "why": "Spain is the EU's fourth-largest economy and one of its few centre-left governments; a PP–Vox majority would shift the Council balance on migration, climate and defence spending.",
       "left": {
-        "angle": "Left-leaning coverage treated the probe as a matter of infrastructure and EU oversight: what the EPPO is examining, how it relates to the earlier Adamuz case, and the Commission's own past warnings that the 1992 line was outdated. It kept the judicial track separate from the election campaign.",
+        "angle": "Progressive coverage treats the campaign as a contest over media access and accountability, spotlighting Feijóo's refusal of public broadcaster RTVE and the haggling over debates. It frames Sánchez's pledges as protecting social rights and puts the onus on the right to say whether it would back them.",
         "outlets": [
+          {
+            "name": "El Plural",
+            "lean": "Centre-left",
+            "url": "https://www.elplural.com/politica/espana/campana-llega-tele-sanchez-feijoo-abascal-trasladan-pulso-electoral-platos_803625102",
+            "note": "Focuses on the TV battle and Feijóo avoiding RTVE; critical of Abascal's public-TV slot."
+          },
           {
             "name": "elDiario.es",
             "lean": "Left",
-            "url": "https://www.eldiario.es/politica/fiscalia-europea-abre-investigacion-fraude-alta-velocidad-accidente-urda_1_13643016.html",
-            "note": "Brussels correspondent's report on the EPPO and UCO steps, stressing the line's age and the separate judicial inquiry into the crash."
+            "url": "https://www.eldiario.es/politica/ultima-hora-actualidad-politica-directo_6_13647552.html",
+            "note": "Sunday live blog following the parallel rallies of Sánchez, Feijóo and ERC."
           }
         ]
       },
       "right": {
-        "angle": "Right-leaning coverage linked the probe to Adif's management and to the Sánchez government, highlighting a large signalling contract signed with EU recovery funds and audit-office concerns over who signed it. It framed the investigations as a blow to the Socialists' campaign, while one report itself noted the auditors did not find the signatures false.",
+        "angle": "Right-leaning coverage leads with the polls, presenting the PP as clear favourite and Vox as surging, and frames the PSOE as in trouble. It largely sidesteps the constitutional pledge, treating the election as a question of how big a PP–Vox majority will be.",
         "outlets": [
           {
-            "name": "The Objective",
+            "name": "Periodista Digital",
             "lean": "Right",
-            "url": "https://theobjective.com/espana/2026-11-07/bruselas-directivos-adif-urda-fondos-europeos/",
-            "note": "Focuses on a €77.5 million signalling contract and Court of Auditors doubts over the signatories' powers."
-          },
-          {
-            "name": "The Objective",
-            "lean": "Right",
-            "url": "https://theobjective.com/espana/politica/2026-11-08/investigacion-adif-campana-sanchez-elecciones/",
-            "note": "Argues the Adif probes are damaging Sánchez's 29 November campaign, citing anonymous Socialist figures."
+            "url": "https://www.periodistadigital.com/periodismo/20261106/feijoo-pp-cabeza-abascal-vox-acelera-sanchez-psoe-hunde-dicen-encuestas-29-n-noticia-689405264292/",
+            "note": "Poll roundup headlined as the PSOE sinking, though its own figures show the Socialists gaining."
           }
         ]
       },
-      "differ": "The left treats the probe as an oversight question about ageing infrastructure and EU money; the right treats it as evidence of mismanagement under Sánchez with direct electoral consequences.",
+      "differ": "The left argues about rights and who dodges scrutiny; the right argues about the arithmetic of a change of government.",
       "sources": [
         {
-          "name": "Euronews",
-          "url": "https://www.euronews.com/2026/11/06/eu-prosecutors-probe-fraud-claims-over-funds-for-spanish-rail-line-hit-by-deadly-crash"
+          "name": "EFE (via Infobae)",
+          "url": "https://www.infobae.com/espana/agencias/2026/11/08/sanchez-feijoo-no-es-mas-triste-porque-no-quiere-y-como-abascal-tragara-con-todo/"
         },
         {
-          "name": "Euronews",
-          "url": "https://www.euronews.com/2026/11/03/spains-transport-minister-oscar-puente-resigns-over-urda-train-crash-that-killed-69"
+          "name": "Qué!",
+          "url": "https://www.que.es/2026/11/08/reforma-constitucion-pensiones-aborto/"
         }
       ]
     },
     {
-      "topic": "Member states · France",
-      "title": "France holds a fourth weekend of cost-of-living protests as official turnout falls",
-      "summary": "Protests against the rising cost of living took place across France on Saturday for the fourth weekend running. The Interior Ministry counted about 146,000 demonstrators nationwide, 46,000 of them in Paris, while organisers claimed 250,000; official figures have fallen each week from about 550,000 in mid-October. Some 70,000 police and gendarmes were deployed, police used tear gas in Paris and Lyon, and early counts reported 18 arrests. The movement, which began with student protests over school conditions, now combines youth groups, union branches and a separate 'yellow vests' rally.",
-      "why": "Sustained unrest in the eurozone's second-largest economy feeds into France's budget choices and a presidential race due in April, in which polls show the National Rally ahead.",
+      "topic": "Member states · Netherlands & Israel",
+      "title": "More than 200,000 march in Amsterdam's fourth 'Red Line' protest demanding tougher Dutch action on Israel",
+      "summary": "Amnesty International's Dutch branch, a co-organiser with Oxfam Novib, PAX and around 150 other groups, said more than 200,000 people marched through Amsterdam on Sunday. Protesters called for an end to arms sales and tighter trade limits on Israel, and for the Netherlands to apply International Court of Justice rulings. Prime Minister Rob Jetten said his government was increasing political and diplomatic pressure on Israel, and Foreign Minister Tom Berendsen pointed to the September ban on imports from Israeli settlements. The previous Red Line march in October 2025 drew about 250,000.",
+      "why": "Dutch pressure feeds into the long-running EU split over restricting trade with Israel and suspending parts of the EU–Israel Association Agreement.",
       "left": {
-        "angle": "Left-leaning coverage stressed the size and breadth of the movement, the clashes and the interior minister's warning to rioters, and tied the protests to the coming presidential race. Its emphasis was on public anger rather than on falling numbers.",
+        "angle": "Lean-left coverage leads with the crowd size and protesters' anger at what they see as Dutch inaction, setting the march against the Gaza death toll and the frequently broken ceasefire.",
         "outlets": [
           {
             "name": "Al Jazeera",
             "lean": "Lean left",
-            "url": "https://www.aljazeera.com/news/2026/11/7/more-than-140000-rally-as-new-protests-against-rising-costs-sweep-france",
-            "note": "Leads with 140,000-plus marchers and tear gas, and notes Le Pen and Mélenchon leading the polls."
+            "url": "https://www.aljazeera.com/news/2026/11/8/hundreds-of-thousands-protesters-storm-amsterdam",
+            "note": "Puts the 200,000 figure and Gaza casualties up front; government response comes later."
           }
         ]
       },
       "right": {
-        "angle": "We could not find a right-leaning outlet's take on Saturday's protests in time for this edition. Straight-news and business-oriented reports instead stressed the steady fall in official turnout and calmer marches.",
+        "angle": "We found no right-leaning outlet's take on Sunday's march by publication time.",
         "outlets": []
       },
-      "differ": "The available coverage splits between protests that remain large and angry and a movement that is losing steam; no right-leaning framing could be verified today.",
+      "differ": "Only one side's framing was available; straight-news reports balance the organisers' demands with the government's point that it has already banned settlement goods.",
       "sources": [
         {
-          "name": "The Rio Times",
-          "url": "https://www.riotimesonline.com/france-protest-turnout-falls-nov-7"
+          "name": "NL Times",
+          "url": "https://nltimes.nl/2026/11/08/amsterdam-readies-fourth-red-line-protest-organizers-expect-tens-thousands"
+        },
+        {
+          "name": "AP (via Asharq Al-Awsat)",
+          "url": "https://english.aawsat.com/world/5338981-tens-thousands-march-amsterdam-pressing-dutch-govt-gaza-and-israel"
         }
       ]
     }
   ],
   "oneSided": {
-    "left": [],
-    "right": []
+    "left": [
+      {
+        "title": "Heart-breaking Kraków attack can make Poland stronger",
+        "outlet": "EUobserver",
+        "lean": "Centre-left",
+        "url": "https://euobserver.com/247697/heart-breaking-krakow-attack-can-make-poland-stronger"
+      },
+      {
+        "title": "Italy still obstructing asylum returns from other EU states amid simmering dispute that threatens Schengen",
+        "outlet": "EUobserver",
+        "lean": "Centre-left",
+        "url": "https://euobserver.com/247568/italy-still-obstructing-asylum-returns-from-other-eu-states-amid-simmering-dispute-that-threatens-schengen/"
+      },
+      {
+        "title": "EU states back one-year methane delay, but leave door open for more",
+        "outlet": "EUobserver",
+        "lean": "Centre-left",
+        "url": "https://euobserver.com/247446/eu-states-back-one-year-methane-delay-but-leave-door-open-for-more/"
+      }
+    ],
+    "right": [
+      {
+        "title": "Brussels sidelines most auditors' fixes for next EU budget",
+        "outlet": "Brussels Signal",
+        "lean": "Right",
+        "url": "https://brusselssignal.eu/2026/11/brussels-sidelines-most-auditors-fixes-for-next-eu-budget/"
+      },
+      {
+        "title": "Confidence in Macron drops to 13 per cent, lowest rating ever measured",
+        "outlet": "Brussels Signal",
+        "lean": "Right",
+        "url": "https://brusselssignal.eu/2026/11/confidence-in-macron-drops-to-13-per-cent-lowest-rating-ever-measured/"
+      }
+    ]
   }
 }
