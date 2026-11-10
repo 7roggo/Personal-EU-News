@@ -1,173 +1,195 @@
 {
-  "date": "2026-11-09",
-  "generatedAt": "2026-11-09T05:44:41Z",
+  "date": "2026-11-10",
+  "generatedAt": "2026-11-10T05:44:35Z",
   "mode": "written",
-  "topline": "Three stories today: France says Europeans will take part in this week's US-brokered Ukraine talks in Abu Dhabi, Pedro Sánchez pledges to write pension rises and abortion rights into Spain's constitution three weeks before the 29 November election, and more than 200,000 march in Amsterdam demanding tougher Dutch action on Israel.",
+  "topline": "Four stories today: an EU joint team heads to the US-brokered Ukraine–Russia talks in Abu Dhabi, Friedrich Merz ties Germany's backing for the next EU budget to all member states funding Ukraine, France blames Iran's Revolutionary Guards for October's cyberattack on supermarket fridges, and Hungarian police detain Viktor Orbán's brother in a people-smuggling probe.",
   "stories": [
     {
       "topic": "Ukraine · Peace talks",
-      "title": "France says Europeans will join US-brokered Ukraine talks in Abu Dhabi on 10–11 November",
-      "summary": "French Foreign Minister Jean-Noël Barrot said on Sunday that Europeans, France included, will be represented at the US-mediated talks between Ukrainian and Russian delegations in Abu Dhabi on 10–11 November, though he would not attend himself and France's envoy has not been named. Until now the format was trilateral (US, Ukraine, Russia), and in late October a Kremlin aide said European countries would not be included. Barrot argued no deal touching Europe's security architecture can be settled without Europeans, after Donald Trump predicted a 'major agreement' that could cover all of Europe following a meeting with Kremlin envoy Kirill Dmitriev. Italy's Giorgia Meloni has asked for a single EU representative, and EU leaders are due to discuss the envoy's profile and mandate at an informal summit in Dublin on 13 November. G7 foreign ministers meet in Paris today with Ukraine and Iran on the agenda.",
-      "why": "Whether the EU gets a seat — and who fills it — will decide how much say Europe has over security guarantees and any settlement that redraws its eastern flank.",
+      "title": "EU sends joint team to Abu Dhabi as US-brokered Ukraine–Russia talks resume after nine months",
+      "summary": "Ukrainian, Russian and US delegations meet in Abu Dhabi on 10–11 November for the first round of US-mediated talks since February. The European Commission and European Council are sending a joint team of senior officials, led by Ursula von der Leyen's chief of cabinet Bjoern Seibert and António Costa's foreign-policy adviser Anna-Maria Boura, alongside officials from France, Germany, the UK and NATO. Their exact role is unclear: they may brief and debrief the delegations on the sidelines or join an expanded format, and Brussels has signalled it is willing to meet the Russian side directly. The Kremlin said on Monday the talks would not include Europeans, while Ukraine's chief negotiator Rustem Umerov said European representatives would be present.",
+      "why": "Europe has struggled to secure a voice in negotiations that could reshape its own security order, and Giorgia Meloni's complaint about a 'plurality of representatives' is on the agenda of EU leaders' informal meeting in Dublin on 13 November.",
       "left": {
-        "angle": "Centre-left and lean-left coverage stresses European disarray: rival formats, unclear mandates and a scramble to name an envoy while Washington and Moscow set the pace. It foregrounds scepticism about Trump's promised 'big, beautiful' deal and recalls the Kremlin's earlier refusal to accept Europeans at the table.",
+        "angle": "Left-leaning coverage is sceptical that the round will achieve much, leading with analysts who expect no breakthrough on territory or security guarantees. It stresses that Russia still occupies about a fifth of Ukraine and that Donald Trump has pressed Kyiv to cede land, and treats Europe's place at the table as uncertain and contested by Moscow.",
         "outlets": [
-          {
-            "name": "EUobserver",
-            "lean": "Centre-left",
-            "url": "https://euobserver.com/247519/trump-vows-beautiful-russia-deal-as-eu-agonises-over-which-envoy-to-send-to-ukraine-peace-talks/",
-            "note": "Frames the EU as agonising over who speaks for it, with doubts that Russia wants a deal at all."
-          },
           {
             "name": "Al Jazeera",
             "lean": "Lean left",
-            "url": "https://www.aljazeera.com/news/2026/10/28/kremlin-says-european-countries-not-included-in-next-ukraine-talks",
-            "note": "Earlier coverage (28 Oct): sets the Kremlin's exclusion of Europeans against Finland's and Kyiv's insistence they take part."
+            "url": "https://www.aljazeera.com/news/2026/11/9/no-concession-what-to-expect-from-russia-us-ukraine-talks-in-abu-dhabi",
+            "note": "Explainer built around analysts who expect no tangible progress; flags the Kremlin's denial of any European role."
+          },
+          {
+            "name": "CNN",
+            "lean": "Lean left",
+            "url": "https://www.cnn.com/2026/11/09/europe/russia-ukraine-us-peace-talks-preview-intl",
+            "note": "Preview asking what is different about this round after a nine-month pause."
           }
         ]
       },
       "right": {
-        "angle": "Right-leaning coverage centres on Meloni's push for one EU voice, presenting Italy as seeking a fix to a chaotic process rather than a seat for itself. It stresses that national governments will not be bound by commitments made without their mandate, and plays down the Commission's claim to represent the bloc.",
+        "angle": "Right-leaning coverage leads with Paris insisting Europeans will be represented, and stresses the confusion in Brussels over who actually speaks for the bloc. It foregrounds Meloni's demand for a single European voice and the risk of Europe being sidelined, and folds in French attacks on Jean-Luc Mélenchon's stance on Donbas.",
         "outlets": [
           {
             "name": "Brussels Signal",
             "lean": "Right",
-            "url": "https://brusselssignal.eu/2026/11/italy-demands-single-eu-voice-in-ukraine-peace-talks/",
-            "note": "Leads with Meloni's letter to Costa; casts division as costing Europe credibility with Washington and Moscow."
+            "url": "https://brusselssignal.eu/2026/11/french-government-insists-europeans-will-be-at-abu-dhabi-talks-on-ukraine/",
+            "note": "Leads with Jean-Noël Barrot's reassurances while highlighting contradictory reports on whether the EU would attend."
           }
         ]
       },
-      "differ": "The left reads the episode as evidence of EU weakness beside a US-Russia track it distrusts; the right treats it as a mandate problem that national capitals, led by Rome, must solve.",
+      "differ": "The left asks whether the talks can succeed at all given Russian demands; the right focuses on whether Europe is organised enough to be heard in them.",
       "sources": [
         {
           "name": "Euronews",
-          "url": "https://www.euronews.com/2026/11/08/europeans-to-join-russia-ukraine-talks-in-abu-dhabi-says-french-fm-barrot"
-        },
-        {
-          "name": "Reuters (via Investing.com)",
-          "url": "https://www.investing.com/news/world-news/europeans-will-join-ukraine-talks-in-abu-dhabi-french-minister-says-5010393"
+          "url": "https://www.euronews.com/2026/11/09/eu-to-send-joint-team-to-ukraine-russia-peace-talks-in-abu-dhabi"
         },
         {
           "name": "Kyiv Independent",
-          "url": "https://kyivindependent.com/europeans-will-participate-in-abu-dhabi-peace-talks-french-foreign-minister-says/"
-        },
-        {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/live-news/20261109-g7-ministers-meet-on-efforts-to-end-ukraine-conflict-halt-new-iran-war"
+          "url": "https://kyivindependent.com/europes-attendance-at-abu-dhabi-peace-talks-clarified/"
         }
       ]
     },
     {
-      "topic": "Member states · Spain election",
-      "title": "Sánchez pledges to put pension rises and abortion rights in Spain's constitution as campaign moves to TV",
-      "summary": "At a rally in Bilbao on Sunday, Prime Minister Pedro Sánchez promised a constitutional reform to guarantee annual pension increases in line with inflation and the right to abortion, plus yearly minimum-wage rises, and urged a mass turnout on 29 November. No draft text or timetable was given; such a reform needs a three-fifths majority in both chambers, or two-thirds plus a referendum if fundamental rights are touched, so it would require the PP's votes. Sánchez accused Alberto Núñez Feijóo and Santiago Abascal of being unable to say no to Trump on 5% defence spending. Most private polls put the PP first at around 31%, PSOE near 27% and Vox near 19%, while the state CIS barometer has PSOE ahead. All three leaders give TV interviews today, and head-to-head debates are still being negotiated.",
-      "why": "Spain is the EU's fourth-largest economy and one of its few centre-left governments; a PP–Vox majority would shift the Council balance on migration, climate and defence spending.",
+      "topic": "Budget · Ukraine funding",
+      "title": "Merz links Germany's support for next EU budget to all members funding Ukraine",
+      "summary": "In a letter to European Council President António Costa, German Chancellor Friedrich Merz asked EU leaders to make Ukraine's 2027 financing gap a priority, saying support for Kyiv is a responsibility shared by all member states. Ukraine needs about €70bn next year, of which roughly €45bn is expected to come from the EU, with the source of the money still unresolved. The Financial Times reported that Merz is prepared to block the 2028–2034 long-term budget until every member contributes; Hungary, Slovakia, Czechia and Bulgaria have signalled they will not. Separately, Parliament and Council negotiators meet today to try to settle the 2027 annual budget, where funding for NextGenerationEU repayments and the Ukraine loan is the main dispute.",
+      "why": "Tying Ukraine aid to the seven-year budget gives Berlin leverage over holdout states but risks deadlocking negotiations that EU leaders take up in Dublin on 13 November and at a budget summit later this month.",
       "left": {
-        "angle": "Progressive coverage treats the campaign as a contest over media access and accountability, spotlighting Feijóo's refusal of public broadcaster RTVE and the haggling over debates. It frames Sánchez's pledges as protecting social rights and puts the onus on the right to say whether it would back them.",
+        "angle": "Centre-left German coverage presents the move as an ultimatum and walks through Berlin's arguments without endorsing them. It adds context that complicates the burden-sharing claim, citing Kiel Institute figures showing several smaller states give far more per head than Germany.",
         "outlets": [
           {
-            "name": "El Plural",
+            "name": "Berliner Zeitung",
             "lean": "Centre-left",
-            "url": "https://www.elplural.com/politica/espana/campana-llega-tele-sanchez-feijoo-abascal-trasladan-pulso-electoral-platos_803625102",
-            "note": "Focuses on the TV battle and Feijóo avoiding RTVE; critical of Abascal's public-TV slot."
-          },
-          {
-            "name": "elDiario.es",
-            "lean": "Left",
-            "url": "https://www.eldiario.es/politica/ultima-hora-actualidad-politica-directo_6_13647552.html",
-            "note": "Sunday live blog following the parallel rallies of Sánchez, Feijóo and ERC."
+            "url": "https://www.berliner-zeitung.de/article/ultimatum-merz-eu-haushalt-blockade-ukraine-hilfen-finanzierung-10580796",
+            "note": "Explains the 'ultimatum' and sets Germany's per-capita aid against Denmark's and Sweden's."
           }
         ]
       },
       "right": {
-        "angle": "Right-leaning coverage leads with the polls, presenting the PP as clear favourite and Vox as surging, and frames the PSOE as in trouble. It largely sidesteps the constitutional pledge, treating the election as a question of how big a PP–Vox majority will be.",
+        "angle": "Right-leaning coverage leads with the blunt formula of no money for Kyiv, no EU budget, and casts the four holdout states as net recipients of EU funds refusing to share the cost. It stresses the burden on European taxpayers and treats Merz's hard line as justified pressure.",
         "outlets": [
           {
-            "name": "Periodista Digital",
+            "name": "NIUS",
             "lean": "Right",
-            "url": "https://www.periodistadigital.com/periodismo/20261106/feijoo-pp-cabeza-abascal-vox-acelera-sanchez-psoe-hunde-dicen-encuestas-29-n-noticia-689405264292/",
-            "note": "Poll roundup headlined as the PSOE sinking, though its own figures show the Socialists gaining."
+            "url": "https://nius.de/politik/kein-geld-fuer-kiew-kein-eu-haushalt-merz-droht-mit-veto",
+            "note": "Tabloid-style framing of an 'ultimatum to Brussels'; highlights that the holdouts receive more from the budget than they pay in."
           }
         ]
       },
-      "differ": "The left argues about rights and who dodges scrutiny; the right argues about the arithmetic of a change of government.",
+      "differ": "The left-leaning piece questions how fair Germany's burden-sharing complaint really is; the right-leaning piece takes it as given and targets the states that refuse to pay.",
       "sources": [
         {
-          "name": "EFE (via Infobae)",
-          "url": "https://www.infobae.com/espana/agencias/2026/11/08/sanchez-feijoo-no-es-mas-triste-porque-no-quiere-y-como-abascal-tragara-con-todo/"
+          "name": "Kyiv Independent",
+          "url": "https://kyivindependent.com/germanys-merz-complains-about-unfair-burden-sharing-calls-eu-to-prioritize-new-ukraine-loan/"
         },
         {
-          "name": "Qué!",
-          "url": "https://www.que.es/2026/11/08/reforma-constitucion-pensiones-aborto/"
+          "name": "Agence Europe",
+          "url": "https://agenceurope.eu/en/bulletin/article/13978/18/european-parliament-and-council-to-attempt-to-reach-agreement-on-tuesday-10-november-on-eu-annual-budget-for-2027"
         }
       ]
     },
     {
-      "topic": "Member states · Netherlands & Israel",
-      "title": "More than 200,000 march in Amsterdam's fourth 'Red Line' protest demanding tougher Dutch action on Israel",
-      "summary": "Amnesty International's Dutch branch, a co-organiser with Oxfam Novib, PAX and around 150 other groups, said more than 200,000 people marched through Amsterdam on Sunday. Protesters called for an end to arms sales and tighter trade limits on Israel, and for the Netherlands to apply International Court of Justice rulings. Prime Minister Rob Jetten said his government was increasing political and diplomatic pressure on Israel, and Foreign Minister Tom Berendsen pointed to the September ban on imports from Israeli settlements. The previous Red Line march in October 2025 drew about 250,000.",
-      "why": "Dutch pressure feeds into the long-running EU split over restricting trade with Israel and suspending parts of the EU–Israel Association Agreement.",
+      "topic": "Security · Cyber",
+      "title": "France blames Iran's Revolutionary Guards for cyberattack on supermarket fridges and seeks EU sanctions",
+      "summary": "French Foreign Minister Jean-Noël Barrot said a unit linked to Iran's Islamic Revolutionary Guard Corps was behind the overnight attack of 11–12 October that remotely disrupted refrigeration at more than 700 French stores, including Carrefour, Monoprix and Intermarché outlets. The Paris prosecutor has opened a judicial investigation and requested arrest warrants for the head of the 'Shahid Kaveh' cyber unit and two deputies. France is summoning Iran's ambassador and will push for sanctions at EU level; foreign-policy chief Kaja Kallas said ministers would discuss attacks across Europe at the 16 November Foreign Affairs Council. Paris puts losses at tens of millions of euros.",
+      "why": "It is a rare formal attribution of a disruptive civilian-infrastructure cyberattack to a state actor by an EU government, and tests whether the bloc will follow with joint sanctions; MEPs debate critical-infrastructure cyber resilience on Wednesday.",
       "left": {
-        "angle": "Lean-left coverage leads with the crowd size and protesters' anger at what they see as Dutch inaction, setting the march against the Gaza death toll and the frequently broken ceasefire.",
+        "angle": "Left-leaning outlets report the attribution largely as breaking news, leading with the IRGC link and France's diplomatic response. Al Jazeera's coverage is brief and France-focused, and does not dwell on Iran's wider record or the security implications for Europe.",
         "outlets": [
           {
             "name": "Al Jazeera",
             "lean": "Lean left",
-            "url": "https://www.aljazeera.com/news/2026/11/8/hundreds-of-thousands-protesters-storm-amsterdam",
-            "note": "Puts the 200,000 figure and Gaza casualties up front; government response comes later."
+            "url": "https://www.aljazeera.com/news/2026/11/9/france-accuses-iran-of-cyberattack-on-european-fridges",
+            "note": "Short breaking report on the accusation, the summons and the requested arrest warrants."
+          },
+          {
+            "name": "The Guardian",
+            "lean": "Centre-left",
+            "url": "https://www.theguardian.com/world/2026/nov/09/france-blames-irans-revolutionary-guards-for-cyber-attacks-on-supermarket-fridges",
+            "note": "Headline puts the Revolutionary Guards' alleged role up front."
           }
         ]
       },
       "right": {
-        "angle": "We found no right-leaning outlet's take on Sunday's march by publication time.",
-        "outlets": []
+        "angle": "Right-leaning French coverage frames the story as an intelligence finding about the Iranian regime, stressing the unprecedented scale and aggression of the attack. It casts it as a hostile act against France and places it alongside earlier Iranian operations against French targets.",
+        "outlets": [
+          {
+            "name": "Le Figaro",
+            "lean": "Centre-right",
+            "url": "https://www.lefigaro.fr/international/cyberattaques-contre-des-frigos-de-supermarches-les-services-francais-identifient-la-main-de-l-iran-20261109",
+            "note": "Exclusive angle: French services 'identify the hand of Iran'; leads with intelligence attribution."
+          },
+          {
+            "name": "CNews",
+            "lean": "Right",
+            "url": "https://www.cnews.fr/france/2026-11-09/cyberattaques-contre-des-frigos-dans-des-supermarches-la-france-accuse-liran",
+            "note": "Reports France holding Iran 'responsible' for the attacks."
+          }
+        ]
       },
-      "differ": "Only one side's framing was available; straight-news reports balance the organisers' demands with the government's point that it has already banned settlement goods.",
+      "differ": "Left-leaning outlets treat it mainly as a diplomatic accusation still under investigation; right-leaning French outlets present it as a confirmed act of hostility by Tehran.",
       "sources": [
         {
-          "name": "NL Times",
-          "url": "https://nltimes.nl/2026/11/08/amsterdam-readies-fourth-red-line-protest-organizers-expect-tens-thousands"
+          "name": "Euronews",
+          "url": "https://www.euronews.com/2026/11/09/france-says-iran-behind-cyberattacks-on-supermarket-fridges"
         },
         {
-          "name": "AP (via Asharq Al-Awsat)",
-          "url": "https://english.aawsat.com/world/5338981-tens-thousands-march-amsterdam-pressing-dutch-govt-gaza-and-israel"
+          "name": "Politico Europe",
+          "url": "https://www.politico.eu/article/france-blames-iran-for-cyberattacks-targeting-supermarket-fridges/"
+        }
+      ]
+    },
+    {
+      "topic": "Member states · Hungary",
+      "title": "Hungarian police detain Viktor Orbán's brother in people-smuggling and influence-peddling probe",
+      "summary": "Hungary's National Bureau of Investigation and the new anti-corruption authority NVVH detained four people on Monday in raids in Budapest and Pest County over the alleged smuggling of more than 100 Vietnamese workers into Hungary using visas obtained through diplomatic missions in 2024. Police did not name the suspects, but Prime Minister Péter Magyar and Hungarian media identified former prime minister Viktor Orbán's younger brother, Áron Orbán, among them; the first report came from a site owned by Magyar's own brother. Many of the migrants are believed to have moved on to other EU countries. Viktor Orbán called the case a political witch hunt and said he, not his brother, was the real target.",
+      "why": "It is the most prominent case yet in the new government's drive against Orbán-era corruption, and touches Schengen visa integrity across the EU, with Europol supporting the operation.",
+      "left": {
+        "angle": "Left-leaning and liberal coverage leads with the raids and the wider anti-corruption sweep, linking the case to earlier reporting on a visa scheme around Áron Orbán's businesses. It is careful that police have not confirmed his identity, but presents Orbán's persecution claim as a defensive reaction rather than the core of the story.",
+        "outlets": [
+          {
+            "name": "444",
+            "lean": "Liberal",
+            "url": "https://444.hu/2026/11/09/kontroll-orban-viktor-occset-is-utolerhette-a-tisztitotuz-muvelet",
+            "note": "Hungarian independent site; hedged on identity but details the alleged visa and university-course scheme."
+          },
+          {
+            "name": "Al Jazeera",
+            "lean": "Lean left",
+            "url": "https://www.aljazeera.com/news/2026/11/9/hungarian-police-reportedly-detain-brother-of-ex-pm-viktor-orban",
+            "note": "Notes the brother's businesses grew during Orbán's 16 years in power, and that the scoop came from the PM's brother's site."
+          }
+        ]
+      },
+      "right": {
+        "angle": "We could not find a dedicated take from the right-leaning outlets on our list by publication time. The conservative framing so far comes mainly from Viktor Orbán himself, who presents the arrest as political persecution designed to divert attention and eliminate opponents.",
+        "outlets": []
+      },
+      "differ": "Coverage so far centres on the investigation itself; the competing frame of a politically motivated 'witch hunt' is being carried by Orbán's own statements rather than by right-leaning outlets.",
+      "sources": [
+        {
+          "name": "Euronews",
+          "url": "https://www.euronews.com/2026/11/09/viktor-orbans-brother-reportedly-detained-over-suspected-people-smuggling"
+        },
+        {
+          "name": "dpa (via Yahoo News)",
+          "url": "https://www.yahoo.com/news/world/articles/reports-hungarian-police-arrest-former-010329807.html"
+        },
+        {
+          "name": "Politico (via Yahoo News)",
+          "url": "https://www.yahoo.com/news/politics/articles/viktor-orb-n-slams-police-133141001.html"
         }
       ]
     }
   ],
   "oneSided": {
-    "left": [
-      {
-        "title": "Heart-breaking Kraków attack can make Poland stronger",
-        "outlet": "EUobserver",
-        "lean": "Centre-left",
-        "url": "https://euobserver.com/247697/heart-breaking-krakow-attack-can-make-poland-stronger"
-      },
-      {
-        "title": "Italy still obstructing asylum returns from other EU states amid simmering dispute that threatens Schengen",
-        "outlet": "EUobserver",
-        "lean": "Centre-left",
-        "url": "https://euobserver.com/247568/italy-still-obstructing-asylum-returns-from-other-eu-states-amid-simmering-dispute-that-threatens-schengen/"
-      },
-      {
-        "title": "EU states back one-year methane delay, but leave door open for more",
-        "outlet": "EUobserver",
-        "lean": "Centre-left",
-        "url": "https://euobserver.com/247446/eu-states-back-one-year-methane-delay-but-leave-door-open-for-more/"
-      }
-    ],
+    "left": [],
     "right": [
       {
-        "title": "Brussels sidelines most auditors' fixes for next EU budget",
+        "title": "Europe is trying to patch migration with duct tape",
         "outlet": "Brussels Signal",
         "lean": "Right",
-        "url": "https://brusselssignal.eu/2026/11/brussels-sidelines-most-auditors-fixes-for-next-eu-budget/"
-      },
-      {
-        "title": "Confidence in Macron drops to 13 per cent, lowest rating ever measured",
-        "outlet": "Brussels Signal",
-        "lean": "Right",
-        "url": "https://brusselssignal.eu/2026/11/confidence-in-macron-drops-to-13-per-cent-lowest-rating-ever-measured/"
+        "url": "https://brusselssignal.eu/2026/11/europe-is-trying-to-patch-migration-with-duct-tape/"
       }
     ]
   }
