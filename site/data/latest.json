@@ -1,195 +1,206 @@
 {
-  "date": "2026-11-10",
-  "generatedAt": "2026-11-10T05:44:35Z",
+  "date": "2026-11-11",
+  "generatedAt": "2026-11-11T05:37:31Z",
   "mode": "written",
-  "topline": "Four stories today: an EU joint team heads to the US-brokered Ukraine–Russia talks in Abu Dhabi, Friedrich Merz ties Germany's backing for the next EU budget to all member states funding Ukraine, France blames Iran's Revolutionary Guards for October's cyberattack on supermarket fridges, and Hungarian police detain Viktor Orbán's brother in a people-smuggling probe.",
+  "topline": "Four stories today: four central European governments push back against Friedrich Merz's demand to tie the EU budget to Ukraine funding, five EU states want Britain to pay into cohesion funds for electricity-market access, Dublin locks down for the European Political Community and informal EU summits, and the race to succeed Christine Lagarde at the ECB narrows to a Dutchman and a Spaniard.",
   "stories": [
     {
-      "topic": "Ukraine · Peace talks",
-      "title": "EU sends joint team to Abu Dhabi as US-brokered Ukraine–Russia talks resume after nine months",
-      "summary": "Ukrainian, Russian and US delegations meet in Abu Dhabi on 10–11 November for the first round of US-mediated talks since February. The European Commission and European Council are sending a joint team of senior officials, led by Ursula von der Leyen's chief of cabinet Bjoern Seibert and António Costa's foreign-policy adviser Anna-Maria Boura, alongside officials from France, Germany, the UK and NATO. Their exact role is unclear: they may brief and debrief the delegations on the sidelines or join an expanded format, and Brussels has signalled it is willing to meet the Russian side directly. The Kremlin said on Monday the talks would not include Europeans, while Ukraine's chief negotiator Rustem Umerov said European representatives would be present.",
-      "why": "Europe has struggled to secure a voice in negotiations that could reshape its own security order, and Giorgia Meloni's complaint about a 'plurality of representatives' is on the agenda of EU leaders' informal meeting in Dublin on 13 November.",
+      "topic": "Budget · Ukraine funding",
+      "title": "Slovakia, Czechia, Hungary and Bulgaria reject Merz's link between the EU budget and Ukraine aid",
+      "summary": "A day after German Chancellor Friedrich Merz told European Council President António Costa that fresh Ukraine funding from all 27 members was a precondition for agreeing the 2028–2034 budget, four governments pushed back. Slovakia's Robert Fico called it blackmail and said Slovakia has the same veto as Germany; Czech PM Andrej Babiš backed him, Hungary's Péter Magyar called the linkage unacceptable for domestic reasons, and Bulgaria's Rumen Radev cited high deficits. Kyiv faces a roughly €70 billion gap in 2027, of which the EU has pledged about €45 billion through an instrument not yet agreed, with new joint debt the front-runner. In a reply letter Costa said the question will be settled at the special summit in Brussels on 26–27 November, though he will make time for a broad Ukraine discussion in Dublin this week.",
+      "why": "Budget unanimity gives every capital a veto, so a standoff between the largest net payer and the Ukraine-sceptic bloc could stall both the next seven-year budget and Kyiv's 2027 financing.",
       "left": {
-        "angle": "Left-leaning coverage is sceptical that the round will achieve much, leading with analysts who expect no breakthrough on territory or security guarantees. It stresses that Russia still occupies about a fifth of Ukraine and that Donald Trump has pressed Kyiv to cede land, and treats Europe's place at the table as uncertain and contested by Moscow.",
+        "angle": "We could not find a distinct take from the listed left-leaning outlets in the last day; coverage of the clash came mostly from straight-news and Ukrainian outlets. Earlier centre-left reporting on Merz's letter is not linked here because we did not see it in our searches.",
+        "outlets": []
+      },
+      "right": {
+        "angle": "Right-leaning German commentary treats Fico's objection as a legitimate use of unanimity rules and casts Merz as trying to discipline other governments. It stresses the cost to German taxpayers and the €100 billion already earmarked for Ukraine in the draft budget, rather than Kyiv's 2027 shortfall.",
         "outlets": [
           {
-            "name": "Al Jazeera",
-            "lean": "Lean left",
-            "url": "https://www.aljazeera.com/news/2026/11/9/no-concession-what-to-expect-from-russia-us-ukraine-talks-in-abu-dhabi",
-            "note": "Explainer built around analysts who expect no tangible progress; flags the Kremlin's denial of any European role."
-          },
+            "name": "Tichys Einblick",
+            "lean": "Right",
+            "url": "https://www.tichyseinblick.de/kolumnen/aus-aller-welt/fico-merz-ukraine-hilfen-vorwurf-erpressung",
+            "note": "Leads with Fico's 'blackmail' charge and portrays Merz as Europe's self-appointed disciplinarian."
+          }
+        ]
+      },
+      "differ": "Right-leaning commentary frames this as German overreach against smaller states' veto rights; with no clear left-leaning take found, the burden-sharing argument Merz makes is carried mainly by straight-news reporting.",
+      "sources": [
+        {
+          "name": "Euronews",
+          "url": "https://www.euronews.com/2026/11/10/eu-budget-battle-erupts-as-four-countries-defy-merz-over-ukraine-aid"
+        },
+        {
+          "name": "Euronews",
+          "url": "https://www.euronews.com/2026/11/10/costa-seeks-to-reassure-merz-after-eu-budget-ultimatum"
+        },
+        {
+          "name": "Euronews",
+          "url": "https://www.euronews.com/2026/11/09/no-deal-on-ukraine-aid-then-no-deal-on-eu-budget-merz-says"
+        },
+        {
+          "name": "Kyiv Independent",
+          "url": "https://kyivindependent.com/eus-costa-keeps-ukraine-funding-talks-on-late-november-agenda-despite-merz-appeal/"
+        }
+      ]
+    },
+    {
+      "topic": "Energy · EU–UK reset",
+      "title": "Five EU states want Britain to pay into cohesion funds in exchange for electricity-market access",
+      "summary": "Leaders of Germany, the Netherlands, Belgium, Denmark and Luxembourg wrote to Ursula von der Leyen and António Costa urging a swift deal to bring the UK into the EU electricity market, tied to a UK contribution to EU regional development funds. Norway, which pays roughly €391 million a year in cohesion grants, is cited as a possible model, and the letter points to ambitions for up to 100 GW of joint North Sea projects. A draft joint statement reportedly backs the principle ahead of the EU–UK summit on 20 November. UK minister Hamish Falconer said Britain is willing to discuss payments but has not accepted the principle, and that no amount has been agreed.",
+      "why": "It would be the first time post-Brexit Britain pays into EU budget programmes for market access, setting a template for other parts of the reset such as defence funding and youth mobility.",
+      "left": {
+        "angle": "Centre-left coverage leads with the government's willingness to talk and places the payment inside a broader, upbeat reset agenda that includes youth mobility, Erasmus+ and EU defence funds. Opposition from Nigel Farage is presented as the main counter-voice.",
+        "outlets": [
           {
-            "name": "CNN",
-            "lean": "Lean left",
-            "url": "https://www.cnn.com/2026/11/09/europe/russia-ukraine-us-peace-talks-preview-intl",
-            "note": "Preview asking what is different about this round after a nine-month pause."
+            "name": "The Guardian",
+            "lean": "Centre-left",
+            "url": "https://www.theguardian.com/politics/2026/nov/10/britain-eu-electricity-market-cohesion-fund-hamish-falconer",
+            "note": "Interview with the minister for EU talks; stresses the payment is open for discussion, not conceded."
           }
         ]
       },
       "right": {
-        "angle": "Right-leaning coverage leads with Paris insisting Europeans will be represented, and stresses the confusion in Brussels over who actually speaks for the bloc. It foregrounds Meloni's demand for a single European voice and the risk of Europe being sidelined, and folds in French attacks on Jean-Luc Mélenchon's stance on Donbas.",
+        "angle": "Right-leaning outlets lead with the cost to British taxpayers and the strings attached in the leaked draft, including dynamic alignment, ECJ jurisdiction and matching EU tariffs on Chinese EVs. Commentary frames the 20 November summit as a step back toward EU membership.",
+        "outlets": [
+          {
+            "name": "The Telegraph",
+            "lean": "Centre-right",
+            "url": "https://www.telegraph.co.uk/news/2026/11/03/uk-cash-for-poor-eu-countries-in-reset-brexit-deal/",
+            "note": "Leaked-draft scoop on UK cash for poorer member states and the conditions that come with it."
+          },
+          {
+            "name": "The Telegraph",
+            "lean": "Centre-right",
+            "url": "https://www.telegraph.co.uk/world-news/2026/11/09/eu-electricity-concession-brexit-reset-deal-brussels/",
+            "note": "Reports the five-country letter as an effort to stop maximalist EU demands on Britain."
+          },
+          {
+            "name": "The Spectator",
+            "lean": "Right",
+            "url": "https://spectator.com/article/prepare-for-the-greatest-brexit-betrayal-yet/",
+            "note": "Opinion column casting the reset as a betrayal of Brexit with a small economic payoff."
+          }
+        ]
+      },
+      "differ": "The left frames the payment as a negotiable price for cheaper power and closer ties; the right frames it as taxpayers funding the EU and accepting its rules without a vote.",
+      "sources": [
+        {
+          "name": "Euronews",
+          "url": "https://euronews.com/2026/11/10/five-eu-countries-demand-uk-pays-for-electricity-market-access"
+        }
+      ]
+    },
+    {
+      "topic": "Security · Dublin summits",
+      "title": "Dublin hosts around 50 leaders for the European Political Community under heavy security",
+      "summary": "Ireland hosts the ninth European Political Community summit on Thursday 12 November, with around 50 leaders including Emmanuel Macron, Volodymyr Zelensky, Friedrich Merz and UK Prime Minister Andy Burnham, followed by an informal meeting of EU leaders on Friday. The theme is a strong, secure and connected Europe; Macron is due to present principles for Europe's future security architecture, and sessions on Armenia and Moldova are planned. Gardaí are running the largest security operation in the state's history, with more than 500 armed officers on duty daily. It follows a wave of hoax bomb threats against flights, schools and Irish media that police say aimed to sow discord; attribution has not been officially established.",
+      "why": "The summits come right after US-brokered Ukraine–Russia talks in Abu Dhabi and amid the EU's fight over Kyiv's 2027 funding, testing whether Europe can show a united front on its own security.",
+      "left": {
+        "angle": "No distinct take from the listed left-leaning outlets surfaced. The Irish Times (liberal, broadly centre-left) editorial frames the week as a moment for Europe to assert itself after being kept out of the Abu Dhabi talks, stressing Ukraine's €70 billion hole and an unpredictable Washington.",
+        "outlets": [
+          {
+            "name": "The Irish Times",
+            "lean": "Liberal (centre-left)",
+            "url": "https://www.irishtimes.com/opinion/editorials/2026/11/10/the-irish-times-view-on-this-weeks-summits-europe-comes-to-dublin/",
+            "note": "Editorial: Europe must carry more of Ukraine's burden as US commitment wavers."
+          }
+        ]
+      },
+      "right": {
+        "angle": "Right-leaning coverage leads with the security threat itself, presenting the hoax bomb spree as a Russian hybrid campaign against Ireland on the eve of the summit. The diplomatic agenda is secondary.",
+        "outlets": [
+          {
+            "name": "GB News",
+            "lean": "Right",
+            "url": "https://www.gbnews.com/news/world/vladimir-putin-targets-ireland-eu-summit-plane-bomb-threat",
+            "note": "Headline puts Putin's alleged 'hybrid war' on Ireland front and centre."
+          }
+        ]
+      },
+      "differ": "Liberal coverage focuses on what Europe should decide in Dublin; right-leaning coverage focuses on Russia's suspected disruption around it.",
+      "sources": [
+        {
+          "name": "AFP via Free Malaysia Today",
+          "url": "https://www.freemalaysiatoday.com/category/world/2026/11/11/ireland-mounts-its-biggest-security-operation-for-european-summits"
+        },
+        {
+          "name": "RTÉ",
+          "url": "https://www.rte.ie/news/2026/1110/1598690-eu-presidency-meetings-explainer/"
+        },
+        {
+          "name": "Agence Europe",
+          "url": "https://agenceurope.eu/en/bulletin/article/13979/13/around-50-heads-of-state-or-government-to-discuss-european-security-challenges-in-dublin-on-12-november"
+        }
+      ]
+    },
+    {
+      "topic": "Economy · ECB",
+      "title": "Race to succeed Lagarde narrows to Klaas Knot and Pablo Hernández de Cos",
+      "summary": "Eurozone finance ministers took stock on 9 November of the only two nominees to lead the European Central Bank: former Dutch central bank governor Klaas Knot and former Bank of Spain governor Pablo Hernández de Cos, now head of the BIS. Christine Lagarde announced on 29 October that she will leave on 7 February 2027, and two other Executive Board seats, Isabel Schnabel's and Philip Lane's, also open next year. Eurogroup President Kyriakos Pierrakakis wants a decision by year-end; the appointment needs a reinforced qualified majority, consultation of Parliament and the ECB, and a final decision by EU leaders. Spain's economy minister Carlos Cuerpo said Madrid is seeking unanimity, while The Hague has warned against a north-south trade-off.",
+      "why": "The next ECB president will set monetary policy for 21 countries through a period of defence spending, new joint debt and high public deficits.",
+      "left": {
+        "angle": "Left-leaning Spanish coverage builds on the government's optimism that Spain could lead the ECB for the first time, quoting Cuerpo at length. It frames the contest as hawkish northern states versus southern ones and echoes Madrid's request to keep the timetable separate from Spain's own elections.",
+        "outlets": [
+          {
+            "name": "elDiario.es",
+            "lean": "Left",
+            "url": "https://www.eldiario.es/economia/carlos-cuerpo-optimistas-primera-vez-espana-alguien-frente-bce_1_13648662.html",
+            "note": "Interview-led piece; Cuerpo calls Hernández de Cos the best candidate."
+          }
+        ]
+      },
+      "right": {
+        "angle": "Right-leaning Brussels coverage treats the race mainly as political positioning ahead of France's 2027 presidential election. It highlights critics, including National Rally, who see the rush to fill the post before French voters decide as disregard for democracy.",
         "outlets": [
           {
             "name": "Brussels Signal",
             "lean": "Right",
-            "url": "https://brusselssignal.eu/2026/11/french-government-insists-europeans-will-be-at-abu-dhabi-talks-on-ukraine/",
-            "note": "Leads with Jean-Noël Barrot's reassurances while highlighting contradictory reports on whether the EU would attend."
+            "url": "https://brusselssignal.eu/2026/11/eurozone-ministers-weigh-two-horse-race-to-succeed-lagarde-at-the-ecb/",
+            "note": "Stresses the timing relative to a possible Le Pen victory more than candidates' policy views."
           }
         ]
       },
-      "differ": "The left asks whether the talks can succeed at all given Russian demands; the right focuses on whether Europe is organised enough to be heard in them.",
+      "differ": "The left frames the race as Spain's chance and a north-south balance; the right frames it as an establishment move to lock in the post before French voters can weigh in.",
       "sources": [
         {
           "name": "Euronews",
-          "url": "https://www.euronews.com/2026/11/09/eu-to-send-joint-team-to-ukraine-russia-peace-talks-in-abu-dhabi"
+          "url": "https://www.euronews.com/2026/11/03/who-will-replace-lagarde-eurozone-picks-nominees-as-race-for-ecb-top-job-begins"
         },
         {
-          "name": "Kyiv Independent",
-          "url": "https://kyivindependent.com/europes-attendance-at-abu-dhabi-peace-talks-clarified/"
-        }
-      ]
-    },
-    {
-      "topic": "Budget · Ukraine funding",
-      "title": "Merz links Germany's support for next EU budget to all members funding Ukraine",
-      "summary": "In a letter to European Council President António Costa, German Chancellor Friedrich Merz asked EU leaders to make Ukraine's 2027 financing gap a priority, saying support for Kyiv is a responsibility shared by all member states. Ukraine needs about €70bn next year, of which roughly €45bn is expected to come from the EU, with the source of the money still unresolved. The Financial Times reported that Merz is prepared to block the 2028–2034 long-term budget until every member contributes; Hungary, Slovakia, Czechia and Bulgaria have signalled they will not. Separately, Parliament and Council negotiators meet today to try to settle the 2027 annual budget, where funding for NextGenerationEU repayments and the Ukraine loan is the main dispute.",
-      "why": "Tying Ukraine aid to the seven-year budget gives Berlin leverage over holdout states but risks deadlocking negotiations that EU leaders take up in Dublin on 13 November and at a budget summit later this month.",
-      "left": {
-        "angle": "Centre-left German coverage presents the move as an ultimatum and walks through Berlin's arguments without endorsing them. It adds context that complicates the burden-sharing claim, citing Kiel Institute figures showing several smaller states give far more per head than Germany.",
-        "outlets": [
-          {
-            "name": "Berliner Zeitung",
-            "lean": "Centre-left",
-            "url": "https://www.berliner-zeitung.de/article/ultimatum-merz-eu-haushalt-blockade-ukraine-hilfen-finanzierung-10580796",
-            "note": "Explains the 'ultimatum' and sets Germany's per-capita aid against Denmark's and Sweden's."
-          }
-        ]
-      },
-      "right": {
-        "angle": "Right-leaning coverage leads with the blunt formula of no money for Kyiv, no EU budget, and casts the four holdout states as net recipients of EU funds refusing to share the cost. It stresses the burden on European taxpayers and treats Merz's hard line as justified pressure.",
-        "outlets": [
-          {
-            "name": "NIUS",
-            "lean": "Right",
-            "url": "https://nius.de/politik/kein-geld-fuer-kiew-kein-eu-haushalt-merz-droht-mit-veto",
-            "note": "Tabloid-style framing of an 'ultimatum to Brussels'; highlights that the holdouts receive more from the budget than they pay in."
-          }
-        ]
-      },
-      "differ": "The left-leaning piece questions how fair Germany's burden-sharing complaint really is; the right-leaning piece takes it as given and targets the states that refuse to pay.",
-      "sources": [
-        {
-          "name": "Kyiv Independent",
-          "url": "https://kyivindependent.com/germanys-merz-complains-about-unfair-burden-sharing-calls-eu-to-prioritize-new-ukraine-loan/"
-        },
-        {
-          "name": "Agence Europe",
-          "url": "https://agenceurope.eu/en/bulletin/article/13978/18/european-parliament-and-council-to-attempt-to-reach-agreement-on-tuesday-10-november-on-eu-annual-budget-for-2027"
-        }
-      ]
-    },
-    {
-      "topic": "Security · Cyber",
-      "title": "France blames Iran's Revolutionary Guards for cyberattack on supermarket fridges and seeks EU sanctions",
-      "summary": "French Foreign Minister Jean-Noël Barrot said a unit linked to Iran's Islamic Revolutionary Guard Corps was behind the overnight attack of 11–12 October that remotely disrupted refrigeration at more than 700 French stores, including Carrefour, Monoprix and Intermarché outlets. The Paris prosecutor has opened a judicial investigation and requested arrest warrants for the head of the 'Shahid Kaveh' cyber unit and two deputies. France is summoning Iran's ambassador and will push for sanctions at EU level; foreign-policy chief Kaja Kallas said ministers would discuss attacks across Europe at the 16 November Foreign Affairs Council. Paris puts losses at tens of millions of euros.",
-      "why": "It is a rare formal attribution of a disruptive civilian-infrastructure cyberattack to a state actor by an EU government, and tests whether the bloc will follow with joint sanctions; MEPs debate critical-infrastructure cyber resilience on Wednesday.",
-      "left": {
-        "angle": "Left-leaning outlets report the attribution largely as breaking news, leading with the IRGC link and France's diplomatic response. Al Jazeera's coverage is brief and France-focused, and does not dwell on Iran's wider record or the security implications for Europe.",
-        "outlets": [
-          {
-            "name": "Al Jazeera",
-            "lean": "Lean left",
-            "url": "https://www.aljazeera.com/news/2026/11/9/france-accuses-iran-of-cyberattack-on-european-fridges",
-            "note": "Short breaking report on the accusation, the summons and the requested arrest warrants."
-          },
-          {
-            "name": "The Guardian",
-            "lean": "Centre-left",
-            "url": "https://www.theguardian.com/world/2026/nov/09/france-blames-irans-revolutionary-guards-for-cyber-attacks-on-supermarket-fridges",
-            "note": "Headline puts the Revolutionary Guards' alleged role up front."
-          }
-        ]
-      },
-      "right": {
-        "angle": "Right-leaning French coverage frames the story as an intelligence finding about the Iranian regime, stressing the unprecedented scale and aggression of the attack. It casts it as a hostile act against France and places it alongside earlier Iranian operations against French targets.",
-        "outlets": [
-          {
-            "name": "Le Figaro",
-            "lean": "Centre-right",
-            "url": "https://www.lefigaro.fr/international/cyberattaques-contre-des-frigos-de-supermarches-les-services-francais-identifient-la-main-de-l-iran-20261109",
-            "note": "Exclusive angle: French services 'identify the hand of Iran'; leads with intelligence attribution."
-          },
-          {
-            "name": "CNews",
-            "lean": "Right",
-            "url": "https://www.cnews.fr/france/2026-11-09/cyberattaques-contre-des-frigos-dans-des-supermarches-la-france-accuse-liran",
-            "note": "Reports France holding Iran 'responsible' for the attacks."
-          }
-        ]
-      },
-      "differ": "Left-leaning outlets treat it mainly as a diplomatic accusation still under investigation; right-leaning French outlets present it as a confirmed act of hostility by Tehran.",
-      "sources": [
-        {
-          "name": "Euronews",
-          "url": "https://www.euronews.com/2026/11/09/france-says-iran-behind-cyberattacks-on-supermarket-fridges"
-        },
-        {
-          "name": "Politico Europe",
-          "url": "https://www.politico.eu/article/france-blames-iran-for-cyberattacks-targeting-supermarket-fridges/"
-        }
-      ]
-    },
-    {
-      "topic": "Member states · Hungary",
-      "title": "Hungarian police detain Viktor Orbán's brother in people-smuggling and influence-peddling probe",
-      "summary": "Hungary's National Bureau of Investigation and the new anti-corruption authority NVVH detained four people on Monday in raids in Budapest and Pest County over the alleged smuggling of more than 100 Vietnamese workers into Hungary using visas obtained through diplomatic missions in 2024. Police did not name the suspects, but Prime Minister Péter Magyar and Hungarian media identified former prime minister Viktor Orbán's younger brother, Áron Orbán, among them; the first report came from a site owned by Magyar's own brother. Many of the migrants are believed to have moved on to other EU countries. Viktor Orbán called the case a political witch hunt and said he, not his brother, was the real target.",
-      "why": "It is the most prominent case yet in the new government's drive against Orbán-era corruption, and touches Schengen visa integrity across the EU, with Europol supporting the operation.",
-      "left": {
-        "angle": "Left-leaning and liberal coverage leads with the raids and the wider anti-corruption sweep, linking the case to earlier reporting on a visa scheme around Áron Orbán's businesses. It is careful that police have not confirmed his identity, but presents Orbán's persecution claim as a defensive reaction rather than the core of the story.",
-        "outlets": [
-          {
-            "name": "444",
-            "lean": "Liberal",
-            "url": "https://444.hu/2026/11/09/kontroll-orban-viktor-occset-is-utolerhette-a-tisztitotuz-muvelet",
-            "note": "Hungarian independent site; hedged on identity but details the alleged visa and university-course scheme."
-          },
-          {
-            "name": "Al Jazeera",
-            "lean": "Lean left",
-            "url": "https://www.aljazeera.com/news/2026/11/9/hungarian-police-reportedly-detain-brother-of-ex-pm-viktor-orban",
-            "note": "Notes the brother's businesses grew during Orbán's 16 years in power, and that the scoop came from the PM's brother's site."
-          }
-        ]
-      },
-      "right": {
-        "angle": "We could not find a dedicated take from the right-leaning outlets on our list by publication time. The conservative framing so far comes mainly from Viktor Orbán himself, who presents the arrest as political persecution designed to divert attention and eliminate opponents.",
-        "outlets": []
-      },
-      "differ": "Coverage so far centres on the investigation itself; the competing frame of a politically motivated 'witch hunt' is being carried by Orbán's own statements rather than by right-leaning outlets.",
-      "sources": [
-        {
-          "name": "Euronews",
-          "url": "https://www.euronews.com/2026/11/09/viktor-orbans-brother-reportedly-detained-over-suspected-people-smuggling"
-        },
-        {
-          "name": "dpa (via Yahoo News)",
-          "url": "https://www.yahoo.com/news/world/articles/reports-hungarian-police-arrest-former-010329807.html"
-        },
-        {
-          "name": "Politico (via Yahoo News)",
-          "url": "https://www.yahoo.com/news/politics/articles/viktor-orb-n-slams-police-133141001.html"
+          "name": "NordiskPost",
+          "url": "https://www.nordiskpost.com/2026/11/10/eurogroup-new-ecb-president-year-end-2026/"
         }
       ]
     }
   ],
   "oneSided": {
-    "left": [],
+    "left": [
+      {
+        "title": "Watchdog finds patchy customs controls leave big loopholes in EU's Russia trade sanctions",
+        "outlet": "EUobserver",
+        "lean": "Centre-left",
+        "url": "https://euobserver.com/248251/watchdog-finds-patchy-customs-controls-leave-big-loopholes-in-eu-russia-trade-sanctions"
+      },
+      {
+        "title": "Digital Fairness Act: EU cracks down on influencer ads and manipulative app design",
+        "outlet": "EUobserver",
+        "lean": "Centre-left",
+        "url": "https://euobserver.com/248072/digital-fairness-act-eu-cracks-down-on-stealth-influencer-ads-and-manipulative-app-design/"
+      }
+    ],
     "right": [
       {
         "title": "Europe is trying to patch migration with duct tape",
         "outlet": "Brussels Signal",
         "lean": "Right",
         "url": "https://brusselssignal.eu/2026/11/europe-is-trying-to-patch-migration-with-duct-tape/"
+      },
+      {
+        "title": "Brussels bets on chip designers",
+        "outlet": "Brussels Signal",
+        "lean": "Right",
+        "url": "https://brusselssignal.eu/2026/11/brussels-bets-on-chip-designers-after-chips-act-misses-production-target/"
       }
     ]
   }
