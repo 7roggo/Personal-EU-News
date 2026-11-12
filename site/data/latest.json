@@ -1,206 +1,226 @@
 {
-  "date": "2026-11-11",
-  "generatedAt": "2026-11-11T05:37:31Z",
+  "date": "2026-11-12",
+  "generatedAt": "2026-11-12T05:47:04Z",
   "mode": "written",
-  "topline": "Four stories today: four central European governments push back against Friedrich Merz's demand to tie the EU budget to Ukraine funding, five EU states want Britain to pay into cohesion funds for electricity-market access, Dublin locks down for the European Political Community and informal EU summits, and the race to succeed Christine Lagarde at the ECB narrows to a Dutchman and a Spaniard.",
+  "topline": "Four stories today: Abu Dhabi talks yield a prisoner-swap deal but no ceasefire while Europe waits outside the room, about 50 leaders gather in Dublin for the European Political Community with Ukraine and the UK–EU reset in focus, Brussels unveils a Digital Fairness Act against dark patterns and subscription traps, and NATO jets miss a drone over Lithuania after a night of Baltic air alerts.",
   "stories": [
     {
-      "topic": "Budget · Ukraine funding",
-      "title": "Slovakia, Czechia, Hungary and Bulgaria reject Merz's link between the EU budget and Ukraine aid",
-      "summary": "A day after German Chancellor Friedrich Merz told European Council President António Costa that fresh Ukraine funding from all 27 members was a precondition for agreeing the 2028–2034 budget, four governments pushed back. Slovakia's Robert Fico called it blackmail and said Slovakia has the same veto as Germany; Czech PM Andrej Babiš backed him, Hungary's Péter Magyar called the linkage unacceptable for domestic reasons, and Bulgaria's Rumen Radev cited high deficits. Kyiv faces a roughly €70 billion gap in 2027, of which the EU has pledged about €45 billion through an instrument not yet agreed, with new joint debt the front-runner. In a reply letter Costa said the question will be settled at the special summit in Brussels on 26–27 November, though he will make time for a broad Ukraine discussion in Dublin this week.",
-      "why": "Budget unanimity gives every capital a veto, so a standoff between the largest net payer and the Ukraine-sceptic bloc could stall both the next seven-year budget and Kyiv's 2027 financing.",
+      "topic": "Ukraine · Peace talks",
+      "title": "Abu Dhabi talks end with a prisoner-swap deal but no ceasefire, and Europe kept outside the room",
+      "summary": "Two days of US-mediated talks between Russia and Ukraine in Abu Dhabi ended on 11 November with agreement in principle on a large exchange of prisoners of war, but no progress on a ceasefire or territory. Ukraine's team was led by Rustem Umerov, Russia's by Vladimir Medinsky, with US envoys Jared Kushner and Steve Witkoff mediating. Zelensky said around 1,000 prisoners per side had been discussed, possibly rising to 1,500; final numbers were due to be set on 12 November. Kushner said there is currently no trust between the sides and that European partners should be at the table, an idea he and Witkoff plan to raise with Putin in Moscow before flying to Dublin to brief Zelensky. EU, German, French, British, Italian and NATO officials were in Abu Dhabi but met only the US and Ukrainian teams, as Russia refused to see them.",
+      "why": "The EU is Ukraine's largest financial backer yet has no seat in the negotiations that could redraw Europe's security order, an imbalance leaders will confront in Dublin this week.",
       "left": {
-        "angle": "We could not find a distinct take from the listed left-leaning outlets in the last day; coverage of the clash came mostly from straight-news and Ukrainian outlets. Earlier centre-left reporting on Merz's letter is not linked here because we did not see it in our searches.",
-        "outlets": []
-      },
-      "right": {
-        "angle": "Right-leaning German commentary treats Fico's objection as a legitimate use of unanimity rules and casts Merz as trying to discipline other governments. It stresses the cost to German taxpayers and the €100 billion already earmarked for Ukraine in the draft budget, rather than Kyiv's 2027 shortfall.",
+        "angle": "Left-leaning coverage presents the swap as a limited humanitarian result of talks that otherwise stalled, and gives prominence to the dispute over Europe's role, setting Russian dismissal of the Europeans against Kyiv's insistence that European security cannot be settled without Europe. It spends less time on the mechanics of the US mediation.",
         "outlets": [
           {
-            "name": "Tichys Einblick",
-            "lean": "Right",
-            "url": "https://www.tichyseinblick.de/kolumnen/aus-aller-welt/fico-merz-ukraine-hilfen-vorwurf-erpressung",
-            "note": "Leads with Fico's 'blackmail' charge and portrays Merz as Europe's self-appointed disciplinarian."
+            "name": "Al Jazeera",
+            "lean": "Lean left",
+            "url": "https://www.aljazeera.com/news/2026/11/11/russia-ukraine-talks-in-abu-dhabi-end-with-prisoner-exchange-agreement",
+            "note": "Swap as the only concrete outcome; foregrounds Medinsky's dismissal of the EU against Zelensky's calls for European involvement."
+          },
+          {
+            "name": "CNN",
+            "lean": "Lean left",
+            "url": "https://www.cnn.com/2026/11/11/politics/trump-envoys-russia-trip-peace-talks-intl",
+            "note": "Headline leads with Trump's envoys heading to Moscow after talks ended without a breakthrough."
           }
         ]
       },
-      "differ": "Right-leaning commentary frames this as German overreach against smaller states' veto rights; with no clear left-leaning take found, the burden-sharing argument Merz makes is carried mainly by straight-news reporting.",
+      "right": {
+        "angle": "Right-leaning coverage leads with Europe and Britain being shut out, treating the exclusion as a measure of the continent's weak leverage; the Telegraph turns it into a UK story about London seeking its own channel to the Kremlin. Both stress that territory remains the core obstacle and that results so far are humanitarian rather than political.",
+        "outlets": [
+          {
+            "name": "The Telegraph",
+            "lean": "Centre-right",
+            "url": "https://www.yahoo.com/news/politics/articles/russia-tells-wes-streeting-ll-155325584.html",
+            "note": "Syndicated piece on Britain being sidelined and Moscow saying it would take a call from London's defence secretary."
+          },
+          {
+            "name": "Brussels Signal",
+            "lean": "Right",
+            "url": "https://brusselssignal.eu/2026/11/europe-waits-in-the-wings-as-ukraine-peace-talks-resume-in-abu-dhabi/",
+            "note": "Portrays EU involvement as reactive and uncertain, with Russian officials telling Europeans to wait at their hotel."
+          }
+        ]
+      },
+      "differ": "Left-leaning outlets frame Europe's absence as a diplomatic wrong Kyiv is resisting; right-leaning outlets frame it as evidence of European, and British, weakness that needs a harder-headed fix.",
       "sources": [
         {
           "name": "Euronews",
-          "url": "https://www.euronews.com/2026/11/10/eu-budget-battle-erupts-as-four-countries-defy-merz-over-ukraine-aid"
+          "url": "https://www.euronews.com/2026/11/11/abu-dhabi-peace-talks-end-with-prisoner-exchange-agreement-as-us-envoys-prepare-to-meet-pu"
         },
         {
-          "name": "Euronews",
-          "url": "https://www.euronews.com/2026/11/10/costa-seeks-to-reassure-merz-after-eu-budget-ultimatum"
+          "name": "France 24",
+          "url": "https://www.france24.com/en/europe/20261111-russia-and-ukraine-agree-to-major-prisoner-swap-as-peace-talks-end"
         },
         {
-          "name": "Euronews",
-          "url": "https://www.euronews.com/2026/11/09/no-deal-on-ukraine-aid-then-no-deal-on-eu-budget-merz-says"
-        },
-        {
-          "name": "Kyiv Independent",
-          "url": "https://kyivindependent.com/eus-costa-keeps-ukraine-funding-talks-on-late-november-agenda-despite-merz-appeal/"
+          "name": "Reuters (via Business Standard)",
+          "url": "https://www.business-standard.com/world-news/russia-ukraine-reach-deal-on-prisoner-swap-but-trust-gap-holds-back-talks-126111200268_1.html"
         }
       ]
     },
     {
-      "topic": "Energy · EU–UK reset",
-      "title": "Five EU states want Britain to pay into cohesion funds in exchange for electricity-market access",
-      "summary": "Leaders of Germany, the Netherlands, Belgium, Denmark and Luxembourg wrote to Ursula von der Leyen and António Costa urging a swift deal to bring the UK into the EU electricity market, tied to a UK contribution to EU regional development funds. Norway, which pays roughly €391 million a year in cohesion grants, is cited as a possible model, and the letter points to ambitions for up to 100 GW of joint North Sea projects. A draft joint statement reportedly backs the principle ahead of the EU–UK summit on 20 November. UK minister Hamish Falconer said Britain is willing to discuss payments but has not accepted the principle, and that no amount has been agreed.",
-      "why": "It would be the first time post-Brexit Britain pays into EU budget programmes for market access, setting a template for other parts of the reset such as defence funding and youth mobility.",
+      "topic": "Diplomacy · European Political Community",
+      "title": "Around 50 European leaders meet in Dublin as Ukraine and the UK–EU reset dominate the agenda",
+      "summary": "The ninth European Political Community summit opens in Dublin on 12 November, co-chaired by Taoiseach Micheál Martin and European Council President António Costa, with around 50 leaders including Zelensky, Macron, Merz, UK Prime Minister Andy Burnham and NATO's Mark Rutte. The informal format produces no binding decisions; sessions cover hybrid threats, economic and democratic resilience, Moldova and Armenia, and a roundtable on European security, where Macron is expected to present principles for the continent's future security. Ukraine faces an estimated €70bn gap in its 2027 budget. Burnham, arriving from COP31, is expected to announce further Russia sanctions and is looking ahead to a UK–EU summit on 20 November where agrifood, emissions-trading and youth-mobility deals are under negotiation. EU-27 leaders meet informally on 13 November on artificial intelligence, with a Ukraine debate and an EU peace envoy also on the table.",
+      "why": "Dublin is the EU's main chance this week to show unity on Ukraine while it is outside the US-led talks, and a staging post for the largest UK–EU rapprochement since Brexit.",
       "left": {
-        "angle": "Centre-left coverage leads with the government's willingness to talk and places the payment inside a broader, upbeat reset agenda that includes youth mobility, Erasmus+ and EU defence funds. Opposition from Nigel Farage is presented as the main counter-voice.",
+        "angle": "We found no left-leaning piece on the summit itself from 10–12 November. Earlier coverage from EUobserver, published 9 November, framed Dublin around Ukraine as the real agenda behind the official AI theme, and as a test of EU unity while Europe is excluded from the US-brokered talks; it did not dwell on the UK reset.",
         "outlets": [
           {
-            "name": "The Guardian",
+            "name": "EUobserver (earlier coverage, 9 Nov)",
             "lean": "Centre-left",
-            "url": "https://www.theguardian.com/politics/2026/nov/10/britain-eu-electricity-market-cohesion-fund-hamish-falconer",
-            "note": "Interview with the minister for EU talks; stresses the payment is open for discussion, not conceded."
+            "url": "https://euobserver.com/247530/this-week-ukraine-peace-talks-gather-pace-and-eu-holds-budget-confessionals/",
+            "note": "Week-ahead piece: Russia's war is the unspoken centre of the Dublin meetings; Costa added a Ukraine debate."
           }
         ]
       },
       "right": {
-        "angle": "Right-leaning outlets lead with the cost to British taxpayers and the strings attached in the leaked draft, including dynamic alignment, ECJ jurisdiction and matching EU tariffs on Chinese EVs. Commentary frames the 20 November summit as a step back toward EU membership.",
+        "angle": "Right-leaning British coverage treats the gathering mainly through the Brexit lens, warning that Burnham's reset slides towards rejoining the EU and highlighting David Cameron's caution against that. Ukraine and the security agenda get little attention in these pieces.",
         "outlets": [
           {
-            "name": "The Telegraph",
-            "lean": "Centre-right",
-            "url": "https://www.telegraph.co.uk/news/2026/11/03/uk-cash-for-poor-eu-countries-in-reset-brexit-deal/",
-            "note": "Leaked-draft scoop on UK cash for poorer member states and the conditions that come with it."
+            "name": "Daily Mail (front page, via PA papers round-up)",
+            "lean": "Right",
+            "url": "https://www.yahoo.com/news/world/articles/tv-industry-must-tackle-abuse-014841202.html",
+            "note": "Front page leads on Cameron telling the PM not to rejoin, casting Dublin as a sales pitch for a 'Brexit betrayal'."
           },
           {
-            "name": "The Telegraph",
-            "lean": "Centre-right",
-            "url": "https://www.telegraph.co.uk/world-news/2026/11/09/eu-electricity-concession-brexit-reset-deal-brussels/",
-            "note": "Reports the five-country letter as an effort to stop maximalist EU demands on Britain."
-          },
-          {
-            "name": "The Spectator",
+            "name": "The Spectator Australia (earlier opinion, 9 Nov)",
             "lean": "Right",
-            "url": "https://spectator.com/article/prepare-for-the-greatest-brexit-betrayal-yet/",
-            "note": "Opinion column casting the reset as a betrayal of Brexit with a small economic payoff."
+            "url": "https://www.spectator.com.au/?p=10947517",
+            "note": "Argues the reset concedes on food standards, energy payments and mobility for a small economic gain."
           }
         ]
       },
-      "differ": "The left frames the payment as a negotiable price for cheaper power and closer ties; the right frames it as taxpayers funding the EU and accepting its rules without a vote.",
+      "differ": "Pro-EU coverage sees Dublin as a Ukraine-and-unity summit; right-leaning UK outlets see it as a stage for a Brexit rollback they oppose.",
       "sources": [
         {
-          "name": "Euronews",
-          "url": "https://euronews.com/2026/11/10/five-eu-countries-demand-uk-pays-for-electricity-market-access"
-        }
-      ]
-    },
-    {
-      "topic": "Security · Dublin summits",
-      "title": "Dublin hosts around 50 leaders for the European Political Community under heavy security",
-      "summary": "Ireland hosts the ninth European Political Community summit on Thursday 12 November, with around 50 leaders including Emmanuel Macron, Volodymyr Zelensky, Friedrich Merz and UK Prime Minister Andy Burnham, followed by an informal meeting of EU leaders on Friday. The theme is a strong, secure and connected Europe; Macron is due to present principles for Europe's future security architecture, and sessions on Armenia and Moldova are planned. Gardaí are running the largest security operation in the state's history, with more than 500 armed officers on duty daily. It follows a wave of hoax bomb threats against flights, schools and Irish media that police say aimed to sow discord; attribution has not been officially established.",
-      "why": "The summits come right after US-brokered Ukraine–Russia talks in Abu Dhabi and amid the EU's fight over Kyiv's 2027 funding, testing whether Europe can show a united front on its own security.",
-      "left": {
-        "angle": "No distinct take from the listed left-leaning outlets surfaced. The Irish Times (liberal, broadly centre-left) editorial frames the week as a moment for Europe to assert itself after being kept out of the Abu Dhabi talks, stressing Ukraine's €70 billion hole and an unpredictable Washington.",
-        "outlets": [
-          {
-            "name": "The Irish Times",
-            "lean": "Liberal (centre-left)",
-            "url": "https://www.irishtimes.com/opinion/editorials/2026/11/10/the-irish-times-view-on-this-weeks-summits-europe-comes-to-dublin/",
-            "note": "Editorial: Europe must carry more of Ukraine's burden as US commitment wavers."
-          }
-        ]
-      },
-      "right": {
-        "angle": "Right-leaning coverage leads with the security threat itself, presenting the hoax bomb spree as a Russian hybrid campaign against Ireland on the eve of the summit. The diplomatic agenda is secondary.",
-        "outlets": [
-          {
-            "name": "GB News",
-            "lean": "Right",
-            "url": "https://www.gbnews.com/news/world/vladimir-putin-targets-ireland-eu-summit-plane-bomb-threat",
-            "note": "Headline puts Putin's alleged 'hybrid war' on Ireland front and centre."
-          }
-        ]
-      },
-      "differ": "Liberal coverage focuses on what Europe should decide in Dublin; right-leaning coverage focuses on Russia's suspected disruption around it.",
-      "sources": [
-        {
-          "name": "AFP via Free Malaysia Today",
-          "url": "https://www.freemalaysiatoday.com/category/world/2026/11/11/ireland-mounts-its-biggest-security-operation-for-european-summits"
-        },
-        {
-          "name": "RTÉ",
-          "url": "https://www.rte.ie/news/2026/1110/1598690-eu-presidency-meetings-explainer/"
+          "name": "AFP (via 24 News HD)",
+          "url": "https://www.24newshd.tv/12-Nov-2026/uk-pm-eyes-eu-prize-leaders-meet-ahead-crunch-summit"
         },
         {
           "name": "Agence Europe",
           "url": "https://agenceurope.eu/en/bulletin/article/13979/13/around-50-heads-of-state-or-government-to-discuss-european-security-challenges-in-dublin-on-12-november"
+        },
+        {
+          "name": "RTÉ",
+          "url": "https://www.rte.ie/news/2026/1111/1598831-zelensky-dublin/"
+        },
+        {
+          "name": "Kyiv Independent",
+          "url": "https://kyivindependent.com/zelensky-arrives-in-dublin-for-european-political-community-summit-expects-a-debrief-from-witkoff-kushner/"
         }
       ]
     },
     {
-      "topic": "Economy · ECB",
-      "title": "Race to succeed Lagarde narrows to Klaas Knot and Pablo Hernández de Cos",
-      "summary": "Eurozone finance ministers took stock on 9 November of the only two nominees to lead the European Central Bank: former Dutch central bank governor Klaas Knot and former Bank of Spain governor Pablo Hernández de Cos, now head of the BIS. Christine Lagarde announced on 29 October that she will leave on 7 February 2027, and two other Executive Board seats, Isabel Schnabel's and Philip Lane's, also open next year. Eurogroup President Kyriakos Pierrakakis wants a decision by year-end; the appointment needs a reinforced qualified majority, consultation of Parliament and the ECB, and a final decision by EU leaders. Spain's economy minister Carlos Cuerpo said Madrid is seeking unanimity, while The Hague has warned against a north-south trade-off.",
-      "why": "The next ECB president will set monetary policy for 21 countries through a period of defence spending, new joint debt and high public deficits.",
+      "topic": "Digital · Consumer protection",
+      "title": "Commission proposes Digital Fairness Act to curb dark patterns, subscription traps and loot boxes for minors",
+      "summary": "Consumer commissioner Michael McGrath presented the Digital Fairness Act on 11 November, a regulation that would replace the 2005 Unfair Commercial Practices Directive. It bans manipulative interface design outright for a list of practices such as fake scarcity claims, requires free trials to need active consent before turning into paid plans, and makes online cancellation easy, with a right to reach a human. Users would be able to switch off addictive features like infinite scroll and autoplay, paid loot boxes would be banned for under-18s, and influencer ads would need clear disclosure with brands sharing liability. Fines could reach 6% of global turnover, and the Commission estimates €13.7bn a year in consumer benefits against €678m in business costs. Industry group CCIA said the text overlaps with existing EU law, and German press publishers warned it threatens their subscription models.",
+      "why": "It is the EU's next big piece of platform regulation, landing as Brussels promises to cut red tape and as US pressure on EU tech rules continues; Parliament and Council negotiations are expected to take years.",
       "left": {
-        "angle": "Left-leaning Spanish coverage builds on the government's optimism that Spain could lead the ECB for the first time, quoting Cuerpo at length. It frames the contest as hawkish northern states versus southern ones and echoes Madrid's request to keep the timetable separate from Spain's own elections.",
+        "angle": "Left-leaning and pro-regulation coverage leads with the crackdown on manipulative design and influencer marketing, and relays consumer and digital-rights groups who welcome it but say it does not go far enough, notably because addictive features are opt-out rather than banned. Industry objections receive brief treatment.",
         "outlets": [
           {
-            "name": "elDiario.es",
-            "lean": "Left",
-            "url": "https://www.eldiario.es/economia/carlos-cuerpo-optimistas-primera-vez-espana-alguien-frente-bce_1_13648662.html",
-            "note": "Interview-led piece; Cuerpo calls Hernández de Cos the best candidate."
+            "name": "EUobserver",
+            "lean": "Centre-left",
+            "url": "https://euobserver.com/248072/digital-fairness-act-eu-cracks-down-on-stealth-influencer-ads-and-manipulative-app-design/",
+            "note": "Based on the leaked draft; quotes BEUC and EDRi, who warn opt-outs leave 'significant uncertainty'."
           }
         ]
       },
       "right": {
-        "angle": "Right-leaning Brussels coverage treats the race mainly as political positioning ahead of France's 2027 presidential election. It highlights critics, including National Rally, who see the rush to fill the post before French voters decide as disregard for democracy.",
+        "angle": "The centre-right coverage we found leads with business alarm rather than consumer gains, foregrounding German press publishers who say the rules endanger digital subscription and advertising models. We found no other right-leaning outlet covering the proposal in this window.",
         "outlets": [
           {
-            "name": "Brussels Signal",
-            "lean": "Right",
-            "url": "https://brusselssignal.eu/2026/11/eurozone-ministers-weigh-two-horse-race-to-succeed-lagarde-at-the-ecb/",
-            "note": "Stresses the timing relative to a possible Le Pen victory more than candidates' policy views."
+            "name": "FAZ",
+            "lean": "Centre-right",
+            "url": "https://www.faz.net/aktuell/feuilleton/medien-und-film/medienpolitik/presseverleger-warnen-vor-digital-fairness-act-der-eu-201671957.html",
+            "note": "Publishers' associations say they are dismayed by the new EU digital law."
           }
         ]
       },
-      "differ": "The left frames the race as Spain's chance and a north-south balance; the right frames it as an establishment move to lock in the post before French voters can weigh in.",
+      "differ": "One side asks whether the act protects consumers enough; the other asks whether it damages the businesses, including newspapers, that depend on subscriptions and ads.",
+      "sources": [
+        {
+          "name": "European Commission",
+          "url": "https://commission.europa.eu/news-and-media/news/making-your-online-experience-fairer-2026-11-11_en"
+        },
+        {
+          "name": "Euronews",
+          "url": "https://www.euronews.com/2026/11/11/eu-targets-subscription-traps-addictive-design-and-hidden-fees-with-new-digital-rules"
+        },
+        {
+          "name": "Engadget",
+          "url": "https://www.engadget.com/2313329/europe-wants-to-ban-dark-patterns-in-apps-and-loot-boxes-for-minors/"
+        },
+        {
+          "name": "The Next Web",
+          "url": "https://thenextweb.com/news/eu-digital-fairness-act-loot-boxes-dark-patterns"
+        },
+        {
+          "name": "CCIA Europe",
+          "url": "https://ccianet.org/news/2026/11/digital-fairness-act-overlaps-with-existing-eu-rules-despite-commissions-recent-pledge-to-cut-red-tape/"
+        }
+      ]
+    },
+    {
+      "topic": "Security · Baltic airspace",
+      "title": "NATO jets twice fail to down a drone over Lithuania during a night of Baltic air alerts",
+      "summary": "Lithuania issued air alerts across several regions on the night of 10–11 November, briefly raising them to red, and closed Vilnius and Kaunas airports, affecting around 400 passengers. Officials said four drones were detected in Belarus and one crossed into Lithuania near Druskininkai, then flew north through Latvia and Estonia into Russia. NATO jets made two unsuccessful attempts to shoot it down, with missile debris later found near Biržai; officials have not said which country's aircraft fired. The military said the drone's type and origin are unconfirmed and suggested it may have been diverted by electronic warfare during Ukraine's drone strikes on Russia that night. President Gitanas Nausėda warned such incursions may happen again, and the prime minister promised a full investigation.",
+      "why": "Repeated incursions test NATO and EU air defences on the eastern flank and feed the debate over drone defences and the cost of protecting EU airspace.",
+      "left": {
+        "angle": "Left-leaning coverage we found treats the Baltic alerts as one strand of an escalating exchange of strikes between Russia and Ukraine, stressing that the drones' origin is unclear and leaving out the missed interceptions and airport closures. We found no major European left-leaning title covering the incident in detail.",
+        "outlets": [
+          {
+            "name": "Al Jazeera",
+            "lean": "Lean left",
+            "url": "https://www.aljazeera.com/news/2026/11/11/russia-claims-interception-of-146-drones-in-leningrad-region",
+            "note": "Wire-based roundup; the Baltic alerts appear as a side note to Russia–Ukraine strikes."
+          }
+        ]
+      },
+      "right": {
+        "angle": "Right-leaning Italian outlets lead with NATO's failure to hit the target, the threat coming from Belarus and the disruption to flights and residents, while noting the drone's origin is not confirmed. Il Giornale's live blog places it inside wider war coverage that also relays Russian official claims.",
+        "outlets": [
+          {
+            "name": "Secolo d'Italia",
+            "lean": "Right",
+            "url": "https://www.secoloditalia.it/2026/11/droni-sul-baltico-i-caccia-nato-sparano-due-volte-e-mancano-il-bersaglio-voli-dirottati-e-aeroporti-chiusi/",
+            "note": "Headline built on NATO jets firing twice and missing; stresses closed airports."
+          },
+          {
+            "name": "Il Giornale",
+            "lean": "Right",
+            "url": "https://www.ilgiornale.it/diretta/cronaca-internazionale/ucraina-allerta-per-i-droni-sulleuropa-si-attivano-i-caccia-della-nato/",
+            "note": "Live blog on drone alerts over Europe and NATO scrambles, with the object entering from Belarus."
+          }
+        ]
+      },
+      "differ": "Right-leaning coverage makes NATO's miss and the Belarus border the story; left-leaning coverage folds the alerts into the wider Russia–Ukraine war and stresses uncertainty over origin.",
       "sources": [
         {
           "name": "Euronews",
-          "url": "https://www.euronews.com/2026/11/03/who-will-replace-lagarde-eurozone-picks-nominees-as-race-for-ecb-top-job-begins"
+          "url": "https://www.euronews.com/2026/11/11/a-restless-and-difficult-night-in-the-baltics-as-nato-fighter-jets-fail-to-shoot-down-dron"
         },
         {
-          "name": "NordiskPost",
-          "url": "https://www.nordiskpost.com/2026/11/10/eurogroup-new-ecb-president-year-end-2026/"
+          "name": "LRT",
+          "url": "https://www.lrt.lt/en/news-in-english/19/3111025/drone-incursions-trigger-air-alerts-across-lithuania-nato-jets-scrambled"
+        },
+        {
+          "name": "AeroTime",
+          "url": "https://www.aerotime.aero/articles/nato-fighter-misses-drone-baltic-air-alerts"
         }
       ]
     }
   ],
   "oneSided": {
-    "left": [
-      {
-        "title": "Watchdog finds patchy customs controls leave big loopholes in EU's Russia trade sanctions",
-        "outlet": "EUobserver",
-        "lean": "Centre-left",
-        "url": "https://euobserver.com/248251/watchdog-finds-patchy-customs-controls-leave-big-loopholes-in-eu-russia-trade-sanctions"
-      },
-      {
-        "title": "Digital Fairness Act: EU cracks down on influencer ads and manipulative app design",
-        "outlet": "EUobserver",
-        "lean": "Centre-left",
-        "url": "https://euobserver.com/248072/digital-fairness-act-eu-cracks-down-on-stealth-influencer-ads-and-manipulative-app-design/"
-      }
-    ],
+    "left": [],
     "right": [
       {
-        "title": "Europe is trying to patch migration with duct tape",
+        "title": "European Commission drops bid to make 'hate speech' an EU crime",
         "outlet": "Brussels Signal",
         "lean": "Right",
-        "url": "https://brusselssignal.eu/2026/11/europe-is-trying-to-patch-migration-with-duct-tape/"
-      },
-      {
-        "title": "Brussels bets on chip designers",
-        "outlet": "Brussels Signal",
-        "lean": "Right",
-        "url": "https://brusselssignal.eu/2026/11/brussels-bets-on-chip-designers-after-chips-act-misses-production-target/"
+        "url": "https://brusselssignal.eu/2026/11/european-commission-drops-bid-to-make-hate-speech-an-eu-crime/"
       }
     ]
   }
