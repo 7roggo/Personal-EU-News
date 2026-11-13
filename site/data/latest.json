@@ -1,227 +1,134 @@
 {
-  "date": "2026-11-12",
-  "generatedAt": "2026-11-12T05:47:04Z",
+  "date": "2026-11-13",
+  "generatedAt": "2026-11-13T05:42:53Z",
   "mode": "written",
-  "topline": "Four stories today: Abu Dhabi talks yield a prisoner-swap deal but no ceasefire while Europe waits outside the room, about 50 leaders gather in Dublin for the European Political Community with Ukraine and the UK–EU reset in focus, Brussels unveils a Digital Fairness Act against dark patterns and subscription traps, and NATO jets miss a drone over Lithuania after a night of Baltic air alerts.",
+  "topline": "Five stories today: US envoys say Putin will let Europeans into the next round of Ukraine talks, Macron tells the Dublin EPC summit that US support for Kyiv is gone, Merz's threat to tie the EU budget to Ukraine aid shadows today's informal EU summit, Burnham pitches a 'win-win' UK–EU deal a week before their summit, and waves of hoax bomb emails hit thousands of Italian, Irish and UK schools.",
   "stories": [
     {
       "topic": "Ukraine · Peace talks",
-      "title": "Abu Dhabi talks end with a prisoner-swap deal but no ceasefire, and Europe kept outside the room",
-      "summary": "Two days of US-mediated talks between Russia and Ukraine in Abu Dhabi ended on 11 November with agreement in principle on a large exchange of prisoners of war, but no progress on a ceasefire or territory. Ukraine's team was led by Rustem Umerov, Russia's by Vladimir Medinsky, with US envoys Jared Kushner and Steve Witkoff mediating. Zelensky said around 1,000 prisoners per side had been discussed, possibly rising to 1,500; final numbers were due to be set on 12 November. Kushner said there is currently no trust between the sides and that European partners should be at the table, an idea he and Witkoff plan to raise with Putin in Moscow before flying to Dublin to brief Zelensky. EU, German, French, British, Italian and NATO officials were in Abu Dhabi but met only the US and Ukrainian teams, as Russia refused to see them.",
-      "why": "The EU is Ukraine's largest financial backer yet has no seat in the negotiations that could redraw Europe's security order, an imbalance leaders will confront in Dublin this week.",
+      "title": "US envoys say Putin will accept Europeans at the next round of Ukraine peace talks",
+      "summary": "After meeting Vladimir Putin in Moscow, US envoys Steve Witkoff and Jared Kushner flew to Ireland and met Volodymyr Zelensky at Casement Aerodrome near Dublin on Thursday, on the margins of the European Political Community summit. Witkoff said Putin had agreed that European representatives could join the next negotiating round, though no countries, format or date were named, and Kremlin aide Yuri Ushakov did not confirm it. Zelensky said Europe would be on the negotiating team next time and that a coming prisoner exchange, agreed in principle in Abu Dhabi, would be the largest yet. Putin also floated a joint humanitarian mission to front-line Kostiantynivka, while Kyiv complained that SpaceX's Starshield service had again been restricted over Ukraine.",
+      "why": "For months the EU has argued that no settlement affecting European security can be negotiated without it; a seat at the table would test whether the 27 can agree on who speaks for them.",
       "left": {
-        "angle": "Left-leaning coverage presents the swap as a limited humanitarian result of talks that otherwise stalled, and gives prominence to the dispute over Europe's role, setting Russian dismissal of the Europeans against Kyiv's insistence that European security cannot be settled without Europe. It spends less time on the mechanics of the US mediation.",
+        "angle": "Centre-left coverage paired the envoys' announcement with reasons for caution, putting the renewed Starshield restrictions and Moscow's unchanged demands alongside the diplomatic opening. The European inclusion is treated as a claim still to be proven rather than a breakthrough.",
         "outlets": [
-          {
-            "name": "Al Jazeera",
-            "lean": "Lean left",
-            "url": "https://www.aljazeera.com/news/2026/11/11/russia-ukraine-talks-in-abu-dhabi-end-with-prisoner-exchange-agreement",
-            "note": "Swap as the only concrete outcome; foregrounds Medinsky's dismissal of the EU against Zelensky's calls for European involvement."
-          },
-          {
-            "name": "CNN",
-            "lean": "Lean left",
-            "url": "https://www.cnn.com/2026/11/11/politics/trump-envoys-russia-trip-peace-talks-intl",
-            "note": "Headline leads with Trump's envoys heading to Moscow after talks ended without a breakthrough."
-          }
+          { "name": "CNN", "lean": "Lean left", "url": "https://www.cnn.com/2026/11/12/politics/ukraine-witkoff-kushner-putin-peace-talks-intl", "note": "Headline links the Witkoff–Kushner meeting with Zelensky to Kyiv's complaint that Starshield was restricted again." }
         ]
       },
       "right": {
-        "angle": "Right-leaning coverage leads with Europe and Britain being shut out, treating the exclusion as a measure of the continent's weak leverage; the Telegraph turns it into a UK story about London seeking its own channel to the Kremlin. Both stress that territory remains the core obstacle and that results so far are humanitarian rather than political.",
+        "angle": "Right-leaning US coverage led with Witkoff's claim as a sign of momentum for the Trump administration's diplomacy, with European scepticism and the lack of detail placed further down.",
         "outlets": [
-          {
-            "name": "The Telegraph",
-            "lean": "Centre-right",
-            "url": "https://www.yahoo.com/news/politics/articles/russia-tells-wes-streeting-ll-155325584.html",
-            "note": "Syndicated piece on Britain being sidelined and Moscow saying it would take a call from London's defence secretary."
-          },
-          {
-            "name": "Brussels Signal",
-            "lean": "Right",
-            "url": "https://brusselssignal.eu/2026/11/europe-waits-in-the-wings-as-ukraine-peace-talks-resume-in-abu-dhabi/",
-            "note": "Portrays EU involvement as reactive and uncertain, with Russian officials telling Europeans to wait at their hotel."
-          }
+          { "name": "Newsmax", "lean": "Right", "url": "https://www.yahoo.com/news/politics/articles/witkoff-putin-agrees-europe-peace-002530030.html", "note": "Leads on Witkoff calling European participation a big deal; a European diplomat's view of 'maximalist' Russian demands comes later." }
         ]
       },
-      "differ": "Left-leaning outlets frame Europe's absence as a diplomatic wrong Kyiv is resisting; right-leaning outlets frame it as evidence of European, and British, weakness that needs a harder-headed fix.",
+      "differ": "The left-leaning take foregrounds friction with Washington (Starshield) and Russian hard lines; the right-leaning take foregrounds the envoys' progress claim.",
       "sources": [
-        {
-          "name": "Euronews",
-          "url": "https://www.euronews.com/2026/11/11/abu-dhabi-peace-talks-end-with-prisoner-exchange-agreement-as-us-envoys-prepare-to-meet-pu"
-        },
-        {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/europe/20261111-russia-and-ukraine-agree-to-major-prisoner-swap-as-peace-talks-end"
-        },
-        {
-          "name": "Reuters (via Business Standard)",
-          "url": "https://www.business-standard.com/world-news/russia-ukraine-reach-deal-on-prisoner-swap-but-trust-gap-holds-back-talks-126111200268_1.html"
-        }
+        { "name": "Reuters (via Military Times)", "url": "https://www.militarytimes.com/global/europe/2026/11/12/putin-lets-europe-join-ukraine-peace-talks-as-kyiv-says-starshield-disrupted-again/" },
+        { "name": "The Kyiv Independent", "url": "https://kyivindependent.com/zelensky-meets-with-trumps-envoys-in-dublin-after-their-summit-with-putin/" },
+        { "name": "The Irish Times", "url": "https://www.irishtimes.com/politics/2026/11/12/eu-meetings-dublin-road-closures-traffic-disruption-latest/" }
       ]
     },
     {
-      "topic": "Diplomacy · European Political Community",
-      "title": "Around 50 European leaders meet in Dublin as Ukraine and the UK–EU reset dominate the agenda",
-      "summary": "The ninth European Political Community summit opens in Dublin on 12 November, co-chaired by Taoiseach Micheál Martin and European Council President António Costa, with around 50 leaders including Zelensky, Macron, Merz, UK Prime Minister Andy Burnham and NATO's Mark Rutte. The informal format produces no binding decisions; sessions cover hybrid threats, economic and democratic resilience, Moldova and Armenia, and a roundtable on European security, where Macron is expected to present principles for the continent's future security. Ukraine faces an estimated €70bn gap in its 2027 budget. Burnham, arriving from COP31, is expected to announce further Russia sanctions and is looking ahead to a UK–EU summit on 20 November where agrifood, emissions-trading and youth-mobility deals are under negotiation. EU-27 leaders meet informally on 13 November on artificial intelligence, with a Ukraine debate and an EU peace envoy also on the table.",
-      "why": "Dublin is the EU's main chance this week to show unity on Ukraine while it is outside the US-led talks, and a staging post for the largest UK–EU rapprochement since Brexit.",
+      "topic": "Security · European Political Community",
+      "title": "At the Dublin EPC summit, Macron says US support for Ukraine is gone and Europe must lead",
+      "summary": "About 50 leaders met in Dublin on Thursday for the ninth European Political Community summit, hosted by Taoiseach Micheál Martin. Emmanuel Macron said there was no more US support for Ukraine and that the countries in the room provide roughly 80–90% of the Coalition of the Willing's contribution. Zelensky warned that Russia wants to rewrite Europe's security architecture before any ceasefire, called a US idea of a new security order with Russia 'a bit strange', and asked for interceptors, F-16 ammunition and the opening of the last EU accession clusters this year. Martin listed Ukraine, hybrid threats, technology and affordable energy as the summit's focus and said the EU needs a clear voice at the negotiating table; EU leaders begin discussing a possible EU envoy at today's informal summit.",
+      "why": "The EPC is turning into a venue where Europe tries to organise its own security response; whether the EU names a single negotiator is the next practical test.",
       "left": {
-        "angle": "We found no left-leaning piece on the summit itself from 10–12 November. Earlier coverage from EUobserver, published 9 November, framed Dublin around Ukraine as the real agenda behind the official AI theme, and as a test of EU unity while Europe is excluded from the US-brokered talks; it did not dwell on the UK reset.",
+        "angle": "Centre-left coverage focused on the show of European unity around Zelensky and on the EU's internal argument over who should represent it. The emphasis is on Europe stepping up, with less attention to what the summit concretely produced.",
         "outlets": [
-          {
-            "name": "EUobserver (earlier coverage, 9 Nov)",
-            "lean": "Centre-left",
-            "url": "https://euobserver.com/247530/this-week-ukraine-peace-talks-gather-pace-and-eu-holds-budget-confessionals/",
-            "note": "Week-ahead piece: Russia's war is the unspoken centre of the Dublin meetings; Costa added a Ukraine debate."
-          }
+          { "name": "Channel 4 News", "lean": "Centre-left", "url": "https://www.channel4.com/news/andy-burnham-joins-european-leaders-in-show-of-support-for-ukraine-and-zelenskyy", "note": "Picture-led piece on UK PM Andy Burnham embracing Zelensky and pledging support in negotiations." },
+          { "name": "EUobserver", "lean": "Centre-left", "url": "https://euobserver.com/248409/first-talks-about-eu-envoy-on-ukraine-war-to-dominate-dublin-summits/", "note": "Preview stressing intra-EU splits over an EU envoy and how Ukraine pushed AI down the agenda." }
         ]
       },
       "right": {
-        "angle": "Right-leaning British coverage treats the gathering mainly through the Brexit lens, warning that Burnham's reset slides towards rejoining the EU and highlighting David Cameron's caution against that. Ukraine and the security agenda get little attention in these pieces.",
-        "outlets": [
-          {
-            "name": "Daily Mail (front page, via PA papers round-up)",
-            "lean": "Right",
-            "url": "https://www.yahoo.com/news/world/articles/tv-industry-must-tackle-abuse-014841202.html",
-            "note": "Front page leads on Cameron telling the PM not to rejoin, casting Dublin as a sales pitch for a 'Brexit betrayal'."
-          },
-          {
-            "name": "The Spectator Australia (earlier opinion, 9 Nov)",
-            "lean": "Right",
-            "url": "https://www.spectator.com.au/?p=10947517",
-            "note": "Argues the reset concedes on food standards, energy payments and mobility for a small economic gain."
-          }
-        ]
+        "angle": "We found no right-leaning outlet's own coverage of the Dublin summit or of Macron's remarks in the last 24–36 hours.",
+        "outlets": []
       },
-      "differ": "Pro-EU coverage sees Dublin as a Ukraine-and-unity summit; right-leaning UK outlets see it as a stage for a Brexit rollback they oppose.",
+      "differ": "Only centre-left and straight-news framings were found: they present the summit as Europe rallying while Washington steps back.",
       "sources": [
-        {
-          "name": "AFP (via 24 News HD)",
-          "url": "https://www.24newshd.tv/12-Nov-2026/uk-pm-eyes-eu-prize-leaders-meet-ahead-crunch-summit"
-        },
-        {
-          "name": "Agence Europe",
-          "url": "https://agenceurope.eu/en/bulletin/article/13979/13/around-50-heads-of-state-or-government-to-discuss-european-security-challenges-in-dublin-on-12-november"
-        },
-        {
-          "name": "RTÉ",
-          "url": "https://www.rte.ie/news/2026/1111/1598831-zelensky-dublin/"
-        },
-        {
-          "name": "Kyiv Independent",
-          "url": "https://kyivindependent.com/zelensky-arrives-in-dublin-for-european-political-community-summit-expects-a-debrief-from-witkoff-kushner/"
-        }
+        { "name": "RTÉ", "url": "https://www.rte.ie/news/ireland/2026/1112/1598960-epc-meetings-dublin/" },
+        { "name": "Irish Examiner / PA", "url": "https://www.irishexaminer.com/world/arid-41936790.html" },
+        { "name": "The Hill", "url": "https://thehill.com/policy/international/6217318-macron-europe-ukraine-support/" },
+        { "name": "TheJournal.ie", "url": "https://www.thejournal.ie/liveblog-european-leaders-gather-dublin-epc-summit-7222606-Nov2026/" }
       ]
     },
     {
-      "topic": "Digital · Consumer protection",
-      "title": "Commission proposes Digital Fairness Act to curb dark patterns, subscription traps and loot boxes for minors",
-      "summary": "Consumer commissioner Michael McGrath presented the Digital Fairness Act on 11 November, a regulation that would replace the 2005 Unfair Commercial Practices Directive. It bans manipulative interface design outright for a list of practices such as fake scarcity claims, requires free trials to need active consent before turning into paid plans, and makes online cancellation easy, with a right to reach a human. Users would be able to switch off addictive features like infinite scroll and autoplay, paid loot boxes would be banned for under-18s, and influencer ads would need clear disclosure with brands sharing liability. Fines could reach 6% of global turnover, and the Commission estimates €13.7bn a year in consumer benefits against €678m in business costs. Industry group CCIA said the text overlaps with existing EU law, and German press publishers warned it threatens their subscription models.",
-      "why": "It is the EU's next big piece of platform regulation, landing as Brussels promises to cut red tape and as US pressure on EU tech rules continues; Parliament and Council negotiations are expected to take years.",
+      "topic": "Budget · Ukraine financing",
+      "title": "Merz's threat to tie the EU budget to Ukraine aid hangs over today's Dublin leaders' meeting",
+      "summary": "German Chancellor Friedrich Merz has written to European Council President António Costa saying Berlin will not back the 2028–2034 EU budget unless all member states commit to closing Ukraine's roughly €70bn funding gap for 2027. Brussels has pledged about €45bn of that through an instrument not yet defined, with joint borrowing the frontrunner; the proposed budget already earmarks €100bn for Ukraine, but only from 2028. Slovakia's Robert Fico called the demand blackmail, and Czechia, Hungary and Bulgaria also rejected the link. Costa replied that Ukraine will be discussed at today's informal summit in Dublin, which is formally devoted to AI, and that 2027 financing will be settled at a special summit on 26–27 November.",
+      "why": "Both the long-term budget and new Ukraine money need unanimity, so a stand-off between Berlin and the central European holdouts could stall both.",
       "left": {
-        "angle": "Left-leaning and pro-regulation coverage leads with the crackdown on manipulative design and influencer marketing, and relays consumer and digital-rights groups who welcome it but say it does not go far enough, notably because addictive features are opt-out rather than banned. Industry objections receive brief treatment.",
+        "angle": "Centre-left coverage led with Fico's blackmail accusation and the risk that the dispute leaves Ukraine short of money, while noting talk of moving to majority voting to get around vetoes.",
         "outlets": [
-          {
-            "name": "EUobserver",
-            "lean": "Centre-left",
-            "url": "https://euobserver.com/248072/digital-fairness-act-eu-cracks-down-on-stealth-influencer-ads-and-manipulative-app-design/",
-            "note": "Based on the leaked draft; quotes BEUC and EDRi, who warn opt-outs leave 'significant uncertainty'."
-          }
+          { "name": "The Guardian", "lean": "Centre-left", "url": "https://www.theguardian.com/world/2026/nov/10/friedrich-merz-accused-blackmail-ukraine-aid-eu-budget", "note": "Frames the row through the Slovak PM's accusation and Kyiv's funding gap." }
         ]
       },
       "right": {
-        "angle": "The centre-right coverage we found leads with business alarm rather than consumer gains, foregrounding German press publishers who say the rules endanger digital subscription and advertising models. We found no other right-leaning outlet covering the proposal in this window.",
+        "angle": "Right-leaning coverage split: German centre-right press reported the clash straight, while central European conservative outlets cast Fico and Babiš as defending national sovereignty against German pressure.",
         "outlets": [
-          {
-            "name": "FAZ",
-            "lean": "Centre-right",
-            "url": "https://www.faz.net/aktuell/feuilleton/medien-und-film/medienpolitik/presseverleger-warnen-vor-digital-fairness-act-der-eu-201671957.html",
-            "note": "Publishers' associations say they are dismayed by the new EU digital law."
-          }
+          { "name": "Die Welt", "lean": "Centre-right", "url": "https://www.welt.de/politik/ausland/article6af315ced7afd5ab8c0522b1/streit-um-ukraine-finanzierung-slowakischer-regierungschef-wirft-merz-erpressung-vor.html", "note": "Leads with the Slovak premier accusing Merz of 'blackmail'." },
+          { "name": "Hungarian Conservative", "lean": "Right", "url": "https://www.hungarianconservative.com/articles/current/fico-babis-reject-german-pressure-over-ukraine-funding", "note": "Presents Fico and Babiš as pushing back on Berlin and widens the story to V4 objections on climate policy." }
         ]
       },
-      "differ": "One side asks whether the act protects consumers enough; the other asks whether it damages the businesses, including newspapers, that depend on subscriptions and ads.",
+      "differ": "The left-leaning piece worries about Ukraine's cash and EU vetoes; the conservative central European piece treats Merz's letter as an overreach against member states.",
       "sources": [
-        {
-          "name": "European Commission",
-          "url": "https://commission.europa.eu/news-and-media/news/making-your-online-experience-fairer-2026-11-11_en"
-        },
-        {
-          "name": "Euronews",
-          "url": "https://www.euronews.com/2026/11/11/eu-targets-subscription-traps-addictive-design-and-hidden-fees-with-new-digital-rules"
-        },
-        {
-          "name": "Engadget",
-          "url": "https://www.engadget.com/2313329/europe-wants-to-ban-dark-patterns-in-apps-and-loot-boxes-for-minors/"
-        },
-        {
-          "name": "The Next Web",
-          "url": "https://thenextweb.com/news/eu-digital-fairness-act-loot-boxes-dark-patterns"
-        },
-        {
-          "name": "CCIA Europe",
-          "url": "https://ccianet.org/news/2026/11/digital-fairness-act-overlaps-with-existing-eu-rules-despite-commissions-recent-pledge-to-cut-red-tape/"
-        }
+        { "name": "Euronews", "url": "https://de.euronews.com/2026/11/10/erpressung-vier-eu-lander-gegen-merz-ultimatum-ukraine-hilfe" },
+        { "name": "Politico Europe", "url": "https://www.politico.eu/article/merz-clashes-with-fico-over-german-bid-to-link-eu-budget-and-ukraine-loan/" },
+        { "name": "European Pravda", "url": "https://www.eurointegration.com.ua/eng/news/2026/11/11/7249753/" },
+        { "name": "Consilium", "url": "https://www.consilium.europa.eu/en/meetings/european-council/2026/11/13/" }
       ]
     },
     {
-      "topic": "Security · Baltic airspace",
-      "title": "NATO jets twice fail to down a drone over Lithuania during a night of Baltic air alerts",
-      "summary": "Lithuania issued air alerts across several regions on the night of 10–11 November, briefly raising them to red, and closed Vilnius and Kaunas airports, affecting around 400 passengers. Officials said four drones were detected in Belarus and one crossed into Lithuania near Druskininkai, then flew north through Latvia and Estonia into Russia. NATO jets made two unsuccessful attempts to shoot it down, with missile debris later found near Biržai; officials have not said which country's aircraft fired. The military said the drone's type and origin are unconfirmed and suggested it may have been diverted by electronic warfare during Ukraine's drone strikes on Russia that night. President Gitanas Nausėda warned such incursions may happen again, and the prime minister promised a full investigation.",
-      "why": "Repeated incursions test NATO and EU air defences on the eastern flank and feed the debate over drone defences and the cost of protecting EU airspace.",
+      "topic": "UK–EU · Reset",
+      "title": "Burnham says a 'win-win' UK–EU deal is possible a week before the bilateral summit",
+      "summary": "Meeting Ursula von der Leyen on the margins of the Dublin summit, UK Prime Minister Andy Burnham said a mutually beneficial deal could be reached before the UK–EU summit due in about a week, while admitting no agreement exists yet. The package under negotiation covers food and farming (an SPS deal), linking emissions trading systems and a youth mobility scheme. Reports say the EU wants EU students to pay domestic tuition fees in the UK as part of the deal; Burnham called it a package without saying whether he accepts that link. A later phase could cover migration, with London seeking access to EU databases such as Eurodac and the Schengen Information System.",
+      "why": "It would be the most substantial UK–EU agreement since Brexit, with trade, carbon-market and mobility consequences on both sides of the Channel.",
       "left": {
-        "angle": "Left-leaning coverage we found treats the Baltic alerts as one strand of an escalating exchange of strikes between Russia and Ukraine, stressing that the drones' origin is unclear and leaving out the missed interceptions and airport closures. We found no major European left-leaning title covering the incident in detail.",
+        "angle": "Centre-left coverage led with Burnham's optimism and treated the reset as overdue, presenting the tuition-fee demand as the main remaining obstacle.",
         "outlets": [
-          {
-            "name": "Al Jazeera",
-            "lean": "Lean left",
-            "url": "https://www.aljazeera.com/news/2026/11/11/russia-claims-interception-of-146-drones-in-leningrad-region",
-            "note": "Wire-based roundup; the Baltic alerts appear as a side note to Russia–Ukraine strikes."
-          }
+          { "name": "The Guardian", "lean": "Centre-left", "url": "https://www.theguardian.com/politics/2026/nov/12/win-win-deal-with-eu-could-be-done-andy-burmham-says", "note": "Burnham's 'win-win' pitch, with the fees dispute and migration-database asks as next hurdles." }
         ]
       },
       "right": {
-        "angle": "Right-leaning Italian outlets lead with NATO's failure to hit the target, the threat coming from Belarus and the disruption to flights and residents, while noting the drone's origin is not confirmed. Il Giornale's live blog places it inside wider war coverage that also relays Russian official claims.",
+        "angle": "Right-leaning British coverage focused on sovereignty costs, highlighting peers' warnings that the UK would be absorbing EU rules at speed and Burnham's push to land youth mobility before Christmas.",
         "outlets": [
-          {
-            "name": "Secolo d'Italia",
-            "lean": "Right",
-            "url": "https://www.secoloditalia.it/2026/11/droni-sul-baltico-i-caccia-nato-sparano-due-volte-e-mancano-il-bersaglio-voli-dirottati-e-aeroporti-chiusi/",
-            "note": "Headline built on NATO jets firing twice and missing; stresses closed airports."
-          },
-          {
-            "name": "Il Giornale",
-            "lean": "Right",
-            "url": "https://www.ilgiornale.it/diretta/cronaca-internazionale/ucraina-allerta-per-i-droni-sulleuropa-si-attivano-i-caccia-della-nato/",
-            "note": "Live blog on drone alerts over Europe and NATO scrambles, with the object entering from Belarus."
-          }
+          { "name": "GB News", "lean": "Right", "url": "https://www.gbnews.com/politics/andy-burnham-brexit-reset-britain-adopt-eu-law-every-12-hours", "note": "Headline relays peers' warning that Britain would adopt EU law 'every 12 hours'." },
+          { "name": "GB News", "lean": "Right", "url": "https://www.gbnews.com/politics/andy-burnham-youth-mobility-scheme-eu", "note": "Frames the youth mobility scheme as Burnham pushing ahead with a 'Brexit reset'." }
         ]
       },
-      "differ": "Right-leaning coverage makes NATO's miss and the Belarus border the story; left-leaning coverage folds the alerts into the wider Russia–Ukraine war and stresses uncertainty over origin.",
+      "differ": "The left sees a pragmatic deal within reach; the right sees rule-taking and free-movement creep.",
       "sources": [
-        {
-          "name": "Euronews",
-          "url": "https://www.euronews.com/2026/11/11/a-restless-and-difficult-night-in-the-baltics-as-nato-fighter-jets-fail-to-shoot-down-dron"
-        },
-        {
-          "name": "LRT",
-          "url": "https://www.lrt.lt/en/news-in-english/19/3111025/drone-incursions-trigger-air-alerts-across-lithuania-nato-jets-scrambled"
-        },
-        {
-          "name": "AeroTime",
-          "url": "https://www.aerotime.aero/articles/nato-fighter-misses-drone-baltic-air-alerts"
-        }
+        { "name": "TheJournal.ie", "url": "https://www.thejournal.ie/liveblog-european-leaders-gather-dublin-epc-summit-7222606-Nov2026/" },
+        { "name": "House of Commons Library", "url": "https://commonslibrary.parliament.uk/research-briefings/cbp-12281/" }
+      ]
+    },
+    {
+      "topic": "Hybrid threats · Schools",
+      "title": "Hoax bomb emails hit thousands of schools in Italy, Ireland and the UK",
+      "summary": "Some 6,300 Italian schools received emailed bomb threats on Wednesday and more than 1,800 more on Thursday, prompting evacuations and closures; police found nothing to substantiate them. Hundreds of schools in Ireland, Scotland and Northern Ireland got similar emails, which authorities classed as hoaxes, and Irish newsrooms and RTÉ were also targeted. The messages were signed by a fictitious 'Mikhail Andropov'. Giorgia Meloni's government said buildings should not be evacuated on the strength of a mass email alone and called it a strategy to spread alarm, while officials in several countries pointed to wider hybrid-warfare concerns without attributing blame.",
+      "why": "The waves coincide with the Dublin summits and a broader rise in suspected Russian and Iranian hybrid operations, testing how EU states respond to disruption designed to sow fear.",
+      "left": {
+        "angle": "Left-leaning outlets led with the scale of disruption and tied it to the wider hybrid-warfare debate, also giving space to Italian opposition criticism of the government.",
+        "outlets": [
+          { "name": "Al Jazeera", "lean": "Lean left", "url": "https://www.aljazeera.com/news/2026/11/12/more-than-1800-italian-schools-targeted-by-new-hoax-bomb-alerts", "note": "Covers Thursday's second wave, Meloni's no-evacuation guidance and opposition attacks on defence spending." },
+          { "name": "CNN", "lean": "Lean left", "url": "https://www.cnn.com/2026/11/11/europe/italy-europe-bomb-threat-intl", "note": "Evacuations in Italy and alarm in the UK and Ireland." }
+        ]
+      },
+      "right": {
+        "angle": "Right-leaning US coverage stressed that authorities found no credible danger and leaned on officials' 'cyber attack' description, adding speculation about a bigger agenda without naming a culprit.",
+        "outlets": [
+          { "name": "Townhall", "lean": "Right", "url": "https://townhall.com/news/amy-curtis/2026/11/11/schools-in-italy-evacuated-bomb-threats-n2686279", "note": "Built around social-media posts and Italy's education minister calling it a cyber attack, not a real risk." }
+        ]
+      },
+      "differ": "Left-leaning coverage frames it as a security and political story; right-leaning coverage frames it as a hoax and disruption story.",
+      "sources": [
+        { "name": "CBS News", "url": "https://www.cbsnews.com/news/bomb-threat-schools-europe-italy-uk-ireland-hoaxes-hybrid-warfare-iran-russia/" },
+        { "name": "Foreign Policy", "url": "https://foreignpolicy.com/2026/11/11/hoax-bomb-threats-schools-italy-europe-hybrid-warfare-russia-iran/" }
       ]
     }
   ],
   "oneSided": {
     "left": [],
-    "right": [
-      {
-        "title": "European Commission drops bid to make 'hate speech' an EU crime",
-        "outlet": "Brussels Signal",
-        "lean": "Right",
-        "url": "https://brusselssignal.eu/2026/11/european-commission-drops-bid-to-make-hate-speech-an-eu-crime/"
-      }
-    ]
+    "right": []
   }
 }
