@@ -1,0 +1,203 @@
+{
+  "date": "2026-11-14",
+  "generatedAt": "2026-11-14T05:40:06Z",
+  "mode": "written",
+  "topline": "Four stories today: EU leaders name a five-country team plus Brussels to speak for Europe in Ukraine talks, 41 leaders sign a Dublin declaration on returns as the EU–Nigeria readmission deal and a Danish-led 'return hub' advance, Spain's 29 November election campaign opens, and EU leaders hold their first summit session on AI.",
+  "stories": [
+    {
+      "topic": "Ukraine · Peace talks",
+      "title": "EU leaders pick France, Germany, the UK, Italy and Poland plus Brussels to represent Europe in Ukraine talks",
+      "summary": "At their informal meeting in Dublin on Friday, EU leaders agreed that Europe will be represented in US-brokered Ukraine peace talks by an 'E5' of France, Germany, the UK, Italy and Poland, together with the European Council and Commission, rather than by a single envoy. Italy's Giorgia Meloni had pushed for one European negotiator, arguing that too many overlapping formats were weakening Europe's voice. EU foreign-policy chief Kaja Kallas had argued for the role herself, but Council President António Costa cited the treaties and the leaders opted to widen the existing E3 group. Costa said the EU will lead on Ukraine's reconstruction and European future, while security guarantees stay with the Coalition of the Willing in coordination with NATO. The Kremlin has played down any prospect of face-to-face talks with Europeans.",
+      "why": "The decision settles, for now, who speaks for Europe as Washington pushes a deal, but it formalises a group of national capitals rather than an EU institution, leaving the Union's own role and Moscow's acceptance of it unresolved.",
+      "left": {
+        "angle": "Left-leaning coverage leads with European disunity and the risk of being sidelined. It stresses that the leaders chose a compromise instead of a single envoy, quotes diplomats calling the arrangement less than ideal, and gives prominence to Kremlin mockery of Europe's divisions.",
+        "outlets": [
+          {
+            "name": "EUobserver",
+            "lean": "Centre-left",
+            "url": "https://euobserver.com/248871/eu-leaders-hand-ukraine-peace-talks-to-france-germany-uk-italy-poland-plus-brussels-instead-of-a-single-envoy/",
+            "note": "Frames the outcome as a fallback 'instead of a single envoy' and cites a diplomat calling it 'not ideal'."
+          },
+          {
+            "name": "Al Jazeera",
+            "lean": "Lean left",
+            "url": "https://www.aljazeera.com/news/2026/11/13/europe-seeks-seat-at-ukraine-peace-talks-but-lacks-unified-voice",
+            "note": "Stresses that Europe still lacks a unified voice and that Moscow refuses to seat EU leaders."
+          }
+        ]
+      },
+      "right": {
+        "angle": "Right-leaning Italian coverage presents the summit as a show of European unity and an Italian success. It leads with Italy winning a seat in the negotiating group and credits Meloni's government with setting the summit's direction on both Ukraine and migration.",
+        "outlets": [
+          {
+            "name": "Il Giornale",
+            "lean": "Right",
+            "url": "https://www.ilgiornale.it/news/europa/europa-compatta-su-ucraina-e-immigrazione-al-vertice-di-dublino-e-litalia-sara-nel-team-dei-negoziati/",
+            "note": "Calls Europe 'compatta' and quotes a minister hailing a double victory for Italy."
+          }
+        ]
+      },
+      "differ": "The left-leaning outlets read the compromise as evidence of fragmentation; the right-leaning paper reads the same deal as unity achieved on Rome's terms.",
+      "sources": [
+        {
+          "name": "Euronews",
+          "url": "https://www.euronews.com/2026/11/13/eu-leaders-bring-italy-and-poland-into-ukraine-peace-talks-team-as-kallas-fights-for-spot"
+        },
+        {
+          "name": "RTÉ",
+          "url": "https://www.rte.ie/news/ireland/2026/1113/1599056-eu-leaders-dublin/"
+        },
+        {
+          "name": "France 24",
+          "url": "https://france24.com/en/europe/20261113-europe-to-send-diplomats-from-across-the-continent-to-ukraine-peace-talks"
+        },
+        {
+          "name": "PBS NewsHour (AP)",
+          "url": "https://www.pbs.org/newshour/world/europe-to-send-a-diplomat-team-to-ukraine-talks-as-leaders-push-for-a-voice"
+        }
+      ]
+    },
+    {
+      "topic": "Migration · Returns",
+      "title": "41 European leaders back tougher returns as EU–Nigeria deal is signed and a Danish-led 'return hub' nears",
+      "summary": "At the European Political Community summit in Dublin, 41 leaders endorsed a joint statement promoted by Italy, the UK and Denmark committing to sustain a reduction in irregular migration, with priorities including border surveillance, work with origin and transit countries, tackling migration-related disinformation and more effective returns. Spain's Pedro Sánchez, who skipped the summit to open his election campaign, is not among the signatories. Separately, the EU and Nigeria signed a readmission agreement in Abuja on 10 November after about a decade of talks; it still needs approval from the European Parliament and the Council. Commissioner Magnus Brunner said the EU return rate rose from 19% in 2023 to 38% in the first half of 2026. Denmark's Mette Frederiksen said a deal on a return centre outside Europe is close, with Rwanda reported as the frontrunner and an announcement possible at a Vienna migration conference on 16–17 November.",
+      "why": "Together these moves show the EU's migration policy shifting decisively toward returns and partnerships with third countries, the approach enabled by the new Return Regulation, while the legal and human-rights questions around offshore hubs remain open.",
+      "left": {
+        "angle": "We found no left-leaning outlet's take on the Dublin declaration or the Nigeria deal in the last 36 hours. Earlier left-leaning coverage of return hubs focused on rights groups' warnings that offshore centres could become legal limbo with little oversight; the straight-news Euronews explainer on Nigeria, which questions what Abuja received in return, is listed under sources.",
+        "outlets": [
+          {
+            "name": "Al Jazeera",
+            "lean": "Lean left",
+            "url": "https://www.aljazeera.com/news/2026/9/4/five-eu-nations-inch-towards-deal-on-migrant-return-hubs-by-2027",
+            "note": "Earlier coverage (September 2026) of the five-country return-hub plan and its critics."
+          }
+        ]
+      },
+      "right": {
+        "angle": "Right-leaning coverage frames the declaration as the triumph of a hard line on irregular migration. Italian coverage credits Meloni with setting the European agenda, while Spanish conservative coverage leads with Sánchez's absence, casting Spain as isolated and claiming the text passed unanimously only because he was not there.",
+        "outlets": [
+          {
+            "name": "Il Giornale",
+            "lean": "Right",
+            "url": "https://www.ilgiornale.it/news/europa/europa-compatta-su-ucraina-e-immigrazione-al-vertice-di-dublino-e-litalia-sara-nel-team-dei-negoziati/",
+            "note": "Presents the 41-country declaration as Italy's initiative and 'la linea Meloni' prevailing."
+          },
+          {
+            "name": "El Debate",
+            "lean": "Right",
+            "url": "https://www.eldebate.com/espana/20261113/declaracion-contra-inmigracion-irregular-aprobo-unanimidad-gracias-ausencia-sanchez_480658.html",
+            "note": "Leads with Sánchez's absence and portrays Spain as the odd one out on returns."
+          }
+        ]
+      },
+      "differ": "Right-leaning outlets celebrate a hardening consensus and use it to score domestic points; with no fresh left-leaning take, the critical angle today comes mainly from straight-news questions about what partner countries get and how hubs would be overseen.",
+      "sources": [
+        {
+          "name": "GOV.UK – Joint Leaders Statement",
+          "url": "https://www.gov.uk/government/news/joint-leaders-statement-on-migration-at-the-european-political-community-summit"
+        },
+        {
+          "name": "European Commission – DG HOME",
+          "url": "https://home-affairs.ec.europa.eu/news/eu-and-nigeria-sign-readmission-agreement-furthering-cooperation-migration-and-security-2026-11-11_en"
+        },
+        {
+          "name": "Euronews",
+          "url": "https://www.euronews.com/2026/11/13/the-eu-sealed-a-migration-deal-with-nigeria-but-what-did-abuja-get-in-return"
+        },
+        {
+          "name": "The Local Denmark (AFP)",
+          "url": "https://www.thelocal.dk/20261112/denmark-to-reveal-european-migrant-return-hub-next-week"
+        },
+        {
+          "name": "The Copenhagen Post (Ritzau)",
+          "url": "https://cphpost.dk/2026-11-12/news/round-up/denmark-italy-and-uk-push-for-stricter-european-migration-policies/"
+        }
+      ]
+    },
+    {
+      "topic": "Spain · General election",
+      "title": "Spain's campaign for the 29 November snap election opens with the right ahead in most polls",
+      "summary": "The official two-week campaign for Spain's 29 November general election began at midnight on Thursday. Pedro Sánchez launched the Socialists' campaign in Seville, calling for historic turnout and an 'epic' comeback, while PP leader Alberto Núñez Feijóo opened in Badalona promising to take Spain from 'decline to reconstruction' and to audit public spending since 2018. Vox's Santiago Abascal campaigned on 'national priority', immigration and deregulation. Most private polls, including those for El País, El Mundo and El Español, give the PP and Vox a combined majority of roughly 190–200 of 350 seats, though the state pollster CIS puts the PSOE ahead with 134–143 seats. The campaign follows a deadly rail crash at Urda, the defeat of a housing decree and corruption cases touching Sánchez's circle.",
+      "why": "A PP–Vox government in Madrid would move one of the EU's largest member states, and one of its most pro-migration-regularisation governments, sharply to the right, with knock-on effects on EU votes on migration, climate and the budget.",
+      "left": {
+        "angle": "Left-leaning coverage frames the race as a fight between two blocs, giving the most space to the PSOE's call for a mass mobilisation and to Ada Colau's Frente Amplio and Podemos efforts to hold their ground. It stresses the hostility of the right's anti-Sánchez message and highlights the Socialists' internal polling that rules out a right-wing majority.",
+        "outlets": [
+          {
+            "name": "elDiario.es",
+            "lean": "Left",
+            "url": "https://www.eldiario.es/politica/cuenta-29n-izquierda-apela-epica-remontar-derecha-sube-tono-antisanchista_1_13660189.html",
+            "note": "Contrasts the left's 'épica' comeback appeal with the right's sharpening anti-Sánchez tone."
+          }
+        ]
+      },
+      "right": {
+        "angle": "Right-leaning coverage leads with the call to end 'sanchismo', foregrounding corruption investigations, the rail accidents, housing costs and immigration. It relays Feijóo's promised audit and Vox's programme largely in the candidates' own terms, and treats a right-wing majority as the likely outcome.",
+        "outlets": [
+          {
+            "name": "El Independiente",
+            "lean": "Centre-right",
+            "url": "https://www.elindependiente.com/espana/2026/11/12/feijoo-y-abascal-se-adentran-en-una-campana-electoral-decisiva-y-llaman-a-movilizarse-para-dejar-atras-el-sanchismo/",
+            "note": "Leads with Feijóo and Abascal rallying voters to leave 'sanchismo' behind."
+          },
+          {
+            "name": "The Spectator",
+            "lean": "Right",
+            "url": "https://spectator.com/article/it-will-be-hard-for-sanchez-to-avoid-defeat-in-spains-election/?edition=us",
+            "note": "Earlier coverage (5 October): argues Sánchez is heading for defeat amid scandals and Ceuta."
+          }
+        ]
+      },
+      "differ": "The left-leaning paper centres the PSOE's comeback narrative and the CIS outlier; right-leaning outlets centre scandal and the expected change of government.",
+      "sources": [
+        {
+          "name": "Euronews (Spanish)",
+          "url": "https://es.euronews.com/2026/11/12/arranca-campana-elecciones-generales-29n-espana"
+        },
+        {
+          "name": "Reuters (via Yahoo News)",
+          "url": "https://www.yahoo.com/news/politics/articles/spains-well-ahead-polls-november-124042634.html"
+        }
+      ]
+    },
+    {
+      "topic": "Tech · Artificial intelligence",
+      "title": "EU leaders hold their first summit discussion on AI, hearing warnings from Hinton and a call to speed up from Mistral",
+      "summary": "AI was on the agenda of an EU leaders' meeting for the first time in Dublin on Friday, with Nobel laureate Geoffrey Hinton and Mistral CEO Arthur Mensch as guests. Hinton warned leaders of extreme risks from advanced AI, while Mistral urged Europe to press ahead. Commission President Ursula von der Leyen spoke of 'runaway AI' risks and floated pharmaceutical-style testing for frontier models, adding that the AI Act once criticised for stifling innovation now draws praise. Taoiseach Micheál Martin said AI should serve rather than ruin humanity, while Parliament President Roberta Metsola rejected claims Europe has lost the AI race; Estonia and Finland called for EU arrangements to respond to serious AI incidents. The discussion was partly overshadowed by the row over Ukraine talks representation.",
+      "why": "The debate signals how leaders will balance competitiveness against regulation as the Commission's digital 'omnibus' proposes to loosen parts of the AI Act and GDPR.",
+      "left": {
+        "angle": "Progressive tech-policy coverage ahead of the meeting focused on security and governance rather than industry, warning that the simplification drive tilts EU digital rules toward business and that civil society was largely excluded. We found no left-leaning newspaper's take on the outcome.",
+        "outlets": [
+          {
+            "name": "Tech Policy Press",
+            "lean": "Tech-accountability outlet",
+            "url": "https://techpolicy.press/europes-ai-future-and-security-challenges-take-center-stage-at-dublin-summit",
+            "note": "Pre-summit analysis (12 November) stressing hybrid threats and criticising the deregulatory tilt."
+          }
+        ]
+      },
+      "right": {
+        "angle": "We found no right-leaning outlet's take on the AI discussion in the last 36 hours; right-leaning summit coverage focused on Ukraine representation and migration.",
+        "outlets": []
+      },
+      "differ": "Only one side's take could be found: tech-accountability coverage worries about deregulation, while official messaging stresses Europe as the global standard-setter.",
+      "sources": [
+        {
+          "name": "RTÉ",
+          "url": "https://www.rte.ie/news/ireland/2026/1113/1599186-ai-taoiseach-eu/"
+        },
+        {
+          "name": "Euronews",
+          "url": "https://www.euronews.com/2026/11/13/eu-leaders-discuss-how-to-boost-europes-ai-industry-while-tackling-risks-at-dublin-summit"
+        },
+        {
+          "name": "Euronews",
+          "url": "https://www.euronews.com/2026/11/13/ukraine-envoy-row-hijacks-eu-leaders-first-ai-summit"
+        }
+      ]
+    }
+  ],
+  "oneSided": {
+    "left": [],
+    "right": []
+  }
+}
