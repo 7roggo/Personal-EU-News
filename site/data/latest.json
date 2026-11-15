@@ -1,203 +1,189 @@
 {
-  "date": "2026-11-14",
-  "generatedAt": "2026-11-14T05:40:06Z",
+  "date": "2026-11-15",
+  "generatedAt": "2026-11-15T05:40:16Z",
   "mode": "written",
-  "topline": "Four stories today: EU leaders name a five-country team plus Brussels to speak for Europe in Ukraine talks, 41 leaders sign a Dublin declaration on returns as the EU–Nigeria readmission deal and a Danish-led 'return hub' advance, Spain's 29 November election campaign opens, and EU leaders hold their first summit session on AI.",
+  "topline": "Four stories today: France's fifth Saturday of cost-of-living and police-bill protests, Paris and Berlin closing in on a deal to make Spain's Pablo Hernández de Cos ECB president, ExxonMobil's treaty challenge to the EU's carbon-storage mandate, and Hungary's near-€10bn recovery-fund release under Péter Magyar.",
   "stories": [
     {
-      "topic": "Ukraine · Peace talks",
-      "title": "EU leaders pick France, Germany, the UK, Italy and Poland plus Brussels to represent Europe in Ukraine talks",
-      "summary": "At their informal meeting in Dublin on Friday, EU leaders agreed that Europe will be represented in US-brokered Ukraine peace talks by an 'E5' of France, Germany, the UK, Italy and Poland, together with the European Council and Commission, rather than by a single envoy. Italy's Giorgia Meloni had pushed for one European negotiator, arguing that too many overlapping formats were weakening Europe's voice. EU foreign-policy chief Kaja Kallas had argued for the role herself, but Council President António Costa cited the treaties and the leaders opted to widen the existing E3 group. Costa said the EU will lead on Ukraine's reconstruction and European future, while security guarantees stay with the Coalition of the Willing in coordination with NATO. The Kremlin has played down any prospect of face-to-face talks with Europeans.",
-      "why": "The decision settles, for now, who speaks for Europe as Washington pushes a deal, but it formalises a group of national capitals rather than an EU institution, leaving the Union's own role and Moscow's acceptance of it unresolved.",
+      "topic": "France · Protests",
+      "title": "France holds a fifth straight Saturday of protests over living costs and a police self-defence bill",
+      "summary": "Yellow vest, student, education and child-protection groups marched across France on 14 November, the fifth consecutive Saturday of nationwide protests. The interior ministry counted about 106,000 people, including 24,000 in Paris, down from roughly 146,000 a week earlier; organisers claimed 200,000. Police used tear gas in Lyon and Marseille, where a protest ban was defied by about 3,500 people, and some 70,000 police and gendarmes were deployed nationwide. Grievances include prices, school funding and a bill giving officers who fire their weapons a presumption of self-defence, backed by Marine Le Pen's party and due in the Senate on 19 November. Unions have called a strike for Tuesday after rejecting a 0.6% minimum-wage rise.",
+      "why": "Prolonged unrest in the eurozone's second-largest economy complicates France's 2027 budget under the EU excessive-deficit procedure and shapes the run-up to next year's presidential election.",
       "left": {
-        "angle": "Left-leaning coverage leads with European disunity and the risk of being sidelined. It stresses that the leaders chose a compromise instead of a single envoy, quotes diplomats calling the arrangement less than ideal, and gives prominence to Kremlin mockery of Europe's divisions.",
+        "angle": "Left-leaning coverage centres on the breadth of grievances and on alleged police violence, giving protesters' voices most of the space. It notes the lower turnout but stresses that rallies were mostly calm and that the police bill is a key new driver of anger.",
+        "outlets": [
+          {
+            "name": "Al Jazeera",
+            "lean": "Lean left",
+            "url": "https://www.aljazeera.com/news/2026/11/14/more-than-100000-rally-across-france-in-new-yellow-vest-protests",
+            "note": "Leads with the 100,000-plus turnout and lists affordability, policing and schools as the core complaints."
+          }
+        ]
+      },
+      "right": {
+        "angle": "Right-leaning outlets lead with security: intelligence warnings of a radical bloc, the scale of the police deployment and arrests. They stress declining turnout and violence against officers, and give less room to the protesters' complaints about policing.",
+        "outlets": [
+          {
+            "name": "Le JDD",
+            "lean": "Right",
+            "url": "https://www.lejdd.fr/Societe/info-jdd-manifestations-a-paris-une-note-confidentielle-du-renseignement-alerte-sur-les-risques-de-violences-samedi-188538",
+            "note": "Pre-march scoop on a confidential police-intelligence note warning of 300–600 radicals and an anti-police tone."
+          },
+          {
+            "name": "Europe 1",
+            "lean": "Right",
+            "url": "https://www.europe1.fr/societe/manifestations-du-14-novembre-70000-policiers-et-gendarmes-mobilises-samedi-dans-toute-la-france-annonce-laurent-nunez-1231034",
+            "note": "Framed the day around the interior minister's 70,000-strong security deployment."
+          },
+          {
+            "name": "Brussels Signal",
+            "lean": "Right",
+            "url": "https://brusselssignal.eu/2026/11/french-protests-lose-momentum-as-prosecutors-probe-molotov-attack-on-gendarmes/",
+            "note": "Earlier coverage (2 November): falling turnout and a Molotov attack on a gendarme, tied to France's EU deficit constraints."
+          }
+        ]
+      },
+      "differ": "The left frames the protests as social anger meeting heavy-handed policing; the right frames them as a fading movement whose main story is public order.",
+      "sources": [
+        {
+          "name": "Euronews",
+          "url": "https://www.euronews.com/2026/11/14/france-sees-fifth-consecutive-saturday-of-nationwide-protests"
+        },
+        {
+          "name": "The Local France (AFP)",
+          "url": "https://www.thelocal.fr/20261114/in-pictures-french-protesters-chant-against-inflation-and-police"
+        }
+      ]
+    },
+    {
+      "topic": "Economy · ECB leadership",
+      "title": "France and Germany move toward backing Spain's Hernández de Cos to succeed Lagarde at the ECB",
+      "summary": "Spain's Pablo Hernández de Cos, head of the Bank for International Settlements and former Bank of Spain governor, has emerged as front-runner to succeed Christine Lagarde, who is leaving the ECB early. The Netherlands' Klaas Knot is the other confirmed candidate. Speaking at the Dublin summit on 13 November, German Chancellor Friedrich Merz said agreement was in sight but not closed and that he would present Germany's proposal next week after consulting his SPD coalition partners. Press reports describe a package in which Spain takes the presidency, Germany the chief economist post and France keeps market operations. Euro-area leaders aim to settle the choice around their 26 November meeting, with a formal decision by year-end.",
+      "why": "The next ECB president will steer monetary policy for 20 eurozone countries for eight years, and the package deal shows how the big capitals divide top EU jobs.",
+      "left": {
+        "angle": "No distinct left-leaning take on this round of talks was found in today's searches; coverage so far is mostly from straight-news and business outlets.",
+        "outlets": []
+      },
+      "right": {
+        "angle": "Centre-right business coverage in Germany focuses on Berlin's leverage: Merz's timing, his need to square the SPD, and securing a heavyweight German seat such as chief economist rather than the presidency itself.",
+        "outlets": [
+          {
+            "name": "Handelsblatt",
+            "lean": "Centre-right",
+            "url": "https://www.handelsblatt.com/finanzen/geldpolitik/notenbank-merz-will-deutschen-vorschlag-fuer-posten-in-ezb-fuehrung-vorlegen/100269750.html",
+            "note": "Leads with Merz promising a German proposal next week and stresses the deal is not yet done."
+          }
+        ]
+      },
+      "differ": "With no clear left-leaning take, the contrast is limited; German business coverage treats the race as a negotiation over posts, while Spanish media emphasise the chance of a Spanish president.",
+      "sources": [
+        {
+          "name": "Euronews",
+          "url": "https://www.inkl.com/news/france-and-germany-near-deal-on-de-cos-for-ecb-top-job-as-eu-confirms-two-candidates"
+        },
+        {
+          "name": "AFP via France 24",
+          "url": "https://www.france24.com/en/live-news/20261113-germany-france-in-intensive-talks-on-new-ecb-chief"
+        },
+        {
+          "name": "Bloomberg",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-12/france-spain-pablo-hernandez-de-cos-european-central-bank-presidency-lagarde-ecb"
+        }
+      ]
+    },
+    {
+      "topic": "Climate · Energy Charter Treaty",
+      "title": "ExxonMobil launches treaty arbitration against the EU's carbon-storage obligation",
+      "summary": "Three ExxonMobil entities have filed a notice of arbitration against the EU under the Energy Charter Treaty, challenging the Net-Zero Industry Act's requirement that major oil and gas producers help build 50 million tonnes a year of CO2 injection capacity by 2030. According to a Commission document reported by Euronews, the companies argue the target is unachievable because of permitting delays and costs, and allege breaches of fair treatment, non-discrimination and expropriation protections. They plan to seek interim measures suspending the obligation for their subsidiaries. The EU and UK have left the treaty, but its 20-year sunset clause still protects existing investments. The Commission declined to comment on an ongoing case.",
+      "why": "The case tests whether a flagship EU climate-industry law can be slowed by investor-state arbitration, and revives debate over neutralising the Energy Charter Treaty's sunset clause.",
+      "left": {
+        "angle": "Left-leaning and campaign coverage folds the case into a wider critique of investor-state dispute settlement, leading with the hundreds of billions fossil-fuel firms have claimed from governments and calling for such treaties to be scrapped.",
+        "outlets": [
+          {
+            "name": "Common Dreams",
+            "lean": "Left",
+            "url": "https://www.commondreams.org/news/fossil-fuel-companies-suing",
+            "note": "Cites ExxonMobil's EU claim as an example of fossil-fuel firms using ISDS against climate rules, timed to COP31."
+          }
+        ]
+      },
+      "right": {
+        "angle": "No right-leaning take on the ExxonMobil filing was found in today's searches.",
+        "outlets": []
+      },
+      "differ": "Only one side has engaged so far: the left sees corporate abuse of a discredited treaty, while industry's case that the target is unrealistic is aired mainly in trade and straight-news reporting.",
+      "sources": [
+        {
+          "name": "Euronews",
+          "url": "https://www.euronews.com/2026/11/13/exxonmobil-sues-eu-over-rules-forcing-oil-giants-to-invest-in-carbon-storage"
+        },
+        {
+          "name": "Bellona EU",
+          "url": "https://eu.bellona.org/2026/11/12/exxonmobil-escalates-legal-challenge-to-flagship-eu-law-intended-to-drive-decarbonisation-and-clean-technologies/"
+        }
+      ]
+    },
+    {
+      "topic": "Rule of law · Hungary",
+      "title": "Commission prepares to release almost €10bn in recovery funds to Hungary",
+      "summary": "The European Commission is set to approve nearly all of Hungary's roughly €10bn Recovery and Resilience Facility allocation, officials told Euronews, with an assessment possible as soon as next week and payments due to be authorised by the end of November. The money was frozen under Viktor Orbán; Péter Magyar's government, elected in April, agreed a €16.4bn unfreezing deal with Ursula von der Leyen in May and says it has met 27 'super milestones' after amending more than 100 laws. Hungary's revised plan shifted €3.6bn into capital for a state development bank and a state rolling-stock company. Member states must still sign off, and €2.2bn tied to academic freedom and LGBTI conditions remains blocked.",
+      "why": "It would be the clearest sign yet that the EU's conditionality tools can be reversed after reforms, and a test of how strictly Brussels checks milestones under deadline pressure.",
+      "left": {
+        "angle": "No fresh left-leaning take on this week's reports was found. Earlier centre-left coverage framed the unfreezing as a reward for Magyar's anti-corruption reforms and a credibility test for the EU.",
         "outlets": [
           {
             "name": "EUobserver",
             "lean": "Centre-left",
-            "url": "https://euobserver.com/248871/eu-leaders-hand-ukraine-peace-talks-to-france-germany-uk-italy-poland-plus-brussels-instead-of-a-single-envoy/",
-            "note": "Frames the outcome as a fallback 'instead of a single envoy' and cites a diplomat calling it 'not ideal'."
+            "url": "https://euobserver.com/239148/eu-moves-to-unlock-e4-2bn-for-hungary-as-magyar-strengthens-rule-of-law-and-corruption-rules/",
+            "note": "Earlier coverage (23 September) of the €4.2bn cohesion release, stressing reform progress."
+          }
+        ]
+      },
+      "right": {
+        "angle": "Conservative outlets close to Hungary's former governing camp stress conditionality and tight deadlines, and question whether the new government's record matches Brussels' praise; one headline says approval came despite fresh rule-of-law concerns.",
+        "outlets": [
+          {
+            "name": "The European Conservative",
+            "lean": "Right",
+            "url": "https://europeanconservative.com/articles/news/eu-approves-e10-billion-for-hungary-despite-fresh-rule-of-law-concerns/",
+            "note": "Headline frames EU approval as coming despite new rule-of-law worries (page could not be read)."
           },
           {
-            "name": "Al Jazeera",
-            "lean": "Lean left",
-            "url": "https://www.aljazeera.com/news/2026/11/13/europe-seeks-seat-at-ukraine-peace-talks-but-lacks-unified-voice",
-            "note": "Stresses that Europe still lacks a unified voice and that Moscow refuses to seat EU leaders."
-          }
-        ]
-      },
-      "right": {
-        "angle": "Right-leaning Italian coverage presents the summit as a show of European unity and an Italian success. It leads with Italy winning a seat in the negotiating group and credits Meloni's government with setting the summit's direction on both Ukraine and migration.",
-        "outlets": [
-          {
-            "name": "Il Giornale",
+            "name": "Hungarian Conservative",
             "lean": "Right",
-            "url": "https://www.ilgiornale.it/news/europa/europa-compatta-su-ucraina-e-immigrazione-al-vertice-di-dublino-e-litalia-sara-nel-team-dei-negoziati/",
-            "note": "Calls Europe 'compatta' and quotes a minister hailing a double victory for Italy."
+            "url": "https://www.hungarianconservative.com/articles/current/hungary-recovery-plan-rrf-funding-approve-ecofin/",
+            "note": "Earlier coverage (10 July) of ECOFIN approval, highlighting strict conditions and Fidesz criticism of the new government."
           }
         ]
       },
-      "differ": "The left-leaning outlets read the compromise as evidence of fragmentation; the right-leaning paper reads the same deal as unity achieved on Rome's terms.",
+      "differ": "Centre-left coverage treats the money as earned by reform; right-leaning coverage questions whether Brussels is applying the same standards to Magyar that it applied to Orbán.",
       "sources": [
         {
           "name": "Euronews",
-          "url": "https://www.euronews.com/2026/11/13/eu-leaders-bring-italy-and-poland-into-ukraine-peace-talks-team-as-kallas-fights-for-spot"
-        },
-        {
-          "name": "RTÉ",
-          "url": "https://www.rte.ie/news/ireland/2026/1113/1599056-eu-leaders-dublin/"
-        },
-        {
-          "name": "France 24",
-          "url": "https://france24.com/en/europe/20261113-europe-to-send-diplomats-from-across-the-continent-to-ukraine-peace-talks"
-        },
-        {
-          "name": "PBS NewsHour (AP)",
-          "url": "https://www.pbs.org/newshour/world/europe-to-send-a-diplomat-team-to-ukraine-talks-as-leaders-push-for-a-voice"
-        }
-      ]
-    },
-    {
-      "topic": "Migration · Returns",
-      "title": "41 European leaders back tougher returns as EU–Nigeria deal is signed and a Danish-led 'return hub' nears",
-      "summary": "At the European Political Community summit in Dublin, 41 leaders endorsed a joint statement promoted by Italy, the UK and Denmark committing to sustain a reduction in irregular migration, with priorities including border surveillance, work with origin and transit countries, tackling migration-related disinformation and more effective returns. Spain's Pedro Sánchez, who skipped the summit to open his election campaign, is not among the signatories. Separately, the EU and Nigeria signed a readmission agreement in Abuja on 10 November after about a decade of talks; it still needs approval from the European Parliament and the Council. Commissioner Magnus Brunner said the EU return rate rose from 19% in 2023 to 38% in the first half of 2026. Denmark's Mette Frederiksen said a deal on a return centre outside Europe is close, with Rwanda reported as the frontrunner and an announcement possible at a Vienna migration conference on 16–17 November.",
-      "why": "Together these moves show the EU's migration policy shifting decisively toward returns and partnerships with third countries, the approach enabled by the new Return Regulation, while the legal and human-rights questions around offshore hubs remain open.",
-      "left": {
-        "angle": "We found no left-leaning outlet's take on the Dublin declaration or the Nigeria deal in the last 36 hours. Earlier left-leaning coverage of return hubs focused on rights groups' warnings that offshore centres could become legal limbo with little oversight; the straight-news Euronews explainer on Nigeria, which questions what Abuja received in return, is listed under sources.",
-        "outlets": [
-          {
-            "name": "Al Jazeera",
-            "lean": "Lean left",
-            "url": "https://www.aljazeera.com/news/2026/9/4/five-eu-nations-inch-towards-deal-on-migrant-return-hubs-by-2027",
-            "note": "Earlier coverage (September 2026) of the five-country return-hub plan and its critics."
-          }
-        ]
-      },
-      "right": {
-        "angle": "Right-leaning coverage frames the declaration as the triumph of a hard line on irregular migration. Italian coverage credits Meloni with setting the European agenda, while Spanish conservative coverage leads with Sánchez's absence, casting Spain as isolated and claiming the text passed unanimously only because he was not there.",
-        "outlets": [
-          {
-            "name": "Il Giornale",
-            "lean": "Right",
-            "url": "https://www.ilgiornale.it/news/europa/europa-compatta-su-ucraina-e-immigrazione-al-vertice-di-dublino-e-litalia-sara-nel-team-dei-negoziati/",
-            "note": "Presents the 41-country declaration as Italy's initiative and 'la linea Meloni' prevailing."
-          },
-          {
-            "name": "El Debate",
-            "lean": "Right",
-            "url": "https://www.eldebate.com/espana/20261113/declaracion-contra-inmigracion-irregular-aprobo-unanimidad-gracias-ausencia-sanchez_480658.html",
-            "note": "Leads with Sánchez's absence and portrays Spain as the odd one out on returns."
-          }
-        ]
-      },
-      "differ": "Right-leaning outlets celebrate a hardening consensus and use it to score domestic points; with no fresh left-leaning take, the critical angle today comes mainly from straight-news questions about what partner countries get and how hubs would be overseen.",
-      "sources": [
-        {
-          "name": "GOV.UK – Joint Leaders Statement",
-          "url": "https://www.gov.uk/government/news/joint-leaders-statement-on-migration-at-the-european-political-community-summit"
-        },
-        {
-          "name": "European Commission – DG HOME",
-          "url": "https://home-affairs.ec.europa.eu/news/eu-and-nigeria-sign-readmission-agreement-furthering-cooperation-migration-and-security-2026-11-11_en"
+          "url": "https://www.euronews.com/2026/11/12/commission-set-to-approve-hungarys-10bn-in-post-pandemic-recovery-fund-next-week"
         },
         {
           "name": "Euronews",
-          "url": "https://www.euronews.com/2026/11/13/the-eu-sealed-a-migration-deal-with-nigeria-but-what-did-abuja-get-in-return"
-        },
-        {
-          "name": "The Local Denmark (AFP)",
-          "url": "https://www.thelocal.dk/20261112/denmark-to-reveal-european-migrant-return-hub-next-week"
-        },
-        {
-          "name": "The Copenhagen Post (Ritzau)",
-          "url": "https://cphpost.dk/2026-11-12/news/round-up/denmark-italy-and-uk-push-for-stricter-european-migration-policies/"
-        }
-      ]
-    },
-    {
-      "topic": "Spain · General election",
-      "title": "Spain's campaign for the 29 November snap election opens with the right ahead in most polls",
-      "summary": "The official two-week campaign for Spain's 29 November general election began at midnight on Thursday. Pedro Sánchez launched the Socialists' campaign in Seville, calling for historic turnout and an 'epic' comeback, while PP leader Alberto Núñez Feijóo opened in Badalona promising to take Spain from 'decline to reconstruction' and to audit public spending since 2018. Vox's Santiago Abascal campaigned on 'national priority', immigration and deregulation. Most private polls, including those for El País, El Mundo and El Español, give the PP and Vox a combined majority of roughly 190–200 of 350 seats, though the state pollster CIS puts the PSOE ahead with 134–143 seats. The campaign follows a deadly rail crash at Urda, the defeat of a housing decree and corruption cases touching Sánchez's circle.",
-      "why": "A PP–Vox government in Madrid would move one of the EU's largest member states, and one of its most pro-migration-regularisation governments, sharply to the right, with knock-on effects on EU votes on migration, climate and the budget.",
-      "left": {
-        "angle": "Left-leaning coverage frames the race as a fight between two blocs, giving the most space to the PSOE's call for a mass mobilisation and to Ada Colau's Frente Amplio and Podemos efforts to hold their ground. It stresses the hostility of the right's anti-Sánchez message and highlights the Socialists' internal polling that rules out a right-wing majority.",
-        "outlets": [
-          {
-            "name": "elDiario.es",
-            "lean": "Left",
-            "url": "https://www.eldiario.es/politica/cuenta-29n-izquierda-apela-epica-remontar-derecha-sube-tono-antisanchista_1_13660189.html",
-            "note": "Contrasts the left's 'épica' comeback appeal with the right's sharpening anti-Sánchez tone."
-          }
-        ]
-      },
-      "right": {
-        "angle": "Right-leaning coverage leads with the call to end 'sanchismo', foregrounding corruption investigations, the rail accidents, housing costs and immigration. It relays Feijóo's promised audit and Vox's programme largely in the candidates' own terms, and treats a right-wing majority as the likely outcome.",
-        "outlets": [
-          {
-            "name": "El Independiente",
-            "lean": "Centre-right",
-            "url": "https://www.elindependiente.com/espana/2026/11/12/feijoo-y-abascal-se-adentran-en-una-campana-electoral-decisiva-y-llaman-a-movilizarse-para-dejar-atras-el-sanchismo/",
-            "note": "Leads with Feijóo and Abascal rallying voters to leave 'sanchismo' behind."
-          },
-          {
-            "name": "The Spectator",
-            "lean": "Right",
-            "url": "https://spectator.com/article/it-will-be-hard-for-sanchez-to-avoid-defeat-in-spains-election/?edition=us",
-            "note": "Earlier coverage (5 October): argues Sánchez is heading for defeat amid scandals and Ceuta."
-          }
-        ]
-      },
-      "differ": "The left-leaning paper centres the PSOE's comeback narrative and the CIS outlier; right-leaning outlets centre scandal and the expected change of government.",
-      "sources": [
-        {
-          "name": "Euronews (Spanish)",
-          "url": "https://es.euronews.com/2026/11/12/arranca-campana-elecciones-generales-29n-espana"
-        },
-        {
-          "name": "Reuters (via Yahoo News)",
-          "url": "https://www.yahoo.com/news/politics/articles/spains-well-ahead-polls-november-124042634.html"
-        }
-      ]
-    },
-    {
-      "topic": "Tech · Artificial intelligence",
-      "title": "EU leaders hold their first summit discussion on AI, hearing warnings from Hinton and a call to speed up from Mistral",
-      "summary": "AI was on the agenda of an EU leaders' meeting for the first time in Dublin on Friday, with Nobel laureate Geoffrey Hinton and Mistral CEO Arthur Mensch as guests. Hinton warned leaders of extreme risks from advanced AI, while Mistral urged Europe to press ahead. Commission President Ursula von der Leyen spoke of 'runaway AI' risks and floated pharmaceutical-style testing for frontier models, adding that the AI Act once criticised for stifling innovation now draws praise. Taoiseach Micheál Martin said AI should serve rather than ruin humanity, while Parliament President Roberta Metsola rejected claims Europe has lost the AI race; Estonia and Finland called for EU arrangements to respond to serious AI incidents. The discussion was partly overshadowed by the row over Ukraine talks representation.",
-      "why": "The debate signals how leaders will balance competitiveness against regulation as the Commission's digital 'omnibus' proposes to loosen parts of the AI Act and GDPR.",
-      "left": {
-        "angle": "Progressive tech-policy coverage ahead of the meeting focused on security and governance rather than industry, warning that the simplification drive tilts EU digital rules toward business and that civil society was largely excluded. We found no left-leaning newspaper's take on the outcome.",
-        "outlets": [
-          {
-            "name": "Tech Policy Press",
-            "lean": "Tech-accountability outlet",
-            "url": "https://techpolicy.press/europes-ai-future-and-security-challenges-take-center-stage-at-dublin-summit",
-            "note": "Pre-summit analysis (12 November) stressing hybrid threats and criticising the deregulatory tilt."
-          }
-        ]
-      },
-      "right": {
-        "angle": "We found no right-leaning outlet's take on the AI discussion in the last 36 hours; right-leaning summit coverage focused on Ukraine representation and migration.",
-        "outlets": []
-      },
-      "differ": "Only one side's take could be found: tech-accountability coverage worries about deregulation, while official messaging stresses Europe as the global standard-setter.",
-      "sources": [
-        {
-          "name": "RTÉ",
-          "url": "https://www.rte.ie/news/ireland/2026/1113/1599186-ai-taoiseach-eu/"
-        },
-        {
-          "name": "Euronews",
-          "url": "https://www.euronews.com/2026/11/13/eu-leaders-discuss-how-to-boost-europes-ai-industry-while-tackling-risks-at-dublin-summit"
-        },
-        {
-          "name": "Euronews",
-          "url": "https://www.euronews.com/2026/11/13/ukraine-envoy-row-hijacks-eu-leaders-first-ai-summit"
+          "url": "https://www.euronews.com/my-europe/2026/06/19/eu-commission-approves-hungarys-revised-10bn-recovery-plan-at-magyars-first-eu-summit"
         }
       ]
     }
   ],
   "oneSided": {
-    "left": [],
+    "left": [
+      {
+        "title": "Ukraine is running out of options, and Russia knows it",
+        "outlet": "Al Jazeera",
+        "lean": "Lean left",
+        "url": "https://www.aljazeera.com/opinions/2026/11/14/ukraine-is-running-out-of-options-and-russia-knows-it"
+      },
+      {
+        "title": "Europe and Ukraine get a boost in peace talks, but Putin is playing for time",
+        "outlet": "CNN",
+        "lean": "Lean left",
+        "url": "https://www.cnn.com/2026/11/13/europe/russia-ukraine-us-europe-peace-talks-putin-intl"
+      }
+    ],
     "right": []
   }
 }
