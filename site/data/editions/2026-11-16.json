@@ -1,0 +1,169 @@
+{
+  "date": "2026-11-16",
+  "generatedAt": "2026-11-16T05:43:10Z",
+  "mode": "written",
+  "topline": "Three stories today: a reported Russian demand list for Ukraine talks that targets Europe's own security, Estonia shutting its Russian border after a foiled sabotage plot as EU ships board a shadow-fleet tanker, and a record single day of migrant arrivals in the Canary Islands.",
+  "stories": [
+    {
+      "topic": "Ukraine · Peace talks",
+      "title": "Europe gets a seat at Ukraine talks as reported Russian terms reach beyond Ukraine",
+      "summary": "US envoys Jared Kushner and Steve Witkoff said last week that European governments would join the next round of US-mediated talks between Russia and Ukraine, following a meeting in Abu Dhabi on 10 November. EU leaders agreed on 13 November that the UK, France, Germany, Italy and Poland would represent Europe. The Telegraph reported on 14 November that a Russian position paper for the talks asks Britain to stop extending its nuclear deterrent to European allies, NATO to pull back from Eastern Europe and the Baltics, and Finland to leave the alliance, alongside an end to Western arms supplies and Ukrainian NATO membership. The Kremlin has not publicly confirmed the document; London and Helsinki rejected the reported demands as not open to negotiation.",
+      "why": "If Moscow is trying to fold NATO's eastern posture into a Ukraine deal, Europe's presence at the table becomes a test of whether it can keep its own security arrangements off the negotiating agenda.",
+      "left": {
+        "angle": "Centre-left US coverage focused on the diplomacy itself: the American push to bring Europeans in and Moscow's non-committal response. The emphasis is on uncertainty over whether Russia will accept a wider format, rather than on the content of any Russian demands.",
+        "outlets": [
+          {
+            "name": "CNN",
+            "lean": "Lean left",
+            "url": "https://www.cnn.com/2026/11/12/politics/ukraine-witkoff-kushner-putin-peace-talks-intl",
+            "note": "Leads with Russia being evasive after Washington announced Europe would join the next round."
+          }
+        ]
+      },
+      "right": {
+        "angle": "Right-leaning British coverage broke and led with the reported Russian document, treating it as a direct challenge to the UK's nuclear role in Europe. It stresses what Moscow wants from NATO and Britain rather than the mechanics of the talks, and foregrounds firm rejections from London and Helsinki.",
+        "outlets": [
+          {
+            "name": "The Telegraph",
+            "lean": "Centre-right",
+            "url": "https://www.telegraph.co.uk/world-news/2026/11/14/putin-demands-britain-stop-defending-europe-nuclear-weapons/",
+            "note": "Reports a Russian paper demanding Britain stop shielding European allies with its nuclear weapons."
+          }
+        ]
+      },
+      "differ": "The left-leaning take frames this as a story about process and whether Russia will engage; the right-leaning take frames it as a story about Russian aims that threaten European, and specifically British, security.",
+      "sources": [
+        {
+          "name": "Euromaidan Press (relaying The Telegraph)",
+          "url": "https://euromaidanpress.com/2026/11/14/russia-demands-britain-stop-shielding-the-rest-of-europe-with-its-nuclear-deterrent-as-a-price-for-peace-in-ukraine-telegraph/"
+        },
+        {
+          "name": "UPI",
+          "url": "https://www.upi.com/Top_News/World-News/2026/11/13/Ukraine-Russia-peace-talk-widen/1611794575888/"
+        },
+        {
+          "name": "CBC",
+          "url": "https://www.cbc.ca/news/world/european-security-zelenskyy-putin-9.7422273"
+        }
+      ]
+    },
+    {
+      "topic": "Security · Russia hybrid threats",
+      "title": "Estonia to close all Russian border crossings after foiled attack on drone maker; EU force boards shadow-fleet tanker",
+      "summary": "Estonia will close its three crossings with Russia, at Narva, Koidula and Luhamaa, from 1 December after what authorities say was a GRU-ordered attempt to set fire to drone maker Threod Systems near Tallinn early on 14 November. Eight suspects were detained and prosecutors asked for five to be held; no one was hurt and damage was minor. Prime Minister Kristen Michal called it part of Russia's hybrid war against Europe, while Moscow dismissed the accusation as Russophobia. Separately, EU foreign policy chief Kaja Kallas said forces from the EU's Operation Irini boarded the tanker MV Midag in the Mediterranean on 13 November and found it was sailing under a false flag; EU foreign ministers are due to discuss further sanctions on the shadow fleet.",
+      "why": "Both moves show the EU and its frontline states shifting from protest to physical countermeasures against Russian sabotage and sanctions evasion, which raises the stakes for retaliation and for EU unity on enforcement.",
+      "left": {
+        "angle": "Left-leaning outlets reported the closure largely through the Estonian government's account, stressing the GRU attribution and the wider pattern of attacks on defence firms. The Guardian included the Kremlin's denial at the end; taz focused on Tallinn's message of resolve and its coordination with Finland, Latvia and Lithuania.",
+        "outlets": [
+          {
+            "name": "The Guardian (via The Irish Times)",
+            "lean": "Centre-left",
+            "url": "https://www.irishtimes.com/wires/guardian/2026/11/15/estonia-to-close-all-border-crossings-with-russia-after-attack-on-drone-maker/",
+            "note": "Leads with the GRU attribution and notes the earlier arson at Milrem Robotics."
+          },
+          {
+            "name": "taz",
+            "lean": "Left",
+            "url": "https://taz.de/Sabotageversuch-in-Estland/!6230290/",
+            "note": "Frames the closure as a clear signal to the Kremlin and notes the suspects live in Latvia."
+          }
+        ]
+      },
+      "right": {
+        "angle": "No distinct right-leaning take on the Estonian closure or the tanker boarding turned up in the last day; coverage found was mostly wire-based. Right-leaning outlets have previously framed shadow-fleet seizures as overdue enforcement (earlier coverage linked below).",
+        "outlets": [
+          {
+            "name": "Brussels Signal",
+            "lean": "Right",
+            "url": "https://brusselssignal.eu/2026/03/belgium-seizes-russian-shadow-fleet-tanker/",
+            "note": "Earlier coverage (March 2026): Belgium's seizure of a shadow-fleet tanker."
+          }
+        ]
+      },
+      "differ": "Left-leaning coverage centred on Estonia's evidence and resolve; a fresh right-leaning framing was not found, so no direct contrast can be drawn today.",
+      "sources": [
+        {
+          "name": "Euronews",
+          "url": "https://www.euronews.com/2026/11/15/eu-forces-board-suspected-russian-shadow-fleet-tanker-in-mediterranean-kallas-says"
+        },
+        {
+          "name": "Kyiv Independent",
+          "url": "https://kyivindependent.com/estonia-to-close-border-with-russia-after-moscow-linked-sabotage-attempt-on-drone-maker/"
+        },
+        {
+          "name": "Newsweek",
+          "url": "https://www.newsweek.com/nato-member-estonia-to-shut-russia-border-after-sabotage-attack-12717506"
+        },
+        {
+          "name": "Estonian Ministry of Foreign Affairs",
+          "url": "https://vm.ee/en/news/foreign-minister-tsahkna-estonia-close-road-border-crossings-russia"
+        }
+      ]
+    },
+    {
+      "topic": "Migration · Atlantic route",
+      "title": "Canary Islands record nearly 1,500 migrant arrivals in a single day",
+      "summary": "Spain's maritime rescue service and Guardia Civil brought 1,488 people ashore from 14 boats on Saturday 14 November, the highest one-day total on the Atlantic route, beating the 1,461 recorded in November 2020; later landings pushed the day's count close to 1,580 in some Spanish tallies. Twelve of the boats reached El Hierro, an island of roughly 11,000 people that has declared an emergency after weeks of heavy arrivals. Most passengers came from Senegal, Gambia and Guinea, some after crossings of up to a week. Despite the autumn surge, government figures show arrivals from January to October were still 5.5% below the same period last year, and Canary Islands President Fernando Clavijo has asked Brussels for solidarity support.",
+      "why": "The surge is an early test of the solidarity mechanism in the EU's new migration pact and of the bloc's deals with West African transit states.",
+      "left": {
+        "angle": "Left-leaning coverage reported the arrivals mainly as a rescue and humanitarian story, tallying boats and people and noting where they came from. It gave little space to domestic political blame.",
+        "outlets": [
+          {
+            "name": "Al Jazeera",
+            "lean": "Lean left",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/nearly-1500-migrants-reach-spains-canary-islands-in-one-day",
+            "note": "Short report on the record day, highlighting arrivals from Senegal, Gambia and Guinea."
+          },
+          {
+            "name": "elDiario.es",
+            "lean": "Left",
+            "url": "https://www.eldiario.es/canariasahora/migraciones/semana-culmina-llegada-canarias-once-cayucos-1-100-personas-bordo_1_13648793.html",
+            "note": "Running account of the weekend's boat landings and people aboard."
+          }
+        ]
+      },
+      "right": {
+        "angle": "Right-leaning outlets framed the record as a policy failure, pointing at Spain's government and its outreach to Senegal, and at pull factors. They stress that Spain is bucking a wider EU decline and that the islands are overwhelmed, while giving less weight to the year-to-date fall.",
+        "outlets": [
+          {
+            "name": "El Español",
+            "lean": "Centre-right",
+            "url": "https://www.elespanol.com/espana/politica/20261116/canarias-bate-record-migrantes-cayucos-fracaso-viaje-marlaska-medio-millon-senegal/1003744459205_0.html",
+            "note": "Ties the record to what it calls the failure of Interior Minister Marlaska's Senegal trip."
+          },
+          {
+            "name": "The Spectator",
+            "lean": "Right",
+            "url": "https://spectator.com/article/is-this-to-blame-for-europes-latest-migrant-crisis/",
+            "note": "Opinion: argues smugglers are timing departures around Spanish and European politics."
+          },
+          {
+            "name": "Brussels Signal",
+            "lean": "Right",
+            "url": "https://brusselssignal.eu/2026/11/illegal-migrant-arrivals-in-canary-islands-overtake-last-years-total/",
+            "note": "Earlier coverage (9 Nov): arrivals overtake 2025's full-year total, per La Gaceta figures."
+          }
+        ]
+      },
+      "differ": "The left-leaning framing is about people at sea and rescue capacity; the right-leaning framing is about government failure and the need for deterrence, with the two sides even citing different headline numbers for the year.",
+      "sources": [
+        {
+          "name": "Asharq Al-Awsat",
+          "url": "https://english.aawsat.com/world/5341374-nearly-1500-migrants-arrive-canary-islands-one-day"
+        },
+        {
+          "name": "TimesLIVE",
+          "url": "https://www.timeslive.co.za/news/world/2026-11-15-nearly-1500-migrants-arrive-in-canary-islands-in-one-day/"
+        },
+        {
+          "name": "Infobae (EFE)",
+          "url": "https://www.infobae.com/america/agencias/2026/11/15/casi-1500-migrantes-llegaron-a-canarias-en-un-solo-dia-tras-travesias-de-hasta-7-dias/"
+        }
+      ]
+    }
+  ],
+  "oneSided": {
+    "left": [],
+    "right": []
+  }
+}
