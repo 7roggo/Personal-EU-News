@@ -1,169 +1,195 @@
 {
-  "date": "2026-11-16",
-  "generatedAt": "2026-11-16T05:43:10Z",
+  "date": "2026-11-21",
+  "generatedAt": "2026-11-21T05:37:13Z",
   "mode": "written",
-  "topline": "Three stories today: a reported Russian demand list for Ukraine talks that targets Europe's own security, Estonia shutting its Russian border after a foiled sabotage plot as EU ships board a shadow-fleet tanker, and a record single day of migrant arrivals in the Canary Islands.",
+  "topline": "The EU and UK seal a food, carbon and youth-mobility reset at Burnham's first Brussels summit; Hungary stops blocking Ukraine's and Moldova's last accession clusters; strikes and youth protests sweep more than 25 European countries; and the Commission admits an AI-driven cyberattack on staff systems.",
   "stories": [
     {
-      "topic": "Ukraine · Peace talks",
-      "title": "Europe gets a seat at Ukraine talks as reported Russian terms reach beyond Ukraine",
-      "summary": "US envoys Jared Kushner and Steve Witkoff said last week that European governments would join the next round of US-mediated talks between Russia and Ukraine, following a meeting in Abu Dhabi on 10 November. EU leaders agreed on 13 November that the UK, France, Germany, Italy and Poland would represent Europe. The Telegraph reported on 14 November that a Russian position paper for the talks asks Britain to stop extending its nuclear deterrent to European allies, NATO to pull back from Eastern Europe and the Baltics, and Finland to leave the alliance, alongside an end to Western arms supplies and Ukrainian NATO membership. The Kremlin has not publicly confirmed the document; London and Helsinki rejected the reported demands as not open to negotiation.",
-      "why": "If Moscow is trying to fold NATO's eastern posture into a Ukraine deal, Europe's presence at the table becomes a test of whether it can keep its own security arrangements off the negotiating agenda.",
+      "topic": "UK relations · EU-UK summit",
+      "title": "EU and UK agree food, carbon-market and youth-mobility deals at Brussels summit",
+      "summary": "UK Prime Minister Andy Burnham met Ursula von der Leyen and António Costa in Brussels on 20 November for the second EU-UK summit, which had been pushed back from July after Keir Starmer resigned. The two sides concluded three agreements: a veterinary and plant-health (SPS) deal that removes most checks on food and agricultural trade, a link between their emissions trading systems that spares goods such as steel from each other's carbon border levies, and a youth experience scheme letting 100,000 under-30s from each side live, work or study in the other for up to three years. London puts the SPS gain at about £5.1bn and says the package could lift GDP by around 0.5%. University fees for EU students remain unresolved, with a six-month window to settle them, and EU states say they will hold back implementation until that is done.",
+      "why": "It is the biggest formal step back towards the EU since Brexit and ties the UK to EU rules in food and carbon pricing, while the fees dispute and talk of a longer-term relationship leave the endpoint open.",
       "left": {
-        "angle": "Centre-left US coverage focused on the diplomacy itself: the American push to bring Europeans in and Moscow's non-committal response. The emphasis is on uncertainty over whether Russia will accept a wider format, rather than on the content of any Russian demands.",
-        "outlets": [
-          {
-            "name": "CNN",
-            "lean": "Lean left",
-            "url": "https://www.cnn.com/2026/11/12/politics/ukraine-witkoff-kushner-putin-peace-talks-intl",
-            "note": "Leads with Russia being evasive after Washington announced Europe would join the next round."
-          }
-        ]
-      },
-      "right": {
-        "angle": "Right-leaning British coverage broke and led with the reported Russian document, treating it as a direct challenge to the UK's nuclear role in Europe. It stresses what Moscow wants from NATO and Britain rather than the mechanics of the talks, and foregrounds firm rejections from London and Helsinki.",
-        "outlets": [
-          {
-            "name": "The Telegraph",
-            "lean": "Centre-right",
-            "url": "https://www.telegraph.co.uk/world-news/2026/11/14/putin-demands-britain-stop-defending-europe-nuclear-weapons/",
-            "note": "Reports a Russian paper demanding Britain stop shielding European allies with its nuclear weapons."
-          }
-        ]
-      },
-      "differ": "The left-leaning take frames this as a story about process and whether Russia will engage; the right-leaning take frames it as a story about Russian aims that threaten European, and specifically British, security.",
-      "sources": [
-        {
-          "name": "Euromaidan Press (relaying The Telegraph)",
-          "url": "https://euromaidanpress.com/2026/11/14/russia-demands-britain-stop-shielding-the-rest-of-europe-with-its-nuclear-deterrent-as-a-price-for-peace-in-ukraine-telegraph/"
-        },
-        {
-          "name": "UPI",
-          "url": "https://www.upi.com/Top_News/World-News/2026/11/13/Ukraine-Russia-peace-talk-widen/1611794575888/"
-        },
-        {
-          "name": "CBC",
-          "url": "https://www.cbc.ca/news/world/european-security-zelenskyy-putin-9.7422273"
-        }
-      ]
-    },
-    {
-      "topic": "Security · Russia hybrid threats",
-      "title": "Estonia to close all Russian border crossings after foiled attack on drone maker; EU force boards shadow-fleet tanker",
-      "summary": "Estonia will close its three crossings with Russia, at Narva, Koidula and Luhamaa, from 1 December after what authorities say was a GRU-ordered attempt to set fire to drone maker Threod Systems near Tallinn early on 14 November. Eight suspects were detained and prosecutors asked for five to be held; no one was hurt and damage was minor. Prime Minister Kristen Michal called it part of Russia's hybrid war against Europe, while Moscow dismissed the accusation as Russophobia. Separately, EU foreign policy chief Kaja Kallas said forces from the EU's Operation Irini boarded the tanker MV Midag in the Mediterranean on 13 November and found it was sailing under a false flag; EU foreign ministers are due to discuss further sanctions on the shadow fleet.",
-      "why": "Both moves show the EU and its frontline states shifting from protest to physical countermeasures against Russian sabotage and sanctions evasion, which raises the stakes for retaliation and for EU unity on enforcement.",
-      "left": {
-        "angle": "Left-leaning outlets reported the closure largely through the Estonian government's account, stressing the GRU attribution and the wider pattern of attacks on defence firms. The Guardian included the Kremlin's denial at the end; taz focused on Tallinn's message of resolve and its coordination with Finland, Latvia and Lithuania.",
-        "outlets": [
-          {
-            "name": "The Guardian (via The Irish Times)",
-            "lean": "Centre-left",
-            "url": "https://www.irishtimes.com/wires/guardian/2026/11/15/estonia-to-close-all-border-crossings-with-russia-after-attack-on-drone-maker/",
-            "note": "Leads with the GRU attribution and notes the earlier arson at Milrem Robotics."
-          },
-          {
-            "name": "taz",
-            "lean": "Left",
-            "url": "https://taz.de/Sabotageversuch-in-Estland/!6230290/",
-            "note": "Frames the closure as a clear signal to the Kremlin and notes the suspects live in Latvia."
-          }
-        ]
-      },
-      "right": {
-        "angle": "No distinct right-leaning take on the Estonian closure or the tanker boarding turned up in the last day; coverage found was mostly wire-based. Right-leaning outlets have previously framed shadow-fleet seizures as overdue enforcement (earlier coverage linked below).",
-        "outlets": [
-          {
-            "name": "Brussels Signal",
-            "lean": "Right",
-            "url": "https://brusselssignal.eu/2026/03/belgium-seizes-russian-shadow-fleet-tanker/",
-            "note": "Earlier coverage (March 2026): Belgium's seizure of a shadow-fleet tanker."
-          }
-        ]
-      },
-      "differ": "Left-leaning coverage centred on Estonia's evidence and resolve; a fresh right-leaning framing was not found, so no direct contrast can be drawn today.",
-      "sources": [
-        {
-          "name": "Euronews",
-          "url": "https://www.euronews.com/2026/11/15/eu-forces-board-suspected-russian-shadow-fleet-tanker-in-mediterranean-kallas-says"
-        },
-        {
-          "name": "Kyiv Independent",
-          "url": "https://kyivindependent.com/estonia-to-close-border-with-russia-after-moscow-linked-sabotage-attempt-on-drone-maker/"
-        },
-        {
-          "name": "Newsweek",
-          "url": "https://www.newsweek.com/nato-member-estonia-to-shut-russia-border-after-sabotage-attack-12717506"
-        },
-        {
-          "name": "Estonian Ministry of Foreign Affairs",
-          "url": "https://vm.ee/en/news/foreign-minister-tsahkna-estonia-close-road-border-crossings-russia"
-        }
-      ]
-    },
-    {
-      "topic": "Migration · Atlantic route",
-      "title": "Canary Islands record nearly 1,500 migrant arrivals in a single day",
-      "summary": "Spain's maritime rescue service and Guardia Civil brought 1,488 people ashore from 14 boats on Saturday 14 November, the highest one-day total on the Atlantic route, beating the 1,461 recorded in November 2020; later landings pushed the day's count close to 1,580 in some Spanish tallies. Twelve of the boats reached El Hierro, an island of roughly 11,000 people that has declared an emergency after weeks of heavy arrivals. Most passengers came from Senegal, Gambia and Guinea, some after crossings of up to a week. Despite the autumn surge, government figures show arrivals from January to October were still 5.5% below the same period last year, and Canary Islands President Fernando Clavijo has asked Brussels for solidarity support.",
-      "why": "The surge is an early test of the solidarity mechanism in the EU's new migration pact and of the bloc's deals with West African transit states.",
-      "left": {
-        "angle": "Left-leaning coverage reported the arrivals mainly as a rescue and humanitarian story, tallying boats and people and noting where they came from. It gave little space to domestic political blame.",
+        "angle": "Left-leaning coverage leads with the 'reset' and the symbolism of a deal ten years after the referendum, citing Burnham's upbeat framing and the projected growth boost. Critics such as Nigel Farage appear, but mainly as a counterpoint to an agreement presented as concluded. We did not find a directly linkable Guardian or other centre-left British piece in search results.",
         "outlets": [
           {
             "name": "Al Jazeera",
             "lean": "Lean left",
-            "url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/nearly-1500-migrants-reach-spains-canary-islands-in-one-day",
-            "note": "Short report on the record day, highlighting arrivals from Senegal, Gambia and Guinea."
-          },
-          {
-            "name": "elDiario.es",
-            "lean": "Left",
-            "url": "https://www.eldiario.es/canariasahora/migraciones/semana-culmina-llegada-canarias-once-cayucos-1-100-personas-bordo_1_13648793.html",
-            "note": "Running account of the weekend's boat landings and people aboard."
+            "url": "https://www.aljazeera.com/news/2026/11/20/eu-and-uk-seal-reset-deal",
+            "note": "Leads with 'the deal is done' and the 10-years-after-Brexit milestone; notes further talks will take years."
           }
         ]
       },
       "right": {
-        "angle": "Right-leaning outlets framed the record as a policy failure, pointing at Spain's government and its outreach to Senegal, and at pull factors. They stress that Spain is bucking a wider EU decline and that the islands are overwhelmed, while giving less weight to the year-to-date fall.",
+        "angle": "Right-leaning coverage focuses on the domestic politics: Tory and Reform opposition, a revived Vote Leave-style 'Stay Out' campaign, cabinet nerves and whether Burnham is edging towards rejoining. Commentators argue that the EU of today, with less room for national vetoes and tougher oversight of newcomers, is not the club Britain left.",
         "outlets": [
           {
-            "name": "El Español",
-            "lean": "Centre-right",
-            "url": "https://www.elespanol.com/espana/politica/20261116/canarias-bate-record-migrantes-cayucos-fracaso-viaje-marlaska-medio-millon-senegal/1003744459205_0.html",
-            "note": "Ties the record to what it calls the failure of Interior Minister Marlaska's Senegal trip."
+            "name": "The Spectator",
+            "lean": "Right",
+            "url": "https://www.spectator.com.au/2026/11/from-brussels-with-love-theyve-been-expecting-you-mr-burnham/",
+            "note": "Tim Shipman's pre-summit analysis: wry on Burnham's reset, stressing Brexiteer backlash, polling and cabinet unease."
           },
           {
             "name": "The Spectator",
             "lean": "Right",
-            "url": "https://spectator.com/article/is-this-to-blame-for-europes-latest-migrant-crisis/",
-            "note": "Opinion: argues smugglers are timing departures around Spanish and European politics."
+            "url": "https://spectator.com/article/burnham-needs-to-realise-the-eu-isnt-the-club-we-left/",
+            "note": "Earlier opinion piece (October): rejoining would mean accepting a more centralised EU."
+          }
+        ]
+      },
+      "differ": "Left-leaning outlets treat the summit as a completed thaw with economic payoffs; right-leaning ones treat it as the opening move in a rejoin debate and dwell on sovereignty and migration.",
+      "sources": [
+        {
+          "name": "Kyiv Post (AFP)",
+          "url": "https://www.kyivpost.com/post/90756"
+        },
+        {
+          "name": "RTÉ (Reuters)",
+          "url": "https://www.rte.ie/news/uk/2026/1120/1599944-uk-eu-summit/"
+        },
+        {
+          "name": "Council of the EU",
+          "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/11/20/joint-statement-eu-united-kingdom-summit-20-november-2026/"
+        }
+      ]
+    },
+    {
+      "topic": "Enlargement · Ukraine and Moldova",
+      "title": "Hungary stops blocking Ukraine's and Moldova's final accession clusters",
+      "summary": "EU ambassadors on 20 November approved, without debate, the screening results for clusters 4 (green agenda and connectivity) and 5 (agriculture, resources and cohesion) for Ukraine and Moldova, after Hungary dropped objections it had raised at several working-party meetings since 20 October. Péter Magyar's government had already let earlier clusters move after Kyiv passed a minority-rights law for ethnic Hungarians in October. The decision does not yet open negotiations: the EU still needs unanimous common positions, and officials hope to have all six clusters open in December. Agriculture remains the most sensitive area, with Kyiv rejecting any permanent exclusion of its farmers from parts of the single market.",
+      "why": "It removes the last procedural veto that had stalled Ukraine's and Moldova's membership talks, though the unanimity rule still gives every capital many more chances to block progress.",
+      "left": {
+        "angle": "We did not find a distinct left-leaning take on this step within the last 36 hours; coverage was dominated by straight news and Ukrainian outlets, which present it as a procedural breakthrough tied to Hungary's change of government.",
+        "outlets": []
+      },
+      "right": {
+        "angle": "No fresh right-leaning piece on the 20 November decision turned up. Earlier conservative coverage framed Budapest's stance as using its veto as leverage over minority rights in Transcarpathia and stressed that support remained conditional rather than a change of heart.",
+        "outlets": [
+          {
+            "name": "Hungarian Conservative",
+            "lean": "Right",
+            "url": "https://www.hungarianconservative.com/articles/current/hungary-ukraine-eu-accession-talks-technical-step/",
+            "note": "Earlier coverage (6 October): Hungary's backing is a technical step, conditional on minority-education law."
           },
           {
             "name": "Brussels Signal",
             "lean": "Right",
-            "url": "https://brusselssignal.eu/2026/11/illegal-migrant-arrivals-in-canary-islands-overtake-last-years-total/",
-            "note": "Earlier coverage (9 Nov): arrivals overtake 2025's full-year total, per La Gaceta figures."
+            "url": "https://brusselssignal.eu/2026/10/eu-agrees-to-widen-accession-talks-with-ukraine-and-moldova-after-hungary-lifts-block/",
+            "note": "Earlier coverage (October) of the previous round of clusters unblocked by Hungary."
           }
         ]
       },
-      "differ": "The left-leaning framing is about people at sea and rescue capacity; the right-leaning framing is about government failure and the need for deterrence, with the two sides even citing different headline numbers for the year.",
+      "differ": "With little partisan commentary on the day, the main contrast is in earlier coverage: conservatives framed Hungary's veto as legitimate leverage over minority rights, while straight-news outlets focus on the timetable and Ukraine's reform benchmarks.",
       "sources": [
         {
-          "name": "Asharq Al-Awsat",
-          "url": "https://english.aawsat.com/world/5341374-nearly-1500-migrants-arrive-canary-islands-one-day"
+          "name": "Euronews",
+          "url": "https://www.euronews.com/2026/11/20/hungary-to-drop-veto-on-ukraines-remaining-eu-accession-clusters"
         },
         {
-          "name": "TimesLIVE",
-          "url": "https://www.timeslive.co.za/news/world/2026-11-15-nearly-1500-migrants-arrive-in-canary-islands-in-one-day/"
+          "name": "Kyiv Post",
+          "url": "https://www.kyivpost.com/post/90747"
         },
         {
-          "name": "Infobae (EFE)",
-          "url": "https://www.infobae.com/america/agencias/2026/11/15/casi-1500-migrantes-llegaron-a-canarias-en-un-solo-dia-tras-travesias-de-hasta-7-dias/"
+          "name": "bne IntelliNews",
+          "url": "https://www.intellinews.com/hungary-lifts-block-on-last-eu-accession-clusters-for-ukraine-moldova-486813/"
+        }
+      ]
+    },
+    {
+      "topic": "Social policy · Strikes and youth protests",
+      "title": "Strikes and youth protests over wages, services and military spending hit 25 countries",
+      "summary": "Demonstrations took place on 20 November in more than 25 European countries, combining union action on pay and public services with student protests against rearmament and conscription. In Italy, the CGIL union's 24-hour general strike brought rallies in more than 100 cities, disrupting transport and schools, with clashes reported in Bologna and Rome; CGIL claimed over a million participants. In Germany, the 'Gen Z regelt' movement held protests in 73 towns, with about 4,000 people in Berlin by press estimates, while Austrian police used pepper spray at a Vienna protest and Croatian students boycotted classes. Further actions, including airport walkouts in Italy, are planned over the weekend.",
+      "why": "The protests link Europe's push for higher defence spending with cost-of-living pressure, a tension governments face as they draft 2027 budgets.",
+      "left": {
+        "angle": "Left-leaning coverage frames the day as a broad, youth-led movement against austerity and militarisation, citing data on stagnant real wages and rising prices. It gives generous space to protesters' voices and the size of the turnout, and less to government or police responses.",
+        "outlets": [
+          {
+            "name": "taz",
+            "lean": "Left",
+            "url": "https://taz.de/Protesttag-von-Gen-Z-regelt/!6231789",
+            "note": "Sympathetic reportage from Berlin's school strikes against conscription and social cuts; notes the turnout dispute."
+          },
+          {
+            "name": "Al Jazeera",
+            "lean": "Lean left",
+            "url": "https://www.aljazeera.com/news/2026/11/20/protests-held-across-europe-over-wages-services-high-living-costs",
+            "note": "Wide sweep across countries, backed by Eurostat price and real-wage data."
+          }
+        ]
+      },
+      "right": {
+        "angle": "In Italy, right-leaning coverage casts the CGIL strike as a political operation by union leader Maurizio Landini aligned with the centre-left opposition, and stresses the risk of disorder rather than the budget grievances. We found no right-leaning take on the protests outside Italy.",
+        "outlets": [
+          {
+            "name": "Il Giornale",
+            "lean": "Right",
+            "url": "https://www.ilgiornale.it/news/interni/la-cgil-tifa-maranza-sinistra-schiava-dellimam-landini/",
+            "note": "Earlier opinion column (7 November) mocking Landini and portraying the strike as a pretext for unrest."
+          }
+        ]
+      },
+      "differ": "The left sees a cross-border movement with real economic grievances; the Italian right sees a partisan union mobilisation and dwells on clashes.",
+      "sources": [
+        {
+          "name": "Euronews",
+          "url": "https://www.euronews.com/2026/11/20/thousands-protest-across-europe-demanding-better-wages-and-services"
+        },
+        {
+          "name": "AP via ABC News",
+          "url": "https://abcnews.com/International/wireStory/italy-strike-draws-workers-students-nationwide-protests-wages-138314660"
+        },
+        {
+          "name": "Sky TG24",
+          "url": "https://tg24.sky.it/cronaca/2026/11/20/sciopero-20-novembre-manifestazioni-cortei-foto"
+        }
+      ]
+    },
+    {
+      "topic": "Cybersecurity · European Commission",
+      "title": "Commission confirms AI-driven cyberattack on internal staff systems",
+      "summary": "The European Commission confirmed that a cyberattack detected on 22 October was an AI-generated campaign built with a publicly available tool, knocking several internal applications offline. Systems affected include the Sysper human-resources platform and the MyPMO tool for medical claims; most have been restored, but staff health-insurance services were still down. The Commission says it knows of no ransom demand and has found no evidence so far of a breach affecting all staff. It is the third known incident on Commission systems this year, and staff have complained that they received no formal communication.",
+      "why": "It is described as the first disclosed AI-driven attack on an EU institution and raises questions about the Commission's own cyber-resilience as it writes rules for others.",
+      "left": {
+        "angle": "We did not find a left-leaning outlet covering this story in the last 36 hours; reporting came mainly from tech and straight-news outlets.",
+        "outlets": []
+      },
+      "right": {
+        "angle": "Right-leaning coverage centres on accountability: the four-week gap before disclosure, the lack of notice to staff and the run of breaches this year, quoting an MEP who accuses the Commission of keeping the information in-house.",
+        "outlets": [
+          {
+            "name": "Brussels Signal",
+            "lean": "Right",
+            "url": "https://brusselssignal.eu/2026/11/european-commission-confirms-ai-driven-cyberattack-weeks-after-detecting-it/",
+            "note": "Stresses the delayed disclosure and repeated incidents."
+          }
+        ]
+      },
+      "differ": "Only the right-leaning side turned this into a transparency story; elsewhere it was covered mainly as a technical security incident.",
+      "sources": [
+        {
+          "name": "Euronews",
+          "url": "https://www.euronews.com/2026/11/20/european-commission-staff-criticise-lack-of-communication-over-cyberattack"
+        },
+        {
+          "name": "The Register",
+          "url": "https://www.theregister.com/cyber-crime/2026/11/19/european-commission-scrambles-to-contain-ai-assisted-cyberattack/5311103"
+        },
+        {
+          "name": "SecurityWeek",
+          "url": "https://securityweek.com/european-commission-confirms-ai-assisted-cyberattack-disrupted-services"
         }
       ]
     }
   ],
   "oneSided": {
     "left": [],
-    "right": []
+    "right": [
+      {
+        "title": "How Brussels is wearing down its keenest Europeans",
+        "outlet": "Brussels Signal",
+        "lean": "Right",
+        "url": "https://brusselssignal.eu/2026/11/how-brussels-is-wearing-down-its-keenest-europeans/"
+      }
+    ]
   }
 }

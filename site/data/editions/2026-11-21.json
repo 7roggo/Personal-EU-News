@@ -1,0 +1,195 @@
+{
+  "date": "2026-11-21",
+  "generatedAt": "2026-11-21T05:37:13Z",
+  "mode": "written",
+  "topline": "The EU and UK seal a food, carbon and youth-mobility reset at Burnham's first Brussels summit; Hungary stops blocking Ukraine's and Moldova's last accession clusters; strikes and youth protests sweep more than 25 European countries; and the Commission admits an AI-driven cyberattack on staff systems.",
+  "stories": [
+    {
+      "topic": "UK relations · EU-UK summit",
+      "title": "EU and UK agree food, carbon-market and youth-mobility deals at Brussels summit",
+      "summary": "UK Prime Minister Andy Burnham met Ursula von der Leyen and António Costa in Brussels on 20 November for the second EU-UK summit, which had been pushed back from July after Keir Starmer resigned. The two sides concluded three agreements: a veterinary and plant-health (SPS) deal that removes most checks on food and agricultural trade, a link between their emissions trading systems that spares goods such as steel from each other's carbon border levies, and a youth experience scheme letting 100,000 under-30s from each side live, work or study in the other for up to three years. London puts the SPS gain at about £5.1bn and says the package could lift GDP by around 0.5%. University fees for EU students remain unresolved, with a six-month window to settle them, and EU states say they will hold back implementation until that is done.",
+      "why": "It is the biggest formal step back towards the EU since Brexit and ties the UK to EU rules in food and carbon pricing, while the fees dispute and talk of a longer-term relationship leave the endpoint open.",
+      "left": {
+        "angle": "Left-leaning coverage leads with the 'reset' and the symbolism of a deal ten years after the referendum, citing Burnham's upbeat framing and the projected growth boost. Critics such as Nigel Farage appear, but mainly as a counterpoint to an agreement presented as concluded. We did not find a directly linkable Guardian or other centre-left British piece in search results.",
+        "outlets": [
+          {
+            "name": "Al Jazeera",
+            "lean": "Lean left",
+            "url": "https://www.aljazeera.com/news/2026/11/20/eu-and-uk-seal-reset-deal",
+            "note": "Leads with 'the deal is done' and the 10-years-after-Brexit milestone; notes further talks will take years."
+          }
+        ]
+      },
+      "right": {
+        "angle": "Right-leaning coverage focuses on the domestic politics: Tory and Reform opposition, a revived Vote Leave-style 'Stay Out' campaign, cabinet nerves and whether Burnham is edging towards rejoining. Commentators argue that the EU of today, with less room for national vetoes and tougher oversight of newcomers, is not the club Britain left.",
+        "outlets": [
+          {
+            "name": "The Spectator",
+            "lean": "Right",
+            "url": "https://www.spectator.com.au/2026/11/from-brussels-with-love-theyve-been-expecting-you-mr-burnham/",
+            "note": "Tim Shipman's pre-summit analysis: wry on Burnham's reset, stressing Brexiteer backlash, polling and cabinet unease."
+          },
+          {
+            "name": "The Spectator",
+            "lean": "Right",
+            "url": "https://spectator.com/article/burnham-needs-to-realise-the-eu-isnt-the-club-we-left/",
+            "note": "Earlier opinion piece (October): rejoining would mean accepting a more centralised EU."
+          }
+        ]
+      },
+      "differ": "Left-leaning outlets treat the summit as a completed thaw with economic payoffs; right-leaning ones treat it as the opening move in a rejoin debate and dwell on sovereignty and migration.",
+      "sources": [
+        {
+          "name": "Kyiv Post (AFP)",
+          "url": "https://www.kyivpost.com/post/90756"
+        },
+        {
+          "name": "RTÉ (Reuters)",
+          "url": "https://www.rte.ie/news/uk/2026/1120/1599944-uk-eu-summit/"
+        },
+        {
+          "name": "Council of the EU",
+          "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/11/20/joint-statement-eu-united-kingdom-summit-20-november-2026/"
+        }
+      ]
+    },
+    {
+      "topic": "Enlargement · Ukraine and Moldova",
+      "title": "Hungary stops blocking Ukraine's and Moldova's final accession clusters",
+      "summary": "EU ambassadors on 20 November approved, without debate, the screening results for clusters 4 (green agenda and connectivity) and 5 (agriculture, resources and cohesion) for Ukraine and Moldova, after Hungary dropped objections it had raised at several working-party meetings since 20 October. Péter Magyar's government had already let earlier clusters move after Kyiv passed a minority-rights law for ethnic Hungarians in October. The decision does not yet open negotiations: the EU still needs unanimous common positions, and officials hope to have all six clusters open in December. Agriculture remains the most sensitive area, with Kyiv rejecting any permanent exclusion of its farmers from parts of the single market.",
+      "why": "It removes the last procedural veto that had stalled Ukraine's and Moldova's membership talks, though the unanimity rule still gives every capital many more chances to block progress.",
+      "left": {
+        "angle": "We did not find a distinct left-leaning take on this step within the last 36 hours; coverage was dominated by straight news and Ukrainian outlets, which present it as a procedural breakthrough tied to Hungary's change of government.",
+        "outlets": []
+      },
+      "right": {
+        "angle": "No fresh right-leaning piece on the 20 November decision turned up. Earlier conservative coverage framed Budapest's stance as using its veto as leverage over minority rights in Transcarpathia and stressed that support remained conditional rather than a change of heart.",
+        "outlets": [
+          {
+            "name": "Hungarian Conservative",
+            "lean": "Right",
+            "url": "https://www.hungarianconservative.com/articles/current/hungary-ukraine-eu-accession-talks-technical-step/",
+            "note": "Earlier coverage (6 October): Hungary's backing is a technical step, conditional on minority-education law."
+          },
+          {
+            "name": "Brussels Signal",
+            "lean": "Right",
+            "url": "https://brusselssignal.eu/2026/10/eu-agrees-to-widen-accession-talks-with-ukraine-and-moldova-after-hungary-lifts-block/",
+            "note": "Earlier coverage (October) of the previous round of clusters unblocked by Hungary."
+          }
+        ]
+      },
+      "differ": "With little partisan commentary on the day, the main contrast is in earlier coverage: conservatives framed Hungary's veto as legitimate leverage over minority rights, while straight-news outlets focus on the timetable and Ukraine's reform benchmarks.",
+      "sources": [
+        {
+          "name": "Euronews",
+          "url": "https://www.euronews.com/2026/11/20/hungary-to-drop-veto-on-ukraines-remaining-eu-accession-clusters"
+        },
+        {
+          "name": "Kyiv Post",
+          "url": "https://www.kyivpost.com/post/90747"
+        },
+        {
+          "name": "bne IntelliNews",
+          "url": "https://www.intellinews.com/hungary-lifts-block-on-last-eu-accession-clusters-for-ukraine-moldova-486813/"
+        }
+      ]
+    },
+    {
+      "topic": "Social policy · Strikes and youth protests",
+      "title": "Strikes and youth protests over wages, services and military spending hit 25 countries",
+      "summary": "Demonstrations took place on 20 November in more than 25 European countries, combining union action on pay and public services with student protests against rearmament and conscription. In Italy, the CGIL union's 24-hour general strike brought rallies in more than 100 cities, disrupting transport and schools, with clashes reported in Bologna and Rome; CGIL claimed over a million participants. In Germany, the 'Gen Z regelt' movement held protests in 73 towns, with about 4,000 people in Berlin by press estimates, while Austrian police used pepper spray at a Vienna protest and Croatian students boycotted classes. Further actions, including airport walkouts in Italy, are planned over the weekend.",
+      "why": "The protests link Europe's push for higher defence spending with cost-of-living pressure, a tension governments face as they draft 2027 budgets.",
+      "left": {
+        "angle": "Left-leaning coverage frames the day as a broad, youth-led movement against austerity and militarisation, citing data on stagnant real wages and rising prices. It gives generous space to protesters' voices and the size of the turnout, and less to government or police responses.",
+        "outlets": [
+          {
+            "name": "taz",
+            "lean": "Left",
+            "url": "https://taz.de/Protesttag-von-Gen-Z-regelt/!6231789",
+            "note": "Sympathetic reportage from Berlin's school strikes against conscription and social cuts; notes the turnout dispute."
+          },
+          {
+            "name": "Al Jazeera",
+            "lean": "Lean left",
+            "url": "https://www.aljazeera.com/news/2026/11/20/protests-held-across-europe-over-wages-services-high-living-costs",
+            "note": "Wide sweep across countries, backed by Eurostat price and real-wage data."
+          }
+        ]
+      },
+      "right": {
+        "angle": "In Italy, right-leaning coverage casts the CGIL strike as a political operation by union leader Maurizio Landini aligned with the centre-left opposition, and stresses the risk of disorder rather than the budget grievances. We found no right-leaning take on the protests outside Italy.",
+        "outlets": [
+          {
+            "name": "Il Giornale",
+            "lean": "Right",
+            "url": "https://www.ilgiornale.it/news/interni/la-cgil-tifa-maranza-sinistra-schiava-dellimam-landini/",
+            "note": "Earlier opinion column (7 November) mocking Landini and portraying the strike as a pretext for unrest."
+          }
+        ]
+      },
+      "differ": "The left sees a cross-border movement with real economic grievances; the Italian right sees a partisan union mobilisation and dwells on clashes.",
+      "sources": [
+        {
+          "name": "Euronews",
+          "url": "https://www.euronews.com/2026/11/20/thousands-protest-across-europe-demanding-better-wages-and-services"
+        },
+        {
+          "name": "AP via ABC News",
+          "url": "https://abcnews.com/International/wireStory/italy-strike-draws-workers-students-nationwide-protests-wages-138314660"
+        },
+        {
+          "name": "Sky TG24",
+          "url": "https://tg24.sky.it/cronaca/2026/11/20/sciopero-20-novembre-manifestazioni-cortei-foto"
+        }
+      ]
+    },
+    {
+      "topic": "Cybersecurity · European Commission",
+      "title": "Commission confirms AI-driven cyberattack on internal staff systems",
+      "summary": "The European Commission confirmed that a cyberattack detected on 22 October was an AI-generated campaign built with a publicly available tool, knocking several internal applications offline. Systems affected include the Sysper human-resources platform and the MyPMO tool for medical claims; most have been restored, but staff health-insurance services were still down. The Commission says it knows of no ransom demand and has found no evidence so far of a breach affecting all staff. It is the third known incident on Commission systems this year, and staff have complained that they received no formal communication.",
+      "why": "It is described as the first disclosed AI-driven attack on an EU institution and raises questions about the Commission's own cyber-resilience as it writes rules for others.",
+      "left": {
+        "angle": "We did not find a left-leaning outlet covering this story in the last 36 hours; reporting came mainly from tech and straight-news outlets.",
+        "outlets": []
+      },
+      "right": {
+        "angle": "Right-leaning coverage centres on accountability: the four-week gap before disclosure, the lack of notice to staff and the run of breaches this year, quoting an MEP who accuses the Commission of keeping the information in-house.",
+        "outlets": [
+          {
+            "name": "Brussels Signal",
+            "lean": "Right",
+            "url": "https://brusselssignal.eu/2026/11/european-commission-confirms-ai-driven-cyberattack-weeks-after-detecting-it/",
+            "note": "Stresses the delayed disclosure and repeated incidents."
+          }
+        ]
+      },
+      "differ": "Only the right-leaning side turned this into a transparency story; elsewhere it was covered mainly as a technical security incident.",
+      "sources": [
+        {
+          "name": "Euronews",
+          "url": "https://www.euronews.com/2026/11/20/european-commission-staff-criticise-lack-of-communication-over-cyberattack"
+        },
+        {
+          "name": "The Register",
+          "url": "https://www.theregister.com/cyber-crime/2026/11/19/european-commission-scrambles-to-contain-ai-assisted-cyberattack/5311103"
+        },
+        {
+          "name": "SecurityWeek",
+          "url": "https://securityweek.com/european-commission-confirms-ai-assisted-cyberattack-disrupted-services"
+        }
+      ]
+    }
+  ],
+  "oneSided": {
+    "left": [],
+    "right": [
+      {
+        "title": "How Brussels is wearing down its keenest Europeans",
+        "outlet": "Brussels Signal",
+        "lean": "Right",
+        "url": "https://brusselssignal.eu/2026/11/how-brussels-is-wearing-down-its-keenest-europeans/"
+      }
+    ]
+  }
+}
