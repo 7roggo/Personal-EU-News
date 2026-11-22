@@ -1,0 +1,167 @@
+{
+  "date": "2026-11-22",
+  "generatedAt": "2026-11-22T05:44:04Z",
+  "mode": "written",
+  "topline": "Russian missiles land in Poland during a massive strike on Ukraine as Macron warns of a 'new level' of aggression; the EU and Indonesia sign their trade deal in Brussels; Feijóo is widely seen as winning Spain's only election debate a week before the vote; and the Commission clears almost all of Hungary's €10bn recovery claim.",
+  "stories": [
+    {
+      "topic": "Defence · Russia and NATO's eastern flank",
+      "title": "Russian missiles and a drone come down in Poland as Macron warns of a 'new level' of Russian aggression",
+      "summary": "Two Russian missiles and a jet-powered drone fell at three sites in south-eastern Poland on Friday 20 November during one of Russia's largest strikes on Ukraine, which Zelenskyy put at more than 400 drones and over 110 missiles. Poland's defence minister said a Kh-101 cruise missile landed near Nowy Lipowiec in Lublin province, and officials said one missile fell about 35 km from a multinational exercise; no injuries were reported. Prime Minister Donald Tusk called it an intentional provocation and NATO's Mark Rutte called it a grave violation. On Saturday Emmanuel Macron said several European partners had faced serious incidents in 24 hours, citing airspace violations, sabotage attempts and an alleged assassination plot, while Russian strikes killed at least eight civilians in Ukraine.",
+      "why": "It is a direct test of how NATO and the EU respond to Russian fire landing on member-state territory while Europe is negotiating its seat at Ukraine peace talks.",
+      "left": {
+        "angle": "Lean-left coverage treats the incident as part of a pattern of Russia probing NATO, and asks mainly whether the alliance can or will respond. It explains why Article 5 is unlikely to be triggered and notes Donald Trump's suggestion that the missiles strayed by mistake.",
+        "outlets": [
+          {
+            "name": "Al Jazeera",
+            "lean": "Lean left",
+            "url": "https://www.aljazeera.com/news/2026/11/21/russian-missiles-hit-poland-what-happened-and-could-nato-respond",
+            "note": "Explainer on whether it was deliberate and what NATO's options are; stresses the high bar for collective defence."
+          }
+        ]
+      },
+      "right": {
+        "angle": "Right-leaning coverage leads with the 'grave violation' language and the closeness of the impact to European troops on exercise. Breitbart ran the AP wire report, which gives more room to Moscow's justification and Putin's threat that European troops in Ukraine would be legitimate targets, and leaves out Trump's 'by mistake' remark.",
+        "outlets": [
+          {
+            "name": "Breitbart",
+            "lean": "Right",
+            "url": "https://www.breitbart.com/europe/2026/11/21/russian-missiles-land-in-poland-amid-european-military-drills/",
+            "note": "AP wire story headlined on the 'grave violation'; highlights the drills and Russian warnings to Europe."
+          }
+        ]
+      },
+      "differ": "Left-leaning coverage asks whether NATO's response is adequate and how the US reacts; the right-leaning piece frames it as a direct Russian threat to European troops and gives more space to Moscow's warnings.",
+      "sources": [
+        {
+          "name": "Euronews",
+          "url": "https://www.euronews.com/2026/11/20/unidentified-object-falls-in-eastern-poland-amid-major-russian-attack-on-ukraine"
+        },
+        {
+          "name": "Euronews",
+          "url": "https://www.euronews.com/2026/11/21/french-president-macron-warns-of-new-level-of-russian-aggression"
+        }
+      ]
+    },
+    {
+      "topic": "Trade · EU–Indonesia",
+      "title": "EU and Indonesia sign their trade and investment deal in Brussels after a decade of talks",
+      "summary": "Ursula von der Leyen and Indonesia's economic affairs minister Airlangga Hartarto signed the Comprehensive Economic Partnership Agreement and an investment deal in Brussels on Saturday 21 November. The EU says the deal removes tariffs on about 98.5% of its goods, including Indonesia's 50% duty on European cars, which is phased out over five years; Jakarta says about 90% of its exports to the EU will become tariff-free. The Commission expects EU exports to Indonesia to rise by nearly 40% within 15 years and duty savings of over €600m a year. Member states approved signature on 18 November; the European Parliament must still consent, and the deal could apply from early 2027.",
+      "why": "It opens a market of roughly 280 million people and secures access to critical raw materials such as nickel, as the EU diversifies away from the US and China.",
+      "left": {
+        "angle": "Lean-left coverage frames the deal mainly as a hedge against Donald Trump's tariffs and a strategic tie in Asia. It mentions disputes over palm oil and biodiesel only briefly. Older left and NGO coverage from the 2025 conclusion of talks focused on deforestation and Indigenous rights, but this weekend's signing drew little fresh criticism in the outlets we checked.",
+        "outlets": [
+          {
+            "name": "Al Jazeera",
+            "lean": "Lean left",
+            "url": "https://www.aljazeera.com/economy/2026/11/19/eu-governments-approve-trade-deal-with-indonesia-to-offset-trump-tariffs",
+            "note": "On the Council's go-ahead (19 Nov); leads with offsetting Trump tariffs, mentions palm oil frictions in passing."
+          }
+        ]
+      },
+      "right": {
+        "angle": "We found no right-leaning outlet's coverage of the signing in this cycle. Centre-right and farm-focused coverage of earlier EU trade deals has tended to raise worries about agricultural imports, but we could not confirm such a take on this one.",
+        "outlets": []
+      },
+      "differ": "Coverage so far is mostly straight news and celebratory official messaging; the sharper divide over deforestation versus market access dates from the 2025 negotiations rather than this signing.",
+      "sources": [
+        {
+          "name": "Euronews",
+          "url": "https://www.euronews.com/2026/11/21/european-union-and-indonesia-sign-free-trade-deal-after-decade-of-talks"
+        },
+        {
+          "name": "AFP via The Star",
+          "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/11/21/eu-and-indonesia-officially-sign-039ambitious039-trade-deal"
+        }
+      ]
+    },
+    {
+      "topic": "Member states · Spain's 29 November election",
+      "title": "Feijóo widely judged winner of Spain's only head-to-head debate, with PP and Vox on course for a majority",
+      "summary": "Pedro Sánchez and Alberto Núñez Feijóo met on 19 November in the campaign's only televised debate, watched by more than 10 million people, covering housing, the economy, public services, corruption and migration. Most Spanish commentators judged the more aggressive Feijóo the winner; Sánchez apologised for corruption cases in his party while calling the PP the most corrupt party. A poll-of-polls average on 21 November put the PP on 31.0%, the PSOE on 27.8% and Vox on 18.9%, with projected seats giving PP and Vox together around 194, above the 176 needed for a majority. Vox, polling third, campaigns on 'remigration' and 'national priority' for Spaniards.",
+      "why": "A PP government reliant on Vox would shift the fourth-largest EU economy to the right on migration and climate, and change the balance among centre-left governments in the European Council.",
+      "left": {
+        "angle": "Left-leaning coverage concentrates on fact-checking Feijóo's claims during the debate rather than declaring a winner, and on the prospect of Vox entering power. Al Jazeera's explainer leads with Vox's harshest pledges and describes them as dangerous.",
+        "outlets": [
+          {
+            "name": "elDiario.es",
+            "lean": "Left",
+            "url": "https://www.eldiario.es/politica/debate-sanchez-feijoo-directo-ultima-hora-cara-cara-electoral_6_13678432.html",
+            "note": "Live blog of the debate that rated several Feijóo claims, on wages, Ceuta and EU funds, as false or misleading."
+          },
+          {
+            "name": "Al Jazeera",
+            "lean": "Lean left",
+            "url": "https://www.aljazeera.com/news/2026/11/20/what-is-vox-and-how-did-spains-far-right-party-rise-to-prominence",
+            "note": "Explainer on Vox's rise from about 13% to about 20% and its 'remigration' agenda, with Vox as possible kingmaker."
+          }
+        ]
+      },
+      "right": {
+        "angle": "Right-leaning coverage treats the debate as a clear knockout for Feijóo, citing lopsided online reader votes across many outlets. It also criticises Sánchez's pre-debate TV strategy and performance, with little attention to policy substance.",
+        "outlets": [
+          {
+            "name": "El Debate",
+            "lean": "Right",
+            "url": "https://www.eldebate.com/cine-tv-series/20261122/cara-cara-feijoo-pasa-factura-sanchez-reabre-criticas-estrategia-televisiva_483475.html",
+            "note": "Says the debate cost Sánchez dearly, tallying reader polls and attacking his media strategy."
+          }
+        ]
+      },
+      "differ": "The right scores the debate as a Feijóo rout; the left disputes the accuracy of what he said and focuses on what a Vox-backed government would mean.",
+      "sources": [
+        {
+          "name": "EFE via Emol",
+          "url": "https://www.emol.com/noticias/Internacional/2026/11/20/1217685/debate-sanchez-feijoo-momentos-ganador.html"
+        },
+        {
+          "name": "Demócrata",
+          "url": "https://www.democrata.es/en/center-of-surveys-and-electoral-polls/general-elections/the-poll-of-polls-of-29n-pp-and-psoe-gain-two-tenths-after-the-debate-and-vox-drops-from-19/"
+        }
+      ]
+    },
+    {
+      "topic": "Rule of law · Hungary's EU funds",
+      "title": "Commission clears almost all of Hungary's €10bn recovery-fund claim under Magyar",
+      "summary": "The European Commission said on 20 November that Hungary had fully met 126 of the 127 milestones attached to its post-pandemic recovery plan, worth about €10bn in grants and loans. One milestone, an interim evaluation of the effectiveness of tax rules, was judged only partly met, and Budapest must explain its position before a proportional deduction is decided; a Commission official said the financial impact would be minimal. Member states' Economic and Financial Committee now has up to four weeks to give its opinion, and the money is expected to be paid by 31 December. Separately, €2.2bn of cohesion funds stays frozen over academic freedom and LGBTI rights.",
+      "why": "It is the biggest release yet of money frozen under Viktor Orbán, and a test of whether Brussels rewards a new government's rule-of-law reforms quickly enough.",
+      "left": {
+        "angle": "We found no left-leaning outlet's take on this decision in the last 36 hours. Earlier centre-left coverage, such as EUobserver's in May, focused on whether Péter Magyar could deliver the reforms and on tensions between his pension pledges and Brussels' spending demands.",
+        "outlets": [
+          {
+            "name": "EUobserver",
+            "lean": "Centre-left",
+            "url": "https://euobserver.com/218501/listen-can-peter-magyar-convince-the-eu-commission-to-release-hungarys-funds/",
+            "note": "Earlier coverage (May 2026): podcast on the reform milestones before the funding deal."
+          }
+        ]
+      },
+      "right": {
+        "angle": "We could not confirm a right-leaning outlet's take on this specific decision. Earlier Hungarian Conservative coverage, from July, presented the plan's approval as a political win for Magyar while giving room to Fidesz's complaints about his government.",
+        "outlets": [
+          {
+            "name": "Hungarian Conservative",
+            "lean": "Right",
+            "url": "https://www.hungarianconservative.com/articles/current/hungary-recovery-plan-rrf-funding-approve-ecofin/",
+            "note": "Earlier coverage (July 2026): on ECOFIN approving the revised €10bn plan."
+          }
+        ]
+      },
+      "differ": "Fresh partisan framing of the decision is scarce; straight-news coverage presents it as a significant win for Magyar.",
+      "sources": [
+        {
+          "name": "Euronews",
+          "url": "https://www.euronews.com/2026/11/20/eu-commission-partially-clears-hungarys-10bn-recovery-fund-payment-after-rule-of-law-refor"
+        },
+        {
+          "name": "Bytes Europe",
+          "url": "https://www.byteseu.com/2534284/"
+        }
+      ]
+    }
+  ],
+  "oneSided": {
+    "left": [],
+    "right": []
+  }
+}
