@@ -1,294 +1,196 @@
 {
-  "date": "2026-11-23",
-  "generatedAt": "2026-11-23T05:45:25Z",
+  "date": "2026-11-24",
+  "generatedAt": "2026-11-24T05:38:35Z",
   "mode": "written",
-  "topline": "COP31 ends without a deal after the EU refuses a text silent on fossil fuels; Costa's slimmer 2028–34 EU budget is rejected by Paris and Berlin; NATO allies meet over the missiles that fell in Poland; Belgium is brought to a halt by another anti-austerity action day; and Spain's last polls before the blackout keep PP and Vox above a majority.",
+  "topline": "Brussels proposes a 22nd Russia sanctions package with a sports ban; Central Europe and Austria reject Costa's budget plan days before a special summit; Spain's state pollster puts the PSOE ten points ahead, against every private poll; and NATO sends an AWACS to Poland after Russian missiles land there.",
   "stories": [
     {
-      "topic": "Climate · COP31",
-      "title": "COP31 ends without an agreed deal after the EU rejects a final text that drops fossil fuels",
-      "summary": "The UN climate talks in Antalya, due to end on Friday, ran roughly 44 hours over before COP31 president Murat Kurum said on Sunday there was no consensus, so the decisions were not adopted. An early Australian-led draft had called for a faster move away from fossil fuels, but a later version removed every mention of them after objections from Saudi Arabia and other producers. Speaking for the EU as Council presidency, Ireland's climate minister Darragh O'Brien said the bloc would not back a deal that ignored fossil fuels, and Commissioner Wopke Hoekstra called the text backsliding on science. The UK and Panama also refused to sign, and UN Secretary-General António Guterres said he was deeply disappointed. Several reports describe it as the first COP since Copenhagen in 2009 to close without a decision adopted by all parties.",
-      "why": "The EU chose to let the summit fail rather than accept weaker fossil-fuel language, a test of its claim to climate leadership while its own green rules face pressure at home. MEPs debate the outcome in Strasbourg on Thursday.",
+      "topic": "Sanctions · Russia",
+      "title": "Commission proposes 22nd Russia sanctions package, including a ban on Russian-flagged athletes",
+      "summary": "Ursula von der Leyen presented a 22nd package of sanctions against Russia on Monday, aiming for agreement among the 27 governments in December. It would cut about 60 more Russian banks off SWIFT, set up a task force against crypto platforms used to dodge sanctions, bar EU firms from repairing Russian refineries and other energy sites, and list more than 70 further shadow-fleet tankers. It also revives an EU entry ban on Russian ex-combatants, which stalled in July over French and Italian doubts, and would exclude Russian teams and athletes competing under the Russian flag from sports events in the EU. A proposal on Irish-linked alumina imports was left out, and former Swedish diplomat Lars Danielsson was named the new EU sanctions envoy.",
+      "why": "Sanctions need unanimity, so the package tests whether every capital still backs pressure on Moscow while US-led peace talks continue. The sports ban would also put the EU at odds with recent IOC and FIFA moves to readmit Russia.",
       "left": {
-        "angle": "Left-leaning coverage frames the breakdown as a failure that leaves climate-vulnerable countries exposed, and gives prominent space to campaigners. It credits the EU's stand only partly, airing NGO charges that the bloc is hypocritical given its own fossil-fuel production and its openness to carbon capture.",
+        "angle": "Left-leaning coverage found today was mostly wire-based and led with the novelty of the sports ban, presenting the package as Brussels widening pressure beyond the economy. It relied on von der Leyen's own justification and gave little room to critics of the measures.",
         "outlets": [
           {
             "name": "Al Jazeera",
             "lean": "Lean left",
-            "url": "https://www.aljazeera.com/news/2026/11/22/fossil-fuel-impasse-pushes-cop31-climate-talks-into-second-day-of-overtime",
-            "note": "Stresses the impasse with producer states and quotes NGOs accusing the EU of hypocrisy and dismissing carbon capture."
+            "url": "https://www.aljazeera.com/news/2026/11/23/eu-plans-sports-ban-in-sweeping-new-russia-sanctions-proposal",
+            "note": "Headlines the sports ban, then lists the banking, crypto and veteran measures; notes all 27 must agree."
           }
         ]
       },
       "right": {
-        "angle": "Right-leaning coverage reads the collapse less as an EU stand than as evidence that the net-zero consensus is fading. It puts the result in a geopolitical frame, pointing to big powers pushing for more oil and gas output and to climate policy losing ground to hard-power politics.",
+        "angle": "Right-leaning coverage approached the package through sport, treating the ban as a blow to Russia's gradual return to international competition. It stressed the practical knock-on for World Cup and Olympic qualifiers held on EU soil and the clash with recent IOC and FIFA decisions.",
         "outlets": [
           {
-            "name": "The Telegraph (via Yahoo)",
+            "name": "The Telegraph",
             "lean": "Centre-right",
-            "url": "https://www.yahoo.com/news/politics/articles/cop31-collapse-shows-net-zero-200506511.html",
-            "note": "Argues the failure shows net zero losing out to strongman politics and an energy-security agenda."
+            "url": "https://www.yahoo.com/news/politics/articles/russia-return-sport-threatened-eu-172346592.html",
+            "note": "Sports-desk piece (syndicated) on how the ban could derail Russia's readmission to global sport."
           }
         ]
       },
-      "differ": "The left asks whether the EU was ambitious or consistent enough; the right asks whether the whole net-zero project is still politically viable.",
+      "differ": "The left-leaning wire copy framed the sports ban as one more lever on the Kremlin; the right-leaning piece framed it as an EU intervention that could upend sporting bodies' own plans.",
       "sources": [
         {
           "name": "Euronews",
-          "url": "https://www.euronews.com/2026/11/22/cop31-climate-talks-fail-after-eu-and-others-reject-final-deal-proposal"
+          "url": "https://www.euronews.com/2026/11/23/eu-goes-after-russias-banks-soldiers-and-athletes-in-new-sanctions-package"
         },
         {
-          "name": "Euronews",
-          "url": "https://www.euronews.com/2026/11/22/new-cop31-draft-deal-tabled-as-countries-scramble-to-salvage-climate-talks"
-        },
-        {
-          "name": "ESG Today",
-          "url": "https://www.esgtoday.com/cop31-talks-collapse-as-eu-uk-walk-over-failure-to-address-fossil-fuels/"
-        },
-        {
-          "name": "Reuters (via US News)",
-          "url": "https://www.usnews.com/news/world/articles/2026-11-21/cop31-climate-talks-collapse-as-eu-and-others-reject-deal"
+          "name": "Ukrainska Pravda (via Yahoo)",
+          "url": "https://www.yahoo.com/news/world/articles/eu-presents-sanctions-package-against-155300755.html"
         }
       ]
     },
     {
       "topic": "EU budget · 2028–34 MFF",
-      "title": "Costa's trimmed €1.78tn EU budget compromise is rejected by Germany and France ahead of this week's summit",
-      "summary": "European Council President António Costa presented a negotiating box on Saturday for the 2028–34 budget worth about €1.78 trillion in current prices, roughly €204bn below the Commission's original proposal. Cohesion funding would fall to around €402bn, the competitiveness-and-defence envelope by about 16% and external action by around a fifth, while a farm-support floor of about €261bn is kept. New revenue would include a 3% levy on large digital firms, a share of carbon-market and CBAM income and a slower repayment profile for NextGenerationEU debt. Chancellor Friedrich Merz said spending was still too high, and the Élysée called the plan very disappointing and not a basis for agreement, particularly on farm income. Costa described it as a good basis; leaders meet in Brussels on 26–27 November, though a deal is widely expected only in December.",
-      "why": "The seven-year budget sets how much the EU can spend on farmers, poorer regions, defence and Ukraine, and the fight pits net payers against cohesion countries just as new own resources such as a digital levy are on the table.",
+      "title": "Visegrád leaders and Austria call Costa's budget plan unacceptable ahead of this week's special summit",
+      "summary": "The prime ministers of Poland, Czechia, Hungary and Slovakia, joined by Austria's chancellor Christian Stocker, met in Bratislava on Monday and said António Costa's compromise for the 2028–34 budget was not acceptable. Costa's plan would cut spending to about €1.58 trillion, roughly 10% below the Commission's draft, including a cut to farm spending. Hungary's Péter Magyar rejected tying Ukraine's financing to the seven-year budget and told Costa that Thursday–Friday's special summit risked achieving nothing; Poland's Donald Tusk backed continued support for Kyiv but opposed new joint borrowing for it. No joint V4 text was adopted, but host Robert Fico said the group was aligned on cohesion and agriculture funding. Germany still says the total is too high, France calls the farm cuts disappointing, and the European Parliament is threatening a veto.",
+      "why": "Leaders meet in Brussels on 26–27 November to try to unlock both the long-term budget and Ukraine's 2027 funding, and the budget needs every government plus Parliament to agree. Demands from net payers and cohesion countries now pull in opposite directions.",
       "left": {
-        "angle": "Left-leaning coverage frames the talks as a clash between 'frugal' net payers and cohesion countries, stressing that poorer regions face the first-ever cut to cohesion money. It highlights the levy aimed largely at US tech giants and warns that eurosceptic forces gain as Macron and Merz look weaker.",
+        "angle": "Centre-left coverage framed the plan less around Central Europe and more around who loses from the cuts, stressing the hit to farmers and poorer regions and the coming clash between governments and MEPs. It cast the summit as a fight between 'frugal' payers and the cohesion bloc rather than a sovereignty dispute.",
         "outlets": [
           {
             "name": "EUobserver",
             "lean": "Centre-left",
-            "url": "https://euobserver.com/250316/this-week-trillion-euro-budget-scrap-spains-sanchez-on-the-ropes-and-putin-invites-eu-to-dinner",
-            "note": "Week-ahead piece on leaders clashing over cuts, with a new Ukraine loan and opt-out fights also on the summit table."
+            "url": "https://euobserver.com/250481/costas-eu-budget-plan-for-10-percent-cuts-pits-frugals-against-cohesion-group-ahead-of-crunch-summit/",
+            "note": "Weekend piece (21 Nov) on the 10% cut, the farm-spending hit and the frugal-versus-cohesion split."
           }
         ]
       },
       "right": {
-        "angle": "No right-leaning take on Costa's Saturday proposal itself turned up in this edition's search. The most recent right-leaning coverage, published just before it, frames the budget from the net payers' side: the EU should spend less, not find new revenue.",
+        "angle": "No right-leaning take on Monday's Bratislava meeting turned up in today's searches. Earlier conservative coverage cast Fico and Babiš as defending national taxpayers against German pressure to share Ukraine's costs and against EU climate rules.",
         "outlets": [
           {
-            "name": "Brussels Signal",
+            "name": "Hungarian Conservative",
             "lean": "Right",
-            "url": "https://brusselssignal.eu/2026/11/austria-demands-deeper-cuts-to-eu-budget-ahead-of-costa-compromise/",
-            "note": "Earlier coverage (c. 20 Nov): Austria demands deeper cuts before Costa tables his compromise."
+            "url": "https://www.hungarianconservative.com/articles/current/fico-babis-reject-german-pressure-over-ukraine-funding",
+            "note": "Earlier coverage (11 Nov): Fico and Babiš portrayed as resisting Merz's 'blackmail' over Ukraine funding."
           }
         ]
       },
-      "differ": "The left focuses on who loses from the cuts and on taxing big tech; the right's available coverage focuses on the total being too big in the first place.",
+      "differ": "Centre-left reporting focused on the cuts' victims and an institutional clash with Parliament; right-leaning outlets have framed the same fight as national sovereignty against Berlin and Brussels.",
       "sources": [
         {
           "name": "Euronews",
-          "url": "https://www.euronews.com/2026/11/21/eu-budget-costa-pitches-more-cuts-big-tech-tax-to-break-deadlock"
+          "url": "https://www.euronews.com/2026/11/23/visegrad-four-leaders-voice-concerns-over-eu-budget-proposal"
         },
         {
-          "name": "Agence Europe",
-          "url": "https://agenceurope.eu/en/bulletin/article/13987/1/mff-2028-2034-antonio-costa-proposes-further-eur40-billion-in-cuts-slower-debt-repayment-and-digital-tax"
+          "name": "Reuters (via Devdiscourse)",
+          "url": "https://www.devdiscourse.com/article/international/4010997-central-european-leaders-reject-new-eu-budget-proposal"
         },
         {
-          "name": "dpa (via Yahoo)",
-          "url": "https://www.yahoo.com/news/politics/articles/germany-still-not-satisfied-costa-170339274.html"
+          "name": "Eunews",
+          "url": "https://www.eunews.it/en/2026/11/23/costas-budget-leaves-everyone-dissatisfied-tractors-take-to-the-streets-and-veto-threats-emerge-in-parliament/"
         },
         {
-          "name": "RTÉ",
-          "url": "https://www.rte.ie/news/europe/2026/1121/1600093-european-union-budget/"
-        }
-      ]
-    },
-    {
-      "topic": "Defence · NATO and Poland",
-      "title": "NATO ambassadors hold an extraordinary meeting on Poland after Russian missiles land on its soil",
-      "summary": "The North Atlantic Council was due to meet at NATO headquarters on Monday at Poland's request, after objects from Friday's massive Russian strike on Ukraine came down in south-eastern Poland without causing casualties. Polish prosecutors' preliminary findings, reported on Monday, say all three objects were Kh-101 cruise missiles rather than two missiles and a drone. Secretary-General Mark Rutte pledged in Warsaw that NATO would defend every inch of Polish territory and said the alliance's top commander would assess its defences; Warsaw has asked for more AWACS surveillance aircraft and F-35s on the eastern flank. Poland has not formally invoked Article 4 this time, and Prime Minister Donald Tusk sharply rejected Donald Trump's suggestion that the missiles were sent by mistake.",
-      "why": "How NATO responds will signal whether Russian strikes that spill into EU territory carry a cost, at a moment when Europe is pushing for a voice in US-led peace talks on Ukraine.",
-      "left": {
-        "angle": "Left-leaning coverage treats the incident as a deliberate Russian probe in a pattern of incursions and explains the alliance's options calmly. It expects a defensive posture rather than any Article 5 escalation, and notes Trump's 'mistake' remark without making it the centre of the story.",
-        "outlets": [
-          {
-            "name": "Al Jazeera",
-            "lean": "Lean left",
-            "url": "https://www.aljazeera.com/news/2026/11/21/russian-missiles-hit-poland-what-happened-and-could-nato-respond",
-            "note": "Explainer on what happened and why a military NATO response is unlikely."
-          }
-        ]
-      },
-      "right": {
-        "angle": "Right-leaning coverage is more alarmed about deterrence. It leads with Poland's decision not to invoke Article 4 and the West's muted reaction, argues that Moscow reads this as weakness, and links the incident to Russia's wider hybrid campaign in Europe.",
-        "outlets": [
-          {
-            "name": "The Telegraph (via Yahoo)",
-            "lean": "Centre-right",
-            "url": "https://www.yahoo.com/news/politics/articles/poland-failure-call-putin-bluff-174119259.html",
-            "note": "Analysis arguing Poland's failure to call Putin's bluff exposes NATO's fragility."
-          },
-          {
-            "name": "Breitbart",
-            "lean": "Right",
-            "url": "https://www.breitbart.com/europe/2026/11/21/russian-missiles-land-in-poland-amid-european-military-drills/",
-            "note": "Wire-based report foregrounding the European military exercise under way nearby."
-          }
-        ]
-      },
-      "differ": "The left frames NATO's restraint as the expected, sensible response; the right frames the same restraint as a dangerous signal of weakness.",
-      "sources": [
-        {
-          "name": "Stars and Stripes",
-          "url": "https://www.stripes.com/theaters/europe/2026-11-22/poland-russia-nato-missiles-23541547.html"
-        },
-        {
-          "name": "PBS NewsHour (AP)",
-          "url": "https://www.pbs.org/newshour/world/nato-calls-russian-missiles-landing-in-poland-a-grave-violation-of-airspace"
-        },
-        {
-          "name": "Euronews",
-          "url": "https://www.euronews.com/2026/11/20/unidentified-object-falls-in-eastern-poland-amid-major-russian-attack-on-ukraine"
-        },
-        {
-          "name": "RTÉ (AFP)",
-          "url": "https://www.rte.ie/news/2026/1120/1600033-warsaw-support/"
-        },
-        {
-          "name": "Notes from Poland",
-          "url": "https://notesfrompoland.com/2026/11/20/unidentified-object-hits-poland-amid-russian-attacks-on-western-ukraine/"
-        }
-      ]
-    },
-    {
-      "topic": "Member states · Belgium's austerity fight",
-      "title": "Belgian airports shut and transport disrupted as unions stage another national action against austerity",
-      "summary": "Belgium's three main unions held a national demonstration in Brussels on Monday, at least the eleventh action against Bart De Wever's 'Arizona' coalition. Air-traffic controller skeyes suspended regular services from 07:00 to 21:00, cancelling most flights at Brussels Airport, which had expected about 60,000 passengers, and at Charleroi; Brussels public transport ran only two metro lines while national trains ran normally. Unions reject an index jump, a VAT rise and annualised working time, and argue that the cuts fall on workers while defence spending rises. The strike coincides with the deadline for De Wever to report to the King after coalition talks on about €10bn of savings stalled over a wealth tax demanded by the Flemish socialists of Vooruit. Airlines and travel agencies called the repeated stoppages disproportionate, and the mobility minister is preparing a minimum-service bill for air traffic control.",
-      "why": "Belgium is under the EU's excessive deficit procedure, so its budget deadlock is a live test of whether governments can meet EU fiscal rules while raising defence spending, and the shutdown hits the EU's own capital.",
-      "left": {
-        "angle": "Left-leaning coverage labels the action anti-austerity and, in labour-friendly outlets, gives the unions' case centre stage: the burden falls on workers and benefit recipients, and an alternative plan built on taxing capital and fighting fraud exists. Mainstream left-leaning reports focus heavily on the travel chaos.",
-        "outlets": [
-          {
-            "name": "Al Jazeera",
-            "lean": "Lean left",
-            "url": "https://www.aljazeera.com/news/2026/11/23/belgiums-airports-set-to-shut-down-due-to-anti-austerity-strike",
-            "note": "Anti-austerity framing in the headline, though the report mostly covers the flight shutdown."
-          },
-          {
-            "name": "DeWereldMorgen",
-            "lean": "Left",
-            "url": "https://www.dewereldmorgen.be/artikel/2026/11/19/acv-voorzitter-vermorgen-en-abvv-voorzitter-engelaar-regering-de-wever-viseert-uitsluitend-de",
-            "note": "Interview giving the two union leaders space to argue the government targets only working people."
-          }
-        ]
-      },
-      "right": {
-        "angle": "No right-leaning outlet's take on Monday's action itself was found. Recent right-leaning coverage of the Belgian crisis leaves the unions out and instead casts the Flemish socialists as the party blocking a budget deal the country needs.",
-        "outlets": [
-          {
-            "name": "Brussels Signal",
-            "lean": "Right",
-            "url": "https://brusselssignal.eu/2026/11/belgian-socialists-block-budget-deal-de-wever-sent-back-to-the-table/",
-            "note": "Earlier coverage (16 Nov): Vooruit blocks the budget deal and De Wever is sent back to the table."
-          }
-        ]
-      },
-      "differ": "The left asks who pays for the savings; the right's coverage asks who is stopping the government from making them.",
-      "sources": [
-        {
-          "name": "The Brussels Times",
-          "url": "https://www.brusselstimes.com/belgium/2416819/national-strike-no-flights-at-belgian-airports-only-two-metro-lines-running-in-brussels-tbtb"
-        },
-        {
-          "name": "VRT NWS",
-          "url": "https://www.vrt.be/vrtnws/nl/2026/11/20/maandag-23-november-betoging-hinder/"
-        },
-        {
-          "name": "Brussels Morning",
-          "url": "https://brusselsmorning.com/air-traffic-strike-halts-flights-in-belgium-on-monday-2026/106851/"
-        },
-        {
-          "name": "Il Sole 24 Ore",
-          "url": "https://en.ilsole24ore.com/art/air-traffic-controllers-strike-halts-all-flights-from-brussels-and-charleroi-on-23-november-AJ1o0WPC"
+          "name": "The Budapest Times",
+          "url": "https://www.budapesttimes.hu/world/pm-rejects-ukraine-eu-budget-link-ahead-of-brussels-summit/"
         }
       ]
     },
     {
       "topic": "Member states · Spain's 29 November election",
-      "title": "Spain's last polls before the blackout show the PSOE closing in, but PP and Vox still above a majority",
-      "summary": "Monday is the last day Spanish media may publish polls before Sunday's snap election. The final 40dB survey for El País and Cadena SER puts the PP on 31.8%, the PSOE on 30.9% and Vox on 17.3%, giving PP and Vox around 187 of 350 seats, above the 176 needed for a majority. Weekend polls for ABC, La Vanguardia and others put the right-wing bloc between about 190 and 210 seats, with the PSOE's projected tally varying widely. Pedro Sánchez and Alberto Núñez Feijóo held rival rallies in Murcia on Sunday, Sánchez casting PP and Vox as a single reactionary bloc and Feijóo warning supporters against complacency. Feijóo says he wants to govern alone, but every recent poll suggests he would need Vox.",
-      "why": "A PP government reliant on Vox would move one of the EU's largest and most pro-integration governments to the right, with knock-on effects on migration, climate and budget positions in Council.",
+      "title": "Spain's state pollster gives the PSOE a ten-point lead, far out of line with private polls",
+      "summary": "The last CIS barometer before Sunday's general election, published Monday, puts the PSOE on 34.4%, the PP on 24.7% and Vox on 15.6%, which would leave PP and Vox well short of a majority on about 40% combined. Private polls published before the legal blackout tell a different story: elDiario.es's poll average has the PP on 31% and the PSOE on 27.8%, with PP and Vox winning a majority in nine of ten seat simulations. The CIS, led by Socialist Party member José Félix Tezanos, also puts Sánchez well ahead as preferred prime minister and lists housing as voters' top worry. The PP dismissed the survey as designed to reassure the government.",
+      "why": "Spain is the EU's fourth-largest economy and one of its most pro-EU governments; a PP–Vox majority would bring a hard-right party into a big-state government before next year's EU budget and migration fights.",
       "left": {
-        "angle": "Left-leaning coverage leads with how close the vote share has become and with the PSOE holding its 2023 support, nourishing a comeback narrative. It also stresses that a PP–Vox pact looks likely, reporting Feijóo already sketching conditions for dealing with Vox.",
+        "angle": "Left-leaning coverage reported the CIS numbers at face value, leading with the PSOE lead and the right falling short of a majority. elDiario.es also published its own poll average showing the right still ahead, keeping both pictures in view.",
         "outlets": [
           {
-            "name": "Público",
+            "name": "elDiario.es",
             "lean": "Left",
-            "url": "https://www.publico.es/politica/encuesta-40db-deja-empatados-pp-psoe.html",
-            "note": "Presents the 40dB poll as a near tie between PP and PSOE."
+            "url": "https://www.eldiario.es/politica/ultimo-cis-elecciones-da-psoe-ventaja-diez-puntos-pp-vox-no-suma-mayoria-absoluta_1_13685466.html",
+            "note": "Leads with the PSOE's near-10-point lead and PP+Vox missing a majority."
           },
           {
             "name": "elDiario.es",
             "lean": "Left",
-            "url": "https://www.eldiario.es/politica/feijoo-anticipa-condiciones-vox-si-negociar-29n-ministros-experiencia-respeto-autonomias_1_13679615.html",
-            "note": "Focuses on Feijóo setting out conditions for a possible deal with Vox."
+            "url": "https://www.eldiario.es/politica/media-encuestas-ultimo-dia-publicar-sube-psoe-concentra-voto-izquierda-derechas-mantienen-mayoria-absoluta_1_13684611.html",
+            "note": "Its poll average: PSOE rising as left vote consolidates, but the right still holds a majority."
           }
         ]
       },
       "right": {
-        "angle": "Right-leaning coverage accepts that Sánchez has gained but insists the PP–Vox majority is intact, and pushes back on talk of a Sánchez comeback. It gives space to Feijóo's policy pitch on housing and to the size of the right-wing bloc's projected win.",
+        "angle": "Right-leaning outlets treated the CIS as partisan, foregrounding Tezanos's Socialist membership and implying the figures were cooked. They set the survey against private polls that all show the PP first and a right-wing majority.",
         "outlets": [
           {
-            "name": "La Razón",
-            "lean": "Centre-right",
-            "url": "https://www.larazon.es/espana/sanchez-remonta-alterar-mayoria-ppvox_202611236b032823c0d5c85b96c4a76e.html",
-            "note": "Sánchez recovers ground without altering the PP–Vox majority."
-          },
-          {
-            "name": "El Mundo",
-            "lean": "Centre-right",
-            "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/22/6b032e9ae9cf4a964e8b456f.html",
-            "note": "Sets out data arguing against the 'prophecy' of a Sánchez comeback."
-          },
-          {
-            "name": "ABC",
+            "name": "El Debate",
             "lean": "Right",
-            "url": "https://www.abc.es/espana/feijoo-aprobare-tres-leyes-vivienda-auditoria-general-20261122014232-nt.html",
-            "note": "Feijóo interview promising three housing laws and a general audit."
+            "url": "https://www.eldebate.com/espana/20261123/tezanos-caldea-cocina-ultimo-cis-antes-29n-situa-psoe-10-puntos-encima-pp_484056.html",
+            "note": "Headline says Tezanos 'heats up his kitchen', framing the poll as manipulated."
+          },
+          {
+            "name": "The Objective",
+            "lean": "Centre-right",
+            "url": "https://theobjective.com/espana/politica/2026-11-23/sorpresa-psoe-cis-tezanos-armario/",
+            "note": "Quotes surprised PSOE insiders, then contrasts CIS with 40dB, Sigma Dos and other polls; gives the PP's rebuttal."
           }
         ]
       },
-      "differ": "The left highlights the narrowing gap and the prospect of Vox in power; the right highlights that the narrowing does not change the arithmetic.",
+      "differ": "The left reported a poll showing the race wide open; the right reported a pollster it considers compromised. Both cite the private polls, which still favour a PP–Vox majority.",
       "sources": [
         {
-          "name": "Euronews (via AOL)",
-          "url": "https://www.aol.co.uk/articles/polls-put-spains-pp-ahead-192841000.html"
+          "name": "elDiario.es",
+          "url": "https://www.eldiario.es/politica/ultimo-cis-elecciones-da-psoe-ventaja-diez-puntos-pp-vox-no-suma-mayoria-absoluta_1_13685466.html"
         },
         {
-          "name": "Euronews (Spanish)",
-          "url": "https://es.euronews.com/2026/11/22/los-partidos-intensifican-sus-actos-de-campana-elecciones-29-noviembre"
+          "name": "El Cronista",
+          "url": "https://www.cronista.com/espana/politica-es/el-pp-carga-contra-el-presidente-del-cis-hay-encuestas-que-sirven-para-conocer-lo-que-piensan-los-espanoles-y-otras-que-estan-disenadas-para-tranquilizar-a-quien-las-encarga/"
+        }
+      ]
+    },
+    {
+      "topic": "Defence · NATO and Poland",
+      "title": "NATO sends an AWACS to Poland after confirming the objects that hit it were Russian cruise missiles",
+      "summary": "NATO said on Monday it will deploy an AWACS early-warning aircraft to Poland, after an extraordinary North Atlantic Council meeting held at Warsaw's request. Polish prosecutors say all three objects that came down in southeastern Poland were Russian Kh-101 cruise missiles, made this year; nobody was hurt. Two Swedish Gripens on NATO air policing were cleared to fire but could not identify the missiles in bad weather. Defence minister Władysław Kosiniak-Kamysz linked the incursion to a nearby Coalition of the Willing exercise, and Warsaw has asked for more surveillance aircraft and fighters.",
+      "why": "It is the most serious Russian strike on EU and NATO soil in this war, and the response will be watched as a test of allied air defence on the eastern flank while European leaders seek a role in Ukraine peace talks.",
+      "left": {
+        "angle": "No fresh left-leaning take on the AWACS decision turned up in today's searches. Earlier left-leaning coverage (21 Nov) explained the incident and walked through NATO's options under Articles 4 and 5, without pushing for a particular response.",
+        "outlets": [
+          {
+            "name": "Al Jazeera",
+            "lean": "Lean left",
+            "url": "https://www.aljazeera.com/news/2026/11/21/russian-missiles-hit-poland-what-happened-and-could-nato-respond",
+            "note": "Earlier explainer (21 Nov): what happened and how NATO could respond."
+          }
+        ]
+      },
+      "right": {
+        "angle": "No fresh right-leaning take on Monday's decision turned up either. Earlier right-leaning US coverage (22 Nov) framed the meeting around how strongly the alliance would answer Moscow.",
+        "outlets": [
+          {
+            "name": "The Washington Times",
+            "lean": "Right",
+            "url": "https://www.washingtontimes.com/news/2026/nov/22/north-atlantic-council-meet-missiles-land-poland/",
+            "note": "Earlier coverage (22 Nov): NATO weighs its response before the council meeting."
+          }
+        ]
+      },
+      "differ": "Neither side's outlets had covered the AWACS decision yet; earlier pieces differed mainly in tone, an explanatory one on the left and a 'how hard will NATO hit back' one on the right.",
+      "sources": [
+        {
+          "name": "Reuters (via The Daily Guardian)",
+          "url": "https://thedailyguardian.com/world/refile-nato-to-send-early-warning-system-aircraft-to-poland-after-missiles-incident-777412/"
         },
         {
-          "name": "Demócrata",
-          "url": "https://www.democrata.es/en/center-of-surveys-and-electoral-polls/general-elections/general-elections-survey-feijoo-leads-sanchez-by-nine-tenths-and-adds-187-seats-with-vox/"
+          "name": "Notes from Poland",
+          "url": "https://notesfrompoland.com/2026/11/23/poland-confirms-three-objects-that-struck-its-territory-were-all-russian-missiles/"
         },
         {
-          "name": "The Olive Press",
-          "url": "https://www.theolivepress.es/spain-news/2026/11/22/spain-election-debate-polls-roundup/"
+          "name": "Kyiv Post",
+          "url": "https://www.kyivpost.com/post/90893"
+        },
+        {
+          "name": "Stars and Stripes",
+          "url": "https://www.stripes.com/theaters/europe/2026-11-22/poland-russia-nato-missiles-23541547.html"
         }
       ]
     }
   ],
   "oneSided": {
-    "left": [
-      {
-        "title": "Poland says Russia tried to assassinate Ukrainian rapper twice",
-        "outlet": "Al Jazeera",
-        "lean": "Lean left",
-        "url": "https://www.aljazeera.com/news/2026/11/23/poland-says-russia-tried-to-assassinate-ukrainian-rapper-twice"
-      },
-      {
-        "title": "Russian cargo ship leaves Finland's territorial waters after drone attack",
-        "outlet": "Al Jazeera",
-        "lean": "Lean left",
-        "url": "https://www.aljazeera.com/news/2026/11/22/russian-cargo-ship-still-on-fire-off-finland-after-drone-attack"
-      }
-    ],
+    "left": [],
     "right": []
   }
 }

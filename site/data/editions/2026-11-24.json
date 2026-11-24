@@ -1,0 +1,196 @@
+{
+  "date": "2026-11-24",
+  "generatedAt": "2026-11-24T05:38:35Z",
+  "mode": "written",
+  "topline": "Brussels proposes a 22nd Russia sanctions package with a sports ban; Central Europe and Austria reject Costa's budget plan days before a special summit; Spain's state pollster puts the PSOE ten points ahead, against every private poll; and NATO sends an AWACS to Poland after Russian missiles land there.",
+  "stories": [
+    {
+      "topic": "Sanctions · Russia",
+      "title": "Commission proposes 22nd Russia sanctions package, including a ban on Russian-flagged athletes",
+      "summary": "Ursula von der Leyen presented a 22nd package of sanctions against Russia on Monday, aiming for agreement among the 27 governments in December. It would cut about 60 more Russian banks off SWIFT, set up a task force against crypto platforms used to dodge sanctions, bar EU firms from repairing Russian refineries and other energy sites, and list more than 70 further shadow-fleet tankers. It also revives an EU entry ban on Russian ex-combatants, which stalled in July over French and Italian doubts, and would exclude Russian teams and athletes competing under the Russian flag from sports events in the EU. A proposal on Irish-linked alumina imports was left out, and former Swedish diplomat Lars Danielsson was named the new EU sanctions envoy.",
+      "why": "Sanctions need unanimity, so the package tests whether every capital still backs pressure on Moscow while US-led peace talks continue. The sports ban would also put the EU at odds with recent IOC and FIFA moves to readmit Russia.",
+      "left": {
+        "angle": "Left-leaning coverage found today was mostly wire-based and led with the novelty of the sports ban, presenting the package as Brussels widening pressure beyond the economy. It relied on von der Leyen's own justification and gave little room to critics of the measures.",
+        "outlets": [
+          {
+            "name": "Al Jazeera",
+            "lean": "Lean left",
+            "url": "https://www.aljazeera.com/news/2026/11/23/eu-plans-sports-ban-in-sweeping-new-russia-sanctions-proposal",
+            "note": "Headlines the sports ban, then lists the banking, crypto and veteran measures; notes all 27 must agree."
+          }
+        ]
+      },
+      "right": {
+        "angle": "Right-leaning coverage approached the package through sport, treating the ban as a blow to Russia's gradual return to international competition. It stressed the practical knock-on for World Cup and Olympic qualifiers held on EU soil and the clash with recent IOC and FIFA decisions.",
+        "outlets": [
+          {
+            "name": "The Telegraph",
+            "lean": "Centre-right",
+            "url": "https://www.yahoo.com/news/politics/articles/russia-return-sport-threatened-eu-172346592.html",
+            "note": "Sports-desk piece (syndicated) on how the ban could derail Russia's readmission to global sport."
+          }
+        ]
+      },
+      "differ": "The left-leaning wire copy framed the sports ban as one more lever on the Kremlin; the right-leaning piece framed it as an EU intervention that could upend sporting bodies' own plans.",
+      "sources": [
+        {
+          "name": "Euronews",
+          "url": "https://www.euronews.com/2026/11/23/eu-goes-after-russias-banks-soldiers-and-athletes-in-new-sanctions-package"
+        },
+        {
+          "name": "Ukrainska Pravda (via Yahoo)",
+          "url": "https://www.yahoo.com/news/world/articles/eu-presents-sanctions-package-against-155300755.html"
+        }
+      ]
+    },
+    {
+      "topic": "EU budget · 2028–34 MFF",
+      "title": "Visegrád leaders and Austria call Costa's budget plan unacceptable ahead of this week's special summit",
+      "summary": "The prime ministers of Poland, Czechia, Hungary and Slovakia, joined by Austria's chancellor Christian Stocker, met in Bratislava on Monday and said António Costa's compromise for the 2028–34 budget was not acceptable. Costa's plan would cut spending to about €1.58 trillion, roughly 10% below the Commission's draft, including a cut to farm spending. Hungary's Péter Magyar rejected tying Ukraine's financing to the seven-year budget and told Costa that Thursday–Friday's special summit risked achieving nothing; Poland's Donald Tusk backed continued support for Kyiv but opposed new joint borrowing for it. No joint V4 text was adopted, but host Robert Fico said the group was aligned on cohesion and agriculture funding. Germany still says the total is too high, France calls the farm cuts disappointing, and the European Parliament is threatening a veto.",
+      "why": "Leaders meet in Brussels on 26–27 November to try to unlock both the long-term budget and Ukraine's 2027 funding, and the budget needs every government plus Parliament to agree. Demands from net payers and cohesion countries now pull in opposite directions.",
+      "left": {
+        "angle": "Centre-left coverage framed the plan less around Central Europe and more around who loses from the cuts, stressing the hit to farmers and poorer regions and the coming clash between governments and MEPs. It cast the summit as a fight between 'frugal' payers and the cohesion bloc rather than a sovereignty dispute.",
+        "outlets": [
+          {
+            "name": "EUobserver",
+            "lean": "Centre-left",
+            "url": "https://euobserver.com/250481/costas-eu-budget-plan-for-10-percent-cuts-pits-frugals-against-cohesion-group-ahead-of-crunch-summit/",
+            "note": "Weekend piece (21 Nov) on the 10% cut, the farm-spending hit and the frugal-versus-cohesion split."
+          }
+        ]
+      },
+      "right": {
+        "angle": "No right-leaning take on Monday's Bratislava meeting turned up in today's searches. Earlier conservative coverage cast Fico and Babiš as defending national taxpayers against German pressure to share Ukraine's costs and against EU climate rules.",
+        "outlets": [
+          {
+            "name": "Hungarian Conservative",
+            "lean": "Right",
+            "url": "https://www.hungarianconservative.com/articles/current/fico-babis-reject-german-pressure-over-ukraine-funding",
+            "note": "Earlier coverage (11 Nov): Fico and Babiš portrayed as resisting Merz's 'blackmail' over Ukraine funding."
+          }
+        ]
+      },
+      "differ": "Centre-left reporting focused on the cuts' victims and an institutional clash with Parliament; right-leaning outlets have framed the same fight as national sovereignty against Berlin and Brussels.",
+      "sources": [
+        {
+          "name": "Euronews",
+          "url": "https://www.euronews.com/2026/11/23/visegrad-four-leaders-voice-concerns-over-eu-budget-proposal"
+        },
+        {
+          "name": "Reuters (via Devdiscourse)",
+          "url": "https://www.devdiscourse.com/article/international/4010997-central-european-leaders-reject-new-eu-budget-proposal"
+        },
+        {
+          "name": "Eunews",
+          "url": "https://www.eunews.it/en/2026/11/23/costas-budget-leaves-everyone-dissatisfied-tractors-take-to-the-streets-and-veto-threats-emerge-in-parliament/"
+        },
+        {
+          "name": "The Budapest Times",
+          "url": "https://www.budapesttimes.hu/world/pm-rejects-ukraine-eu-budget-link-ahead-of-brussels-summit/"
+        }
+      ]
+    },
+    {
+      "topic": "Member states · Spain's 29 November election",
+      "title": "Spain's state pollster gives the PSOE a ten-point lead, far out of line with private polls",
+      "summary": "The last CIS barometer before Sunday's general election, published Monday, puts the PSOE on 34.4%, the PP on 24.7% and Vox on 15.6%, which would leave PP and Vox well short of a majority on about 40% combined. Private polls published before the legal blackout tell a different story: elDiario.es's poll average has the PP on 31% and the PSOE on 27.8%, with PP and Vox winning a majority in nine of ten seat simulations. The CIS, led by Socialist Party member José Félix Tezanos, also puts Sánchez well ahead as preferred prime minister and lists housing as voters' top worry. The PP dismissed the survey as designed to reassure the government.",
+      "why": "Spain is the EU's fourth-largest economy and one of its most pro-EU governments; a PP–Vox majority would bring a hard-right party into a big-state government before next year's EU budget and migration fights.",
+      "left": {
+        "angle": "Left-leaning coverage reported the CIS numbers at face value, leading with the PSOE lead and the right falling short of a majority. elDiario.es also published its own poll average showing the right still ahead, keeping both pictures in view.",
+        "outlets": [
+          {
+            "name": "elDiario.es",
+            "lean": "Left",
+            "url": "https://www.eldiario.es/politica/ultimo-cis-elecciones-da-psoe-ventaja-diez-puntos-pp-vox-no-suma-mayoria-absoluta_1_13685466.html",
+            "note": "Leads with the PSOE's near-10-point lead and PP+Vox missing a majority."
+          },
+          {
+            "name": "elDiario.es",
+            "lean": "Left",
+            "url": "https://www.eldiario.es/politica/media-encuestas-ultimo-dia-publicar-sube-psoe-concentra-voto-izquierda-derechas-mantienen-mayoria-absoluta_1_13684611.html",
+            "note": "Its poll average: PSOE rising as left vote consolidates, but the right still holds a majority."
+          }
+        ]
+      },
+      "right": {
+        "angle": "Right-leaning outlets treated the CIS as partisan, foregrounding Tezanos's Socialist membership and implying the figures were cooked. They set the survey against private polls that all show the PP first and a right-wing majority.",
+        "outlets": [
+          {
+            "name": "El Debate",
+            "lean": "Right",
+            "url": "https://www.eldebate.com/espana/20261123/tezanos-caldea-cocina-ultimo-cis-antes-29n-situa-psoe-10-puntos-encima-pp_484056.html",
+            "note": "Headline says Tezanos 'heats up his kitchen', framing the poll as manipulated."
+          },
+          {
+            "name": "The Objective",
+            "lean": "Centre-right",
+            "url": "https://theobjective.com/espana/politica/2026-11-23/sorpresa-psoe-cis-tezanos-armario/",
+            "note": "Quotes surprised PSOE insiders, then contrasts CIS with 40dB, Sigma Dos and other polls; gives the PP's rebuttal."
+          }
+        ]
+      },
+      "differ": "The left reported a poll showing the race wide open; the right reported a pollster it considers compromised. Both cite the private polls, which still favour a PP–Vox majority.",
+      "sources": [
+        {
+          "name": "elDiario.es",
+          "url": "https://www.eldiario.es/politica/ultimo-cis-elecciones-da-psoe-ventaja-diez-puntos-pp-vox-no-suma-mayoria-absoluta_1_13685466.html"
+        },
+        {
+          "name": "El Cronista",
+          "url": "https://www.cronista.com/espana/politica-es/el-pp-carga-contra-el-presidente-del-cis-hay-encuestas-que-sirven-para-conocer-lo-que-piensan-los-espanoles-y-otras-que-estan-disenadas-para-tranquilizar-a-quien-las-encarga/"
+        }
+      ]
+    },
+    {
+      "topic": "Defence · NATO and Poland",
+      "title": "NATO sends an AWACS to Poland after confirming the objects that hit it were Russian cruise missiles",
+      "summary": "NATO said on Monday it will deploy an AWACS early-warning aircraft to Poland, after an extraordinary North Atlantic Council meeting held at Warsaw's request. Polish prosecutors say all three objects that came down in southeastern Poland were Russian Kh-101 cruise missiles, made this year; nobody was hurt. Two Swedish Gripens on NATO air policing were cleared to fire but could not identify the missiles in bad weather. Defence minister Władysław Kosiniak-Kamysz linked the incursion to a nearby Coalition of the Willing exercise, and Warsaw has asked for more surveillance aircraft and fighters.",
+      "why": "It is the most serious Russian strike on EU and NATO soil in this war, and the response will be watched as a test of allied air defence on the eastern flank while European leaders seek a role in Ukraine peace talks.",
+      "left": {
+        "angle": "No fresh left-leaning take on the AWACS decision turned up in today's searches. Earlier left-leaning coverage (21 Nov) explained the incident and walked through NATO's options under Articles 4 and 5, without pushing for a particular response.",
+        "outlets": [
+          {
+            "name": "Al Jazeera",
+            "lean": "Lean left",
+            "url": "https://www.aljazeera.com/news/2026/11/21/russian-missiles-hit-poland-what-happened-and-could-nato-respond",
+            "note": "Earlier explainer (21 Nov): what happened and how NATO could respond."
+          }
+        ]
+      },
+      "right": {
+        "angle": "No fresh right-leaning take on Monday's decision turned up either. Earlier right-leaning US coverage (22 Nov) framed the meeting around how strongly the alliance would answer Moscow.",
+        "outlets": [
+          {
+            "name": "The Washington Times",
+            "lean": "Right",
+            "url": "https://www.washingtontimes.com/news/2026/nov/22/north-atlantic-council-meet-missiles-land-poland/",
+            "note": "Earlier coverage (22 Nov): NATO weighs its response before the council meeting."
+          }
+        ]
+      },
+      "differ": "Neither side's outlets had covered the AWACS decision yet; earlier pieces differed mainly in tone, an explanatory one on the left and a 'how hard will NATO hit back' one on the right.",
+      "sources": [
+        {
+          "name": "Reuters (via The Daily Guardian)",
+          "url": "https://thedailyguardian.com/world/refile-nato-to-send-early-warning-system-aircraft-to-poland-after-missiles-incident-777412/"
+        },
+        {
+          "name": "Notes from Poland",
+          "url": "https://notesfrompoland.com/2026/11/23/poland-confirms-three-objects-that-struck-its-territory-were-all-russian-missiles/"
+        },
+        {
+          "name": "Kyiv Post",
+          "url": "https://www.kyivpost.com/post/90893"
+        },
+        {
+          "name": "Stars and Stripes",
+          "url": "https://www.stripes.com/theaters/europe/2026-11-22/poland-russia-nato-missiles-23541547.html"
+        }
+      ]
+    }
+  ],
+  "oneSided": {
+    "left": [],
+    "right": []
+  }
+}
