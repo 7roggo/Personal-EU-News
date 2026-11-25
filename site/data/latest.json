@@ -1,196 +1,205 @@
 {
-  "date": "2026-11-24",
-  "generatedAt": "2026-11-24T05:38:35Z",
+  "date": "2026-11-25",
+  "generatedAt": "2026-11-25T05:38:38Z",
   "mode": "written",
-  "topline": "Brussels proposes a 22nd Russia sanctions package with a sports ban; Central Europe and Austria reject Costa's budget plan days before a special summit; Spain's state pollster puts the PSOE ten points ahead, against every private poll; and NATO sends an AWACS to Poland after Russian missiles land there.",
+  "topline": "Washington readies Section 301 tariffs on the EU, China and 14 others; El Hierro sets a Spanish daily record for migrant arrivals as the pact's solidarity scheme delivers few relocations; MEPs split on closing Hungary's Article 7 case; and leaders head into a two-day summit on the budget and Ukraine money.",
   "stories": [
     {
-      "topic": "Sanctions · Russia",
-      "title": "Commission proposes 22nd Russia sanctions package, including a ban on Russian-flagged athletes",
-      "summary": "Ursula von der Leyen presented a 22nd package of sanctions against Russia on Monday, aiming for agreement among the 27 governments in December. It would cut about 60 more Russian banks off SWIFT, set up a task force against crypto platforms used to dodge sanctions, bar EU firms from repairing Russian refineries and other energy sites, and list more than 70 further shadow-fleet tankers. It also revives an EU entry ban on Russian ex-combatants, which stalled in July over French and Italian doubts, and would exclude Russian teams and athletes competing under the Russian flag from sports events in the EU. A proposal on Irish-linked alumina imports was left out, and former Swedish diplomat Lars Danielsson was named the new EU sanctions envoy.",
-      "why": "Sanctions need unanimity, so the package tests whether every capital still backs pressure on Moscow while US-led peace talks continue. The sports ban would also put the EU at odds with recent IOC and FIFA moves to readmit Russia.",
+      "topic": "Trade · US tariffs",
+      "title": "US prepares new Section 301 tariffs on the EU, China and 14 other economies over industrial subsidies",
+      "summary": "The US Trade Representative is expected to publish, possibly this week, the results of an investigation opened in March into subsidised manufacturing and excess capacity in 16 economies, including the EU, China, Japan, Mexico, India and Switzerland, according to people familiar with the plans cited by AP, Reuters, Bloomberg and the Wall Street Journal. The duties, under Section 301 of the 1974 Trade Act, would partly replace the broad tariffs the US Supreme Court struck down in February. Rates, product scope and start dates are not yet public; The Telegraph reports EU goods would likely face no more than 15%, with China hit harder and cars and steel possibly carved out. The White House and USTR did not comment, and no formal EU response had been reported by Tuesday night.",
+      "why": "A new tariff round would reopen the transatlantic trade truce at a moment when the EU is itself weighing tougher tools against Chinese overcapacity. How Brussels responds will test whether it treats Washington as a partner or a target on subsidies.",
       "left": {
-        "angle": "Left-leaning coverage found today was mostly wire-based and led with the novelty of the sports ban, presenting the package as Brussels widening pressure beyond the economy. It relied on von der Leyen's own justification and gave little room to critics of the measures.",
-        "outlets": [
-          {
-            "name": "Al Jazeera",
-            "lean": "Lean left",
-            "url": "https://www.aljazeera.com/news/2026/11/23/eu-plans-sports-ban-in-sweeping-new-russia-sanctions-proposal",
-            "note": "Headlines the sports ban, then lists the banking, crypto and veteran measures; notes all 27 must agree."
-          }
-        ]
+        "angle": "No left-leaning outlet's own take on the tariff plan turned up in today's search; coverage so far is mostly agency copy carried by business and general-news sites. Earlier left-leaning reporting on US tariffs has tended to stress the cost to European exporters and consumers, but nothing specific to this round was found.",
+        "outlets": []
       },
       "right": {
-        "angle": "Right-leaning coverage approached the package through sport, treating the ban as a blow to Russia's gradual return to international competition. It stressed the practical knock-on for World Cup and Olympic qualifiers held on EU soil and the clash with recent IOC and FIFA decisions.",
+        "angle": "The Telegraph's business pages treat the move as Trump scrambling to rebuild his trade war after the Supreme Court defeat, focusing on legal mechanics and the cost of more than $100bn in refunds to importers. It presents the EU as likely to get off lighter than China.",
         "outlets": [
           {
             "name": "The Telegraph",
             "lean": "Centre-right",
-            "url": "https://www.yahoo.com/news/politics/articles/russia-return-sport-threatened-eu-172346592.html",
-            "note": "Sports-desk piece (syndicated) on how the ban could derail Russia's readmission to global sport."
+            "url": "https://www.yahoo.com/news/politics/articles/trump-poised-raise-tariffs-eu-164740840.html",
+            "note": "Syndicated on Yahoo; frames the probe as a legal workaround after the court ruling and expects a 15% cap for EU goods."
           }
         ]
       },
-      "differ": "The left-leaning wire copy framed the sports ban as one more lever on the Kremlin; the right-leaning piece framed it as an EU intervention that could upend sporting bodies' own plans.",
+      "differ": "Only right-leaning coverage with its own framing was found: it reads the move as domestic legal manoeuvring by Trump rather than a fresh confrontation with Europe.",
       "sources": [
         {
-          "name": "Euronews",
-          "url": "https://www.euronews.com/2026/11/23/eu-goes-after-russias-banks-soldiers-and-athletes-in-new-sanctions-package"
+          "name": "Transport Topics (Bloomberg)",
+          "url": "https://www.ttnews.com/articles/us-tariff-hike-china-eu-goods"
         },
         {
-          "name": "Ukrainska Pravda (via Yahoo)",
-          "url": "https://www.yahoo.com/news/world/articles/eu-presents-sanctions-package-against-155300755.html"
+          "name": "Handelsblatt (Reuters)",
+          "url": "https://www.handelsblatt.com/politik/international/handelskonflikt-usa-planen-offenbar-neue-zoelle-gegen-die-eu-und-china/100272509.html"
+        },
+        {
+          "name": "blue News (AP/dpa)",
+          "url": "https://www.bluewin.ch/en/news/international/trump-is-reportedly-planning-new-tariffs-including-against-switzerland-and-the-eu-li.3686158"
+        },
+        {
+          "name": "ORF",
+          "url": "https://orf.at/stories/3449176/"
         }
       ]
     },
     {
-      "topic": "EU budget · 2028–34 MFF",
-      "title": "Visegrád leaders and Austria call Costa's budget plan unacceptable ahead of this week's special summit",
-      "summary": "The prime ministers of Poland, Czechia, Hungary and Slovakia, joined by Austria's chancellor Christian Stocker, met in Bratislava on Monday and said António Costa's compromise for the 2028–34 budget was not acceptable. Costa's plan would cut spending to about €1.58 trillion, roughly 10% below the Commission's draft, including a cut to farm spending. Hungary's Péter Magyar rejected tying Ukraine's financing to the seven-year budget and told Costa that Thursday–Friday's special summit risked achieving nothing; Poland's Donald Tusk backed continued support for Kyiv but opposed new joint borrowing for it. No joint V4 text was adopted, but host Robert Fico said the group was aligned on cohesion and agriculture funding. Germany still says the total is too high, France calls the farm cuts disappointing, and the European Parliament is threatening a veto.",
-      "why": "Leaders meet in Brussels on 26–27 November to try to unlock both the long-term budget and Ukraine's 2027 funding, and the budget needs every government plus Parliament to agree. Demands from net payers and cohesion countries now pull in opposite directions.",
+      "topic": "Migration · Canary Islands and the Pact",
+      "title": "El Hierro sets Spain's one-day arrivals record as the EU pact's solidarity scheme delivers just 1,283 relocations",
+      "summary": "About 1,611 people on ten or eleven boats from Senegal and the Gambia reached El Hierro on Tuesday, the highest one-day sea-arrival count Spain has recorded, beating 1,580 on 14 November, according to EFE. Canary government figures put arrivals on El Hierro since 1 November above 15,000, more than the island's roughly 12,000 residents, and the region has about 3,300 unaccompanied minors in its care. Canary president Fernando Clavijo left a meeting in Madrid without a commitment to deploy Frontex and blamed both slow cooperation with origin countries and regions refusing transfers of minors. Separately, Euronews reported that only 1,283 asylum relocations are expected between EU states in 2026, the first year of the Migration Pact, against a Commission starting proposal of 30,000; Hungary and Slovakia have refused to contribute.",
+      "why": "The surge lands days before Spain's 29 November election and tests the Pact's promise of mandatory solidarity for frontline states in its first year.",
       "left": {
-        "angle": "Centre-left coverage framed the plan less around Central Europe and more around who loses from the cuts, stressing the hit to farmers and poorer regions and the coming clash between governments and MEPs. It cast the summit as a fight between 'frugal' payers and the cohesion bloc rather than a sovereignty dispute.",
-        "outlets": [
-          {
-            "name": "EUobserver",
-            "lean": "Centre-left",
-            "url": "https://euobserver.com/250481/costas-eu-budget-plan-for-10-percent-cuts-pits-frugals-against-cohesion-group-ahead-of-crunch-summit/",
-            "note": "Weekend piece (21 Nov) on the 10% cut, the farm-spending hit and the frugal-versus-cohesion split."
-          }
-        ]
-      },
-      "right": {
-        "angle": "No right-leaning take on Monday's Bratislava meeting turned up in today's searches. Earlier conservative coverage cast Fico and Babiš as defending national taxpayers against German pressure to share Ukraine's costs and against EU climate rules.",
-        "outlets": [
-          {
-            "name": "Hungarian Conservative",
-            "lean": "Right",
-            "url": "https://www.hungarianconservative.com/articles/current/fico-babis-reject-german-pressure-over-ukraine-funding",
-            "note": "Earlier coverage (11 Nov): Fico and Babiš portrayed as resisting Merz's 'blackmail' over Ukraine funding."
-          }
-        ]
-      },
-      "differ": "Centre-left reporting focused on the cuts' victims and an institutional clash with Parliament; right-leaning outlets have framed the same fight as national sovereignty against Berlin and Brussels.",
-      "sources": [
-        {
-          "name": "Euronews",
-          "url": "https://www.euronews.com/2026/11/23/visegrad-four-leaders-voice-concerns-over-eu-budget-proposal"
-        },
-        {
-          "name": "Reuters (via Devdiscourse)",
-          "url": "https://www.devdiscourse.com/article/international/4010997-central-european-leaders-reject-new-eu-budget-proposal"
-        },
-        {
-          "name": "Eunews",
-          "url": "https://www.eunews.it/en/2026/11/23/costas-budget-leaves-everyone-dissatisfied-tractors-take-to-the-streets-and-veto-threats-emerge-in-parliament/"
-        },
-        {
-          "name": "The Budapest Times",
-          "url": "https://www.budapesttimes.hu/world/pm-rejects-ukraine-eu-budget-link-ahead-of-brussels-summit/"
-        }
-      ]
-    },
-    {
-      "topic": "Member states · Spain's 29 November election",
-      "title": "Spain's state pollster gives the PSOE a ten-point lead, far out of line with private polls",
-      "summary": "The last CIS barometer before Sunday's general election, published Monday, puts the PSOE on 34.4%, the PP on 24.7% and Vox on 15.6%, which would leave PP and Vox well short of a majority on about 40% combined. Private polls published before the legal blackout tell a different story: elDiario.es's poll average has the PP on 31% and the PSOE on 27.8%, with PP and Vox winning a majority in nine of ten seat simulations. The CIS, led by Socialist Party member José Félix Tezanos, also puts Sánchez well ahead as preferred prime minister and lists housing as voters' top worry. The PP dismissed the survey as designed to reassure the government.",
-      "why": "Spain is the EU's fourth-largest economy and one of its most pro-EU governments; a PP–Vox majority would bring a hard-right party into a big-state government before next year's EU budget and migration fights.",
-      "left": {
-        "angle": "Left-leaning coverage reported the CIS numbers at face value, leading with the PSOE lead and the right falling short of a majority. elDiario.es also published its own poll average showing the right still ahead, keeping both pictures in view.",
-        "outlets": [
-          {
-            "name": "elDiario.es",
-            "lean": "Left",
-            "url": "https://www.eldiario.es/politica/ultimo-cis-elecciones-da-psoe-ventaja-diez-puntos-pp-vox-no-suma-mayoria-absoluta_1_13685466.html",
-            "note": "Leads with the PSOE's near-10-point lead and PP+Vox missing a majority."
-          },
-          {
-            "name": "elDiario.es",
-            "lean": "Left",
-            "url": "https://www.eldiario.es/politica/media-encuestas-ultimo-dia-publicar-sube-psoe-concentra-voto-izquierda-derechas-mantienen-mayoria-absoluta_1_13684611.html",
-            "note": "Its poll average: PSOE rising as left vote consolidates, but the right still holds a majority."
-          }
-        ]
-      },
-      "right": {
-        "angle": "Right-leaning outlets treated the CIS as partisan, foregrounding Tezanos's Socialist membership and implying the figures were cooked. They set the survey against private polls that all show the PP first and a right-wing majority.",
-        "outlets": [
-          {
-            "name": "El Debate",
-            "lean": "Right",
-            "url": "https://www.eldebate.com/espana/20261123/tezanos-caldea-cocina-ultimo-cis-antes-29n-situa-psoe-10-puntos-encima-pp_484056.html",
-            "note": "Headline says Tezanos 'heats up his kitchen', framing the poll as manipulated."
-          },
-          {
-            "name": "The Objective",
-            "lean": "Centre-right",
-            "url": "https://theobjective.com/espana/politica/2026-11-23/sorpresa-psoe-cis-tezanos-armario/",
-            "note": "Quotes surprised PSOE insiders, then contrasts CIS with 40dB, Sigma Dos and other polls; gives the PP's rebuttal."
-          }
-        ]
-      },
-      "differ": "The left reported a poll showing the race wide open; the right reported a pollster it considers compromised. Both cite the private polls, which still favour a PP–Vox majority.",
-      "sources": [
-        {
-          "name": "elDiario.es",
-          "url": "https://www.eldiario.es/politica/ultimo-cis-elecciones-da-psoe-ventaja-diez-puntos-pp-vox-no-suma-mayoria-absoluta_1_13685466.html"
-        },
-        {
-          "name": "El Cronista",
-          "url": "https://www.cronista.com/espana/politica-es/el-pp-carga-contra-el-presidente-del-cis-hay-encuestas-que-sirven-para-conocer-lo-que-piensan-los-espanoles-y-otras-que-estan-disenadas-para-tranquilizar-a-quien-las-encarga/"
-        }
-      ]
-    },
-    {
-      "topic": "Defence · NATO and Poland",
-      "title": "NATO sends an AWACS to Poland after confirming the objects that hit it were Russian cruise missiles",
-      "summary": "NATO said on Monday it will deploy an AWACS early-warning aircraft to Poland, after an extraordinary North Atlantic Council meeting held at Warsaw's request. Polish prosecutors say all three objects that came down in southeastern Poland were Russian Kh-101 cruise missiles, made this year; nobody was hurt. Two Swedish Gripens on NATO air policing were cleared to fire but could not identify the missiles in bad weather. Defence minister Władysław Kosiniak-Kamysz linked the incursion to a nearby Coalition of the Willing exercise, and Warsaw has asked for more surveillance aircraft and fighters.",
-      "why": "It is the most serious Russian strike on EU and NATO soil in this war, and the response will be watched as a test of allied air defence on the eastern flank while European leaders seek a role in Ukraine peace talks.",
-      "left": {
-        "angle": "No fresh left-leaning take on the AWACS decision turned up in today's searches. Earlier left-leaning coverage (21 Nov) explained the incident and walked through NATO's options under Articles 4 and 5, without pushing for a particular response.",
+        "angle": "No fresh left-leaning take on Tuesday's record was found. Al Jazeera's earlier report on the November surge led with the new EU asylum rules failing to slow arrivals and with deaths on the Atlantic route, placing the story in an EU-policy and humanitarian frame rather than a Spanish blame game.",
         "outlets": [
           {
             "name": "Al Jazeera",
             "lean": "Lean left",
-            "url": "https://www.aljazeera.com/news/2026/11/21/russian-missiles-hit-poland-what-happened-and-could-nato-respond",
-            "note": "Earlier explainer (21 Nov): what happened and how NATO could respond."
+            "url": "https://www.aljazeera.com/news/2026/11/15/record-number-of-migrants-arrive-in-spains-canary-islands",
+            "note": "Earlier coverage (15 Nov): stresses that the EU pact took effect in June yet arrivals keep climbing."
           }
         ]
       },
       "right": {
-        "angle": "No fresh right-leaning take on Monday's decision turned up either. Earlier right-leaning US coverage (22 Nov) framed the meeting around how strongly the alliance would answer Moscow.",
+        "angle": "Right-leaning Spanish outlets lead with the scale of the numbers and Madrid's responsibility, comparing El Hierro to Lampedusa and Lesbos and highlighting ignored warnings from the Canary government. Some also fault Clavijo for not blaming Sánchez directly, tying the issue to the election campaign; government explanations get little space.",
         "outlets": [
           {
-            "name": "The Washington Times",
+            "name": "El Español",
+            "lean": "Centre-right",
+            "url": "https://www.elespanol.com/espana/politica/20261125/hierro-lampedusa-lesbos-dias-llegado-migrantes-habitantes-isla/1003744470479_0.html",
+            "note": "Arrivals now outnumber residents; says Madrid ignored three letters from the islands' government."
+          },
+          {
+            "name": "Libertad Digital",
             "lean": "Right",
-            "url": "https://www.washingtontimes.com/news/2026/nov/22/north-atlantic-council-meet-missiles-land-poland/",
-            "note": "Earlier coverage (22 Nov): NATO weighs its response before the council meeting."
+            "url": "https://www.libertaddigital.com/canarias/2026-11-24/clavijo-sale-de-moncloa-sin-respuestas-ni-frontex-y-evita-senalar-a-sanchez-pese-a-admitir-que-no-saben-nada-7496636/",
+            "note": "Says Clavijo left Moncloa with no answers or Frontex and avoided blaming Sánchez."
+          },
+          {
+            "name": "Vozpópuli",
+            "lean": "Centre-right",
+            "url": "https://www.vozpopuli.com/espana/canarias/el-hierro-se-llena-de-inmigrantes-bate-el-record-historico-de-espana-con-1611-rescatados-en-un-solo-dia.html",
+            "note": "Leads with saturation and the minors crisis; questions the deals with Senegal and the Gambia."
+          },
+          {
+            "name": "Brussels Signal",
+            "lean": "Right",
+            "url": "https://brusselssignal.eu/2026/11/more-than-11000-illegal-migrants-reach-canary-islands-in-november/",
+            "note": "Stresses record numbers and PP and Vox attacks on Sánchez's border policy."
           }
         ]
       },
-      "differ": "Neither side's outlets had covered the AWACS decision yet; earlier pieces differed mainly in tone, an explanatory one on the left and a 'how hard will NATO hit back' one on the right.",
+      "differ": "Left-leaning coverage frames the surge as an EU policy and humanitarian failure; right-leaning outlets frame it as a Spanish government failure on border control in election week.",
       "sources": [
         {
-          "name": "Reuters (via The Daily Guardian)",
-          "url": "https://thedailyguardian.com/world/refile-nato-to-send-early-warning-system-aircraft-to-poland-after-missiles-incident-777412/"
+          "name": "Infobae (EFE)",
+          "url": "https://www.infobae.com/america/agencias/2026/11/24/record-historico-con-la-llegada-de-1611-migrantes-a-la-isla-espanola-del-hierro-en-un-dia/"
         },
         {
-          "name": "Notes from Poland",
-          "url": "https://notesfrompoland.com/2026/11/23/poland-confirms-three-objects-that-struck-its-territory-were-all-russian-missiles/"
+          "name": "Euronews",
+          "url": "https://www.euronews.com/2026/11/24/exclusive-eu-migration-pact-delivers-just-1283-asylum-relocations-in-first-year"
         },
         {
-          "name": "Kyiv Post",
-          "url": "https://www.kyivpost.com/post/90893"
+          "name": "Euronews",
+          "url": "https://www.euronews.com/2026/11/23/nearly-300-migrants-reach-el-hierro-in-five-boats-as-canary-route-surge-continues"
         },
         {
-          "name": "Stars and Stripes",
-          "url": "https://www.stripes.com/theaters/europe/2026-11-22/poland-russia-nato-missiles-23541547.html"
+          "name": "Diario Siglo XXI (agency)",
+          "url": "https://www.diariosigloxxi.com/texto-ep/mostrar/20261124234508/canarias-registra-nuevo-record-llegada-1900-migrantes-hierro-clavijo-senala-autonomias-pp-psoe"
+        }
+      ]
+    },
+    {
+      "topic": "Rule of law · Hungary",
+      "title": "MEPs split on ending Hungary's Article 7 procedure ahead of a December vote",
+      "summary": "The European Parliament debated Hungary's rule of law in Strasbourg on Tuesday, seven months after Péter Magyar's government replaced Viktor Orbán's. The EPP, through Tomas Tobé, said the time had come to close the Article 7 procedure and wants a resolution in December, which would need a two-thirds majority. Socialists and Greens praised the reforms but said they were not yet enough, pointing to Hungary's unpaid €1 million a day fine for ignoring an EU asylum ruling; ECR and Patriots MEPs questioned changes such as the retroactive term limits. Commissioner Michael McGrath gave a broadly positive assessment with remaining concerns, and the Irish presidency signalled the Council could consider withdrawing the case.",
+      "why": "Closing Article 7 would be the first time the EU formally ends its strongest rule-of-law procedure, and the debate shows how the bar for 'progress' is set after a change of government.",
+      "left": {
+        "angle": "Centre-left coverage leads with the EPP's push and the December deadline but gives space to Socialist and Green critics who say six months of reform cannot undo years of damage. It recalls that Fidesz sat in the EPP until 2021, a point the left uses to question the EPP's haste.",
+        "outlets": [
+          {
+            "name": "EUobserver",
+            "lean": "Centre-left",
+            "url": "https://euobserver.com/251017/meps-still-split-over-ending-hungarys-article-7-sanctions-procedure-as-magyars-reforms-win-praise/",
+            "note": "Reforms win praise across groups, but critics warn the work is unfinished."
+          }
+        ]
+      },
+      "right": {
+        "angle": "No right-leaning report on Tuesday's debate was found. Conservative outlets had earlier framed the likely closure as proof of double standards, arguing Brussels is dropping the case only because Orbán lost power; in the chamber, ECR and Patriots MEPs made the same point.",
+        "outlets": [
+          {
+            "name": "The European Conservative",
+            "lean": "Right",
+            "url": "https://europeanconservative.com/articles/news/brussels-ready-to-drop-hungary-case-after-orban-defeat/",
+            "note": "Earlier coverage; headline accuses Brussels of double standards (page could not be opened today)."
+          },
+          {
+            "name": "Brussels Signal",
+            "lean": "Right",
+            "url": "https://brusselssignal.eu/2026/09/brussels-prepare-to-drop-article-7-against-hungary-before-mission-assesses-reforms/",
+            "note": "Earlier coverage (September): says Brussels was preparing to drop the case before assessing reforms."
+          }
+        ]
+      },
+      "differ": "The left asks whether reforms go far enough; the right asks why the procedure was ever political, reading its quick closure as evidence it targeted Orbán rather than rules.",
+      "sources": [
+        {
+          "name": "Agence Europe",
+          "url": "https://agenceurope.eu/en/bulletin/article/13989/16/despite-hungarys-progress-no-consensus-in-european-parliament-on-ending-article-7-procedure"
+        },
+        {
+          "name": "Telex",
+          "url": "https://telex.hu/english/2026/11/24/current-eu-presidency-suggests-article-7-proceedings-against-hungary-may-soon-be-terminated"
+        }
+      ]
+    },
+    {
+      "topic": "EU budget · Summit and Ukraine funding",
+      "title": "Leaders meet Thursday on the 2028–34 budget and Ukraine money with key splits unresolved",
+      "summary": "EU leaders gather in Brussels on 26–27 November for a special summit on the next long-term budget and on financing Ukraine in 2027, and Council President António Costa wants a deal by Friday. Ambassadors' talks on Monday ended without progress, according to diplomats quoted by Euronews; Germany rejected Costa's trimmed budget proposal at that meeting and an Élysée source called it very disappointing. The Commission has proposed a €45bn loan to Kyiv for 2027, and Costa's draft earmarks €100bn for Ukraine over the budget period, though some capitals ask whether interest payments eat into that sum. Slovakia, Czechia, Hungary and Bulgaria want to opt out of the Ukraine top-up, and one compromise floated would let them skip the €25bn military part while backing the €20bn civilian part.",
+      "why": "Chancellor Merz has tied Germany's budget support to a Ukraine funding commitment, so a failure on one could stall both, with Kyiv facing a funding gap next year.",
+      "left": {
+        "angle": "No left-leaning outlet's own preview of the summit was found in today's search; available coverage came from straight-news and Ukrainian outlets stressing confusion over what the Ukraine money covers.",
+        "outlets": []
+      },
+      "right": {
+        "angle": "Hungarian Conservative's short preview presents the summit as Costa's push for a Friday deal, drawn from his invitation letter, and leaves aside the national disputes. Fico's earlier charge that Merz is using 'blackmail' by linking the two files has been widely amplified on the right.",
+        "outlets": [
+          {
+            "name": "Hungarian Conservative",
+            "lean": "Right",
+            "url": "https://www.hungarianconservative.com/articles/current/eu-leaders-face-deadline-for-budget-and-ukraine-funding-deal",
+            "note": "Procedural preview built on Costa's letter, including ECB succession on the agenda."
+          }
+        ]
+      },
+      "differ": "With little partisan coverage yet, the main divide is between capitals: Berlin treats Ukraine funding as a precondition, while Bratislava and Budapest call that coercion.",
+      "sources": [
+        {
+          "name": "Euronews",
+          "url": "https://www.euronews.com/2026/11/24/red-lines-political-horse-trading-and-ukraine-inside-the-eus-increasingly-bitter-budget-ba"
+        },
+        {
+          "name": "Kyiv Independent",
+          "url": "https://kyivindependent.com/days-before-key-summit-eu-countries-want-to-help-ukraine-but-cant-agree-on-how/"
+        },
+        {
+          "name": "Reuters (via Yahoo)",
+          "url": "https://www.yahoo.com/news/articles/slovak-pm-fico-accuses-merz-124920776.html"
         }
       ]
     }
   ],
   "oneSided": {
     "left": [],
-    "right": []
+    "right": [
+      {
+        "title": "Belgian Socialists block budget deal, De Wever sent back to the table",
+        "outlet": "Brussels Signal",
+        "lean": "Right",
+        "url": "https://brusselssignal.eu/2026/11/belgian-socialists-block-budget-deal-de-wever-sent-back-to-the-table/"
+      }
+    ]
   }
 }

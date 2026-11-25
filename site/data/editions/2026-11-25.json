@@ -1,0 +1,205 @@
+{
+  "date": "2026-11-25",
+  "generatedAt": "2026-11-25T05:38:38Z",
+  "mode": "written",
+  "topline": "Washington readies Section 301 tariffs on the EU, China and 14 others; El Hierro sets a Spanish daily record for migrant arrivals as the pact's solidarity scheme delivers few relocations; MEPs split on closing Hungary's Article 7 case; and leaders head into a two-day summit on the budget and Ukraine money.",
+  "stories": [
+    {
+      "topic": "Trade · US tariffs",
+      "title": "US prepares new Section 301 tariffs on the EU, China and 14 other economies over industrial subsidies",
+      "summary": "The US Trade Representative is expected to publish, possibly this week, the results of an investigation opened in March into subsidised manufacturing and excess capacity in 16 economies, including the EU, China, Japan, Mexico, India and Switzerland, according to people familiar with the plans cited by AP, Reuters, Bloomberg and the Wall Street Journal. The duties, under Section 301 of the 1974 Trade Act, would partly replace the broad tariffs the US Supreme Court struck down in February. Rates, product scope and start dates are not yet public; The Telegraph reports EU goods would likely face no more than 15%, with China hit harder and cars and steel possibly carved out. The White House and USTR did not comment, and no formal EU response had been reported by Tuesday night.",
+      "why": "A new tariff round would reopen the transatlantic trade truce at a moment when the EU is itself weighing tougher tools against Chinese overcapacity. How Brussels responds will test whether it treats Washington as a partner or a target on subsidies.",
+      "left": {
+        "angle": "No left-leaning outlet's own take on the tariff plan turned up in today's search; coverage so far is mostly agency copy carried by business and general-news sites. Earlier left-leaning reporting on US tariffs has tended to stress the cost to European exporters and consumers, but nothing specific to this round was found.",
+        "outlets": []
+      },
+      "right": {
+        "angle": "The Telegraph's business pages treat the move as Trump scrambling to rebuild his trade war after the Supreme Court defeat, focusing on legal mechanics and the cost of more than $100bn in refunds to importers. It presents the EU as likely to get off lighter than China.",
+        "outlets": [
+          {
+            "name": "The Telegraph",
+            "lean": "Centre-right",
+            "url": "https://www.yahoo.com/news/politics/articles/trump-poised-raise-tariffs-eu-164740840.html",
+            "note": "Syndicated on Yahoo; frames the probe as a legal workaround after the court ruling and expects a 15% cap for EU goods."
+          }
+        ]
+      },
+      "differ": "Only right-leaning coverage with its own framing was found: it reads the move as domestic legal manoeuvring by Trump rather than a fresh confrontation with Europe.",
+      "sources": [
+        {
+          "name": "Transport Topics (Bloomberg)",
+          "url": "https://www.ttnews.com/articles/us-tariff-hike-china-eu-goods"
+        },
+        {
+          "name": "Handelsblatt (Reuters)",
+          "url": "https://www.handelsblatt.com/politik/international/handelskonflikt-usa-planen-offenbar-neue-zoelle-gegen-die-eu-und-china/100272509.html"
+        },
+        {
+          "name": "blue News (AP/dpa)",
+          "url": "https://www.bluewin.ch/en/news/international/trump-is-reportedly-planning-new-tariffs-including-against-switzerland-and-the-eu-li.3686158"
+        },
+        {
+          "name": "ORF",
+          "url": "https://orf.at/stories/3449176/"
+        }
+      ]
+    },
+    {
+      "topic": "Migration · Canary Islands and the Pact",
+      "title": "El Hierro sets Spain's one-day arrivals record as the EU pact's solidarity scheme delivers just 1,283 relocations",
+      "summary": "About 1,611 people on ten or eleven boats from Senegal and the Gambia reached El Hierro on Tuesday, the highest one-day sea-arrival count Spain has recorded, beating 1,580 on 14 November, according to EFE. Canary government figures put arrivals on El Hierro since 1 November above 15,000, more than the island's roughly 12,000 residents, and the region has about 3,300 unaccompanied minors in its care. Canary president Fernando Clavijo left a meeting in Madrid without a commitment to deploy Frontex and blamed both slow cooperation with origin countries and regions refusing transfers of minors. Separately, Euronews reported that only 1,283 asylum relocations are expected between EU states in 2026, the first year of the Migration Pact, against a Commission starting proposal of 30,000; Hungary and Slovakia have refused to contribute.",
+      "why": "The surge lands days before Spain's 29 November election and tests the Pact's promise of mandatory solidarity for frontline states in its first year.",
+      "left": {
+        "angle": "No fresh left-leaning take on Tuesday's record was found. Al Jazeera's earlier report on the November surge led with the new EU asylum rules failing to slow arrivals and with deaths on the Atlantic route, placing the story in an EU-policy and humanitarian frame rather than a Spanish blame game.",
+        "outlets": [
+          {
+            "name": "Al Jazeera",
+            "lean": "Lean left",
+            "url": "https://www.aljazeera.com/news/2026/11/15/record-number-of-migrants-arrive-in-spains-canary-islands",
+            "note": "Earlier coverage (15 Nov): stresses that the EU pact took effect in June yet arrivals keep climbing."
+          }
+        ]
+      },
+      "right": {
+        "angle": "Right-leaning Spanish outlets lead with the scale of the numbers and Madrid's responsibility, comparing El Hierro to Lampedusa and Lesbos and highlighting ignored warnings from the Canary government. Some also fault Clavijo for not blaming Sánchez directly, tying the issue to the election campaign; government explanations get little space.",
+        "outlets": [
+          {
+            "name": "El Español",
+            "lean": "Centre-right",
+            "url": "https://www.elespanol.com/espana/politica/20261125/hierro-lampedusa-lesbos-dias-llegado-migrantes-habitantes-isla/1003744470479_0.html",
+            "note": "Arrivals now outnumber residents; says Madrid ignored three letters from the islands' government."
+          },
+          {
+            "name": "Libertad Digital",
+            "lean": "Right",
+            "url": "https://www.libertaddigital.com/canarias/2026-11-24/clavijo-sale-de-moncloa-sin-respuestas-ni-frontex-y-evita-senalar-a-sanchez-pese-a-admitir-que-no-saben-nada-7496636/",
+            "note": "Says Clavijo left Moncloa with no answers or Frontex and avoided blaming Sánchez."
+          },
+          {
+            "name": "Vozpópuli",
+            "lean": "Centre-right",
+            "url": "https://www.vozpopuli.com/espana/canarias/el-hierro-se-llena-de-inmigrantes-bate-el-record-historico-de-espana-con-1611-rescatados-en-un-solo-dia.html",
+            "note": "Leads with saturation and the minors crisis; questions the deals with Senegal and the Gambia."
+          },
+          {
+            "name": "Brussels Signal",
+            "lean": "Right",
+            "url": "https://brusselssignal.eu/2026/11/more-than-11000-illegal-migrants-reach-canary-islands-in-november/",
+            "note": "Stresses record numbers and PP and Vox attacks on Sánchez's border policy."
+          }
+        ]
+      },
+      "differ": "Left-leaning coverage frames the surge as an EU policy and humanitarian failure; right-leaning outlets frame it as a Spanish government failure on border control in election week.",
+      "sources": [
+        {
+          "name": "Infobae (EFE)",
+          "url": "https://www.infobae.com/america/agencias/2026/11/24/record-historico-con-la-llegada-de-1611-migrantes-a-la-isla-espanola-del-hierro-en-un-dia/"
+        },
+        {
+          "name": "Euronews",
+          "url": "https://www.euronews.com/2026/11/24/exclusive-eu-migration-pact-delivers-just-1283-asylum-relocations-in-first-year"
+        },
+        {
+          "name": "Euronews",
+          "url": "https://www.euronews.com/2026/11/23/nearly-300-migrants-reach-el-hierro-in-five-boats-as-canary-route-surge-continues"
+        },
+        {
+          "name": "Diario Siglo XXI (agency)",
+          "url": "https://www.diariosigloxxi.com/texto-ep/mostrar/20261124234508/canarias-registra-nuevo-record-llegada-1900-migrantes-hierro-clavijo-senala-autonomias-pp-psoe"
+        }
+      ]
+    },
+    {
+      "topic": "Rule of law · Hungary",
+      "title": "MEPs split on ending Hungary's Article 7 procedure ahead of a December vote",
+      "summary": "The European Parliament debated Hungary's rule of law in Strasbourg on Tuesday, seven months after Péter Magyar's government replaced Viktor Orbán's. The EPP, through Tomas Tobé, said the time had come to close the Article 7 procedure and wants a resolution in December, which would need a two-thirds majority. Socialists and Greens praised the reforms but said they were not yet enough, pointing to Hungary's unpaid €1 million a day fine for ignoring an EU asylum ruling; ECR and Patriots MEPs questioned changes such as the retroactive term limits. Commissioner Michael McGrath gave a broadly positive assessment with remaining concerns, and the Irish presidency signalled the Council could consider withdrawing the case.",
+      "why": "Closing Article 7 would be the first time the EU formally ends its strongest rule-of-law procedure, and the debate shows how the bar for 'progress' is set after a change of government.",
+      "left": {
+        "angle": "Centre-left coverage leads with the EPP's push and the December deadline but gives space to Socialist and Green critics who say six months of reform cannot undo years of damage. It recalls that Fidesz sat in the EPP until 2021, a point the left uses to question the EPP's haste.",
+        "outlets": [
+          {
+            "name": "EUobserver",
+            "lean": "Centre-left",
+            "url": "https://euobserver.com/251017/meps-still-split-over-ending-hungarys-article-7-sanctions-procedure-as-magyars-reforms-win-praise/",
+            "note": "Reforms win praise across groups, but critics warn the work is unfinished."
+          }
+        ]
+      },
+      "right": {
+        "angle": "No right-leaning report on Tuesday's debate was found. Conservative outlets had earlier framed the likely closure as proof of double standards, arguing Brussels is dropping the case only because Orbán lost power; in the chamber, ECR and Patriots MEPs made the same point.",
+        "outlets": [
+          {
+            "name": "The European Conservative",
+            "lean": "Right",
+            "url": "https://europeanconservative.com/articles/news/brussels-ready-to-drop-hungary-case-after-orban-defeat/",
+            "note": "Earlier coverage; headline accuses Brussels of double standards (page could not be opened today)."
+          },
+          {
+            "name": "Brussels Signal",
+            "lean": "Right",
+            "url": "https://brusselssignal.eu/2026/09/brussels-prepare-to-drop-article-7-against-hungary-before-mission-assesses-reforms/",
+            "note": "Earlier coverage (September): says Brussels was preparing to drop the case before assessing reforms."
+          }
+        ]
+      },
+      "differ": "The left asks whether reforms go far enough; the right asks why the procedure was ever political, reading its quick closure as evidence it targeted Orbán rather than rules.",
+      "sources": [
+        {
+          "name": "Agence Europe",
+          "url": "https://agenceurope.eu/en/bulletin/article/13989/16/despite-hungarys-progress-no-consensus-in-european-parliament-on-ending-article-7-procedure"
+        },
+        {
+          "name": "Telex",
+          "url": "https://telex.hu/english/2026/11/24/current-eu-presidency-suggests-article-7-proceedings-against-hungary-may-soon-be-terminated"
+        }
+      ]
+    },
+    {
+      "topic": "EU budget · Summit and Ukraine funding",
+      "title": "Leaders meet Thursday on the 2028–34 budget and Ukraine money with key splits unresolved",
+      "summary": "EU leaders gather in Brussels on 26–27 November for a special summit on the next long-term budget and on financing Ukraine in 2027, and Council President António Costa wants a deal by Friday. Ambassadors' talks on Monday ended without progress, according to diplomats quoted by Euronews; Germany rejected Costa's trimmed budget proposal at that meeting and an Élysée source called it very disappointing. The Commission has proposed a €45bn loan to Kyiv for 2027, and Costa's draft earmarks €100bn for Ukraine over the budget period, though some capitals ask whether interest payments eat into that sum. Slovakia, Czechia, Hungary and Bulgaria want to opt out of the Ukraine top-up, and one compromise floated would let them skip the €25bn military part while backing the €20bn civilian part.",
+      "why": "Chancellor Merz has tied Germany's budget support to a Ukraine funding commitment, so a failure on one could stall both, with Kyiv facing a funding gap next year.",
+      "left": {
+        "angle": "No left-leaning outlet's own preview of the summit was found in today's search; available coverage came from straight-news and Ukrainian outlets stressing confusion over what the Ukraine money covers.",
+        "outlets": []
+      },
+      "right": {
+        "angle": "Hungarian Conservative's short preview presents the summit as Costa's push for a Friday deal, drawn from his invitation letter, and leaves aside the national disputes. Fico's earlier charge that Merz is using 'blackmail' by linking the two files has been widely amplified on the right.",
+        "outlets": [
+          {
+            "name": "Hungarian Conservative",
+            "lean": "Right",
+            "url": "https://www.hungarianconservative.com/articles/current/eu-leaders-face-deadline-for-budget-and-ukraine-funding-deal",
+            "note": "Procedural preview built on Costa's letter, including ECB succession on the agenda."
+          }
+        ]
+      },
+      "differ": "With little partisan coverage yet, the main divide is between capitals: Berlin treats Ukraine funding as a precondition, while Bratislava and Budapest call that coercion.",
+      "sources": [
+        {
+          "name": "Euronews",
+          "url": "https://www.euronews.com/2026/11/24/red-lines-political-horse-trading-and-ukraine-inside-the-eus-increasingly-bitter-budget-ba"
+        },
+        {
+          "name": "Kyiv Independent",
+          "url": "https://kyivindependent.com/days-before-key-summit-eu-countries-want-to-help-ukraine-but-cant-agree-on-how/"
+        },
+        {
+          "name": "Reuters (via Yahoo)",
+          "url": "https://www.yahoo.com/news/articles/slovak-pm-fico-accuses-merz-124920776.html"
+        }
+      ]
+    }
+  ],
+  "oneSided": {
+    "left": [],
+    "right": [
+      {
+        "title": "Belgian Socialists block budget deal, De Wever sent back to the table",
+        "outlet": "Brussels Signal",
+        "lean": "Right",
+        "url": "https://brusselssignal.eu/2026/11/belgian-socialists-block-budget-deal-de-wever-sent-back-to-the-table/"
+      }
+    ]
+  }
+}
