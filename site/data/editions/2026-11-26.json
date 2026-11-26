@@ -1,0 +1,152 @@
+{
+  "date": "2026-11-26",
+  "generatedAt": "2026-11-26T05:39:30Z",
+  "mode": "written",
+  "topline": "EU leaders open a fractious budget-and-Ukraine summit, Socialists and Liberals freeze coalition talks after the EPP votes with the right on nature rules, and the Canaries break their one-day arrivals record days before Spain votes.",
+  "stories": [
+    {
+      "topic": "Budget · MFF 2028–34 and Ukraine",
+      "title": "Leaders open two-day summit on the long-term budget and Kyiv's 2027 funding, with no deal in sight",
+      "summary": "EU leaders meet in Brussels on Thursday and Friday to negotiate the 2028–2034 budget and how to fill a roughly €70bn gap in Ukraine's 2027 budget. Council President António Costa's latest negotiating box trims the Commission's original proposal by €204bn, which frugal states including Sweden still find too big and the 17 'Friends of Cohesion' find too harsh; the Visegrád Four and Austria called it unacceptable at a meeting in Bratislava on Monday. The Commission has tabled a €45bn loan for Kyiv backed by joint EU borrowing, split into a €20bn budget strand and a €25bn military strand, but Slovakia, Czechia, Hungary and Bulgaria say they will not join. Germany's Friedrich Merz has threatened to block the budget unless all 27 back Ukraine support, which Slovakia's Robert Fico called blackmail, while Paris has said talks cannot run past December. Diplomats expect this summit to prepare a deal in December rather than close one.",
+      "why": "The seven-year budget sets how much goes to farmers, regions, defence and new EU taxes, and the Ukraine loan decides whether Kyiv's 2027 finances are covered as US support wavers.",
+      "left": {
+        "angle": "Centre-left coverage frames the summit around who loses under Costa's cuts, foregrounding smaller farm and cohesion envelopes alongside a growing bill for Ukraine. It gives weight to the new own resources, such as a digital levy, as the way to square the circle, and treats the frugal camp as the main obstacle.",
+        "outlets": [
+          {
+            "name": "EUobserver",
+            "lean": "Centre-left",
+            "url": "https://euobserver.com/251179/less-eu-money-for-farmers-and-regions-but-a-growing-ukraine-bill-leaders-meet-to-square-trillion-euro-circles-at-special-summit/",
+            "note": "Leads with less money for farmers and regions set against rising Ukraine costs; details Costa's new-tax plans."
+          }
+        ]
+      },
+      "right": {
+        "angle": "Right-leaning coverage stresses Costa's push to wrap up by Friday and the procedural stakes, including the ECB succession on the agenda, rather than the distributional cuts. We found little else from right-leaning outlets on the summit itself by Thursday morning.",
+        "outlets": [
+          {
+            "name": "Hungarian Conservative",
+            "lean": "Right",
+            "url": "https://hungarianconservative.com/articles/current/eu-leaders-face-deadline-for-budget-and-ukraine-funding-deal",
+            "note": "Short preview centred on Costa's Friday deadline and the ECB leadership question."
+          }
+        ]
+      },
+      "differ": "The left asks who pays and who loses programmes under the cuts; the right-leaning preview we found sticks to the timetable and the institutional agenda.",
+      "sources": [
+        {
+          "name": "Euronews",
+          "url": "https://www.euronews.com/2026/11/26/eu-budget-and-ukraine-aid-headed-for-collision-at-turbulent-summit"
+        },
+        {
+          "name": "Euronews",
+          "url": "https://euronews.com/2026/11/24/red-lines-political-horse-trading-and-ukraine-inside-the-eus-increasingly-bitter-budget-ba"
+        },
+        {
+          "name": "Council of the EU",
+          "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/11/24/special-european-council-of-26-27-november-2026-invitation-letter-by-president-antonio-costa-to-the-members-of-the-european-council/"
+        }
+      ]
+    },
+    {
+      "topic": "Parliament · EPP and the centrist coalition",
+      "title": "Socialists and Liberals suspend coalition talks after the EPP votes with right-wing groups on nature rules",
+      "summary": "On Wednesday in Strasbourg, EPP votes helped pass ECR and Patriots amendments to the 'Omnibus VIII' simplification package, which speeds up environmental assessments for housing, water and other infrastructure and opens the door to revisiting the Birds and Habitats directives. The S&D and Renew groups then suspended talks with the EPP on a mid-term cooperation deal, according to parliamentary sources quoted by Euronews. That deal was meant to cover the January re-election of Parliament President Roberta Metsola, and the two groups now want a written commitment that the EPP will stop relying on votes from ECR, Patriots and ESN. EPP leader Manfred Weber declined on Tuesday to make that pledge, while Brothers of Italy's Carlo Fidanza hailed a right-of-centre 'Giorgia majority' as the alternative.",
+      "why": "The rift threatens the pro-EU majority that elects Parliament's leadership and passes legislation, and it signals that more Green Deal rules could be loosened with right-wing votes.",
+      "left": {
+        "angle": "Left-leaning coverage casts the vote as another EPP mutiny with the hard right and leads with the anger of Socialists and Liberals and the danger to Metsola's second full term. It stresses the weakening of nature protections and describes the Patriots and ECR as the ultra-right.",
+        "outlets": [
+          {
+            "name": "Il Fatto Quotidiano",
+            "lean": "Left",
+            "url": "https://www.ilfattoquotidiano.it/2026/11/25/parlamento-europeo-ppe-destra-green-metsola-notizie/8583911/",
+            "note": "Leads with S&D and Renew fury and the risk to Metsola; critical of the EPP's choice of partners."
+          }
+        ]
+      },
+      "right": {
+        "angle": "We found no right-leaning outlet's own report on Wednesday's vote, only a party statement: Fidanza's call for an EPP–ECR–Patriots alignment on ETS, cars and industry, carried by the ANSA agency, which brushes off the centrists' reaction as hysterical. As earlier coverage, Il Giornale celebrated a similar EPP–right alliance on the deforestation law in November 2025 as a blow to 'extreme environmentalism'.",
+        "outlets": [
+          {
+            "name": "Il Giornale (earlier coverage, Nov 2025)",
+            "lean": "Right",
+            "url": "https://www.ilgiornale.it/news/politica/ue-maggioranza-giorgia-fa-bis-intesa-popolari-destre-anche-2574187.html",
+            "note": "Earlier piece praising the 'Giorgia majority' on deforestation rules; not about this week's vote."
+          }
+        ]
+      },
+      "differ": "The left treats the EPP's vote as a breach of the centrist pact that endangers the Parliament's leadership; the right treats it as proof that a centre-right majority can cut red tape without the left.",
+      "sources": [
+        {
+          "name": "Euronews",
+          "url": "https://www.euronews.com/2026/11/25/socialists-and-liberals-suspend-coalition-talks-after-epp-again-sides-with-far-right"
+        },
+        {
+          "name": "ANSA",
+          "url": "https://www.ansa.it/europa/notizie/rubriche/altrenews/2026/11/25/fidanza-fdi-maggioranza-giorgia-unica-alternativa-per-salvare-leuropa_bfaa0e29-05e5-497e-ad89-10e80df8e652.html"
+        }
+      ]
+    },
+    {
+      "topic": "Migration · Atlantic route",
+      "title": "Canary Islands record about 2,000 arrivals in a day, and El Hierro declares an emergency",
+      "summary": "Roughly 2,000 people reached the Canary Islands on Tuesday, most of them landing on El Hierro, a new single-day record: Spain's maritime rescue service counted 1,990 on 15 boats, while EFE's tally put it above 2,100 on 14 boats, including one person who died and a baby born at sea. Most boats left from Senegal and the Gambia. On Wednesday the Canary government declared a health, social and security emergency on El Hierro and asked for the military emergency unit, and regional leader Fernando Clavijo sought an urgent meeting with Ursula von der Leyen, saying Frontex is absent from the departure coasts. Prime Minister Pedro Sánchez said Spain is in contact with Senegal and the Gambia and expects arrivals to fall. The surge comes days before Spain's general election on Sunday 29 November.",
+      "why": "It tests the EU's new migration pact and its solidarity scheme, and Clavijo is pressing Brussels for Frontex deployment and help with unaccompanied minors.",
+      "left": {
+        "angle": "Left-leaning Spanish outlets report the record matter-of-factly and give space to the government's diplomatic response and Clavijo's call for a coordinated Spanish and European answer. Earlier, elDiario.es fact-checked campaign claims linking the surge to the regularisation decree and rejected talk of an 'invasion'.",
+        "outlets": [
+          {
+            "name": "infoLibre",
+            "lean": "Left",
+            "url": "https://www.infolibre.es/economia-y-sociedad/llegada-cayucos-canarias-bate-nuevo-record-2-000-migrantes-dia_1_2241210.html",
+            "note": "Record figures followed by Sánchez's expectation that arrivals will ease."
+          },
+          {
+            "name": "elDiario.es (earlier coverage, 21 Nov)",
+            "lean": "Left",
+            "url": "https://www.eldiario.es/canariasahora/politica/repunte-ruta-canaria-coincide-elecciones-bulos-inmigracion-campana_1_13675988.html",
+            "note": "Fact-check of migration claims made by Vox and PP figures during the campaign."
+          }
+        ]
+      },
+      "right": {
+        "angle": "Right-leaning coverage uses alarmed language about the scale of arrivals and centres the failures of Madrid and Brussels to prevent departures. Some outlets call the arrivals illegal migrants throughout and quote Vox's Santiago Abascal calling it a 'planned invasion'.",
+        "outlets": [
+          {
+            "name": "El Debate",
+            "lean": "Right",
+            "url": "https://www.eldebate.com/espana/20261125/canarias-bate-nuevo-record-2100-inmigrantes-llegados-hierro-solo-dia_484822.html",
+            "note": "Stresses Clavijo's criticism of the central government, the EU and regions refusing to take minors."
+          },
+          {
+            "name": "Breitbart",
+            "lean": "Right",
+            "url": "https://www.breitbart.com/europe/2026/11/25/migrant-crisis-at-spains-canary-islands-breaks-new-records-with-2100-arrivals-in-a-single-day/",
+            "note": "Frames the record as islands 'swamped' and foregrounds political blame."
+          }
+        ]
+      },
+      "differ": "The left focuses on humanitarian response and on correcting campaign rhetoric; the right focuses on loss of control and government failure in the last days of the campaign.",
+      "sources": [
+        {
+          "name": "AP (via ABC News)",
+          "url": "https://abcnews.com/amp/International/wireStory/migration-spains-canary-islands-breaks-single-day-record-138434894"
+        },
+        {
+          "name": "Mundiario",
+          "url": "https://www.mundiario.com/politica/canarias-clama-ayuda-hierro-declara-emergencia-defensa-envia-ume/20261126034734454991.html"
+        }
+      ]
+    }
+  ],
+  "oneSided": {
+    "left": [],
+    "right": [
+      {
+        "title": "European Right pushes Brussels to get tough on China",
+        "outlet": "Brussels Signal",
+        "lean": "Right",
+        "url": "https://brusselssignal.eu/2026/11/european-right-pushes-brussels-to-get-tough-on-china/"
+      }
+    ]
+  }
+}
