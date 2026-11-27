@@ -1,0 +1,161 @@
+{
+  "date": "2026-11-27",
+  "generatedAt": "2026-11-27T05:37:57Z",
+  "mode": "written",
+  "topline": "EU leaders break up their budget summit early with no deal and the Ukraine loan still split, euro-area leaders pick Spain's Pablo Hernández de Cos to succeed Lagarde at the ECB, and Brussels pushes back on new US 'overcapacity' tariffs.",
+  "stories": [
+    {
+      "topic": "Budget · MFF and Ukraine",
+      "title": "Budget summit ends a day early without a deal; leaders aim for 17–18 December",
+      "summary": "A special European Council on the 2028–2034 long-term budget broke up late on Thursday with no agreement, and the planned Friday session was dropped. Council President António Costa's compromise cut about €204bn from the Commission's near-€2 trillion proposal (Reuters puts the draft at €1.582 trillion in constant prices), drawing objections both from seven net payers seeking deeper cuts and from 17 'Friends of Cohesion' resisting cuts to farm and regional funds. Germany's Friedrich Merz tied any budget deal to all 27 states backing a new €45bn joint-debt loan for Ukraine in 2027; only 24 back it, with Hungary, Czechia and Slovakia seeking to opt out and Bulgaria offering partial participation. Emmanuel Macron said there must be a deal by year-end or none at all, while Italy's Giorgia Meloni said an accord was 'light years away'. Costa will bring a new proposal to the 17–18 December summit.",
+      "why": "France, Italy, Poland and other members vote in 2027, and Paris and Berlin want both the budget and Kyiv's 2027 funding locked in before a possible Le Pen presidency could reopen them.",
+      "left": {
+        "angle": "Centre-left coverage treats the failed summit as a normal, if bruising, step in EU budget haggling, pointing to the 2020 precedent where a failed February summit was followed by a July deal. It stresses Macron's warning about a 'strategic mistake' in cutting EU spending and the pressure of the 2027 French election, and expects red lines to soften by December. No take from the listed left-leaning dailies on the summit's end was found in today's searches.",
+        "outlets": [
+          {
+            "name": "EUobserver",
+            "lean": "Centre-left",
+            "url": "https://euobserver.com/251964/a-bad-summit-first-a-eu-budget-deal-later/",
+            "note": "Analysis arguing a 'bad' first summit is the usual prelude to a later budget deal."
+          }
+        ]
+      },
+      "right": {
+        "angle": "Right-leaning coverage leads with what it calls a revolt against Costa by the net payers and frames Merz's Ukraine-loan condition as coercion, giving prominence to Robert Fico's charge of 'blackmail'. It foregrounds Hungarian PM Péter Magyar's refusal to accept funding cuts or a link between the budget and Kyiv, and Marine Le Pen's pledge to cap France's net contribution. It gives less room to the arguments of Costa or Merz for their positions.",
+        "outlets": [
+          {
+            "name": "Hungarian Conservative",
+            "lean": "Right",
+            "url": "https://www.hungarianconservative.com/articles/current/eu-budget-council-summit-collapse-cohesion-ukraine",
+            "note": "Leads with the payers' walkout on Costa and Central European objections to the Ukraine linkage."
+          },
+          {
+            "name": "Brussels Signal",
+            "lean": "Right",
+            "url": "https://brusselssignal.eu/2026/10/brussels-wants-ukraine-funding-deal-agreed-before-the-year-ends/",
+            "note": "Earlier coverage (October): Commission's push to settle Ukraine's 2027 funding gap before year-end."
+          }
+        ]
+      },
+      "differ": "The centre-left reads the deadlock as routine bargaining against an election clock; the right reads it as Berlin and Brussels squeezing reluctant capitals, with Ukraine funding as the lever.",
+      "sources": [
+        {
+          "name": "Euronews",
+          "url": "https://www.euronews.com/2026/11/27/a-lot-of-political-theatre-eu-summit-ends-in-disarray-as-leaders-cling-to-red-lines"
+        },
+        {
+          "name": "Reuters (via Internazionale)",
+          "url": "https://www.internazionale.it/ultime-notizie-reuters/2026/11/27/eu-leaders-to-wrestle-with-seven-year-budget-ukraine-financing-as-they-seek-december-deal"
+        },
+        {
+          "name": "AFP (via RTÉ)",
+          "url": "https://www.rte.ie/news/2026/1127/1600843-macron-la-pen/"
+        },
+        {
+          "name": "Ritzau (via The Copenhagen Post)",
+          "url": "https://cphpost.dk/2026-11-27/global/eu-remains-divided-over-new-e45-billion-loan-to-ukraine/"
+        },
+        {
+          "name": "Euronews",
+          "url": "https://www.euronews.com/2026/11/26/eu-budget-and-ukraine-aid-headed-for-collision-at-turbulent-summit"
+        }
+      ]
+    },
+    {
+      "topic": "Economy · ECB leadership",
+      "title": "Euro-area leaders back Spain's Hernández de Cos to succeed Lagarde at the ECB",
+      "summary": "Euro-area leaders meeting in Brussels on Thursday endorsed Pablo Hernández de Cos, 55, the Bank for International Settlements' general manager and former Bank of Spain governor, as the next ECB president, ahead of the Netherlands' Klaas Knot. Accounts differ on the margin: Euronews reported a majority, while elDiario.es said the choice was ultimately unanimous after Dutch PM Rob Jetten accepted a consensus. He would be the first Spaniard to lead the bank, taking over when Christine Lagarde steps down on 7 February 2027. The package also places France's Laurence Boone in charge of market operations and lines up Germany's Markus Brunnermeier as chief economist. The nomination still needs a formal Council recommendation and consultations with Parliament and the ECB before appointment.",
+      "why": "The next ECB chief takes over with euro-area inflation at about 4% and stress in French and Italian debt markets, and will shape rates, the digital euro and crisis backstops for eight years.",
+      "left": {
+        "angle": "Left-leaning Spanish coverage stresses the historic first for Spain and the defeat of the Dutch candidate, and notes that both Pedro Sánchez and opposition leader Alberto Núñez Feijóo backed him. It frames the win as the result of a Franco-German deal and sets it against weak growth, high inflation and bond-market strain in France and Italy.",
+        "outlets": [
+          {
+            "name": "elDiario.es",
+            "lean": "Left",
+            "url": "https://www.eldiario.es/economia/lideres-europeos-eligen-espanol-pablo-hernandez-cos-presidente-bce_1_13694914.html",
+            "note": "Spain-centred report on the first Spanish ECB chief and how Knot's bid fell away."
+          }
+        ]
+      },
+      "right": {
+        "angle": "Right-leaning Spanish coverage found today is a personal profile rather than policy analysis: it leads with his education, family and career path and describes him approvingly as a model technocrat. It does not dwell on the selection fight or on his likely stance on interest rates.",
+        "outlets": [
+          {
+            "name": "The Objective",
+            "lean": "Centre-right",
+            "url": "https://theobjective.com/gente/2026-11-26/pablo-hernandez-cos-primer-espanol-presidir-bce-cunef-casado-hijos/",
+            "note": "Profile of his background, from CUNEF to the BIS, with personal details."
+          }
+        ]
+      },
+      "differ": "Both sides celebrate a Spanish first; the left frames it through European power-brokering and economic risks, while the right-leaning piece focuses on the man's biography.",
+      "sources": [
+        {
+          "name": "Euronews",
+          "url": "https://www.euronews.com/2026/11/26/eurozone-leaders-back-hernandez-de-cos-to-succeed-lagarde-at-ecb"
+        },
+        {
+          "name": "Euro Summit statement (Consilium)",
+          "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/11/26/statement-of-the-euro-summit-26-november-2026/"
+        },
+        {
+          "name": "The Private Banker",
+          "url": "https://leprivatebanker.com/2026/11/27/euro-zone-leaders-back-spains-de-cos-to-succeed-lagarde-at-the-ecb-in-a-north-south-package-deal/"
+        }
+      ]
+    },
+    {
+      "topic": "Trade · US tariffs",
+      "title": "Commission rejects US 'overcapacity' case as Washington proposes new tariffs on 14 partners",
+      "summary": "The US Trade Representative on 25 November proposed new tariffs on 14 trading partners, including the EU and China, after an eight-month Section 301 investigation into alleged subsidies and structural excess capacity. Reports say EU goods would face a 15% rate with some exemptions, matching the ceiling in the 2025 EU-US 'Turnberry' deal, with duties likely to start in January at the earliest. Commission spokesperson Olof Gill said the EU strongly rejects the claim that Europe is a source of overcapacity and expects the 15% cap to be respected. Parliament trade committee chair Bernd Lange called the findings absurd. EU trade ministers are due to meet USTR Jamieson Greer on 30 November.",
+      "why": "The move tests whether the 2025 tariff deal holds, and puts the EU in the awkward spot of being targeted by a US campaign against overcapacity that it had publicly backed.",
+      "left": {
+        "angle": "Lean-left coverage treats the tariffs as a pressure tactic, built around a 'deal or penalty' structure for each country to extract US-friendly trade terms. It leads with global reactions and market jitters, and quotes critics of the policy, with the EU's rejection as one of several pushbacks.",
+        "outlets": [
+          {
+            "name": "Al Jazeera",
+            "lean": "Lean left",
+            "url": "https://www.aljazeera.com/news/2026/11/26/are-trumps-tariffs-aimed-at-securing-us-friendly-trade-deals",
+            "note": "Explainer framing the tariffs as bargaining leverage rather than trade remedy."
+          },
+          {
+            "name": "Al Jazeera",
+            "lean": "Lean left",
+            "url": "https://www.aljazeera.com/economy/2026/11/25/world-reacts-to-trumps-new-tariffs-as-us-stocks-tumble",
+            "note": "Round-up of world reactions and the US market response."
+          }
+        ]
+      },
+      "right": {
+        "angle": "Right-leaning coverage leads with the irony that the EU is being targeted despite having endorsed Washington's campaign against overcapacity, and notes USTR's naming of Germany and Ireland as the main EU sources. It highlights Brussels' inconsistency more than the US rationale.",
+        "outlets": [
+          {
+            "name": "Brussels Signal",
+            "lean": "Right",
+            "url": "https://brusselssignal.eu/2026/11/us-readies-new-tariffs-on-eu-and-china-over-overcapacity/",
+            "note": "Stresses that the EU backed the US anti-overcapacity push yet is now in its sights."
+          }
+        ]
+      },
+      "differ": "The left frames the move as Trump using tariffs as leverage; the right puts more weight on the Commission's own contradictory stance.",
+      "sources": [
+        {
+          "name": "Agence Europe",
+          "url": "https://agenceurope.eu/en/bulletin/article/13990/2/eu-strongly-rejects-new-us-customs-tariffs"
+        },
+        {
+          "name": "France 24",
+          "url": "https://www.france24.com/en/americas/20261126-unacceptable-major-economies-push-back-against-new-us-tariffs"
+        },
+        {
+          "name": "Eunews",
+          "url": "https://www.eunews.it/en/2026/11/25/threats-of-new-tariffs-from-the-us-the-commission-responds-overcapacity-is-affecting-us-we-are-not-the-cause/"
+        }
+      ]
+    }
+  ],
+  "oneSided": {
+    "left": [],
+    "right": []
+  }
+}
