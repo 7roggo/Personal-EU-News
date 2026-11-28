@@ -1,0 +1,168 @@
+{
+  "date": "2026-11-28",
+  "generatedAt": "2026-11-28T05:37:58Z",
+  "mode": "written",
+  "topline": "Spain's parties close the campaign before Sunday's snap election, Zelensky tells Meloni the Libya strike on Russian ships was not coordinated with Europe, and Trump says he urged Putin to pull back from Europe as a US troop review slips.",
+  "stories": [
+    {
+      "topic": "Elections · Spain",
+      "title": "Spain's parties close the campaign ahead of Sunday's snap general election",
+      "summary": "Campaigning for Spain's 29 November general election, called after Pedro Sánchez dissolved parliament on 5 October, ended on Friday night with rival closing rallies. Sánchez filled Madrid's Caja Mágica, with more than 13,000 people according to elDiario.es, and urged left-wing voters to turn out. PP leader Alberto Núñez Feijóo closed in Seville alongside Andalusian president Juanma Moreno, telling 2023 Socialist voters they need not stop being left-wing to lend him their vote; the PP put the crowd at about 9,000. Vox's Santiago Abascal drew about 14,000 at Valencia's bullring by the party's count and repeated warnings about possible voting 'tricks'. Most polls favour the PP, which would need Vox to govern, though the PSOE has narrowed the gap in recent weeks.",
+      "why": "A PP-Vox government would put a hard-right party in government in the EU's fourth-largest economy for the first time, shifting the balance in the Council on migration, climate and the budget.",
+      "left": {
+        "angle": "Left-leaning coverage leads with turnout on the left and talk of a late 'remontada', contrasting packed Socialist rallies with empty seats at PP events. It frames the vote as a choice between progress and regression under a PP-Vox coalition and highlights right-wing gaffes and Vox's pledge of deep public-spending cuts.",
+        "outlets": [
+          {
+            "name": "elDiario.es",
+            "lean": "Left",
+            "url": "https://www.eldiario.es/politica/izquierda-cierra-campana-ilusionada-remontada-pp-vox-seguros-gobernar-pese-patinazos_1_13698983.html",
+            "note": "Left closes buoyed by hopes of a comeback while PP and Vox stay confident despite slip-ups."
+          },
+          {
+            "name": "elDiario.es",
+            "lean": "Left",
+            "url": "https://www.eldiario.es/politica/sanchez-abarrota-caja-magica-madrid-campana-psoe-volver_1_13700400.html",
+            "note": "Stresses crowd size at Sánchez's Madrid rally and his call for mobilisation."
+          }
+        ]
+      },
+      "right": {
+        "angle": "Right-leaning coverage leads with Feijóo's promise to 'not only win but govern' and his outreach to disaffected Socialist voters, casting the election as a vote for change and clean government. It gives little space to polls narrowing and relies on party crowd estimates.",
+        "outlets": [
+          {
+            "name": "El Independiente",
+            "lean": "Centre-right",
+            "url": "https://www.elindependiente.com/espana/2026/11/27/feijoo-cierra-campana-en-sevilla-esta-vez-si-vamos-a-conseguirlo-no-solo-ganar-sino-gobernar/",
+            "note": "Frames the Seville close around Feijóo's 'this time we will do it' and his appeal for an honest option."
+          }
+        ]
+      },
+      "differ": "The left tells a story of late mobilisation against a hard-right coalition; the right tells one of an overdue change of government, with the polls on its side.",
+      "sources": [
+        {
+          "name": "Infobae",
+          "url": "https://www.infobae.com/espana/2026/11/27/feijoo-cierra-la-campana-electoral-con-un-bano-de-masas-en-sevilla-y-se-lanza-a-por-los-socialistas-descontentos-no-os-pido-que-dejeis-de-ser-de-izquierdas-vosotros-no-votasteis-esto/"
+        },
+        {
+          "name": "Telecinco / Europa Press",
+          "url": "https://www.telecinco.es/noticias/espana/20261127/santiago-abascal-reconoce-cumplido-mision-sanchez-va-mitin-cierra-campana-valencia_18_020839510.html"
+        }
+      ]
+    },
+    {
+      "topic": "Ukraine · Italy · Mediterranean",
+      "title": "Zelensky tells Meloni the Libya strike on Russian ships was not coordinated with European partners",
+      "summary": "Ukrainian naval drones struck the Russian corvette Merkury at Benghazi's naval base on 22 November and also hit a cargo ship, MV Angara; eastern Libyan authorities say two Libyan soldiers later died of their wounds. In a BBC interview this week Zelensky called the warship a legitimate target and said Ukraine does not strike without coordinating with partners, which Italy's foreign minister Antonio Tajani flatly denied on Friday, after Rome had summoned Ukraine's military attaché. Later on Friday Zelensky told Giorgia Meloni by phone that the operation had not been coordinated with Europeans and pledged closer information-sharing with Rome. Meloni said the strike violated Libyan sovereignty and risked spreading the war to the Mediterranean, while France's foreign minister defended it as legitimate; Matteo Salvini will chair a maritime security meeting on 1 December.",
+      "why": "The episode exposes differences among EU governments over how far Ukraine's war against Russian assets can extend, and brings the conflict to the doorstep of Italy's interests in Libya.",
+      "left": {
+        "angle": "Centre-left and lean-left coverage stresses the consequences for Libya, including the soldiers' deaths, Libyan calls for a UN investigation and possible legal action, and asks whether the war is spreading geographically. Italian centre-left reporting highlights that Rome was kept in the dark while noting Italy still stands with Kyiv.",
+        "outlets": [
+          {
+            "name": "Domani",
+            "lean": "Centre-left",
+            "url": "https://www.editorialedomani.it/politica/mondo/militari-libici-morti-attacco-ucraina-nave-russia-zelensky-hegseth-patriot-notizie-oggi-25-novembre-hbv50jzk",
+            "note": "Leads with Tajani's line: with Kyiv, but no new flashpoints; reports Libyan deaths."
+          },
+          {
+            "name": "Al Jazeera",
+            "lean": "Lean left",
+            "url": "https://www.aljazeera.com/news/2026/11/23/russian-ships-hit-by-drones-off-libya-coast-what-do-we-know",
+            "note": "Earlier explainer (23 Nov) giving space to Libyan, Russian and UN reactions."
+          }
+        ]
+      },
+      "right": {
+        "angle": "Right-leaning Italian coverage frames it as Zelensky contradicting the Italian government and puts Italian national interest first, giving prominence to Tajani's denial and to Salvini's warning that arming Kyiv should not mean sinking ships near Italy.",
+        "outlets": [
+          {
+            "name": "Il Tempo",
+            "lean": "Right",
+            "url": "https://www.iltempo.it/news/esteri/libia-zelensky-difende-lattacco-alle-navi-russe-tajani-lo-smentisce-nessun-coordinamento/",
+            "note": "Casts it as a Rome-Kyiv clash: Zelensky defends the raid, Tajani says there was no coordination."
+          },
+          {
+            "name": "Il Giornale",
+            "lean": "Right",
+            "url": "https://www.ilgiornale.it/diretta/guerra/ucraina-tajani-dopo-il-raid-a-bengasi-evitare-una-guerra-nel-mediterraneo-zelensky-operazione-esemplare/",
+            "note": "Earlier live blog (23 Nov) on Italian alarm, Salvini's criticism and Russia's reaction."
+          }
+        ]
+      },
+      "differ": "The left focuses on Libyan sovereignty and the risk of a wider war; the right focuses on Italy being misled by Kyiv and on defending Italian interests.",
+      "sources": [
+        {
+          "name": "Kyiv Post",
+          "url": "https://www.kyivpost.com/post/91459"
+        },
+        {
+          "name": "Kyiv Independent",
+          "url": "https://kyivindependent.com/zelensky-says-ukraine-aligns-naval-strikes-with-partners-italy-denies-coordination-over-libya-attack/"
+        },
+        {
+          "name": "Adnkronos",
+          "url": "https://www.adnkronos.com/internazionale/esteri/libia-attacco-ucraina-nave-zelensky-caso-oggi_3hmf9PsGBcsdZ1R2wx0LaP"
+        }
+      ]
+    },
+    {
+      "topic": "Security · US-Russia-Europe",
+      "title": "Trump says he urged Putin to 'pull back' aggression in Europe as US troop posture review slips",
+      "summary": "Donald Trump said on Truth Social on 26 November that he had pressed Vladimir Putin, during their meeting in China, to pull back military aggression against territories throughout Europe, calling the war a 'bloodbath' and a deal a strong possibility; he did not name specific countries. The statement followed his Mar-a-Lago meeting with NATO chief Mark Rutte, after which both urged against widening the war. US officials told allies the Pentagon's review of the roughly 80,000-strong US force presence in Europe will miss its provisional 1 December deadline and next week's NATO foreign ministers' meeting, RFE/RL reported. Zelensky warned of a new Russian mass strike and called Trump's description of Putin as a friend 'strange'.",
+      "why": "European capitals are watching whether Washington's tone toward Moscow and its troop decisions will strengthen or thin deterrence on NATO's eastern flank, days after Russian missiles came down in Poland.",
+      "left": {
+        "angle": "Lean-left coverage pairs Trump's words with Zelensky's warning of an imminent Russian strike and centres on battlefield escalation and the EU's struggle to agree new Ukraine funding, treating the statement as a hopeful but uncertain signal.",
+        "outlets": [
+          {
+            "name": "Al Jazeera",
+            "lean": "Lean left",
+            "url": "https://www.aljazeera.com/news/2026/11/27/zelenskyy-warns-of-major-russian-attack-as-trump-urges-putin-to-pull-back",
+            "note": "Leads with Zelensky's mass-strike warning alongside Trump's call."
+          }
+        ]
+      },
+      "right": {
+        "angle": "Right-leaning US coverage presents Trump's Putin outreach as deliberate deal-making strategy, highlighting Rutte's praise and the envoys' diplomacy, and leaves aside the troop review and European unease.",
+        "outlets": [
+          {
+            "name": "Townhall",
+            "lean": "Right",
+            "url": "https://townhall.com/news/cameron-arcand/2026/11/26/trump-drops-major-details-on-his-latest-conversation-with-putin-n2687111",
+            "note": "Frames the post as Trump revealing tough talk with Putin, endorsed by Rutte."
+          }
+        ]
+      },
+      "differ": "The left reads the statement against continuing Russian attacks and shaky aid; the right reads it as evidence Trump's negotiating approach is working.",
+      "sources": [
+        {
+          "name": "RFE/RL",
+          "url": "https://www.rferl.org/a/trump-putin-europe-ukraine-russia-aggression/33906739.html"
+        },
+        {
+          "name": "AFP via TheJournal.ie",
+          "url": "https://www.thejournal.ie/trump-putin-military-aggression-7239672-Nov2026/"
+        },
+        {
+          "name": "AP via CP24",
+          "url": "https://www.cp24.com/news/world/2026/11/27/zelenskyy-urges-the-us-to-pressure-putin-calling-trumps-my-friend-remark-strange/"
+        }
+      ]
+    }
+  ],
+  "oneSided": {
+    "left": [],
+    "right": [
+      {
+        "title": "Canarias busca auxilio en Bruselas ante la llegada de ilegales a El Hierro y el desprecio de Sánchez",
+        "outlet": "Vozpópuli",
+        "lean": "Right",
+        "url": "https://www.vozpopuli.com/espana/canarias/canarias-busca-auxilio-en-bruselas-ante-la-llegada-de-ilegales-a-el-hierro-y-el-desprecio-de-sanchez.html"
+      },
+      {
+        "title": "European Right pushes Brussels to get tough on China",
+        "outlet": "Brussels Signal",
+        "lean": "Right",
+        "url": "https://brusselssignal.eu/2026/11/european-right-pushes-brussels-to-get-tough-on-china/"
+      }
+    ]
+  }
+}

@@ -1,161 +1,168 @@
 {
-  "date": "2026-11-27",
-  "generatedAt": "2026-11-27T05:37:57Z",
+  "date": "2026-11-28",
+  "generatedAt": "2026-11-28T05:37:58Z",
   "mode": "written",
-  "topline": "EU leaders break up their budget summit early with no deal and the Ukraine loan still split, euro-area leaders pick Spain's Pablo Hernández de Cos to succeed Lagarde at the ECB, and Brussels pushes back on new US 'overcapacity' tariffs.",
+  "topline": "Spain's parties close the campaign before Sunday's snap election, Zelensky tells Meloni the Libya strike on Russian ships was not coordinated with Europe, and Trump says he urged Putin to pull back from Europe as a US troop review slips.",
   "stories": [
     {
-      "topic": "Budget · MFF and Ukraine",
-      "title": "Budget summit ends a day early without a deal; leaders aim for 17–18 December",
-      "summary": "A special European Council on the 2028–2034 long-term budget broke up late on Thursday with no agreement, and the planned Friday session was dropped. Council President António Costa's compromise cut about €204bn from the Commission's near-€2 trillion proposal (Reuters puts the draft at €1.582 trillion in constant prices), drawing objections both from seven net payers seeking deeper cuts and from 17 'Friends of Cohesion' resisting cuts to farm and regional funds. Germany's Friedrich Merz tied any budget deal to all 27 states backing a new €45bn joint-debt loan for Ukraine in 2027; only 24 back it, with Hungary, Czechia and Slovakia seeking to opt out and Bulgaria offering partial participation. Emmanuel Macron said there must be a deal by year-end or none at all, while Italy's Giorgia Meloni said an accord was 'light years away'. Costa will bring a new proposal to the 17–18 December summit.",
-      "why": "France, Italy, Poland and other members vote in 2027, and Paris and Berlin want both the budget and Kyiv's 2027 funding locked in before a possible Le Pen presidency could reopen them.",
+      "topic": "Elections · Spain",
+      "title": "Spain's parties close the campaign ahead of Sunday's snap general election",
+      "summary": "Campaigning for Spain's 29 November general election, called after Pedro Sánchez dissolved parliament on 5 October, ended on Friday night with rival closing rallies. Sánchez filled Madrid's Caja Mágica, with more than 13,000 people according to elDiario.es, and urged left-wing voters to turn out. PP leader Alberto Núñez Feijóo closed in Seville alongside Andalusian president Juanma Moreno, telling 2023 Socialist voters they need not stop being left-wing to lend him their vote; the PP put the crowd at about 9,000. Vox's Santiago Abascal drew about 14,000 at Valencia's bullring by the party's count and repeated warnings about possible voting 'tricks'. Most polls favour the PP, which would need Vox to govern, though the PSOE has narrowed the gap in recent weeks.",
+      "why": "A PP-Vox government would put a hard-right party in government in the EU's fourth-largest economy for the first time, shifting the balance in the Council on migration, climate and the budget.",
       "left": {
-        "angle": "Centre-left coverage treats the failed summit as a normal, if bruising, step in EU budget haggling, pointing to the 2020 precedent where a failed February summit was followed by a July deal. It stresses Macron's warning about a 'strategic mistake' in cutting EU spending and the pressure of the 2027 French election, and expects red lines to soften by December. No take from the listed left-leaning dailies on the summit's end was found in today's searches.",
-        "outlets": [
-          {
-            "name": "EUobserver",
-            "lean": "Centre-left",
-            "url": "https://euobserver.com/251964/a-bad-summit-first-a-eu-budget-deal-later/",
-            "note": "Analysis arguing a 'bad' first summit is the usual prelude to a later budget deal."
-          }
-        ]
-      },
-      "right": {
-        "angle": "Right-leaning coverage leads with what it calls a revolt against Costa by the net payers and frames Merz's Ukraine-loan condition as coercion, giving prominence to Robert Fico's charge of 'blackmail'. It foregrounds Hungarian PM Péter Magyar's refusal to accept funding cuts or a link between the budget and Kyiv, and Marine Le Pen's pledge to cap France's net contribution. It gives less room to the arguments of Costa or Merz for their positions.",
-        "outlets": [
-          {
-            "name": "Hungarian Conservative",
-            "lean": "Right",
-            "url": "https://www.hungarianconservative.com/articles/current/eu-budget-council-summit-collapse-cohesion-ukraine",
-            "note": "Leads with the payers' walkout on Costa and Central European objections to the Ukraine linkage."
-          },
-          {
-            "name": "Brussels Signal",
-            "lean": "Right",
-            "url": "https://brusselssignal.eu/2026/10/brussels-wants-ukraine-funding-deal-agreed-before-the-year-ends/",
-            "note": "Earlier coverage (October): Commission's push to settle Ukraine's 2027 funding gap before year-end."
-          }
-        ]
-      },
-      "differ": "The centre-left reads the deadlock as routine bargaining against an election clock; the right reads it as Berlin and Brussels squeezing reluctant capitals, with Ukraine funding as the lever.",
-      "sources": [
-        {
-          "name": "Euronews",
-          "url": "https://www.euronews.com/2026/11/27/a-lot-of-political-theatre-eu-summit-ends-in-disarray-as-leaders-cling-to-red-lines"
-        },
-        {
-          "name": "Reuters (via Internazionale)",
-          "url": "https://www.internazionale.it/ultime-notizie-reuters/2026/11/27/eu-leaders-to-wrestle-with-seven-year-budget-ukraine-financing-as-they-seek-december-deal"
-        },
-        {
-          "name": "AFP (via RTÉ)",
-          "url": "https://www.rte.ie/news/2026/1127/1600843-macron-la-pen/"
-        },
-        {
-          "name": "Ritzau (via The Copenhagen Post)",
-          "url": "https://cphpost.dk/2026-11-27/global/eu-remains-divided-over-new-e45-billion-loan-to-ukraine/"
-        },
-        {
-          "name": "Euronews",
-          "url": "https://www.euronews.com/2026/11/26/eu-budget-and-ukraine-aid-headed-for-collision-at-turbulent-summit"
-        }
-      ]
-    },
-    {
-      "topic": "Economy · ECB leadership",
-      "title": "Euro-area leaders back Spain's Hernández de Cos to succeed Lagarde at the ECB",
-      "summary": "Euro-area leaders meeting in Brussels on Thursday endorsed Pablo Hernández de Cos, 55, the Bank for International Settlements' general manager and former Bank of Spain governor, as the next ECB president, ahead of the Netherlands' Klaas Knot. Accounts differ on the margin: Euronews reported a majority, while elDiario.es said the choice was ultimately unanimous after Dutch PM Rob Jetten accepted a consensus. He would be the first Spaniard to lead the bank, taking over when Christine Lagarde steps down on 7 February 2027. The package also places France's Laurence Boone in charge of market operations and lines up Germany's Markus Brunnermeier as chief economist. The nomination still needs a formal Council recommendation and consultations with Parliament and the ECB before appointment.",
-      "why": "The next ECB chief takes over with euro-area inflation at about 4% and stress in French and Italian debt markets, and will shape rates, the digital euro and crisis backstops for eight years.",
-      "left": {
-        "angle": "Left-leaning Spanish coverage stresses the historic first for Spain and the defeat of the Dutch candidate, and notes that both Pedro Sánchez and opposition leader Alberto Núñez Feijóo backed him. It frames the win as the result of a Franco-German deal and sets it against weak growth, high inflation and bond-market strain in France and Italy.",
+        "angle": "Left-leaning coverage leads with turnout on the left and talk of a late 'remontada', contrasting packed Socialist rallies with empty seats at PP events. It frames the vote as a choice between progress and regression under a PP-Vox coalition and highlights right-wing gaffes and Vox's pledge of deep public-spending cuts.",
         "outlets": [
           {
             "name": "elDiario.es",
             "lean": "Left",
-            "url": "https://www.eldiario.es/economia/lideres-europeos-eligen-espanol-pablo-hernandez-cos-presidente-bce_1_13694914.html",
-            "note": "Spain-centred report on the first Spanish ECB chief and how Knot's bid fell away."
+            "url": "https://www.eldiario.es/politica/izquierda-cierra-campana-ilusionada-remontada-pp-vox-seguros-gobernar-pese-patinazos_1_13698983.html",
+            "note": "Left closes buoyed by hopes of a comeback while PP and Vox stay confident despite slip-ups."
+          },
+          {
+            "name": "elDiario.es",
+            "lean": "Left",
+            "url": "https://www.eldiario.es/politica/sanchez-abarrota-caja-magica-madrid-campana-psoe-volver_1_13700400.html",
+            "note": "Stresses crowd size at Sánchez's Madrid rally and his call for mobilisation."
           }
         ]
       },
       "right": {
-        "angle": "Right-leaning Spanish coverage found today is a personal profile rather than policy analysis: it leads with his education, family and career path and describes him approvingly as a model technocrat. It does not dwell on the selection fight or on his likely stance on interest rates.",
+        "angle": "Right-leaning coverage leads with Feijóo's promise to 'not only win but govern' and his outreach to disaffected Socialist voters, casting the election as a vote for change and clean government. It gives little space to polls narrowing and relies on party crowd estimates.",
         "outlets": [
           {
-            "name": "The Objective",
+            "name": "El Independiente",
             "lean": "Centre-right",
-            "url": "https://theobjective.com/gente/2026-11-26/pablo-hernandez-cos-primer-espanol-presidir-bce-cunef-casado-hijos/",
-            "note": "Profile of his background, from CUNEF to the BIS, with personal details."
+            "url": "https://www.elindependiente.com/espana/2026/11/27/feijoo-cierra-campana-en-sevilla-esta-vez-si-vamos-a-conseguirlo-no-solo-ganar-sino-gobernar/",
+            "note": "Frames the Seville close around Feijóo's 'this time we will do it' and his appeal for an honest option."
           }
         ]
       },
-      "differ": "Both sides celebrate a Spanish first; the left frames it through European power-brokering and economic risks, while the right-leaning piece focuses on the man's biography.",
+      "differ": "The left tells a story of late mobilisation against a hard-right coalition; the right tells one of an overdue change of government, with the polls on its side.",
       "sources": [
         {
-          "name": "Euronews",
-          "url": "https://www.euronews.com/2026/11/26/eurozone-leaders-back-hernandez-de-cos-to-succeed-lagarde-at-ecb"
+          "name": "Infobae",
+          "url": "https://www.infobae.com/espana/2026/11/27/feijoo-cierra-la-campana-electoral-con-un-bano-de-masas-en-sevilla-y-se-lanza-a-por-los-socialistas-descontentos-no-os-pido-que-dejeis-de-ser-de-izquierdas-vosotros-no-votasteis-esto/"
         },
         {
-          "name": "Euro Summit statement (Consilium)",
-          "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/11/26/statement-of-the-euro-summit-26-november-2026/"
-        },
-        {
-          "name": "The Private Banker",
-          "url": "https://leprivatebanker.com/2026/11/27/euro-zone-leaders-back-spains-de-cos-to-succeed-lagarde-at-the-ecb-in-a-north-south-package-deal/"
+          "name": "Telecinco / Europa Press",
+          "url": "https://www.telecinco.es/noticias/espana/20261127/santiago-abascal-reconoce-cumplido-mision-sanchez-va-mitin-cierra-campana-valencia_18_020839510.html"
         }
       ]
     },
     {
-      "topic": "Trade · US tariffs",
-      "title": "Commission rejects US 'overcapacity' case as Washington proposes new tariffs on 14 partners",
-      "summary": "The US Trade Representative on 25 November proposed new tariffs on 14 trading partners, including the EU and China, after an eight-month Section 301 investigation into alleged subsidies and structural excess capacity. Reports say EU goods would face a 15% rate with some exemptions, matching the ceiling in the 2025 EU-US 'Turnberry' deal, with duties likely to start in January at the earliest. Commission spokesperson Olof Gill said the EU strongly rejects the claim that Europe is a source of overcapacity and expects the 15% cap to be respected. Parliament trade committee chair Bernd Lange called the findings absurd. EU trade ministers are due to meet USTR Jamieson Greer on 30 November.",
-      "why": "The move tests whether the 2025 tariff deal holds, and puts the EU in the awkward spot of being targeted by a US campaign against overcapacity that it had publicly backed.",
+      "topic": "Ukraine · Italy · Mediterranean",
+      "title": "Zelensky tells Meloni the Libya strike on Russian ships was not coordinated with European partners",
+      "summary": "Ukrainian naval drones struck the Russian corvette Merkury at Benghazi's naval base on 22 November and also hit a cargo ship, MV Angara; eastern Libyan authorities say two Libyan soldiers later died of their wounds. In a BBC interview this week Zelensky called the warship a legitimate target and said Ukraine does not strike without coordinating with partners, which Italy's foreign minister Antonio Tajani flatly denied on Friday, after Rome had summoned Ukraine's military attaché. Later on Friday Zelensky told Giorgia Meloni by phone that the operation had not been coordinated with Europeans and pledged closer information-sharing with Rome. Meloni said the strike violated Libyan sovereignty and risked spreading the war to the Mediterranean, while France's foreign minister defended it as legitimate; Matteo Salvini will chair a maritime security meeting on 1 December.",
+      "why": "The episode exposes differences among EU governments over how far Ukraine's war against Russian assets can extend, and brings the conflict to the doorstep of Italy's interests in Libya.",
       "left": {
-        "angle": "Lean-left coverage treats the tariffs as a pressure tactic, built around a 'deal or penalty' structure for each country to extract US-friendly trade terms. It leads with global reactions and market jitters, and quotes critics of the policy, with the EU's rejection as one of several pushbacks.",
+        "angle": "Centre-left and lean-left coverage stresses the consequences for Libya, including the soldiers' deaths, Libyan calls for a UN investigation and possible legal action, and asks whether the war is spreading geographically. Italian centre-left reporting highlights that Rome was kept in the dark while noting Italy still stands with Kyiv.",
         "outlets": [
           {
-            "name": "Al Jazeera",
-            "lean": "Lean left",
-            "url": "https://www.aljazeera.com/news/2026/11/26/are-trumps-tariffs-aimed-at-securing-us-friendly-trade-deals",
-            "note": "Explainer framing the tariffs as bargaining leverage rather than trade remedy."
+            "name": "Domani",
+            "lean": "Centre-left",
+            "url": "https://www.editorialedomani.it/politica/mondo/militari-libici-morti-attacco-ucraina-nave-russia-zelensky-hegseth-patriot-notizie-oggi-25-novembre-hbv50jzk",
+            "note": "Leads with Tajani's line: with Kyiv, but no new flashpoints; reports Libyan deaths."
           },
           {
             "name": "Al Jazeera",
             "lean": "Lean left",
-            "url": "https://www.aljazeera.com/economy/2026/11/25/world-reacts-to-trumps-new-tariffs-as-us-stocks-tumble",
-            "note": "Round-up of world reactions and the US market response."
+            "url": "https://www.aljazeera.com/news/2026/11/23/russian-ships-hit-by-drones-off-libya-coast-what-do-we-know",
+            "note": "Earlier explainer (23 Nov) giving space to Libyan, Russian and UN reactions."
           }
         ]
       },
       "right": {
-        "angle": "Right-leaning coverage leads with the irony that the EU is being targeted despite having endorsed Washington's campaign against overcapacity, and notes USTR's naming of Germany and Ireland as the main EU sources. It highlights Brussels' inconsistency more than the US rationale.",
+        "angle": "Right-leaning Italian coverage frames it as Zelensky contradicting the Italian government and puts Italian national interest first, giving prominence to Tajani's denial and to Salvini's warning that arming Kyiv should not mean sinking ships near Italy.",
         "outlets": [
           {
-            "name": "Brussels Signal",
+            "name": "Il Tempo",
             "lean": "Right",
-            "url": "https://brusselssignal.eu/2026/11/us-readies-new-tariffs-on-eu-and-china-over-overcapacity/",
-            "note": "Stresses that the EU backed the US anti-overcapacity push yet is now in its sights."
+            "url": "https://www.iltempo.it/news/esteri/libia-zelensky-difende-lattacco-alle-navi-russe-tajani-lo-smentisce-nessun-coordinamento/",
+            "note": "Casts it as a Rome-Kyiv clash: Zelensky defends the raid, Tajani says there was no coordination."
+          },
+          {
+            "name": "Il Giornale",
+            "lean": "Right",
+            "url": "https://www.ilgiornale.it/diretta/guerra/ucraina-tajani-dopo-il-raid-a-bengasi-evitare-una-guerra-nel-mediterraneo-zelensky-operazione-esemplare/",
+            "note": "Earlier live blog (23 Nov) on Italian alarm, Salvini's criticism and Russia's reaction."
           }
         ]
       },
-      "differ": "The left frames the move as Trump using tariffs as leverage; the right puts more weight on the Commission's own contradictory stance.",
+      "differ": "The left focuses on Libyan sovereignty and the risk of a wider war; the right focuses on Italy being misled by Kyiv and on defending Italian interests.",
       "sources": [
         {
-          "name": "Agence Europe",
-          "url": "https://agenceurope.eu/en/bulletin/article/13990/2/eu-strongly-rejects-new-us-customs-tariffs"
+          "name": "Kyiv Post",
+          "url": "https://www.kyivpost.com/post/91459"
         },
         {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/americas/20261126-unacceptable-major-economies-push-back-against-new-us-tariffs"
+          "name": "Kyiv Independent",
+          "url": "https://kyivindependent.com/zelensky-says-ukraine-aligns-naval-strikes-with-partners-italy-denies-coordination-over-libya-attack/"
         },
         {
-          "name": "Eunews",
-          "url": "https://www.eunews.it/en/2026/11/25/threats-of-new-tariffs-from-the-us-the-commission-responds-overcapacity-is-affecting-us-we-are-not-the-cause/"
+          "name": "Adnkronos",
+          "url": "https://www.adnkronos.com/internazionale/esteri/libia-attacco-ucraina-nave-zelensky-caso-oggi_3hmf9PsGBcsdZ1R2wx0LaP"
+        }
+      ]
+    },
+    {
+      "topic": "Security · US-Russia-Europe",
+      "title": "Trump says he urged Putin to 'pull back' aggression in Europe as US troop posture review slips",
+      "summary": "Donald Trump said on Truth Social on 26 November that he had pressed Vladimir Putin, during their meeting in China, to pull back military aggression against territories throughout Europe, calling the war a 'bloodbath' and a deal a strong possibility; he did not name specific countries. The statement followed his Mar-a-Lago meeting with NATO chief Mark Rutte, after which both urged against widening the war. US officials told allies the Pentagon's review of the roughly 80,000-strong US force presence in Europe will miss its provisional 1 December deadline and next week's NATO foreign ministers' meeting, RFE/RL reported. Zelensky warned of a new Russian mass strike and called Trump's description of Putin as a friend 'strange'.",
+      "why": "European capitals are watching whether Washington's tone toward Moscow and its troop decisions will strengthen or thin deterrence on NATO's eastern flank, days after Russian missiles came down in Poland.",
+      "left": {
+        "angle": "Lean-left coverage pairs Trump's words with Zelensky's warning of an imminent Russian strike and centres on battlefield escalation and the EU's struggle to agree new Ukraine funding, treating the statement as a hopeful but uncertain signal.",
+        "outlets": [
+          {
+            "name": "Al Jazeera",
+            "lean": "Lean left",
+            "url": "https://www.aljazeera.com/news/2026/11/27/zelenskyy-warns-of-major-russian-attack-as-trump-urges-putin-to-pull-back",
+            "note": "Leads with Zelensky's mass-strike warning alongside Trump's call."
+          }
+        ]
+      },
+      "right": {
+        "angle": "Right-leaning US coverage presents Trump's Putin outreach as deliberate deal-making strategy, highlighting Rutte's praise and the envoys' diplomacy, and leaves aside the troop review and European unease.",
+        "outlets": [
+          {
+            "name": "Townhall",
+            "lean": "Right",
+            "url": "https://townhall.com/news/cameron-arcand/2026/11/26/trump-drops-major-details-on-his-latest-conversation-with-putin-n2687111",
+            "note": "Frames the post as Trump revealing tough talk with Putin, endorsed by Rutte."
+          }
+        ]
+      },
+      "differ": "The left reads the statement against continuing Russian attacks and shaky aid; the right reads it as evidence Trump's negotiating approach is working.",
+      "sources": [
+        {
+          "name": "RFE/RL",
+          "url": "https://www.rferl.org/a/trump-putin-europe-ukraine-russia-aggression/33906739.html"
+        },
+        {
+          "name": "AFP via TheJournal.ie",
+          "url": "https://www.thejournal.ie/trump-putin-military-aggression-7239672-Nov2026/"
+        },
+        {
+          "name": "AP via CP24",
+          "url": "https://www.cp24.com/news/world/2026/11/27/zelenskyy-urges-the-us-to-pressure-putin-calling-trumps-my-friend-remark-strange/"
         }
       ]
     }
   ],
   "oneSided": {
     "left": [],
-    "right": []
+    "right": [
+      {
+        "title": "Canarias busca auxilio en Bruselas ante la llegada de ilegales a El Hierro y el desprecio de Sánchez",
+        "outlet": "Vozpópuli",
+        "lean": "Right",
+        "url": "https://www.vozpopuli.com/espana/canarias/canarias-busca-auxilio-en-bruselas-ante-la-llegada-de-ilegales-a-el-hierro-y-el-desprecio-de-sanchez.html"
+      },
+      {
+        "title": "European Right pushes Brussels to get tough on China",
+        "outlet": "Brussels Signal",
+        "lean": "Right",
+        "url": "https://brusselssignal.eu/2026/11/european-right-pushes-brussels-to-get-tough-on-china/"
+      }
+    ]
   }
 }
